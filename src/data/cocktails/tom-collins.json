@@ -1,0 +1,127 @@
+{
+  "id": "tom-collins",
+  "slug": "tom-collins",
+  "name": "Tom Collins",
+  "aliases": [
+    "Collins"
+  ],
+  "description": "Gin sour lengthened with soda—tall, lemony, and quietly elegant.",
+  "history": "A 19th-century Collins variation associated with Old Tom gin historically, though modern versions often use London dry or contemporary gins.",
+  "origin": "England / United States",
+  "whyItWorks": "The sour core (gin, lemon, sugar) is refreshed by carbonation. Ice and soda keep it sessionable.",
+  "classifications": [
+    "classic",
+    "highball",
+    "sour"
+  ],
+  "cocktailFamily": "Collins",
+  "flavorProfiles": [
+    "citrus",
+    "botanical",
+    "refreshing",
+    "light"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "light",
+  "glassware": "Collins glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lemon wheel",
+    "Optional cherry"
+  ],
+  "illustrationKey": "tom-collins",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 3,
+      "unit": "oz",
+      "scaleMode": "top"
+    },
+    {
+      "ingredientId": "lemon",
+      "amount": 1,
+      "unit": "piece",
+      "optional": true,
+      "scaleMode": "garnish"
+    }
+  ],
+  "steps": [
+    "Shake gin, lemon juice, and simple syrup with ice.",
+    "Strain into a Collins glass filled with ice.",
+    "Top with club soda and lift gently with a spoon.",
+    "Garnish with lemon (and cherry if you like)."
+  ],
+  "techniqueNotes": [
+    "Shake the sour components; do not shake the soda.",
+    "Fever-Tree club soda keeps the finish clean."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "malfy-originale",
+      "rank": 1,
+      "rationale": "Bright juniper that stays lively in a long drink."
+    },
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 2,
+      "rationale": "Adds tea spice interest to a classic Collins."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 3,
+      "rationale": "Softer floral Collins—pair with cucumber if desired."
+    }
+  ],
+  "substitutions": [],
+  "variations": [
+    {
+      "id": "peach-collins",
+      "name": "Peach Collins",
+      "notes": "Add peach liqueur.",
+      "relatedCocktailId": "peach-collins"
+    },
+    {
+      "id": "falernum-gin-collins",
+      "name": "Falernum Gin Collins",
+      "notes": "Use falernum instead of plain syrup.",
+      "relatedCocktailId": "falernum-gin-collins"
+    }
+  ],
+  "relatedCocktailIds": [
+    "gin-and-tonic",
+    "southside",
+    "whiskey-sour",
+    "peach-collins",
+    "falernum-gin-collins",
+    "southside-fizz"
+  ],
+  "seasonality": [
+    "spring",
+    "summer"
+  ],
+  "tags": [
+    "foundational",
+    "gin",
+    "highball",
+    "shaken"
+  ]
+}

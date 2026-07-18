@@ -1,0 +1,84 @@
+{
+  "id": "gold_rum-negroni",
+  "slug": "gold_rum-negroni",
+  "name": "Gold rum Negroni",
+  "aliases": [],
+  "description": "Equal parts gold rum, Campari, and sweet vermouth.",
+  "whyItWorks": "Bitter, sweet, and spirit lock into a self-balancing triangle.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Negroni",
+  "flavorProfiles": [
+    "bitter",
+    "herbal",
+    "bittersweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "strong",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "gold_rum-negroni",
+  "ingredients": [
+    {
+      "ingredientId": "gold_rum",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "campari",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Add all ingredients to a rocks glass with a large cube.",
+    "Stir briefly.",
+    "Express orange peel over the drink."
+  ],
+  "techniqueNotes": [
+    "If too bitter, nudge vermouth up a barspoon."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-3",
+      "rank": 1,
+      "rationale": "Showcases your Gold rum."
+    },
+    {
+      "bottleId": "havana-club-especial",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "havana-club-maestros",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "negroni",
+    "bitter",
+    "rum",
+    "aged"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "french-76",
+  "slug": "french-76",
+  "name": "French 76",
+  "aliases": [],
+  "description": "Vodka French 75—lemon, sugar, sparkling wine.",
+  "whyItWorks": "Same sparkle as a 75 with a cleaner spirit base.",
+  "classifications": [
+    "classic",
+    "sparkling"
+  ],
+  "cocktailFamily": "French 75",
+  "flavorProfiles": [
+    "citrus",
+    "effervescent",
+    "bright"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Flute",
+  "ice": "Shaken; topped",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "french-76",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "prosecco",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Shake vodka, lemon, and syrup with ice.",
+    "Strain into a flute.",
+    "Top with prosecco."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "koskenkorva-apple",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "koskenkorva-blueberry",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "vodka",
+    "prosecco"
+  ]
+}

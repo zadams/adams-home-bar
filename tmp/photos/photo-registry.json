@@ -1,0 +1,562 @@
+{
+  "americano": {
+    "src": "/images/cocktails/photos/americano.jpg",
+    "photoCredit": "Americano — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "aperol-spritz": {
+    "src": "/images/cocktails/photos/aperol-spritz.jpg",
+    "photoCredit": "Aperol Spritz — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "apple-vodka-highball": {
+    "src": "/images/cocktails/photos/apple-vodka-highball.jpg",
+    "photoCredit": "Apple Highball — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "aquavit-sour": {
+    "src": "/images/cocktails/photos/aquavit-sour.jpg",
+    "photoCredit": "Whiskey Sour — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "aquavit-tonic": {
+    "src": "/images/cocktails/photos/aquavit-tonic.jpg",
+    "photoCredit": "Gin And Tonic — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "baileys-on-the-rocks": {
+    "src": "/images/cocktails/photos/baileys-on-the-rocks.jpg",
+    "photoCredit": "Irish Cream — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "baileys-peppermint": {
+    "src": "/images/cocktails/photos/baileys-peppermint.jpg",
+    "photoCredit": "Irish Cream — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "banana-boulevardier": {
+    "src": "/images/cocktails/photos/banana-boulevardier.jpg",
+    "photoCredit": "Boulevardier — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "banana-daiquiri": {
+    "src": "/images/cocktails/photos/banana-daiquiri.jpg",
+    "photoCredit": "Banana Daiquiri — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "banana-old-fashioned": {
+    "src": "/images/cocktails/photos/banana-old-fashioned.jpg",
+    "photoCredit": "Old Fashioned — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "batanga": {
+    "src": "/images/cocktails/photos/batanga.jpg",
+    "photoCredit": "Cuba Libre — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "becherovka-tonic": {
+    "src": "/images/cocktails/photos/becherovka-tonic.jpg",
+    "photoCredit": "Gin And Tonic — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "blueberry-vodka-soda": {
+    "src": "/images/cocktails/photos/blueberry-vodka-soda.jpg",
+    "photoCredit": "Apple Highball — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "boulevardier": {
+    "src": "/images/cocktails/photos/boulevardier.jpg",
+    "photoCredit": "Boulevardier — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "brown-sugar-cinnamon-old-fashioned": {
+    "src": "/images/cocktails/photos/brown-sugar-cinnamon-old-fashioned.jpg",
+    "photoCredit": "Old Fashioned — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "cherry-sour": {
+    "src": "/images/cocktails/photos/cherry-sour.jpg",
+    "photoCredit": "Whiskey Sour — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "cocoa-old-fashioned": {
+    "src": "/images/cocktails/photos/cocoa-old-fashioned.jpg",
+    "photoCredit": "Old Fashioned — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "coconut-daiquiri": {
+    "src": "/images/cocktails/photos/coconut-daiquiri.jpg",
+    "photoCredit": "Daiquiri — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "coconut-margarita": {
+    "src": "/images/cocktails/photos/coconut-margarita.jpg",
+    "photoCredit": "Margarita — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "corn-n-oil": {
+    "src": "/images/cocktails/photos/corn-n-oil.jpg",
+    "photoCredit": "Corn n Oil — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "cosmopolitan": {
+    "src": "/images/cocktails/photos/cosmopolitan.jpg",
+    "photoCredit": "Cosmopolitan — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "cuba-libre": {
+    "src": "/images/cocktails/photos/cuba-libre.jpg",
+    "photoCredit": "Cuba Libre — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "daiquiri": {
+    "src": "/images/cocktails/photos/daiquiri.jpg",
+    "photoCredit": "Daiquiri — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "dark-n-stormy": {
+    "src": "/images/cocktails/photos/dark-n-stormy.jpg",
+    "photoCredit": "Dark and Stormy — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "el-presidente": {
+    "src": "/images/cocktails/photos/el-presidente.jpg",
+    "photoCredit": "Old Fashioned — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "falernum-daiquiri": {
+    "src": "/images/cocktails/photos/falernum-daiquiri.jpg",
+    "photoCredit": "Daiquiri — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "falernum-gin-collins": {
+    "src": "/images/cocktails/photos/falernum-gin-collins.jpg",
+    "photoCredit": "Tom Collins — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "fancy-free": {
+    "src": "/images/cocktails/photos/fancy-free.jpg",
+    "photoCredit": "Old Fashioned — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "french-75": {
+    "src": "/images/cocktails/photos/french-75.jpg",
+    "photoCredit": "French 75 — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "gimlet": {
+    "src": "/images/cocktails/photos/gimlet.jpg",
+    "photoCredit": "Old Fashioned — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "gin-and-tonic": {
+    "src": "/images/cocktails/photos/gin-and-tonic.jpg",
+    "photoCredit": "Gin And Tonic — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "gin-rickey": {
+    "src": "/images/cocktails/photos/gin-rickey.jpg",
+    "photoCredit": "Gin Rickey — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "gold-rush": {
+    "src": "/images/cocktails/photos/gold-rush.jpg",
+    "photoCredit": "Whiskey Sour — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "grand-marnier-tonic": {
+    "src": "/images/cocktails/photos/grand-marnier-tonic.jpg",
+    "photoCredit": "Gin And Tonic — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "holiday-nog-bourbon": {
+    "src": "/images/cocktails/photos/holiday-nog-bourbon.jpg",
+    "photoCredit": "Egg Nog #4 — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "honey-pepper-tonic": {
+    "src": "/images/cocktails/photos/honey-pepper-tonic.jpg",
+    "photoCredit": "Vodka Tonic — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "improved-whiskey-cocktail": {
+    "src": "/images/cocktails/photos/improved-whiskey-cocktail.jpg",
+    "photoCredit": "Old Fashioned — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "jungle-bird": {
+    "src": "/images/cocktails/photos/jungle-bird.jpg",
+    "photoCredit": "Old Fashioned — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "last-word": {
+    "src": "/images/cocktails/photos/last-word.jpg",
+    "photoCredit": "The Last Word — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "lemon-vodka-tonic": {
+    "src": "/images/cocktails/photos/lemon-vodka-tonic.jpg",
+    "photoCredit": "Vodka Tonic — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "mai-tai": {
+    "src": "/images/cocktails/photos/mai-tai.jpg",
+    "photoCredit": "Mai Tai — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "manhattan": {
+    "src": "/images/cocktails/photos/manhattan.jpg",
+    "photoCredit": "Manhattan — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "margarita": {
+    "src": "/images/cocktails/photos/margarita.jpg",
+    "photoCredit": "Margarita — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "martinez": {
+    "src": "/images/cocktails/photos/martinez.jpg",
+    "photoCredit": "Martinez 2 — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "martini": {
+    "src": "/images/cocktails/photos/martini.jpg",
+    "photoCredit": "Martini — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "mint-julep": {
+    "src": "/images/cocktails/photos/mint-julep.jpg",
+    "photoCredit": "Mint Julep — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "mojito": {
+    "src": "/images/cocktails/photos/mojito.jpg",
+    "photoCredit": "Mojito — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "moscow-mule": {
+    "src": "/images/cocktails/photos/moscow-mule.jpg",
+    "photoCredit": "Moscow Mule — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "negroni-sbagliato": {
+    "src": "/images/cocktails/photos/negroni-sbagliato.jpg",
+    "photoCredit": "Negroni — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "negroni": {
+    "src": "/images/cocktails/photos/negroni.jpg",
+    "photoCredit": "Negroni — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "old-fashioned": {
+    "src": "/images/cocktails/photos/old-fashioned.jpg",
+    "photoCredit": "Old Fashioned — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "paloma": {
+    "src": "/images/cocktails/photos/paloma.jpg",
+    "photoCredit": "Paloma — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "paper-plane": {
+    "src": "/images/cocktails/photos/paper-plane.jpg",
+    "photoCredit": "Old Fashioned — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "peach-collins": {
+    "src": "/images/cocktails/photos/peach-collins.jpg",
+    "photoCredit": "Tom Collins — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "peach-vodka-soda": {
+    "src": "/images/cocktails/photos/peach-vodka-soda.jpg",
+    "photoCredit": "Apple Highball — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "peach-whiskey-sour": {
+    "src": "/images/cocktails/photos/peach-whiskey-sour.jpg",
+    "photoCredit": "Whiskey Sour — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "peppermint-bourbon": {
+    "src": "/images/cocktails/photos/peppermint-bourbon.jpg",
+    "photoCredit": "Old Fashioned — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "pina-colada": {
+    "src": "/images/cocktails/photos/pina-colada.jpg",
+    "photoCredit": "Pina Colada — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "ranch-water": {
+    "src": "/images/cocktails/photos/ranch-water.jpg",
+    "photoCredit": "Paloma — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "rob-roy": {
+    "src": "/images/cocktails/photos/rob-roy.jpg",
+    "photoCredit": "Dry Rob Roy — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "royal-bermuda-yacht-club": {
+    "src": "/images/cocktails/photos/royal-bermuda-yacht-club.jpg",
+    "photoCredit": "Daiquiri — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "rum-old-fashioned": {
+    "src": "/images/cocktails/photos/rum-old-fashioned.jpg",
+    "photoCredit": "Old Fashioned — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "rum-swizzle": {
+    "src": "/images/cocktails/photos/rum-swizzle.jpg",
+    "photoCredit": "Rum Punch — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "sazerac": {
+    "src": "/images/cocktails/photos/sazerac.jpg",
+    "photoCredit": "Sazerac — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "scotch-highball": {
+    "src": "/images/cocktails/photos/scotch-highball.jpg",
+    "photoCredit": "Apple Highball — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "scotch-old-fashioned": {
+    "src": "/images/cocktails/photos/scotch-old-fashioned.jpg",
+    "photoCredit": "Old Fashioned — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "sidecar-bourbon": {
+    "src": "/images/cocktails/photos/sidecar-bourbon.jpg",
+    "photoCredit": "Sidecar — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "southside-fizz": {
+    "src": "/images/cocktails/photos/southside-fizz.jpg",
+    "photoCredit": "Old Fashioned — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "southside": {
+    "src": "/images/cocktails/photos/southside.jpg",
+    "photoCredit": "Old Fashioned — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "spiced-rum-cola": {
+    "src": "/images/cocktails/photos/spiced-rum-cola.jpg",
+    "photoCredit": "Cuba Libre — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "tequila-old-fashioned": {
+    "src": "/images/cocktails/photos/tequila-old-fashioned.jpg",
+    "photoCredit": "Old Fashioned — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "tom-collins": {
+    "src": "/images/cocktails/photos/tom-collins.jpg",
+    "photoCredit": "Tom Collins — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "tommys-margarita": {
+    "src": "/images/cocktails/photos/tommys-margarita.jpg",
+    "photoCredit": "Margarita — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "vieux-carre": {
+    "src": "/images/cocktails/photos/vieux-carre.jpg",
+    "photoCredit": "Old Fashioned — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "vodka-gimlet": {
+    "src": "/images/cocktails/photos/vodka-gimlet.jpg",
+    "photoCredit": "Old Fashioned — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "vodka-soda": {
+    "src": "/images/cocktails/photos/vodka-soda.jpg",
+    "photoCredit": "Vodka And Tonic — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "vodka-tonic": {
+    "src": "/images/cocktails/photos/vodka-tonic.jpg",
+    "photoCredit": "Vodka Tonic — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "whiskey-highball": {
+    "src": "/images/cocktails/photos/whiskey-highball.jpg",
+    "photoCredit": "Apple Highball — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "whiskey-sour": {
+    "src": "/images/cocktails/photos/whiskey-sour.jpg",
+    "photoCredit": "Whiskey Sour — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  },
+  "white-lady": {
+    "src": "/images/cocktails/photos/white-lady.jpg",
+    "photoCredit": "White Lady — TheCocktailDB",
+    "license": "TheCocktailDB free API images (see https://www.thecocktaildb.com)",
+    "kind": "photo",
+    "aspectRatio": "4 / 3"
+  }
+}

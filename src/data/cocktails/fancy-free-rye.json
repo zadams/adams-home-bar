@@ -1,0 +1,86 @@
+{
+  "id": "fancy-free-rye",
+  "slug": "fancy-free-rye",
+  "name": "Fancy Free (Rye)",
+  "aliases": [],
+  "description": "Rye, maraschino, and orange bitters—compact and aromatic.",
+  "whyItWorks": "Maraschino’s almond-cherry note loves rye spice.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Old Fashioned",
+  "flavorProfiles": [
+    "cherry",
+    "spice",
+    "aromatic"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "fancy-free-rye",
+  "ingredients": [
+    {
+      "ingredientId": "rye",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "maraschino",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 1,
+      "unit": "dash",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Stir with ice.",
+    "Strain over a large cube.",
+    "Express orange peel."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-rye",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "barrell-rye",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "elijah-craig-rye",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rye",
+    "maraschino"
+  ]
+}

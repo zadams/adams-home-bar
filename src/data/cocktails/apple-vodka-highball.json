@@ -1,0 +1,65 @@
+{
+  "aliases": [],
+  "classifications": [
+    "modern",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "apple",
+    "clean",
+    "refreshing"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "light",
+  "glassware": "Highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lemon optional"
+  ],
+  "illustrationKey": "apple-vodka-highball",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "apple_vodka",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build over ice and top with soda."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "koskenkorva-apple",
+      "rank": 1,
+      "rationale": "House apple vodka."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "vodka-soda"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "vodka",
+    "apple"
+  ],
+  "description": "Koskenkorva Apple with club soda—crisp and simple.",
+  "whyItWorks": "Soda keeps flavored vodka from reading syrupy.",
+  "id": "apple-vodka-highball",
+  "slug": "apple-vodka-highball",
+  "name": "Apple Vodka Highball"
+}

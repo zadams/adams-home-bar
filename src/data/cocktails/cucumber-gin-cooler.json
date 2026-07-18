@@ -1,0 +1,92 @@
+{
+  "id": "cucumber-gin-cooler",
+  "slug": "cucumber-gin-cooler",
+  "name": "Cucumber Gin Cooler",
+  "aliases": [],
+  "description": "Gin, lime, cucumber, and soda—spa-day highball.",
+  "whyItWorks": "Cucumber’s coolness loves floral gin.",
+  "classifications": [
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "cucumber",
+    "botanical",
+    "refreshing"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Cucumber ribbon"
+  ],
+  "illustrationKey": "cucumber-gin-cooler",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.35,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cucumber",
+      "amount": 3,
+      "unit": "piece",
+      "scaleMode": "fixed",
+      "label": "Cucumber slices"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Muddle cucumber with syrup.",
+    "Add gin and lime; shake with ice.",
+    "Strain over ice and top with soda."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "cucumber"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "aperol-sour",
+  "slug": "aperol-sour",
+  "name": "Aperol Sour",
+  "aliases": [],
+  "description": "Aperol shaken with lemon into a bittersweet sour.",
+  "whyItWorks": "Lemon sharpens Aperol; syrup keeps the bitter in check.",
+  "classifications": [
+    "sour",
+    "aperitivo"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "orange",
+    "bitter",
+    "citrus"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks or coupe",
+  "ice": "Shaken",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "aperol-sour",
+  "ingredients": [
+    {
+      "ingredientId": "aperol",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "gin",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "optional": true,
+      "notes": "Optional backbone"
+    }
+  ],
+  "steps": [
+    "Shake with ice.",
+    "Strain over ice or up.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "aperol",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "aperol",
+    "sour"
+  ]
+}

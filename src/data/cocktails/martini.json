@@ -1,0 +1,117 @@
+{
+  "id": "martini",
+  "slug": "martini",
+  "name": "Martini",
+  "aliases": [
+    "Gin Martini",
+    "Dry Martini"
+  ],
+  "description": "Gin and dry vermouth stirred cold—aromatic, crisp, and endlessly tunable.",
+  "history": "The Martini evolved from 19th-century gin cocktails into the dry, elegant template known today. Ratios are personal; clarity and coldness are not.",
+  "origin": "United States",
+  "whyItWorks": "Vermouth softens gin’s botanicals and adds a quiet herbal line. Dilution and temperature are half the drink.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Martini",
+  "flavorProfiles": [
+    "botanical",
+    "dry",
+    "crisp",
+    "aromatic"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Coupe or Martini glass",
+  "ice": "Stirred with ice; served up",
+  "garnish": [
+    "Lemon peel or olive"
+  ],
+  "illustrationKey": "martini",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "dry_vermouth",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_bitters",
+      "amount": 1,
+      "unit": "dash",
+      "optional": true,
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "lemon",
+      "amount": 1,
+      "unit": "piece",
+      "label": "Lemon peel",
+      "optional": true,
+      "scaleMode": "garnish"
+    },
+    {
+      "ingredientId": "olive",
+      "amount": 1,
+      "unit": "piece",
+      "optional": true,
+      "scaleMode": "garnish"
+    }
+  ],
+  "steps": [
+    "Add gin, dry vermouth, and optional orange bitters to a mixing glass with ice.",
+    "Stir until icy cold, about 30 seconds.",
+    "Strain into a chilled coupe.",
+    "Express a lemon peel over the surface, or garnish with an olive for a savory finish."
+  ],
+  "techniqueNotes": [
+    "This build is dry (5:1). Increase vermouth toward 1 oz for a wetter Martini.",
+    "Stir rather than shake for a clearer, silkier texture."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "Gunpowder tea and green spice make a distinctive, modern Martini."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Cucumber-rose softness; elegant and floral."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 3,
+      "rationale": "Clean Italian juniper profile—bright and classic."
+    }
+  ],
+  "substitutions": [],
+  "variations": [
+    {
+      "id": "wet-martini",
+      "name": "Wet Martini",
+      "notes": "Use 2 oz gin and 1 oz dry vermouth."
+    }
+  ],
+  "relatedCocktailIds": [
+    "negroni",
+    "gin-and-tonic",
+    "tom-collins"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "foundational",
+    "gin",
+    "stirred"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "peach-vodka-bellini-ish",
+  "slug": "peach-vodka-bellini-ish",
+  "name": "Peach Sparkler",
+  "aliases": [],
+  "description": "Peach vodka topped with prosecco.",
+  "whyItWorks": "Bubbles lift peach into Bellini territory.",
+  "classifications": [
+    "sparkling",
+    "brunch"
+  ],
+  "cocktailFamily": "Sparkling",
+  "flavorProfiles": [
+    "peach",
+    "effervescent",
+    "light"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Flute",
+  "ice": "None",
+  "garnish": [
+    "Peach slice"
+  ],
+  "illustrationKey": "peach-vodka-bellini-ish",
+  "ingredients": [
+    {
+      "ingredientId": "peach_vodka",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peach_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "prosecco",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Add vodka and liqueur to a flute.",
+    "Top with prosecco.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "koskenkorva-peach",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "peach",
+    "prosecco",
+    "brunch"
+  ]
+}

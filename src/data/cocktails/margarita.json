@@ -1,0 +1,141 @@
+{
+  "id": "margarita",
+  "slug": "margarita",
+  "name": "Margarita",
+  "aliases": [],
+  "description": "Tequila, orange liqueur, and lime—salted rim optional, brightness mandatory.",
+  "history": "A mid-century classic with contested origin stories. What matters at the bar is fresh lime, honest tequila, and orange liqueur with enough character to matter.",
+  "origin": "Mexico / United States borderlands",
+  "whyItWorks": "Agave’s earthiness meets citrus snap; orange liqueur bridges sweetness and aroma. Salt amplifies flavor without adding sugar.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Margarita",
+  "flavorProfiles": [
+    "citrus",
+    "agave",
+    "bright",
+    "salty"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe or rocks glass",
+  "ice": "Shaken; up or over fresh ice",
+  "garnish": [
+    "Lime wheel",
+    "Optional salt rim"
+  ],
+  "illustrationKey": "margarita",
+  "ingredients": [
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 2,
+      "unit": "oz",
+      "label": "Tequila (cristalino or blanco-style)",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cointreau",
+      "amount": 1,
+      "unit": "oz",
+      "label": "Cointreau",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "salt",
+      "amount": 1,
+      "unit": "to_taste",
+      "label": "Salt rim",
+      "optional": true,
+      "scaleMode": "garnish"
+    },
+    {
+      "ingredientId": "lime",
+      "amount": 1,
+      "unit": "piece",
+      "optional": true,
+      "scaleMode": "garnish"
+    }
+  ],
+  "steps": [
+    "If using salt, rim half the glass with lime and salt.",
+    "Shake tequila, Cointreau, and lime juice with ice.",
+    "Strain into a coupe, or over fresh ice in a rocks glass.",
+    "Garnish with a lime wheel."
+  ],
+  "techniqueNotes": [
+    "Prefer Cointreau for individual premium cocktails.",
+    "Finest Call Triple Sec is fine for batching, frozen drinks, parties, and lower-cost variations."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-cristalino",
+      "rank": 1,
+      "rationale": "Smooth cristalino profile that drinks clean in a Margarita."
+    },
+    {
+      "bottleId": "kirkland-tequila-other",
+      "rank": 2,
+      "rationale": "Confirmed Kirkland tequila from the photo inventory—solid everyday pour."
+    },
+    {
+      "bottleId": "cointreau",
+      "rank": 3,
+      "rationale": "The preferred orange liqueur for a polished single cocktail."
+    },
+    {
+      "bottleId": "finest-call-triple-sec",
+      "rank": 4,
+      "rationale": "Use for batching and party builds when cost matters more than polish."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "cointreau",
+      "alternatives": [
+        "triple_sec",
+        "grand_marnier"
+      ],
+      "notes": "Grand Marnier makes a richer, cognac-tinged Margarita."
+    }
+  ],
+  "variations": [
+    {
+      "id": "tommys-margarita",
+      "name": "Tommy's Margarita",
+      "notes": "Replace Cointreau with agave syrup.",
+      "relatedCocktailId": "tommys-margarita"
+    },
+    {
+      "id": "coconut-margarita",
+      "name": "Coconut Margarita",
+      "notes": "Add cream of coconut.",
+      "relatedCocktailId": "coconut-margarita"
+    }
+  ],
+  "relatedCocktailIds": [
+    "paloma",
+    "daiquiri",
+    "whiskey-sour",
+    "tommys-margarita",
+    "coconut-margarita"
+  ],
+  "seasonality": [
+    "year-round",
+    "summer"
+  ],
+  "tags": [
+    "foundational",
+    "tequila",
+    "shaken",
+    "sour"
+  ]
+}

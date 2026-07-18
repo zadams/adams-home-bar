@@ -1,0 +1,75 @@
+{
+  "aliases": [],
+  "history": "Emerged around the turn of the 20th century in Cuba. Lime is not optional if you want the real drink.",
+  "origin": "Cuba",
+  "whyItWorks": "Cola sweetness and spice meet rum; lime prevents flat soda-pop character.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "cola",
+    "lime",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "light",
+  "glassware": "Highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime wedge"
+  ],
+  "illustrationKey": "cuba-libre",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "white_rum",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cola",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Build rum and lime over ice.",
+    "Top with cola and garnish with lime."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-3",
+      "rank": 1,
+      "rationale": "Classic Cuban-style rum and cola."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "dark-n-stormy",
+    "mojito"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rum",
+    "highball"
+  ],
+  "id": "cuba-libre",
+  "slug": "cuba-libre",
+  "name": "Cuba Libre",
+  "description": "Rum and cola with lime—the original free Cuba highball."
+}

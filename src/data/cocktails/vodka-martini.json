@@ -1,0 +1,81 @@
+{
+  "id": "vodka-martini",
+  "slug": "vodka-martini",
+  "name": "Vodka Martini",
+  "aliases": [],
+  "description": "The vodka-forward martini—cold, clean, and vermouth-kissed.",
+  "whyItWorks": "Dry vermouth adds just enough botanical structure.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Martini",
+  "flavorProfiles": [
+    "clean",
+    "dry",
+    "neutral"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Martini glass",
+  "ice": "Stirred; served up",
+  "garnish": [
+    "Lemon twist or olive"
+  ],
+  "illustrationKey": "vodka-martini",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 2.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "dry_vermouth",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "olive",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Stir with ice until icy.",
+    "Strain into a chilled glass.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "koskenkorva-apple",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "koskenkorva-blueberry",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "vodka",
+    "martini"
+  ]
+}

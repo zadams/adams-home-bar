@@ -1,0 +1,86 @@
+{
+  "id": "mint-vodka-smash",
+  "slug": "mint-vodka-smash",
+  "name": "Vodka Smash",
+  "aliases": [],
+  "description": "Clean vodka smash with mint and lemon.",
+  "whyItWorks": "Vodka lets mint and citrus lead.",
+  "classifications": [
+    "smash"
+  ],
+  "cocktailFamily": "Smash",
+  "flavorProfiles": [
+    "mint",
+    "citrus",
+    "clean"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Mint sprig"
+  ],
+  "illustrationKey": "mint-vodka-smash",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "mint",
+      "amount": 8,
+      "unit": "piece",
+      "scaleMode": "fixed",
+      "label": "Mint leaves"
+    }
+  ],
+  "steps": [
+    "Muddle mint.",
+    "Shake with vodka and lemon.",
+    "Strain over ice."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "koskenkorva-apple",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "koskenkorva-blueberry",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "vodka",
+    "mint"
+  ]
+}

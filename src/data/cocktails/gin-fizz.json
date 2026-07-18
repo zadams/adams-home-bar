@@ -1,0 +1,86 @@
+{
+  "id": "gin-fizz",
+  "slug": "gin-fizz",
+  "name": "Gin Fizz",
+  "aliases": [],
+  "description": "Gin sour topped with soda for a frothy tall drink.",
+  "whyItWorks": "Soda lifts a shaken sour into something breezier.",
+  "classifications": [
+    "classic",
+    "fizz"
+  ],
+  "cocktailFamily": "Fizz",
+  "flavorProfiles": [
+    "citrus",
+    "botanical",
+    "effervescent"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Fizz or Collins glass",
+  "ice": "Shaken; soda; little or no ice",
+  "garnish": [
+    "Lemon wheel"
+  ],
+  "illustrationKey": "gin-fizz",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Shake gin, lemon, and syrup hard with ice.",
+    "Strain into a chilled fizz glass.",
+    "Top with soda."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "fizz"
+  ]
+}

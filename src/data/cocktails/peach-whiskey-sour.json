@@ -1,0 +1,86 @@
+{
+  "aliases": [],
+  "whyItWorks": "Peach softens lemon’s edge and flatters bourbon’s caramel.",
+  "classifications": [
+    "modern",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "peach",
+    "citrus",
+    "oak"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lemon wheel"
+  ],
+  "illustrationKey": "peach-whiskey-sour",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 1.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peach_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.35,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake all ingredients with ice.",
+    "Strain over fresh ice.",
+    "Garnish with lemon."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "montbisou-peches",
+      "rank": 1,
+      "rationale": "House peach liqueur."
+    },
+    {
+      "bottleId": "russells-reserve-10",
+      "rank": 2,
+      "rationale": "Bourbon backbone."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "whiskey-sour",
+    "gold-rush"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "whiskey",
+    "peach",
+    "sour"
+  ],
+  "id": "peach-whiskey-sour",
+  "slug": "peach-whiskey-sour",
+  "name": "Peach Whiskey Sour",
+  "description": "Whiskey sour with peach liqueur for a ripe stone-fruit finish."
+}

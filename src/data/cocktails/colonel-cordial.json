@@ -1,0 +1,79 @@
+{
+  "id": "colonel-cordial",
+  "slug": "colonel-cordial",
+  "name": "Peach Colonel",
+  "aliases": [],
+  "description": "Bourbon and peach liqueur over ice—Southern and easy.",
+  "whyItWorks": "Peach amplifies bourbon’s vanilla without needing a full sour.",
+  "classifications": [
+    "modern",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Old Fashioned",
+  "flavorProfiles": [
+    "peach",
+    "oak",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Peach slice or lemon peel"
+  ],
+  "illustrationKey": "colonel-cordial",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peach_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 1,
+      "unit": "dash",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Build over ice and stir.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "barrell-vantage",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "bourbon",
+    "peach"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "honey_pepper_vodka-gimlet",
+  "slug": "honey_pepper_vodka-gimlet",
+  "name": "Honey pepper vodka Gimlet",
+  "aliases": [],
+  "description": "Honey pepper vodka shaken with lime and a touch of sweetness.",
+  "whyItWorks": "Lime’s sharp acid loves a clean spirit; syrup keeps it drinkable.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Gimlet",
+  "flavorProfiles": [
+    "citrus",
+    "clean",
+    "bright"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; served up",
+  "garnish": [
+    "Lime wheel"
+  ],
+  "illustrationKey": "honey_pepper_vodka-gimlet",
+  "ingredients": [
+    {
+      "ingredientId": "honey_pepper_vodka",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake hard with ice.",
+    "Strain into a chilled coupe.",
+    "Garnish."
+  ],
+  "techniqueNotes": [
+    "Equal citrus and syrup is the modern sweet spot."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "nemiroff-honey-pepper",
+      "rank": 1,
+      "rationale": "Showcases your Honey pepper vodka."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gimlet",
+    "shaken",
+    "vodka",
+    "flavored"
+  ]
+}

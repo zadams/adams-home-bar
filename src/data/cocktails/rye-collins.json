@@ -1,0 +1,90 @@
+{
+  "id": "rye-collins",
+  "slug": "rye-collins",
+  "name": "Rye Collins",
+  "aliases": [],
+  "description": "Tall, refreshing rye with citrus, sugar, and soda.",
+  "whyItWorks": "Carbonation stretches a sour into an easy long drink.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Collins",
+  "flavorProfiles": [
+    "citrus",
+    "refreshing",
+    "light"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "light",
+  "glassware": "Collins glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lemon wheel"
+  ],
+  "illustrationKey": "rye-collins",
+  "ingredients": [
+    {
+      "ingredientId": "rye",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Shake spirit, citrus, and syrup with ice.",
+    "Strain into an ice-filled Collins glass.",
+    "Top with club soda and garnish."
+  ],
+  "techniqueNotes": [
+    "Add soda gently so you keep the bubbles."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-rye",
+      "rank": 1,
+      "rationale": "Showcases your Rye."
+    },
+    {
+      "bottleId": "barrell-rye",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "elijah-craig-rye",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "collins",
+    "long-drink",
+    "rye",
+    "whiskey"
+  ]
+}

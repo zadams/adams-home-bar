@@ -1,0 +1,63 @@
+{
+  "id": "kir-royale-house",
+  "slug": "kir-royale-house",
+  "name": "House Kir-Style Sparkler",
+  "aliases": [],
+  "description": "Cherry liqueur topped with prosecco.",
+  "whyItWorks": "A Kir Royale stand-in using cherry liqueur instead of crème de cassis.",
+  "classifications": [
+    "sparkling",
+    "aperitivo"
+  ],
+  "cocktailFamily": "Sparkling",
+  "flavorProfiles": [
+    "cherry",
+    "effervescent",
+    "light"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Flute",
+  "ice": "None",
+  "garnish": [
+    "Lemon peel"
+  ],
+  "illustrationKey": "kir-royale-house",
+  "ingredients": [
+    {
+      "ingredientId": "cherry_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "prosecco",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Add cherry liqueur to a flute.",
+    "Top with prosecco."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "bozkov-griotte",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "cherry",
+    "prosecco"
+  ]
+}

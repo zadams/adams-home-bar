@@ -1,0 +1,87 @@
+{
+  "id": "left-hand",
+  "slug": "left-hand",
+  "name": "Left Hand",
+  "aliases": [],
+  "description": "Boulevardier with cocoa bitters—chocolate-tinged and bitter.",
+  "whyItWorks": "Cocoa bitters deepen Campari’s bitterness into dessert-adjacent territory.",
+  "classifications": [
+    "modern classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Negroni",
+  "flavorProfiles": [
+    "chocolate",
+    "bitter",
+    "oak"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "left-hand",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "campari",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cocoa_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Stir with ice.",
+    "Strain over a large cube.",
+    "Express orange peel."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "barrell-vantage",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "bourbon",
+    "campari",
+    "cocoa"
+  ]
+}

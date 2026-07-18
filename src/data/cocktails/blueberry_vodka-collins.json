@@ -1,0 +1,80 @@
+{
+  "id": "blueberry_vodka-collins",
+  "slug": "blueberry_vodka-collins",
+  "name": "Blueberry vodka Collins",
+  "aliases": [],
+  "description": "Tall, refreshing blueberry vodka with citrus, sugar, and soda.",
+  "whyItWorks": "Carbonation stretches a sour into an easy long drink.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Collins",
+  "flavorProfiles": [
+    "citrus",
+    "refreshing",
+    "light"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "light",
+  "glassware": "Collins glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lemon wheel"
+  ],
+  "illustrationKey": "blueberry_vodka-collins",
+  "ingredients": [
+    {
+      "ingredientId": "blueberry_vodka",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Shake spirit, citrus, and syrup with ice.",
+    "Strain into an ice-filled Collins glass.",
+    "Top with club soda and garnish."
+  ],
+  "techniqueNotes": [
+    "Add soda gently so you keep the bubbles."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "koskenkorva-blueberry",
+      "rank": 1,
+      "rationale": "Showcases your Blueberry vodka."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "collins",
+    "long-drink",
+    "vodka",
+    "flavored"
+  ]
+}

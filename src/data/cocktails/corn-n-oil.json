@@ -1,0 +1,92 @@
+{
+  "aliases": [],
+  "history": "A Barbadian classic traditionally built with black rum and falernum. Keep falernum assertive but not syrupy.",
+  "origin": "Barbados",
+  "whyItWorks": "Falernum’s spice-lime-almond profile sweetens and seasons rich rum.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Corn 'n' Oil",
+  "flavorProfiles": [
+    "spice",
+    "lime",
+    "molasses"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "strong",
+  "glassware": "Rocks",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime wedge"
+  ],
+  "illustrationKey": "corn-n-oil",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gold_rum",
+      "amount": 2,
+      "unit": "oz",
+      "label": "Gold or black rum",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "falernum",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Build in a rocks glass over ice and stir.",
+    "Garnish with lime."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-especial",
+      "rank": 1,
+      "rationale": "Rich gold rum for the classic build."
+    },
+    {
+      "bottleId": "kraken-spiced",
+      "rank": 2,
+      "rationale": "Sweeter, spiced interpretation."
+    },
+    {
+      "bottleId": "bitter-truth-falernum",
+      "rank": 3,
+      "rationale": "House falernum."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "daiquiri",
+    "mai-tai"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rum",
+    "falernum"
+  ],
+  "id": "corn-n-oil",
+  "slug": "corn-n-oil",
+  "name": "Corn 'n' Oil",
+  "description": "Black rum and falernum with lime and bitters—Barbadian and bittersweet."
+}

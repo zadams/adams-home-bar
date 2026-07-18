@@ -1,0 +1,79 @@
+{
+  "id": "white_rum-collins",
+  "slug": "white_rum-collins",
+  "name": "White rum Collins",
+  "aliases": [],
+  "description": "Tall, refreshing white rum with citrus, sugar, and soda.",
+  "whyItWorks": "Carbonation stretches a sour into an easy long drink.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Collins",
+  "flavorProfiles": [
+    "citrus",
+    "refreshing",
+    "light"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "light",
+  "glassware": "Collins glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime wheel"
+  ],
+  "illustrationKey": "white_rum-collins",
+  "ingredients": [
+    {
+      "ingredientId": "white_rum",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Shake spirit, citrus, and syrup with ice.",
+    "Strain into an ice-filled Collins glass.",
+    "Top with club soda and garnish."
+  ],
+  "techniqueNotes": [
+    "Add soda gently so you keep the bubbles."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-3",
+      "rank": 1,
+      "rationale": "Showcases your White rum."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "collins",
+    "long-drink",
+    "rum"
+  ]
+}

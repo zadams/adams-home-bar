@@ -1,0 +1,80 @@
+{
+  "aliases": [],
+  "classifications": [
+    "modern",
+    "sour"
+  ],
+  "cocktailFamily": "Sidecar",
+  "flavorProfiles": [
+    "citrus",
+    "orange",
+    "oak"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Orange peel",
+    "Optional sugar rim"
+  ],
+  "illustrationKey": "sidecar-bourbon",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cointreau",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake with ice.",
+    "Strain into a coupe (sugar rim optional)."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "eagle-rare",
+      "rank": 1,
+      "rationale": "Fruitier bourbon for citrus."
+    },
+    {
+      "bottleId": "grand-marnier",
+      "rank": 2,
+      "rationale": "Richer orange variation."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "white-lady",
+    "whiskey-sour",
+    "margarita"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "whiskey",
+    "sour"
+  ],
+  "description": "A Sidecar with bourbon instead of cognac—orange, lemon, and oak.",
+  "whyItWorks": "Cointreau and lemon cut bourbon’s sweetness into a bright sour.",
+  "id": "sidecar-bourbon",
+  "slug": "sidecar-bourbon",
+  "name": "Bourbon Sidecar"
+}

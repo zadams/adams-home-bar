@@ -1,0 +1,149 @@
+{
+  "id": "old-fashioned",
+  "slug": "old-fashioned",
+  "name": "Old Fashioned",
+  "aliases": [
+    "Whiskey Old Fashioned"
+  ],
+  "description": "Spirit, sugar, bitters, and a citrus twist—the template for countless whiskey drinks.",
+  "history": "One of the earliest cocktail templates, the Old Fashioned asks for whiskey sweetened lightly and lifted with aromatic bitters. It remains the bar’s clearest proof that restraint beats complexity.",
+  "origin": "United States",
+  "whyItWorks": "Sugar softens whiskey’s edges while bitters add spice and depth; the orange oils perfume the glass without turning the drink into a fruit cocktail.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Old Fashioned",
+  "flavorProfiles": [
+    "oak",
+    "bittersweet",
+    "citrus peel",
+    "warming"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Rocks glass",
+  "ice": "Large cube or sphere",
+  "garnish": [
+    "Orange peel",
+    "Optional cocktail cherry"
+  ],
+  "illustrationKey": "old-fashioned",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "label": "Bourbon (or rye)",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "demerara_sugar",
+      "amount": 1,
+      "unit": "tsp",
+      "label": "Demerara sugar or ¼ oz rich simple",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 1,
+      "unit": "piece",
+      "label": "Orange peel",
+      "optional": true,
+      "scaleMode": "garnish"
+    }
+  ],
+  "steps": [
+    "Add sugar and bitters to a rocks glass. Muddle briefly with a splash of water, or stir until dissolved.",
+    "Add bourbon and a large ice cube.",
+    "Stir until chilled and lightly diluted, about 20–30 seconds.",
+    "Express an orange peel over the drink and drop it in. Add a cherry only if you like a soft finish."
+  ],
+  "techniqueNotes": [
+    "Prefer a large ice cube so dilution stays controlled.",
+    "Rye makes a spicier, drier Old Fashioned; wheated or toasted bourbons read sweeter and richer."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "russells-reserve-10",
+      "rank": 1,
+      "rationale": "Classic, balanced, and oak-forward—ideal for the standard build."
+    },
+    {
+      "bottleId": "penelope-architect",
+      "rank": 2,
+      "rationale": "Polished with extra oak influence; elegant and structured."
+    },
+    {
+      "bottleId": "eagle-rare",
+      "rank": 3,
+      "rationale": "Softer and fruitier; a gentler evening pour."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 4,
+      "rationale": "Richer and sweeter from the toasted finish—great when you want dessert-adjacent warmth."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "bourbon",
+      "alternatives": [
+        "rye"
+      ],
+      "notes": "Sazerac Rye or Elijah Craig Rye for a spicier profile."
+    },
+    {
+      "ingredientId": "demerara_sugar",
+      "alternatives": [
+        "simple_syrup"
+      ],
+      "notes": "Use about ¼ oz simple syrup if you prefer no muddling."
+    }
+  ],
+  "variations": [
+    {
+      "id": "rye-old-fashioned",
+      "name": "Rye Old Fashioned",
+      "notes": "Swap bourbon for rye."
+    },
+    {
+      "id": "banana-old-fashioned",
+      "name": "Banana Old Fashioned",
+      "notes": "Add crème de banane.",
+      "relatedCocktailId": "banana-old-fashioned"
+    },
+    {
+      "id": "brown-sugar-cinnamon-old-fashioned",
+      "name": "Brown Sugar Cinnamon Old Fashioned",
+      "notes": "Use brown sugar cinnamon syrup.",
+      "relatedCocktailId": "brown-sugar-cinnamon-old-fashioned"
+    }
+  ],
+  "relatedCocktailIds": [
+    "manhattan",
+    "sazerac",
+    "whiskey-sour",
+    "banana-old-fashioned",
+    "brown-sugar-cinnamon-old-fashioned",
+    "rum-old-fashioned",
+    "tequila-old-fashioned"
+  ],
+  "seasonality": [
+    "year-round",
+    "autumn",
+    "winter"
+  ],
+  "tags": [
+    "foundational",
+    "whiskey",
+    "stirred"
+  ]
+}

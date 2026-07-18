@@ -1,0 +1,65 @@
+{
+  "id": "coconut_rum-soda",
+  "slug": "coconut_rum-soda",
+  "name": "Coconut rum Soda",
+  "aliases": [],
+  "description": "A simple highball: coconut rum lengthened with soda.",
+  "whyItWorks": "Dilution and bubbles make a strong spirit easy to sip.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "refreshing",
+    "clean"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "light",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [],
+  "illustrationKey": "coconut_rum-soda",
+  "ingredients": [
+    {
+      "ingredientId": "coconut_rum",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build coconut rum over ice.",
+    "Top with soda.",
+    "Stir once; garnish if desired."
+  ],
+  "techniqueNotes": [
+    "Keep the pour cold and don’t over-stir."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "toasted-coconut-rum",
+      "rank": 1,
+      "rationale": "Showcases your Coconut rum."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "highball",
+    "built",
+    "rum",
+    "coconut"
+  ]
+}

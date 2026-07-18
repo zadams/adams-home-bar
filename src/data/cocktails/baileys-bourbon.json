@@ -1,0 +1,70 @@
+{
+  "id": "baileys-bourbon",
+  "slug": "baileys-bourbon",
+  "name": "Bourbon Cream",
+  "aliases": [],
+  "description": "Bourbon and Baileys—simple after-dinner pour.",
+  "whyItWorks": "Oak and cream make a milkshake-adjacent sipper.",
+  "classifications": [
+    "dessert"
+  ],
+  "cocktailFamily": "Dessert",
+  "flavorProfiles": [
+    "cream",
+    "oak",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Cubed ice",
+  "garnish": [],
+  "illustrationKey": "baileys-bourbon",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "baileys",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Build over ice.",
+    "Stir."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "barrell-vantage",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "bourbon",
+    "baileys"
+  ]
+}

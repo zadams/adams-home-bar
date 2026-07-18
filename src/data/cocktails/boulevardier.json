@@ -1,0 +1,84 @@
+{
+  "aliases": [],
+  "history": "Published in the 1920s as a whiskey cousin to the Negroni. Equal parts or whiskey-forward both work.",
+  "origin": "Paris / American expat bars",
+  "whyItWorks": "Campari bitterness and vermouth sweetness frame oaky whiskey.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Negroni",
+  "flavorProfiles": [
+    "bitter",
+    "oak",
+    "herbal"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "strong",
+  "glassware": "Rocks or coupe",
+  "ice": "Large cube or up",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "boulevardier",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 1.5,
+      "unit": "oz",
+      "label": "Bourbon or rye",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "campari",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Stir whiskey, Campari, and vermouth with ice.",
+    "Strain over a large cube or into a coupe.",
+    "Express orange peel."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "russells-reserve-10",
+      "rank": 1,
+      "rationale": "Balanced bourbon for a classic Boulevardier."
+    },
+    {
+      "bottleId": "sazerac-rye",
+      "rank": 2,
+      "rationale": "Spicier rye version."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "negroni",
+    "manhattan",
+    "old-fashioned"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "whiskey",
+    "bitter",
+    "stirred"
+  ],
+  "id": "boulevardier",
+  "slug": "boulevardier",
+  "name": "Boulevardier",
+  "description": "A Negroni with whiskey—bitter, rich, and stirred."
+}

@@ -1,0 +1,67 @@
+{
+  "aliases": [],
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "Scotch",
+    "refreshing",
+    "clean"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "light",
+  "glassware": "Highball",
+  "ice": "Plenty of cubes",
+  "garnish": [
+    "Lemon peel optional"
+  ],
+  "illustrationKey": "scotch-highball",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "scotch",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Fill a highball with ice.",
+    "Add Scotch, top with soda, lift once."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "macallan-12",
+      "rank": 1,
+      "rationale": "Soft enough for a long highball."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "whiskey-highball",
+    "rob-roy"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "scotch",
+    "highball"
+  ],
+  "description": "Scotch and soda over ice—the Japanese bar’s favorite long drink, done simply.",
+  "whyItWorks": "Bubbles open Scotch aroma without sweetness.",
+  "id": "scotch-highball",
+  "slug": "scotch-highball",
+  "name": "Scotch Highball"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "campari-gin-tonic",
+  "slug": "campari-gin-tonic",
+  "name": "Campari Gin & Tonic",
+  "aliases": [],
+  "description": "G&T with a Campari float for bitter depth.",
+  "whyItWorks": "Campari turns a simple G&T into an aperitivo highball.",
+  "classifications": [
+    "highball",
+    "aperitivo"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "bitter",
+    "botanical",
+    "refreshing"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Orange wheel"
+  ],
+  "illustrationKey": "campari-gin-tonic",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "campari",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "tonic_water",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build gin and Campari over ice.",
+    "Top with tonic.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "campari",
+    "tonic"
+  ]
+}

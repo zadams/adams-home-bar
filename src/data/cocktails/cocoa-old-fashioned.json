@@ -1,0 +1,85 @@
+{
+  "aliases": [],
+  "classifications": [
+    "modern",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Old Fashioned",
+  "flavorProfiles": [
+    "cocoa",
+    "oak",
+    "bittersweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "spirit-forward",
+  "glassware": "Rocks",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "cocoa-old-fashioned",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "demerara_sugar",
+      "amount": 1,
+      "unit": "tsp",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cocoa_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 1,
+      "unit": "dash",
+      "optional": true,
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Stir bourbon, sugar, and cocoa bitters with ice.",
+    "Strain over a large cube."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "widow-jane-decadence",
+      "rank": 1,
+      "rationale": "Dessert-leaning bourbon with cocoa."
+    },
+    {
+      "bottleId": "angostura-cocoa",
+      "rank": 2,
+      "rationale": "House cocoa bitters."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "old-fashioned",
+    "banana-old-fashioned"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "whiskey",
+    "cocoa"
+  ],
+  "description": "Bourbon Old Fashioned finished with Angostura cocoa bitters.",
+  "whyItWorks": "Cocoa bitters add dessert depth without cream or liqueur.",
+  "id": "cocoa-old-fashioned",
+  "slug": "cocoa-old-fashioned",
+  "name": "Cocoa Old Fashioned"
+}

@@ -1,0 +1,92 @@
+{
+  "id": "sazerac",
+  "slug": "sazerac",
+  "name": "Sazerac",
+  "aliases": [],
+  "description": "Rye (or cognac), sugar, Peychaud’s, and an absinthe-rinsed glass—New Orleans in a rocks glass.",
+  "history": "A New Orleans classic with 19th-century roots. Modern home versions usually use rye; the absinthe rinse is aromatic, not a full measure.",
+  "origin": "New Orleans",
+  "whyItWorks": "Peychaud’s anise-cherry bitters and absinthe perfume distinguish it from an Old Fashioned. The rinse should whisper, not shout.",
+  "classifications": ["classic", "spirit-forward"],
+  "cocktailFamily": "Sazerac",
+  "flavorProfiles": ["anise", "spice", "oak", "herbal"],
+  "difficulty": "medium",
+  "preparationTime": 5,
+  "strength": "spirit-forward",
+  "glassware": "Rocks glass (no ice in the serve)",
+  "ice": "Stirred with ice; served without ice",
+  "garnish": ["Lemon peel"],
+  "illustrationKey": "sazerac",
+  "ingredients": [
+    {
+      "ingredientId": "rye",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "demerara_sugar",
+      "amount": 1,
+      "unit": "tsp",
+      "label": "Sugar or ¼ oz simple syrup",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peychauds_bitters",
+      "amount": 3,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "absinthe",
+      "amount": 1,
+      "unit": "rinse",
+      "label": "Absinthe or Herbsaint rinse",
+      "optional": true,
+      "scaleMode": "fixed",
+      "notes": "If absinthe is out, rinse with a tiny mist of anise liqueur if available, or skip and note the aroma will be milder."
+    },
+    {
+      "ingredientId": "lemon",
+      "amount": 1,
+      "unit": "piece",
+      "label": "Lemon peel",
+      "optional": true,
+      "scaleMode": "garnish"
+    }
+  ],
+  "steps": [
+    "Chill a rocks glass. Rinse with absinthe, discard the excess, and set aside.",
+    "In a mixing glass, combine rye, sugar (or syrup), and Peychaud’s with ice.",
+    "Stir until cold and properly diluted.",
+    "Strain into the rinsed glass (no ice).",
+    "Express a lemon peel over the drink; discard or leave per preference."
+  ],
+  "techniqueNotes": [
+    "The absinthe rinse is aromatic structure—keep it light.",
+    "Without absinthe in stock, the drink is still worth making; call it a Peychaud’s rye Old Fashioned cousin."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "sazerac-rye",
+      "rank": 1,
+      "rationale": "Namesake rye—bright spice for the classic profile."
+    },
+    {
+      "bottleId": "elijah-craig-rye",
+      "rank": 2,
+      "rationale": "Richer rye alternative with oak depth."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "rye",
+      "alternatives": ["bourbon"],
+      "notes": "Bourbon Sazerac is softer; still use Peychaud’s."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": ["old-fashioned", "manhattan"],
+  "seasonality": ["year-round", "autumn", "winter"],
+  "tags": ["foundational", "whiskey", "stirred", "new-orleans"]
+}

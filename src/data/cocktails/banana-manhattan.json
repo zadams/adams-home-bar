@@ -1,0 +1,86 @@
+{
+  "id": "banana-manhattan",
+  "slug": "banana-manhattan",
+  "name": "Banana Manhattan",
+  "aliases": [],
+  "description": "Manhattan sweetened with crème de banane.",
+  "whyItWorks": "Banana ester sweetness loves bourbon’s oak.",
+  "classifications": [
+    "variation",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Manhattan",
+  "flavorProfiles": [
+    "banana",
+    "oak",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Stirred; served up",
+  "garnish": [
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "banana-manhattan",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "creme_de_banane",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Stir with ice.",
+    "Strain up.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "barrell-vantage",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "bourbon",
+    "banana"
+  ]
+}

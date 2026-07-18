@@ -1,0 +1,86 @@
+{
+  "id": "manhattan",
+  "slug": "manhattan",
+  "name": "Manhattan",
+  "aliases": [],
+  "description": "Rye or bourbon stirred with sweet vermouth and bitters—silky, aromatic, and unmistakably classic.",
+  "history": "A late-19th-century New York classic that helped define the stirred whiskey cocktail. The best versions stay dry enough that vermouth supports the whiskey rather than smothering it.",
+  "origin": "New York",
+  "whyItWorks": "Vermouth’s herbal sweetness rounds whiskey while Angostura ties spice and oak together. Stirring keeps the texture polished.",
+  "classifications": ["classic", "spirit-forward"],
+  "cocktailFamily": "Manhattan",
+  "flavorProfiles": ["herbal", "oak", "bittersweet", "cherry"],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Coupe or Nick & Nora",
+  "ice": "Stirred with ice; served up",
+  "garnish": ["Cocktail cherry", "Optional lemon peel"],
+  "illustrationKey": "manhattan",
+  "ingredients": [
+    {
+      "ingredientId": "rye",
+      "amount": 2,
+      "unit": "oz",
+      "label": "Rye whiskey (or bourbon)",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "cocktail_cherry",
+      "amount": 1,
+      "unit": "piece",
+      "optional": true,
+      "scaleMode": "garnish"
+    }
+  ],
+  "steps": [
+    "Add rye, sweet vermouth, and bitters to a mixing glass with ice.",
+    "Stir until well chilled, about 25–30 seconds.",
+    "Strain into a chilled coupe.",
+    "Garnish with a cocktail cherry, or a lemon peel if you prefer brightness."
+  ],
+  "techniqueNotes": [
+    "A 2:1 whiskey-to-vermouth ratio keeps the drink whiskey-forward.",
+    "Bourbon yields a rounder Manhattan; rye stays spicier and drier."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "sazerac-rye",
+      "rank": 1,
+      "rationale": "Bright spice and structure—the classic Manhattan backbone."
+    },
+    {
+      "bottleId": "elijah-craig-rye",
+      "rank": 2,
+      "rationale": "Slightly richer rye character with oak depth."
+    },
+    {
+      "bottleId": "russells-reserve-10",
+      "rank": 3,
+      "rationale": "If using bourbon, Russell’s Reserve keeps the drink balanced and composed."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "rye",
+      "alternatives": ["bourbon"],
+      "notes": "Bourbon Manhattan is softer and sweeter."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": ["old-fashioned", "negroni", "sazerac"],
+  "seasonality": ["year-round", "autumn", "winter"],
+  "tags": ["foundational", "whiskey", "stirred"]
+}

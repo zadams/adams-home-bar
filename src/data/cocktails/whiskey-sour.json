@@ -1,0 +1,141 @@
+{
+  "id": "whiskey-sour",
+  "slug": "whiskey-sour",
+  "name": "Whiskey Sour",
+  "aliases": [],
+  "description": "Bourbon, lemon, and sugar—optionally with egg white for a silky foam.",
+  "history": "A foundational sour from the 19th century. The egg-white Boston Sour variation became common later; both are legitimate.",
+  "origin": "United States",
+  "whyItWorks": "Lemon cuts whiskey’s sweetness while sugar restores balance. Egg white adds texture without changing the core flavor arc.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "citrus",
+    "oak",
+    "bright",
+    "silky"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 5,
+  "strength": "medium",
+  "glassware": "Rocks or coupe",
+  "ice": "Shaken; over ice or up",
+  "garnish": [
+    "Lemon wheel",
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "whiskey-sour",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "egg_white",
+      "amount": 1,
+      "unit": "piece",
+      "label": "Egg white (optional)",
+      "optional": true,
+      "scaleMode": "fixed",
+      "notes": "Skip if unavailable; the drink remains a proper Whiskey Sour."
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "optional": true,
+      "scaleMode": "fixed",
+      "notes": "Dash across the foam if using egg white."
+    },
+    {
+      "ingredientId": "cocktail_cherry",
+      "amount": 1,
+      "unit": "piece",
+      "optional": true,
+      "scaleMode": "garnish"
+    }
+  ],
+  "steps": [
+    "If using egg white, dry-shake all ingredients without ice for 10 seconds.",
+    "Add ice and shake hard until cold.",
+    "Strain over fresh ice in a rocks glass, or up into a coupe.",
+    "Garnish with lemon and cherry; add bitters dots on foam if present."
+  ],
+  "techniqueNotes": [
+    "Without egg white, a single hard shake is enough.",
+    "Russell’s Reserve or Eagle Rare both shine here."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "russells-reserve-10",
+      "rank": 1,
+      "rationale": "Balanced oak and caramel that hold up to lemon."
+    },
+    {
+      "bottleId": "eagle-rare",
+      "rank": 2,
+      "rationale": "Fruitier bourbon for a softer sour."
+    },
+    {
+      "bottleId": "woodford-reserve",
+      "rank": 3,
+      "rationale": "Familiar spice and structure for an everyday sour."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "bourbon",
+      "alternatives": [
+        "rye"
+      ],
+      "notes": "Rye sour is spicier and drier."
+    }
+  ],
+  "variations": [
+    {
+      "id": "gold-rush",
+      "name": "Gold Rush",
+      "notes": "Honey syrup instead of simple.",
+      "relatedCocktailId": "gold-rush"
+    },
+    {
+      "id": "peach-whiskey-sour",
+      "name": "Peach Whiskey Sour",
+      "notes": "Add peach liqueur.",
+      "relatedCocktailId": "peach-whiskey-sour"
+    }
+  ],
+  "relatedCocktailIds": [
+    "old-fashioned",
+    "daiquiri",
+    "manhattan",
+    "gold-rush",
+    "peach-whiskey-sour"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "foundational",
+    "whiskey",
+    "shaken",
+    "sour"
+  ]
+}

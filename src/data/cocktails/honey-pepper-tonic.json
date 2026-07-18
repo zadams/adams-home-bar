@@ -1,0 +1,70 @@
+{
+  "aliases": [],
+  "classifications": [
+    "modern",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "honey",
+    "pepper",
+    "bitter"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "light",
+  "glassware": "Highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lemon"
+  ],
+  "illustrationKey": "honey-pepper-tonic",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "honey_pepper_vodka",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "tonic_water",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build over ice and top with tonic."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "nemiroff-honey-pepper",
+      "rank": 1,
+      "rationale": "House honey pepper vodka."
+    },
+    {
+      "bottleId": "fever-tree-tonic",
+      "rank": 2,
+      "rationale": "House tonic."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "vodka-tonic"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "vodka",
+    "honey"
+  ],
+  "description": "Nemiroff Honey Pepper with tonic—sweet heat and quinine.",
+  "whyItWorks": "Tonic’s bitterness balances honey; pepper reads as spice on the finish.",
+  "id": "honey-pepper-tonic",
+  "slug": "honey-pepper-tonic",
+  "name": "Honey Pepper Tonic"
+}

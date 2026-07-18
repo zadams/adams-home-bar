@@ -1,0 +1,84 @@
+{
+  "aliases": [],
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Old Fashioned",
+  "flavorProfiles": [
+    "cherry",
+    "orange",
+    "oak"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "spirit-forward",
+  "glassware": "Rocks",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "fancy-free",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "maraschino",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 1,
+      "unit": "dash",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Stir with ice and strain over a large cube.",
+    "Express orange peel."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "russells-reserve-10",
+      "rank": 1,
+      "rationale": "Balanced bourbon."
+    },
+    {
+      "bottleId": "fee-brothers-orange",
+      "rank": 2,
+      "rationale": "House orange bitters."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "improved-whiskey-cocktail",
+    "old-fashioned"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "whiskey",
+    "bitters"
+  ],
+  "description": "Bourbon, maraschino, and orange + aromatic bitters—short and aromatic.",
+  "whyItWorks": "Maraschino and dual bitters perfume bourbon without vermouth weight.",
+  "id": "fancy-free",
+  "slug": "fancy-free",
+  "name": "Fancy Free"
+}

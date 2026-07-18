@@ -1,0 +1,91 @@
+{
+  "aliases": [],
+  "history": "A Cuban classic built on rum and mint. Fresh mint and lively soda matter more than rigid ratios.",
+  "origin": "Cuba",
+  "whyItWorks": "Mint oils and lime brighten rum; soda keeps it sessionable.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Mojito",
+  "flavorProfiles": [
+    "mint",
+    "citrus",
+    "refreshing"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Mint sprig"
+  ],
+  "illustrationKey": "mojito",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "white_rum",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "mint",
+      "amount": 8,
+      "unit": "piece",
+      "label": "Mint leaves",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Lightly muddle mint with syrup.",
+    "Add rum, lime, and ice; stir.",
+    "Top with soda and garnish with mint."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-3",
+      "rank": 1,
+      "rationale": "Classic light-rum Mojito profile."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "daiquiri",
+    "southside",
+    "tom-collins"
+  ],
+  "seasonality": [
+    "summer"
+  ],
+  "tags": [
+    "rum",
+    "mint",
+    "highball"
+  ],
+  "id": "mojito",
+  "slug": "mojito",
+  "name": "Mojito",
+  "description": "Rum, lime, mint, sugar, and soda—the tall Cuban highball."
+}

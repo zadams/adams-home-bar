@@ -1,0 +1,92 @@
+{
+  "id": "corn-n-oil-soda",
+  "slug": "corn-n-oil-soda",
+  "name": "Corn 'n' Oil Highball",
+  "aliases": [],
+  "description": "Corn ’n’ Oil lengthened with soda for an easier sip.",
+  "whyItWorks": "Bubbles soften falernum’s spice and rum’s weight.",
+  "classifications": [
+    "highball",
+    "tropical"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "spice",
+    "lime",
+    "tropical"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime wedge"
+  ],
+  "illustrationKey": "corn-n-oil-soda",
+  "ingredients": [
+    {
+      "ingredientId": "gold_rum",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "falernum",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build rum, falernum, lime, and bitters over ice.",
+    "Top with soda."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-3",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "havana-club-especial",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "havana-club-maestros",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rum",
+    "falernum",
+    "highball"
+  ]
+}

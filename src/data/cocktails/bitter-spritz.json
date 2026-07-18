@@ -1,0 +1,71 @@
+{
+  "id": "bitter-spritz",
+  "slug": "bitter-spritz",
+  "name": "Campari Spritz",
+  "aliases": [],
+  "description": "Campari, prosecco, and soda—the bitter spritz.",
+  "whyItWorks": "Same architecture as an Aperol Spritz with more bite.",
+  "classifications": [
+    "aperitivo",
+    "sparkling"
+  ],
+  "cocktailFamily": "Spritz",
+  "flavorProfiles": [
+    "bitter",
+    "orange",
+    "effervescent"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Wine glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Orange slice"
+  ],
+  "illustrationKey": "bitter-spritz",
+  "ingredients": [
+    {
+      "ingredientId": "campari",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "prosecco",
+      "amount": 3,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Build over ice in a wine glass.",
+    "Stir gently.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "campari",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "campari",
+    "spritz",
+    "prosecco"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "aliases": [],
+  "classifications": [
+    "modern",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "orange",
+    "bitter",
+    "bright"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "light",
+  "glassware": "Highball or wine glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Orange"
+  ],
+  "illustrationKey": "grand-marnier-tonic",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "grand_marnier",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "tonic_water",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build over ice; top with tonic."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "grand-marnier",
+      "rank": 1,
+      "rationale": "House Grand Marnier."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "aperol-spritz",
+    "gin-and-tonic"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "orange",
+    "aperitif"
+  ],
+  "description": "Grand Marnier lengthened with tonic—orange aperitif highball.",
+  "whyItWorks": "Tonic keeps orange liqueur from tasting like dessert.",
+  "id": "grand-marnier-tonic",
+  "slug": "grand-marnier-tonic",
+  "name": "Grand Marnier and Tonic"
+}

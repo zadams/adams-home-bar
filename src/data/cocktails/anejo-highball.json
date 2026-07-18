@@ -1,0 +1,75 @@
+{
+  "id": "anejo-highball",
+  "slug": "anejo-highball",
+  "name": "Añejo Highball",
+  "aliases": [],
+  "description": "Aged tequila and soda with orange bitters.",
+  "whyItWorks": "Bubbles show off añejo’s oak without masking it.",
+  "classifications": [
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "agave",
+    "oak",
+    "refreshing"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "anejo-highball",
+  "ingredients": [
+    {
+      "ingredientId": "anejo_tequila",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    },
+    {
+      "ingredientId": "orange_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Build tequila and bitters over ice.",
+    "Top with soda.",
+    "Express orange peel."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-cristalino",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "kirkland-extra-anejo",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "tequila",
+    "anejo",
+    "highball"
+  ]
+}

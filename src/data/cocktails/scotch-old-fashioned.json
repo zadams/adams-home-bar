@@ -1,0 +1,74 @@
+{
+  "aliases": [],
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Old Fashioned",
+  "flavorProfiles": [
+    "Scotch",
+    "bittersweet",
+    "oak"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "spirit-forward",
+  "glassware": "Rocks",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "scotch-old-fashioned",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "scotch",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "demerara_sugar",
+      "amount": 1,
+      "unit": "tsp",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Stir Scotch, sugar, and bitters with ice.",
+    "Strain over a large cube.",
+    "Express orange peel."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "macallan-12",
+      "rank": 1,
+      "rationale": "House Scotch Old Fashioned."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "old-fashioned",
+    "rob-roy"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "scotch",
+    "stirred"
+  ],
+  "description": "An Old Fashioned with Scotch instead of bourbon.",
+  "whyItWorks": "A light touch of sugar and bitters frames Scotch without hiding it.",
+  "id": "scotch-old-fashioned",
+  "slug": "scotch-old-fashioned",
+  "name": "Scotch Old Fashioned"
+}

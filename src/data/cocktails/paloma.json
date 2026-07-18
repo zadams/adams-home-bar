@@ -1,0 +1,88 @@
+{
+  "id": "paloma",
+  "slug": "paloma",
+  "name": "Paloma",
+  "aliases": [],
+  "description": "Tequila and grapefruit soda with a squeeze of lime—Mexico’s essential highball.",
+  "history": "Widely enjoyed across Mexico as a simple tequila highball. Grapefruit soda (not juice alone) is the traditional lengthener.",
+  "origin": "Mexico",
+  "whyItWorks": "Grapefruit bitterness and bubbles flatter agave; lime sharpens the finish. A salt rim echoes the Margarita without copying it.",
+  "classifications": ["classic", "highball"],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": ["citrus", "agave", "refreshing", "bitter-bright"],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "light",
+  "glassware": "Highball",
+  "ice": "Cubed ice",
+  "garnish": ["Grapefruit wedge or lime", "Optional salt rim"],
+  "illustrationKey": "paloma",
+  "ingredients": [
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grapefruit_soda",
+      "amount": 4,
+      "unit": "oz",
+      "label": "Grapefruit soda",
+      "scaleMode": "top"
+    },
+    {
+      "ingredientId": "salt",
+      "amount": 1,
+      "unit": "to_taste",
+      "optional": true,
+      "scaleMode": "garnish"
+    },
+    {
+      "ingredientId": "grapefruit",
+      "amount": 1,
+      "unit": "piece",
+      "optional": true,
+      "scaleMode": "garnish"
+    }
+  ],
+  "steps": [
+    "Salt the rim if desired and fill a highball with ice.",
+    "Add tequila and lime juice.",
+    "Top with grapefruit soda and stir gently once.",
+    "Garnish with grapefruit or lime."
+  ],
+  "techniqueNotes": [
+    "If grapefruit soda is out, use fresh grapefruit juice plus club soda and a touch of simple syrup—an approximation, not the classic.",
+    "Tajín on the rim is a welcome spicy alternative to salt."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-cristalino",
+      "rank": 1,
+      "rationale": "Smooth enough for a long highball without disappearing."
+    },
+    {
+      "bottleId": "kirkland-tequila-other",
+      "rank": 2,
+      "rationale": "Everyday tequila for an easy Paloma."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "grapefruit_soda",
+      "alternatives": ["club_soda", "grapefruit_juice"],
+      "notes": "Club soda + grapefruit juice + simple approximates when soda is unavailable."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": ["margarita", "tom-collins", "gin-and-tonic"],
+  "seasonality": ["summer", "year-round"],
+  "tags": ["foundational", "tequila", "highball", "built"]
+}

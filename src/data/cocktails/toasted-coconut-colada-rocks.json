@@ -1,0 +1,77 @@
+{
+  "id": "toasted-coconut-colada-rocks",
+  "slug": "toasted-coconut-colada-rocks",
+  "name": "Coconut Colada on the Rocks",
+  "aliases": [],
+  "description": "Cream of coconut and rum over ice—no blender needed.",
+  "whyItWorks": "Coconut on coconut; lime keeps it from cloying.",
+  "classifications": [
+    "tropical",
+    "dessert"
+  ],
+  "cocktailFamily": "Colada",
+  "flavorProfiles": [
+    "coconut",
+    "sweet",
+    "tropical"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime wheel"
+  ],
+  "illustrationKey": "toasted-coconut-colada-rocks",
+  "ingredients": [
+    {
+      "ingredientId": "coconut_rum",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cream_of_coconut",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "white_rum",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake with ice.",
+    "Strain over fresh ice.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "toasted-coconut-rum",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "coconut",
+    "dessert"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "aquavit-dry-martini-build",
+  "slug": "aquavit-dry-martini-build",
+  "name": "Extra-Dry Aquavit Martini",
+  "aliases": [],
+  "description": "Ice-cold aquavit with dry vermouth.",
+  "whyItWorks": "Vermouth rounds the edges; temperature and dilution do the rest.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Martini",
+  "flavorProfiles": [
+    "botanical",
+    "dry",
+    "clean"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Martini glass or coupe",
+  "ice": "Stirred; served up",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "aquavit-dry-martini-build",
+  "ingredients": [
+    {
+      "ingredientId": "aquavit",
+      "amount": 2.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "dry_vermouth",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Stir spirit and vermouth with plenty of ice.",
+    "Strain into a chilled glass.",
+    "Garnish."
+  ],
+  "techniqueNotes": [
+    "Stir, don’t shake, unless you prefer a cloudier martini."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "inderoy-aquavit",
+      "rank": 1,
+      "rationale": "Showcases your Aquavit."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "martini",
+    "stirred",
+    "aquavit"
+  ]
+}

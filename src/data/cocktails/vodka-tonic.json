@@ -1,0 +1,71 @@
+{
+  "aliases": [],
+  "whyItWorks": "Tonic’s quinine bitterness carries a neutral spirit cleanly.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "bitter",
+    "clean",
+    "refreshing"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "light",
+  "glassware": "Highball",
+  "ice": "Plenty of ice",
+  "garnish": [
+    "Lime"
+  ],
+  "illustrationKey": "vodka-tonic",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "tonic_water",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build over ice and garnish with lime."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "House vodka."
+    },
+    {
+      "bottleId": "fever-tree-tonic",
+      "rank": 2,
+      "rationale": "House tonic."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "gin-and-tonic",
+    "moscow-mule"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "vodka",
+    "highball"
+  ],
+  "id": "vodka-tonic",
+  "slug": "vodka-tonic",
+  "name": "Vodka Tonic",
+  "description": "Vodka and tonic—simple, bitter, and cold."
+}

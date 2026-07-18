@@ -1,0 +1,74 @@
+{
+  "id": "spiced-rum-rickey",
+  "slug": "spiced-rum-rickey",
+  "name": "Spiced rum Rickey",
+  "aliases": [],
+  "description": "Spirit, lime, and soda—dry and bracing.",
+  "whyItWorks": "No sugar: lime and bubbles keep it crisp.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Rickey",
+  "flavorProfiles": [
+    "citrus",
+    "dry",
+    "refreshing"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "medium",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime wedge"
+  ],
+  "illustrationKey": "spiced-rum-rickey",
+  "ingredients": [
+    {
+      "ingredientId": "spiced_rum",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build spirit and lime over ice.",
+    "Top with club soda.",
+    "Garnish with a lime wedge."
+  ],
+  "techniqueNotes": [
+    "A barspoon of syrup softens it if needed."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "kraken-spiced",
+      "rank": 1,
+      "rationale": "Showcases your Spiced rum."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rickey",
+    "built",
+    "rum",
+    "spiced"
+  ]
+}

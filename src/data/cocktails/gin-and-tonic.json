@@ -1,0 +1,79 @@
+{
+  "id": "gin-and-tonic",
+  "slug": "gin-and-tonic",
+  "name": "Gin and Tonic",
+  "aliases": ["G&T"],
+  "description": "Gin lengthened with quality tonic—cold, sparkling, and botanical.",
+  "history": "Born from quinine tonic in British colonial practice and perfected as a highball of proportion and ice. Fever-Tree and similar tonics changed the modern home version for the better.",
+  "origin": "British colonial / global highball",
+  "whyItWorks": "Tonic’s bitterness and bubbles stretch gin’s botanicals. Plenty of ice keeps the drink crisp instead of watery-warm.",
+  "classifications": ["classic", "highball"],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": ["botanical", "bitter", "refreshing", "citrus"],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "light",
+  "glassware": "Highball or copa",
+  "ice": "Plenty of cubes",
+  "garnish": ["Lime wheel", "Optional cucumber or mint depending on gin"],
+  "illustrationKey": "gin-and-tonic",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "tonic_water",
+      "amount": 4,
+      "unit": "oz",
+      "label": "Tonic water (to taste)",
+      "scaleMode": "top"
+    },
+    {
+      "ingredientId": "lime",
+      "amount": 1,
+      "unit": "piece",
+      "optional": true,
+      "scaleMode": "garnish"
+    }
+  ],
+  "steps": [
+    "Fill a highball with ice.",
+    "Add gin, then pour tonic down a barspoon or gently to preserve bubbles.",
+    "Give one gentle lift-stir.",
+    "Garnish with lime. For Hendrick’s, cucumber is welcome; for Drumshanbo, a grapefruit peel is excellent."
+  ],
+  "techniqueNotes": [
+    "Keep tonic cold. Warm tonic dies quickly.",
+    "Adjust tonic volume to taste—4 oz is a starting point, not a law."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "hendricks",
+      "rank": 1,
+      "rationale": "Floral and cucumber-friendly—the crowd-pleasing G&T gin."
+    },
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 2,
+      "rationale": "Gunpowder tea complexity; try with grapefruit."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 3,
+      "rationale": "Bright Italian juniper for a clean classic G&T."
+    },
+    {
+      "bottleId": "fever-tree-tonic",
+      "rank": 4,
+      "rationale": "House tonic—crisp and balanced."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": ["tom-collins", "martini", "southside"],
+  "seasonality": ["year-round", "summer"],
+  "tags": ["foundational", "gin", "highball", "built"]
+}

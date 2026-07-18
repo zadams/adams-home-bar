@@ -1,0 +1,66 @@
+{
+  "id": "garibaldi",
+  "slug": "garibaldi",
+  "name": "Garibaldi",
+  "aliases": [],
+  "description": "Campari and fluffy orange juice—bitter brunch perfection.",
+  "whyItWorks": "Aerated orange juice softens Campari into something juicy.",
+  "classifications": [
+    "aperitivo",
+    "classic"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "orange",
+    "bitter",
+    "juicy"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Orange wedge"
+  ],
+  "illustrationKey": "garibaldi",
+  "ingredients": [
+    {
+      "ingredientId": "campari",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top",
+      "notes": "Shake OJ hard for foam"
+    }
+  ],
+  "steps": [
+    "Add Campari to an ice-filled glass.",
+    "Shake orange juice hard without ice, then pour over.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "campari",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "campari",
+    "orange",
+    "brunch"
+  ]
+}

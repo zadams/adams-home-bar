@@ -1,0 +1,71 @@
+{
+  "aliases": [],
+  "classifications": [
+    "modern",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "herbal",
+    "citrus",
+    "bitter"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "light",
+  "glassware": "Highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lemon"
+  ],
+  "illustrationKey": "becherovka-tonic",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "becherovka",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "tonic_water",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build over ice and top with tonic."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "becherovka-lemond",
+      "rank": 1,
+      "rationale": "House Becherovka."
+    },
+    {
+      "bottleId": "fever-tree-tonic",
+      "rank": 2,
+      "rationale": "House tonic."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "gin-and-tonic",
+    "aperol-spritz"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "herbal",
+    "highball"
+  ],
+  "description": "Becherovka Lemond with tonic—herbal, citrus, easy.",
+  "whyItWorks": "Tonic stretches herbal bitterness into a sessionable highball.",
+  "id": "becherovka-tonic",
+  "slug": "becherovka-tonic",
+  "name": "Becherovka and Tonic"
+}

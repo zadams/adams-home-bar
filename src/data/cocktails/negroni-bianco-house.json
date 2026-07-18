@@ -1,0 +1,81 @@
+{
+  "id": "negroni-bianco-house",
+  "slug": "negroni-bianco-house",
+  "name": "House White Negroni",
+  "aliases": [],
+    "description": "Gin, dry vermouth, and Aperol—a softer white Negroni stand-in without Suze.",
+  "whyItWorks": "Aperol stands in for Suze for a softer bitter-orange white Negroni.",
+  "classifications": [
+    "variation",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Negroni",
+  "flavorProfiles": [
+    "bitter",
+    "botanical",
+    "orange"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Lemon peel"
+  ],
+  "illustrationKey": "negroni-bianco-house",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "dry_vermouth",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "aperol",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Stir with ice.",
+    "Strain over a large cube.",
+    "Express lemon peel."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "aperol",
+    "white-negroni"
+  ]
+}

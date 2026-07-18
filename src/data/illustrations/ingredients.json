@@ -1,0 +1,382 @@
+{
+  "bourbon": {
+    "src": "/images/ingredients/photos/bourbon.png",
+    "name": "Bourbon",
+    "credit": "TheCocktailDB"
+  },
+  "rye": {
+    "src": "/images/ingredients/photos/rye.png",
+    "name": "Rye whiskey",
+    "credit": "TheCocktailDB"
+  },
+  "scotch": {
+    "src": "/images/ingredients/photos/scotch.png",
+    "name": "Scotch whisky",
+    "credit": "TheCocktailDB"
+  },
+  "gin": {
+    "src": "/images/ingredients/photos/gin.png",
+    "name": "Gin",
+    "credit": "TheCocktailDB"
+  },
+  "vodka": {
+    "src": "/images/ingredients/photos/vodka.png",
+    "name": "Vodka",
+    "credit": "TheCocktailDB"
+  },
+  "blanco_tequila": {
+    "src": "/images/ingredients/photos/blanco_tequila.png",
+    "name": "Blanco tequila",
+    "credit": "TheCocktailDB"
+  },
+  "anejo_tequila": {
+    "src": "/images/ingredients/photos/anejo_tequila.png",
+    "name": "Añejo tequila",
+    "credit": "TheCocktailDB"
+  },
+  "cristalino_tequila": {
+    "src": "/images/ingredients/photos/cristalino_tequila.png",
+    "name": "Cristalino tequila",
+    "credit": "TheCocktailDB"
+  },
+  "white_rum": {
+    "src": "/images/ingredients/photos/white_rum.png",
+    "name": "White rum",
+    "credit": "TheCocktailDB"
+  },
+  "gold_rum": {
+    "src": "/images/ingredients/photos/gold_rum.png",
+    "name": "Gold rum",
+    "credit": "TheCocktailDB"
+  },
+  "spiced_rum": {
+    "src": "/images/ingredients/photos/spiced_rum.png",
+    "name": "Spiced rum",
+    "credit": "TheCocktailDB"
+  },
+  "overproof_rum": {
+    "src": "/images/ingredients/photos/overproof_rum.png",
+    "name": "Overproof rum",
+    "credit": "TheCocktailDB"
+  },
+  "aquavit": {
+    "src": "/images/ingredients/photos/aquavit.png",
+    "name": "Aquavit",
+    "credit": "TheCocktailDB"
+  },
+  "absinthe": {
+    "src": "/images/ingredients/photos/absinthe.png",
+    "name": "Absinthe",
+    "credit": "TheCocktailDB"
+  },
+  "sweet_vermouth": {
+    "src": "/images/ingredients/photos/sweet_vermouth.png",
+    "name": "Sweet vermouth",
+    "credit": "TheCocktailDB"
+  },
+  "dry_vermouth": {
+    "src": "/images/ingredients/photos/dry_vermouth.png",
+    "name": "Dry vermouth",
+    "credit": "TheCocktailDB"
+  },
+  "campari": {
+    "src": "/images/ingredients/photos/campari.png",
+    "name": "Campari",
+    "credit": "TheCocktailDB"
+  },
+  "aperol": {
+    "src": "/images/ingredients/photos/aperol.png",
+    "name": "Aperol",
+    "credit": "TheCocktailDB"
+  },
+  "cointreau": {
+    "src": "/images/ingredients/photos/cointreau.png",
+    "name": "Cointreau",
+    "credit": "TheCocktailDB"
+  },
+  "triple_sec": {
+    "src": "/images/ingredients/photos/triple_sec.png",
+    "name": "Triple sec",
+    "credit": "TheCocktailDB"
+  },
+  "grand_marnier": {
+    "src": "/images/ingredients/photos/grand_marnier.png",
+    "name": "Grand Marnier",
+    "credit": "TheCocktailDB"
+  },
+  "maraschino": {
+    "src": "/images/ingredients/photos/maraschino.png",
+    "name": "Maraschino liqueur",
+    "credit": "TheCocktailDB"
+  },
+  "creme_de_banane": {
+    "src": "/images/ingredients/photos/creme_de_banane.png",
+    "name": "Crème de banane",
+    "credit": "TheCocktailDB"
+  },
+  "falernum": {
+    "src": "/images/ingredients/photos/falernum.png",
+    "name": "Falernum",
+    "credit": "TheCocktailDB"
+  },
+  "baileys": {
+    "src": "/images/ingredients/photos/baileys.png",
+    "name": "Irish cream",
+    "credit": "TheCocktailDB"
+  },
+  "peach_liqueur": {
+    "src": "/images/ingredients/photos/peach_liqueur.png",
+    "name": "Peach liqueur",
+    "credit": "TheCocktailDB"
+  },
+  "angostura_bitters": {
+    "src": "/images/ingredients/photos/angostura_bitters.png",
+    "name": "Angostura bitters",
+    "credit": "TheCocktailDB"
+  },
+  "peychauds_bitters": {
+    "src": "/images/ingredients/photos/peychauds_bitters.png",
+    "name": "Peychaud's bitters",
+    "credit": "TheCocktailDB"
+  },
+  "orange_bitters": {
+    "src": "/images/ingredients/photos/orange_bitters.png",
+    "name": "Orange bitters",
+    "credit": "TheCocktailDB"
+  },
+  "cocoa_bitters": {
+    "src": "/images/ingredients/photos/cocoa_bitters.png",
+    "name": "Cocoa bitters",
+    "credit": "TheCocktailDB"
+  },
+  "simple_syrup": {
+    "src": "/images/ingredients/photos/simple_syrup.png",
+    "name": "Simple syrup",
+    "credit": "TheCocktailDB"
+  },
+  "agave_syrup": {
+    "src": "/images/ingredients/photos/agave_syrup.png",
+    "name": "Agave syrup",
+    "credit": "TheCocktailDB"
+  },
+  "brown_sugar_cinnamon_syrup": {
+    "src": "/images/ingredients/photos/brown_sugar_cinnamon_syrup.png",
+    "name": "Brown sugar cinnamon syrup",
+    "credit": "TheCocktailDB"
+  },
+  "cream_of_coconut": {
+    "src": "/images/ingredients/photos/cream_of_coconut.png",
+    "name": "Cream of coconut",
+    "credit": "TheCocktailDB"
+  },
+  "demerara_sugar": {
+    "src": "/images/ingredients/photos/demerara_sugar.png",
+    "name": "Demerara sugar",
+    "credit": "TheCocktailDB"
+  },
+  "lemon_juice": {
+    "src": "/images/ingredients/photos/lemon_juice.png",
+    "name": "Fresh lemon juice",
+    "credit": "TheCocktailDB"
+  },
+  "lime_juice": {
+    "src": "/images/ingredients/photos/lime_juice.png",
+    "name": "Fresh lime juice",
+    "credit": "TheCocktailDB"
+  },
+  "grapefruit_juice": {
+    "src": "/images/ingredients/photos/grapefruit_juice.png",
+    "name": "Fresh grapefruit juice",
+    "credit": "TheCocktailDB"
+  },
+  "tonic_water": {
+    "src": "/images/ingredients/photos/tonic_water.png",
+    "name": "Tonic water",
+    "credit": "TheCocktailDB"
+  },
+  "club_soda": {
+    "src": "/images/ingredients/photos/club_soda.png",
+    "name": "Club soda",
+    "credit": "TheCocktailDB"
+  },
+  "grapefruit_soda": {
+    "src": "/images/ingredients/photos/grapefruit_soda.png",
+    "name": "Grapefruit soda",
+    "credit": "TheCocktailDB"
+  },
+  "lemon": {
+    "src": "/images/ingredients/photos/lemon.png",
+    "name": "Lemon",
+    "credit": "TheCocktailDB"
+  },
+  "lime": {
+    "src": "/images/ingredients/photos/lime.png",
+    "name": "Lime",
+    "credit": "TheCocktailDB"
+  },
+  "orange": {
+    "src": "/images/ingredients/photos/orange.png",
+    "name": "Orange",
+    "credit": "TheCocktailDB"
+  },
+  "grapefruit": {
+    "src": "/images/ingredients/photos/grapefruit.png",
+    "name": "Grapefruit",
+    "credit": "TheCocktailDB"
+  },
+  "mint": {
+    "src": "/images/ingredients/photos/mint.png",
+    "name": "Fresh mint",
+    "credit": "TheCocktailDB"
+  },
+  "cocktail_cherry": {
+    "src": "/images/ingredients/photos/cocktail_cherry.png",
+    "name": "Cocktail cherry",
+    "credit": "TheCocktailDB"
+  },
+  "olive": {
+    "src": "/images/ingredients/photos/olive.png",
+    "name": "Cocktail olive",
+    "credit": "TheCocktailDB"
+  },
+  "cucumber": {
+    "src": "/images/ingredients/photos/cucumber.png",
+    "name": "Cucumber",
+    "credit": "TheCocktailDB"
+  },
+  "salt": {
+    "src": "/images/ingredients/photos/salt.png",
+    "name": "Salt",
+    "credit": "TheCocktailDB"
+  },
+  "tajin": {
+    "src": "/images/ingredients/photos/tajin.png",
+    "name": "Tajín",
+    "credit": "TheCocktailDB"
+  },
+  "egg_white": {
+    "src": "/images/ingredients/photos/egg_white.png",
+    "name": "Egg white",
+    "credit": "TheCocktailDB"
+  },
+  "ginger_beer": {
+    "src": "/images/ingredients/photos/ginger_beer.png",
+    "name": "Ginger beer",
+    "credit": "TheCocktailDB"
+  },
+  "pineapple_juice": {
+    "src": "/images/ingredients/photos/pineapple_juice.png",
+    "name": "Pineapple juice",
+    "credit": "TheCocktailDB"
+  },
+  "orgeat": {
+    "src": "/images/ingredients/photos/orgeat.png",
+    "name": "Orgeat",
+    "credit": "TheCocktailDB"
+  },
+  "cognac": {
+    "src": "/images/ingredients/photos/cognac.png",
+    "name": "Cognac",
+    "credit": "TheCocktailDB"
+  },
+  "benedictine": {
+    "src": "/images/ingredients/photos/benedictine.png",
+    "name": "Bénédictine",
+    "credit": "TheCocktailDB"
+  },
+  "amaro_nonino": {
+    "src": "/images/ingredients/photos/amaro_nonino.png",
+    "name": "Amaro Nonino",
+    "credit": "TheCocktailDB"
+  },
+  "aperol_as_amaro": {
+    "src": "/images/ingredients/photos/aperol_as_amaro.png",
+    "name": "Aperol (as amaro stand-in)",
+    "credit": "TheCocktailDB"
+  },
+  "green_chartreuse": {
+    "src": "/images/ingredients/photos/green_chartreuse.png",
+    "name": "Green Chartreuse",
+    "credit": "TheCocktailDB"
+  },
+  "prosecco": {
+    "src": "/images/ingredients/photos/prosecco.png",
+    "name": "Prosecco / sparkling wine",
+    "credit": "TheCocktailDB"
+  },
+  "honey_syrup": {
+    "src": "/images/ingredients/photos/honey_syrup.png",
+    "name": "Honey syrup",
+    "credit": "TheCocktailDB"
+  },
+  "cola": {
+    "src": "/images/ingredients/photos/cola.png",
+    "name": "Cola",
+    "credit": "TheCocktailDB"
+  },
+  "coffee_liqueur": {
+    "src": "/images/ingredients/photos/coffee_liqueur.png",
+    "name": "Coffee liqueur",
+    "credit": "TheCocktailDB"
+  },
+  "campari_as_amaro": {
+    "src": "/images/ingredients/photos/campari_as_amaro.png",
+    "name": "Campari",
+    "credit": "TheCocktailDB"
+  },
+  "peppermint_liqueur": {
+    "src": "/images/ingredients/photos/peppermint_liqueur.png",
+    "name": "Peppermint liqueur",
+    "credit": "TheCocktailDB"
+  },
+  "cherry_liqueur": {
+    "src": "/images/ingredients/photos/cherry_liqueur.png",
+    "name": "Cherry liqueur",
+    "credit": "TheCocktailDB"
+  },
+  "becherovka": {
+    "src": "/images/ingredients/photos/becherovka.png",
+    "name": "Becherovka",
+    "credit": "TheCocktailDB"
+  },
+  "cream_liqueur": {
+    "src": "/images/ingredients/photos/cream_liqueur.png",
+    "name": "Cream liqueur / eggnog liqueur",
+    "credit": "TheCocktailDB"
+  },
+  "coconut_rum": {
+    "src": "/images/ingredients/photos/coconut_rum.png",
+    "name": "Coconut rum",
+    "credit": "TheCocktailDB"
+  },
+  "apple_vodka": {
+    "src": "/images/ingredients/photos/apple_vodka.png",
+    "name": "Apple vodka",
+    "credit": "TheCocktailDB"
+  },
+  "blueberry_vodka": {
+    "src": "/images/ingredients/photos/blueberry_vodka.png",
+    "name": "Blueberry vodka",
+    "credit": "TheCocktailDB"
+  },
+  "lemon_vodka": {
+    "src": "/images/ingredients/photos/lemon_vodka.png",
+    "name": "Lemon vodka",
+    "credit": "TheCocktailDB"
+  },
+  "peach_vodka": {
+    "src": "/images/ingredients/photos/peach_vodka.png",
+    "name": "Peach vodka",
+    "credit": "TheCocktailDB"
+  },
+  "honey_pepper_vodka": {
+    "src": "/images/ingredients/photos/honey_pepper_vodka.png",
+    "name": "Honey pepper vodka",
+    "credit": "TheCocktailDB"
+  },
+  "orange_juice": {
+    "src": "/images/ingredients/photos/orange_juice.png",
+    "name": "Fresh orange juice",
+    "credit": "TheCocktailDB"
+  }
+}

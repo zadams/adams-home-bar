@@ -1,0 +1,69 @@
+{
+  "id": "cointreau-fizz",
+  "slug": "cointreau-fizz",
+  "name": "Cointreau Fizz",
+  "aliases": [],
+  "description": "Cointreau, lime, and soda—light aperitif.",
+  "whyItWorks": "Orange liqueur becomes a spritz without wine.",
+  "classifications": [
+    "highball",
+    "aperitivo"
+  ],
+  "cocktailFamily": "Fizz",
+  "flavorProfiles": [
+    "orange",
+    "citrus",
+    "light"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Wine glass or highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime wheel"
+  ],
+  "illustrationKey": "cointreau-fizz",
+  "ingredients": [
+    {
+      "ingredientId": "cointreau",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build Cointreau and lime over ice.",
+    "Top with soda."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "cointreau",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "cointreau",
+    "fizz"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "gin-sour",
+  "slug": "gin-sour",
+  "name": "Gin Sour",
+  "aliases": [],
+  "description": "A clean lemon sour built on gin.",
+  "whyItWorks": "Acid brightens gin; syrup restores balance.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "citrus",
+    "bright",
+    "balanced"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks or coupe",
+  "ice": "Shaken; served up or over ice",
+  "garnish": [
+    "Lemon wheel"
+  ],
+  "illustrationKey": "gin-sour",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake all ingredients hard with ice.",
+    "Strain into a chilled coupe or over fresh ice.",
+    "Garnish."
+  ],
+  "techniqueNotes": [
+    "Shake longer than you think for a cold, airy texture."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "Showcases your Gin."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "sour",
+    "shaken",
+    "gin"
+  ]
+}

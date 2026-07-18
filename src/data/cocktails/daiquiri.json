@@ -1,0 +1,119 @@
+{
+  "id": "daiquiri",
+  "slug": "daiquiri",
+  "name": "Daiquiri",
+  "aliases": [
+    "Classic Daiquiri"
+  ],
+  "description": "White rum, lime, and sugar in bright balance—the sour that teaches everything else.",
+  "history": "Named for Daiquirí, Cuba, and popularized in the early 20th century. At its best it is shaken hard, strained cold, and never drowned in mix.",
+  "origin": "Cuba",
+  "whyItWorks": "Lime acidity and sugar frame rum’s cane sweetness. The drink lives or dies on fresh juice and proper dilution.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Daiquiri",
+  "flavorProfiles": [
+    "citrus",
+    "bright",
+    "clean",
+    "cane"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken with ice; served up",
+  "garnish": [
+    "Lime wheel or no garnish"
+  ],
+  "illustrationKey": "daiquiri",
+  "ingredients": [
+    {
+      "ingredientId": "white_rum",
+      "amount": 2,
+      "unit": "oz",
+      "label": "White or lightly aged rum",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime",
+      "amount": 1,
+      "unit": "piece",
+      "optional": true,
+      "scaleMode": "garnish"
+    }
+  ],
+  "steps": [
+    "Add rum, lime juice, and simple syrup to a shaker with ice.",
+    "Shake hard until well chilled, about 12–15 seconds.",
+    "Double-strain into a chilled coupe.",
+    "Garnish with a lime wheel if desired."
+  ],
+  "techniqueNotes": [
+    "Taste and adjust: more syrup if sharp, more lime if flat.",
+    "Havana Club 3 Años sits near the classic light-rum profile; Especial reads richer."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-3",
+      "rank": 1,
+      "rationale": "Clean Cuban-style character—the house classic Daiquiri rum."
+    },
+    {
+      "bottleId": "havana-club-especial",
+      "rank": 2,
+      "rationale": "Richer variation with more depth and molasses tone."
+    },
+    {
+      "bottleId": "toasted-coconut-rum",
+      "rank": 3,
+      "rationale": "Only for a coconut Daiquiri variation—not the classic."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "white_rum",
+      "alternatives": [
+        "gold_rum"
+      ],
+      "notes": "Gold rum makes a richer Daiquiri."
+    }
+  ],
+  "variations": [
+    {
+      "id": "coconut-daiquiri",
+      "name": "Coconut Daiquiri",
+      "notes": "Use toasted coconut rum; see Piña Colada for coconut technique.",
+      "relatedCocktailId": "pina-colada"
+    }
+  ],
+  "relatedCocktailIds": [
+    "margarita",
+    "whiskey-sour",
+    "southside"
+  ],
+  "seasonality": [
+    "year-round",
+    "summer"
+  ],
+  "tags": [
+    "foundational",
+    "rum",
+    "shaken",
+    "sour"
+  ]
+}

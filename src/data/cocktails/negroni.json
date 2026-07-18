@@ -1,0 +1,108 @@
+{
+  "id": "negroni",
+  "slug": "negroni",
+  "name": "Negroni",
+  "aliases": [],
+  "description": "Equal parts gin, Campari, and sweet vermouth—bitter, aromatic, and built for slow sipping.",
+  "history": "Credited to Florence in the early 20th century as a stiffening of the Americano. The equal-parts build is the modern standard.",
+  "origin": "Florence, Italy",
+  "whyItWorks": "Campari’s bitterness, vermouth’s sweetness, and gin’s botanicals lock into a self-balancing triangle.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Negroni",
+  "flavorProfiles": [
+    "bitter",
+    "herbal",
+    "orange",
+    "bittersweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "strong",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "negroni",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "campari",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 1,
+      "unit": "piece",
+      "label": "Orange peel",
+      "optional": true,
+      "scaleMode": "garnish"
+    }
+  ],
+  "steps": [
+    "Add gin, Campari, and sweet vermouth to a rocks glass with a large cube.",
+    "Stir briefly to chill and integrate.",
+    "Express an orange peel over the drink and place it in the glass."
+  ],
+  "techniqueNotes": [
+    "Build in the glass for ease, or stir in a mixing glass for extra polish.",
+    "If too bitter, nudge vermouth up by ¼ oz."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "Tea and spice notes stand up beautifully to Campari."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 2,
+      "rationale": "Clean juniper keeps the bitter profile focused."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 3,
+      "rationale": "Softer floral gin for a gentler Negroni."
+    }
+  ],
+  "substitutions": [],
+  "variations": [
+    {
+      "id": "boulevardier",
+      "name": "Boulevardier",
+      "notes": "Replace gin with bourbon or rye.",
+      "relatedCocktailId": "boulevardier"
+    }
+  ],
+  "relatedCocktailIds": [
+    "manhattan",
+    "martini",
+    "gin-and-tonic",
+    "boulevardier"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "foundational",
+    "gin",
+    "bitter",
+    "built"
+  ]
+}

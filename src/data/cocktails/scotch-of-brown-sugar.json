@@ -1,0 +1,74 @@
+{
+  "id": "scotch-of-brown-sugar",
+  "slug": "scotch-of-brown-sugar",
+  "name": "Scotch Brown Sugar Old Fashioned",
+  "aliases": [],
+  "description": "Spirit, sugar, and bitters—the original cocktail template, built over ice.",
+  "whyItWorks": "Sugar softens the spirit while bitters add aromatic lift. Ice dilutes just enough.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Old Fashioned",
+  "flavorProfiles": [
+    "spice",
+    "oak",
+    "warm"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "spirit-forward",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "scotch-of-brown-sugar",
+  "ingredients": [
+    {
+      "ingredientId": "scotch",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "brown_sugar_cinnamon_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Add syrup and bitters to a rocks glass.",
+    "Add scotch and a large cube.",
+    "Stir briefly; express citrus oil over the drink."
+  ],
+  "techniqueNotes": [
+    "Start lean on sugar—you can always add a barspoon more."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "macallan-12",
+      "rank": 1,
+      "rationale": "Showcases your Scotch."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "old-fashioned",
+    "built",
+    "scotch",
+    "whiskey"
+  ]
+}

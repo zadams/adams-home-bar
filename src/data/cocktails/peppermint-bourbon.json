@@ -1,0 +1,75 @@
+{
+  "aliases": [],
+  "classifications": [
+    "modern",
+    "spirit-forward",
+    "dessert"
+  ],
+  "cocktailFamily": "Digestif",
+  "flavorProfiles": [
+    "mint",
+    "oak",
+    "cooling"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "strong",
+  "glassware": "Rocks",
+  "ice": "Large cube",
+  "garnish": [],
+  "illustrationKey": "peppermint-bourbon",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peppermint_liqueur",
+      "amount": 0.35,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Stir with ice and strain over a large cube."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "berliner-luft",
+      "rank": 1,
+      "rationale": "Bright peppermint."
+    },
+    {
+      "bottleId": "bozkov-peppermint",
+      "rank": 2,
+      "rationale": "Alternative peppermint bottle."
+    },
+    {
+      "bottleId": "woodford-reserve",
+      "rank": 3,
+      "rationale": "Familiar bourbon base."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "old-fashioned",
+    "baileys-on-the-rocks"
+  ],
+  "seasonality": [
+    "winter"
+  ],
+  "tags": [
+    "whiskey",
+    "peppermint"
+  ],
+  "description": "Bourbon with a measured splash of peppermint liqueur—after-dinner short drink.",
+  "whyItWorks": "Mint cools oak; keep peppermint small so it seasons rather than dominates.",
+  "id": "peppermint-bourbon",
+  "slug": "peppermint-bourbon",
+  "name": "Peppermint Bourbon"
+}

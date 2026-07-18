@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Jungle Bird">
+  <defs>
+    <linearGradient id="bg-jungle-bird" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="hsl(289 32% 14%)"/>
+      <stop offset="100%" stop-color="hsl(313 38% 24%)"/>
+    </linearGradient>
+    <radialGradient id="glow-jungle-bird" cx="48%" cy="28%" r="52%">
+      <stop offset="0%" stop-color="hsl(325 45% 70%)" stop-opacity="0.32"/>
+      <stop offset="100%" stop-color="hsl(325 45% 70%)" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="liq-jungle-bird" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e8b070" stop-opacity="0.92"/>
+      <stop offset="100%" stop-color="#6b4018" stop-opacity="0.95"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg-jungle-bird)"/>
+  <rect width="400" height="400" fill="url(#glow-jungle-bird)"/>
+  <path d="M155 135h90v95c0 10-8 18-20 18h-50c-12 0-20-8-20-18v-95z" fill="url(#liq-jungle-bird)"/>
+  <g fill="none" stroke="hsl(325 45% 70%)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.95">
+    <path d="M140 95h120v155c0 18-15 32-35 32h-50c-20 0-35-14-35-32V95z"/>
+    
+    
+  </g>
+  
+  <ellipse cx="200" cy="348" rx="72" ry="11" fill="hsl(325 45% 70%)" opacity="0.1"/>
+  <text x="200" y="378" text-anchor="middle" fill="hsl(325 45% 70%)" font-family="Georgia, 'Times New Roman', serif" font-size="15" opacity="0.8">Jungle Bird</text>
+</svg>

@@ -1,0 +1,79 @@
+{
+  "aliases": [],
+  "whyItWorks": "Coconut richness needs extra lime to stay bright.",
+  "classifications": [
+    "modern",
+    "sour"
+  ],
+  "cocktailFamily": "Margarita",
+  "flavorProfiles": [
+    "coconut",
+    "citrus",
+    "agave"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime",
+    "Optional salt"
+  ],
+  "illustrationKey": "coconut-margarita",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 1.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cointreau",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cream_of_coconut",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake hard with ice and strain over fresh ice."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-cristalino",
+      "rank": 1,
+      "rationale": "Smooth tequila under coconut."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "margarita",
+    "pina-colada"
+  ],
+  "seasonality": [
+    "summer"
+  ],
+  "tags": [
+    "tequila",
+    "coconut"
+  ],
+  "id": "coconut-margarita",
+  "slug": "coconut-margarita",
+  "name": "Coconut Margarita",
+  "description": "Margarita with cream of coconut for a tropical rim-optional treat."
+}

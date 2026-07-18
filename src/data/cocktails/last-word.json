@@ -1,0 +1,86 @@
+{
+  "aliases": [],
+  "history": "A Prohibition-era Detroit classic revived in the 2000s. Equal parts is traditional.",
+  "origin": "Detroit",
+  "whyItWorks": "Herbal Chartreuse and cherry maraschino lock with lime and gin.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Last Word",
+  "flavorProfiles": [
+    "herbal",
+    "cherry",
+    "citrus"
+  ],
+  "difficulty": "medium",
+  "preparationTime": 4,
+  "strength": "strong",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Cherry optional"
+  ],
+  "illustrationKey": "last-word",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "green_chartreuse",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "maraschino",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake equal parts with ice.",
+    "Strain into a coupe."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "Botanicals stand up to Chartreuse."
+    },
+    {
+      "bottleId": "luxardo-maraschino",
+      "rank": 2,
+      "rationale": "House maraschino."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "gimlet",
+    "negroni"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "herbal"
+  ],
+  "id": "last-word",
+  "slug": "last-word",
+  "name": "Last Word",
+  "description": "Gin, green Chartreuse, maraschino, and lime—equal parts magic."
+}

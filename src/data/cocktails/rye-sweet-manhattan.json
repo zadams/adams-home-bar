@@ -1,0 +1,84 @@
+{
+  "id": "rye-sweet-manhattan",
+  "slug": "rye-sweet-manhattan",
+  "name": "Rye Manhattan",
+  "aliases": [],
+  "description": "Rye stirred with sweet vermouth and bitters.",
+  "whyItWorks": "Vermouth softens and sweetens; bitters keep the finish dry and aromatic.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Manhattan",
+  "flavorProfiles": [
+    "oak",
+    "herbal",
+    "bittersweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Coupe or Nick & Nora",
+  "ice": "Stirred; served up",
+  "garnish": [
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "rye-sweet-manhattan",
+  "ingredients": [
+    {
+      "ingredientId": "rye",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Stir all ingredients with ice until very cold.",
+    "Strain into a chilled coupe.",
+    "Garnish."
+  ],
+  "techniqueNotes": [
+    "Aim for 20–30 seconds of stirring for the right dilution."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-rye",
+      "rank": 1,
+      "rationale": "Showcases your Rye."
+    },
+    {
+      "bottleId": "barrell-rye",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "elijah-craig-rye",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "manhattan",
+    "stirred",
+    "rye",
+    "whiskey"
+  ]
+}

@@ -1,0 +1,4110 @@
+{
+  "americano": {
+    "src": "/images/cocktails/photos/americano.jpg",
+    "kind": "photo",
+    "glassware": "Highball",
+    "aspectRatio": "4 / 3",
+    "credit": "Americano — TheCocktailDB",
+    "ingredients": [
+      "campari",
+      "sweet_vermouth",
+      "club_soda"
+    ]
+  },
+  "aperol-spritz": {
+    "src": "/images/cocktails/photos/aperol-spritz.jpg",
+    "kind": "photo",
+    "glassware": "Wine glass",
+    "aspectRatio": "4 / 3",
+    "credit": "Aperol Spritz — TheCocktailDB",
+    "ingredients": [
+      "aperol",
+      "prosecco",
+      "club_soda"
+    ]
+  },
+  "apple-vodka-highball": {
+    "src": "/images/cocktails/photos/apple-vodka-highball.jpg",
+    "kind": "photo",
+    "glassware": "Highball",
+    "aspectRatio": "4 / 3",
+    "credit": "Apple Highball — TheCocktailDB",
+    "ingredients": [
+      "apple_vodka",
+      "club_soda"
+    ]
+  },
+  "aquavit-sour": {
+    "src": "/images/cocktails/photos/aquavit-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "Whiskey Sour — TheCocktailDB",
+    "ingredients": [
+      "aquavit",
+      "lemon_juice",
+      "simple_syrup"
+    ]
+  },
+  "aquavit-tonic": {
+    "src": "/images/cocktails/photos/aquavit-tonic.jpg",
+    "kind": "photo",
+    "glassware": "Highball",
+    "aspectRatio": "4 / 3",
+    "credit": "Gin And Tonic — TheCocktailDB",
+    "ingredients": [
+      "aquavit",
+      "tonic_water"
+    ]
+  },
+  "baileys-on-the-rocks": {
+    "src": "/images/cocktails/photos/baileys-on-the-rocks.jpg",
+    "kind": "photo",
+    "glassware": "Rocks",
+    "aspectRatio": "4 / 3",
+    "credit": "Irish Cream — TheCocktailDB",
+    "ingredients": [
+      "baileys"
+    ]
+  },
+  "baileys-peppermint": {
+    "src": "/images/cocktails/photos/baileys-peppermint.jpg",
+    "kind": "photo",
+    "glassware": "Rocks",
+    "aspectRatio": "4 / 3",
+    "credit": "Irish Cream — TheCocktailDB",
+    "ingredients": [
+      "baileys",
+      "peppermint_liqueur"
+    ]
+  },
+  "banana-boulevardier": {
+    "src": "/images/cocktails/photos/banana-boulevardier.jpg",
+    "kind": "photo",
+    "glassware": "Rocks",
+    "aspectRatio": "4 / 3",
+    "credit": "Boulevardier — TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "campari",
+      "sweet_vermouth",
+      "creme_de_banane"
+    ]
+  },
+  "banana-daiquiri": {
+    "src": "/images/cocktails/photos/banana-daiquiri.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "Banana Daiquiri — TheCocktailDB",
+    "ingredients": [
+      "white_rum",
+      "creme_de_banane",
+      "lime_juice",
+      "simple_syrup"
+    ]
+  },
+  "banana-old-fashioned": {
+    "src": "/images/cocktails/photos/banana-old-fashioned.jpg",
+    "kind": "photo",
+    "glassware": "Rocks",
+    "aspectRatio": "4 / 3",
+    "credit": "Old Fashioned — TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "creme_de_banane",
+      "demerara_sugar",
+      "angostura_bitters"
+    ]
+  },
+  "batanga": {
+    "src": "/images/cocktails/photos/batanga.jpg",
+    "kind": "photo",
+    "glassware": "Highball",
+    "aspectRatio": "4 / 3",
+    "credit": "Cuba Libre — TheCocktailDB",
+    "ingredients": [
+      "blanco_tequila",
+      "cola",
+      "lime_juice"
+    ]
+  },
+  "becherovka-tonic": {
+    "src": "/images/cocktails/photos/becherovka-tonic.jpg",
+    "kind": "photo",
+    "glassware": "Highball",
+    "aspectRatio": "4 / 3",
+    "credit": "Gin And Tonic — TheCocktailDB",
+    "ingredients": [
+      "becherovka",
+      "tonic_water"
+    ]
+  },
+  "blueberry-vodka-soda": {
+    "src": "/images/cocktails/photos/blueberry-vodka-soda.jpg",
+    "kind": "photo",
+    "glassware": "Highball",
+    "aspectRatio": "4 / 3",
+    "credit": "Apple Highball — TheCocktailDB",
+    "ingredients": [
+      "blueberry_vodka",
+      "club_soda"
+    ]
+  },
+  "boulevardier": {
+    "src": "/images/cocktails/photos/boulevardier.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "Boulevardier — TheCocktailDB",
+    "ingredients": [
+      "Bourbon or rye",
+      "campari",
+      "sweet_vermouth"
+    ]
+  },
+  "brown-sugar-cinnamon-old-fashioned": {
+    "src": "/images/cocktails/photos/brown-sugar-cinnamon-old-fashioned.jpg",
+    "kind": "photo",
+    "glassware": "Rocks",
+    "aspectRatio": "4 / 3",
+    "credit": "Old Fashioned — TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "brown_sugar_cinnamon_syrup",
+      "angostura_bitters"
+    ]
+  },
+  "cherry-sour": {
+    "src": "/images/cocktails/photos/cherry-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks",
+    "aspectRatio": "4 / 3",
+    "credit": "Whiskey Sour — TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "cherry_liqueur",
+      "lemon_juice",
+      "simple_syrup"
+    ]
+  },
+  "cocoa-old-fashioned": {
+    "src": "/images/cocktails/photos/cocoa-old-fashioned.jpg",
+    "kind": "photo",
+    "glassware": "Rocks",
+    "aspectRatio": "4 / 3",
+    "credit": "Old Fashioned — TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "demerara_sugar",
+      "cocoa_bitters"
+    ]
+  },
+  "coconut-daiquiri": {
+    "src": "/images/cocktails/photos/coconut-daiquiri.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "Daiquiri — TheCocktailDB",
+    "ingredients": [
+      "coconut_rum",
+      "lime_juice",
+      "cream_of_coconut"
+    ]
+  },
+  "coconut-margarita": {
+    "src": "/images/cocktails/photos/coconut-margarita.jpg",
+    "kind": "photo",
+    "glassware": "Rocks",
+    "aspectRatio": "4 / 3",
+    "credit": "Margarita — TheCocktailDB",
+    "ingredients": [
+      "blanco_tequila",
+      "cointreau",
+      "lime_juice",
+      "cream_of_coconut"
+    ]
+  },
+  "corn-n-oil": {
+    "src": "/images/cocktails/photos/corn-n-oil.jpg",
+    "kind": "photo",
+    "glassware": "Rocks",
+    "aspectRatio": "4 / 3",
+    "credit": "Corn n Oil — TheCocktailDB",
+    "ingredients": [
+      "Gold or black rum",
+      "falernum",
+      "lime_juice",
+      "angostura_bitters"
+    ]
+  },
+  "cosmopolitan": {
+    "src": "/images/cocktails/photos/cosmopolitan.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "Cosmopolitan — TheCocktailDB",
+    "ingredients": [
+      "vodka",
+      "cointreau",
+      "lime_juice",
+      "Cranberry juice or syrup to tint"
+    ]
+  },
+  "cuba-libre": {
+    "src": "/images/cocktails/photos/cuba-libre.jpg",
+    "kind": "photo",
+    "glassware": "Highball",
+    "aspectRatio": "4 / 3",
+    "credit": "Cuba Libre — TheCocktailDB",
+    "ingredients": [
+      "white_rum",
+      "cola",
+      "lime_juice"
+    ]
+  },
+  "daiquiri": {
+    "src": "/images/cocktails/photos/daiquiri.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "Daiquiri — TheCocktailDB",
+    "ingredients": [
+      "White or lightly aged rum",
+      "lime_juice",
+      "simple_syrup"
+    ]
+  },
+  "dark-n-stormy": {
+    "src": "/images/cocktails/photos/dark-n-stormy.jpg",
+    "kind": "photo",
+    "glassware": "Highball",
+    "aspectRatio": "4 / 3",
+    "credit": "Dark and Stormy — TheCocktailDB",
+    "ingredients": [
+      "Dark or gold rum",
+      "ginger_beer"
+    ]
+  },
+  "el-presidente": {
+    "src": "/images/cocktails/photos/el-presidente.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "Old Fashioned — TheCocktailDB",
+    "ingredients": [
+      "white_rum",
+      "dry_vermouth",
+      "cointreau"
+    ]
+  },
+  "falernum-daiquiri": {
+    "src": "/images/cocktails/photos/falernum-daiquiri.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "Daiquiri — TheCocktailDB",
+    "ingredients": [
+      "white_rum",
+      "lime_juice",
+      "falernum"
+    ]
+  },
+  "falernum-gin-collins": {
+    "src": "/images/cocktails/photos/falernum-gin-collins.jpg",
+    "kind": "photo",
+    "glassware": "Collins",
+    "aspectRatio": "4 / 3",
+    "credit": "Tom Collins — TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "lemon_juice",
+      "falernum",
+      "club_soda"
+    ]
+  },
+  "fancy-free": {
+    "src": "/images/cocktails/photos/fancy-free.jpg",
+    "kind": "photo",
+    "glassware": "Rocks",
+    "aspectRatio": "4 / 3",
+    "credit": "Old Fashioned — TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "maraschino",
+      "orange_bitters",
+      "angostura_bitters"
+    ]
+  },
+  "french-75": {
+    "src": "/images/cocktails/photos/french-75.jpg",
+    "kind": "photo",
+    "glassware": "Flute or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "French 75 — TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "lemon_juice",
+      "simple_syrup",
+      "prosecco"
+    ]
+  },
+  "gimlet": {
+    "src": "/images/cocktails/photos/gimlet.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "Old Fashioned — TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "lime_juice",
+      "simple_syrup"
+    ]
+  },
+  "gin-and-tonic": {
+    "src": "/images/cocktails/photos/gin-and-tonic.jpg",
+    "kind": "photo",
+    "glassware": "Highball or copa",
+    "aspectRatio": "4 / 3",
+    "credit": "Gin And Tonic — TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "Tonic water (to taste)"
+    ]
+  },
+  "gin-rickey": {
+    "src": "/images/cocktails/photos/gin-rickey.jpg",
+    "kind": "photo",
+    "glassware": "Highball",
+    "aspectRatio": "4 / 3",
+    "credit": "Gin Rickey — TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "lime_juice",
+      "club_soda"
+    ]
+  },
+  "gold-rush": {
+    "src": "/images/cocktails/photos/gold-rush.jpg",
+    "kind": "photo",
+    "glassware": "Rocks",
+    "aspectRatio": "4 / 3",
+    "credit": "Whiskey Sour — TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "lemon_juice",
+      "honey_syrup"
+    ]
+  },
+  "grand-marnier-tonic": {
+    "src": "/images/cocktails/photos/grand-marnier-tonic.jpg",
+    "kind": "photo",
+    "glassware": "Highball or wine glass",
+    "aspectRatio": "4 / 3",
+    "credit": "Gin And Tonic — TheCocktailDB",
+    "ingredients": [
+      "grand_marnier",
+      "tonic_water"
+    ]
+  },
+  "holiday-nog-bourbon": {
+    "src": "/images/cocktails/photos/holiday-nog-bourbon.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or mug",
+    "aspectRatio": "4 / 3",
+    "credit": "Egg Nog #4 — TheCocktailDB",
+    "ingredients": [
+      "Peanut butter holiday nog",
+      "bourbon"
+    ]
+  },
+  "honey-pepper-tonic": {
+    "src": "/images/cocktails/photos/honey-pepper-tonic.jpg",
+    "kind": "photo",
+    "glassware": "Highball",
+    "aspectRatio": "4 / 3",
+    "credit": "Vodka Tonic — TheCocktailDB",
+    "ingredients": [
+      "honey_pepper_vodka",
+      "tonic_water"
+    ]
+  },
+  "improved-whiskey-cocktail": {
+    "src": "/images/cocktails/photos/improved-whiskey-cocktail.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "Old Fashioned — TheCocktailDB",
+    "ingredients": [
+      "Bourbon or rye",
+      "maraschino",
+      "simple_syrup",
+      "angostura_bitters"
+    ]
+  },
+  "jungle-bird": {
+    "src": "/images/cocktails/photos/jungle-bird.jpg",
+    "kind": "photo",
+    "glassware": "Rocks",
+    "aspectRatio": "4 / 3",
+    "credit": "Old Fashioned — TheCocktailDB",
+    "ingredients": [
+      "gold_rum",
+      "campari",
+      "pineapple_juice",
+      "lime_juice",
+      "simple_syrup"
+    ]
+  },
+  "last-word": {
+    "src": "/images/cocktails/photos/last-word.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "The Last Word — TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "green_chartreuse",
+      "maraschino",
+      "lime_juice"
+    ]
+  },
+  "lemon-vodka-tonic": {
+    "src": "/images/cocktails/photos/lemon-vodka-tonic.jpg",
+    "kind": "photo",
+    "glassware": "Highball",
+    "aspectRatio": "4 / 3",
+    "credit": "Vodka Tonic — TheCocktailDB",
+    "ingredients": [
+      "lemon_vodka",
+      "tonic_water"
+    ]
+  },
+  "mai-tai": {
+    "src": "/images/cocktails/photos/mai-tai.jpg",
+    "kind": "photo",
+    "glassware": "Rocks / double old fashioned",
+    "aspectRatio": "4 / 3",
+    "credit": "Mai Tai — TheCocktailDB",
+    "ingredients": [
+      "gold_rum",
+      "lime_juice",
+      "cointreau",
+      "orgeat"
+    ]
+  },
+  "manhattan": {
+    "src": "/images/cocktails/photos/manhattan.jpg",
+    "kind": "photo",
+    "glassware": "Coupe or Nick & Nora",
+    "aspectRatio": "4 / 3",
+    "credit": "Manhattan — TheCocktailDB",
+    "ingredients": [
+      "Rye whiskey (or bourbon)",
+      "sweet_vermouth",
+      "angostura_bitters"
+    ]
+  },
+  "margarita": {
+    "src": "/images/cocktails/photos/margarita.jpg",
+    "kind": "photo",
+    "glassware": "Coupe or rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "Margarita — TheCocktailDB",
+    "ingredients": [
+      "Tequila (cristalino or blanco-style)",
+      "Cointreau",
+      "lime_juice"
+    ]
+  },
+  "martinez": {
+    "src": "/images/cocktails/photos/martinez.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "Martinez 2 — TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "sweet_vermouth",
+      "maraschino",
+      "angostura_bitters"
+    ]
+  },
+  "martini": {
+    "src": "/images/cocktails/photos/martini.jpg",
+    "kind": "photo",
+    "glassware": "Coupe or Martini glass",
+    "aspectRatio": "4 / 3",
+    "credit": "Martini — TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "dry_vermouth"
+    ]
+  },
+  "mint-julep": {
+    "src": "/images/cocktails/photos/mint-julep.jpg",
+    "kind": "photo",
+    "glassware": "Julep cup or rocks",
+    "aspectRatio": "4 / 3",
+    "credit": "Mint Julep — TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "simple_syrup",
+      "Mint leaves"
+    ]
+  },
+  "mojito": {
+    "src": "/images/cocktails/photos/mojito.jpg",
+    "kind": "photo",
+    "glassware": "Highball",
+    "aspectRatio": "4 / 3",
+    "credit": "Mojito — TheCocktailDB",
+    "ingredients": [
+      "white_rum",
+      "lime_juice",
+      "simple_syrup",
+      "Mint leaves",
+      "club_soda"
+    ]
+  },
+  "moscow-mule": {
+    "src": "/images/cocktails/photos/moscow-mule.jpg",
+    "kind": "photo",
+    "glassware": "Copper mug or highball",
+    "aspectRatio": "4 / 3",
+    "credit": "Moscow Mule — TheCocktailDB",
+    "ingredients": [
+      "vodka",
+      "ginger_beer",
+      "lime_juice"
+    ]
+  },
+  "negroni-sbagliato": {
+    "src": "/images/cocktails/photos/negroni-sbagliato.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or wine glass",
+    "aspectRatio": "4 / 3",
+    "credit": "Negroni — TheCocktailDB",
+    "ingredients": [
+      "campari",
+      "sweet_vermouth",
+      "prosecco"
+    ]
+  },
+  "negroni": {
+    "src": "/images/cocktails/photos/negroni.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "Negroni — TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "campari",
+      "sweet_vermouth"
+    ]
+  },
+  "old-fashioned": {
+    "src": "/images/cocktails/photos/old-fashioned.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "Old Fashioned — TheCocktailDB",
+    "ingredients": [
+      "Bourbon (or rye)",
+      "Demerara sugar or ¼ oz rich simple",
+      "angostura_bitters"
+    ]
+  },
+  "paloma": {
+    "src": "/images/cocktails/photos/paloma.jpg",
+    "kind": "photo",
+    "glassware": "Highball",
+    "aspectRatio": "4 / 3",
+    "credit": "Paloma — TheCocktailDB",
+    "ingredients": [
+      "blanco_tequila",
+      "lime_juice",
+      "Grapefruit soda"
+    ]
+  },
+  "paper-plane": {
+    "src": "/images/cocktails/photos/paper-plane.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "Old Fashioned — TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "aperol",
+      "amaro_nonino",
+      "lemon_juice"
+    ]
+  },
+  "peach-collins": {
+    "src": "/images/cocktails/photos/peach-collins.jpg",
+    "kind": "photo",
+    "glassware": "Collins",
+    "aspectRatio": "4 / 3",
+    "credit": "Tom Collins — TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "peach_liqueur",
+      "lemon_juice",
+      "simple_syrup",
+      "club_soda"
+    ]
+  },
+  "peach-vodka-soda": {
+    "src": "/images/cocktails/photos/peach-vodka-soda.jpg",
+    "kind": "photo",
+    "glassware": "Highball",
+    "aspectRatio": "4 / 3",
+    "credit": "Apple Highball — TheCocktailDB",
+    "ingredients": [
+      "peach_vodka",
+      "club_soda"
+    ]
+  },
+  "peach-whiskey-sour": {
+    "src": "/images/cocktails/photos/peach-whiskey-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks",
+    "aspectRatio": "4 / 3",
+    "credit": "Whiskey Sour — TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "peach_liqueur",
+      "lemon_juice",
+      "simple_syrup"
+    ]
+  },
+  "peppermint-bourbon": {
+    "src": "/images/cocktails/photos/peppermint-bourbon.jpg",
+    "kind": "photo",
+    "glassware": "Rocks",
+    "aspectRatio": "4 / 3",
+    "credit": "Old Fashioned — TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "peppermint_liqueur"
+    ]
+  },
+  "pina-colada": {
+    "src": "/images/cocktails/photos/pina-colada.jpg",
+    "kind": "photo",
+    "glassware": "Hurricane or tall glass",
+    "aspectRatio": "4 / 3",
+    "credit": "Pina Colada — TheCocktailDB",
+    "ingredients": [
+      "white_rum",
+      "cream_of_coconut",
+      "pineapple_juice"
+    ]
+  },
+  "ranch-water": {
+    "src": "/images/cocktails/photos/ranch-water.jpg",
+    "kind": "photo",
+    "glassware": "Highball",
+    "aspectRatio": "4 / 3",
+    "credit": "Paloma — TheCocktailDB",
+    "ingredients": [
+      "blanco_tequila",
+      "lime_juice",
+      "club_soda"
+    ]
+  },
+  "rob-roy": {
+    "src": "/images/cocktails/photos/rob-roy.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "Dry Rob Roy — TheCocktailDB",
+    "ingredients": [
+      "scotch",
+      "sweet_vermouth",
+      "angostura_bitters"
+    ]
+  },
+  "royal-bermuda-yacht-club": {
+    "src": "/images/cocktails/photos/royal-bermuda-yacht-club.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "Daiquiri — TheCocktailDB",
+    "ingredients": [
+      "gold_rum",
+      "lime_juice",
+      "cointreau",
+      "falernum"
+    ]
+  },
+  "rum-old-fashioned": {
+    "src": "/images/cocktails/photos/rum-old-fashioned.jpg",
+    "kind": "photo",
+    "glassware": "Rocks",
+    "aspectRatio": "4 / 3",
+    "credit": "Old Fashioned — TheCocktailDB",
+    "ingredients": [
+      "gold_rum",
+      "demerara_sugar",
+      "angostura_bitters"
+    ]
+  },
+  "rum-swizzle": {
+    "src": "/images/cocktails/photos/rum-swizzle.jpg",
+    "kind": "photo",
+    "glassware": "Collins or tall glass",
+    "aspectRatio": "4 / 3",
+    "credit": "Rum Punch — TheCocktailDB",
+    "ingredients": [
+      "gold_rum",
+      "lime_juice",
+      "falernum",
+      "angostura_bitters"
+    ]
+  },
+  "sazerac": {
+    "src": "/images/cocktails/photos/sazerac.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass (no ice in the serve)",
+    "aspectRatio": "4 / 3",
+    "credit": "Sazerac — TheCocktailDB",
+    "ingredients": [
+      "rye",
+      "Sugar or ¼ oz simple syrup",
+      "peychauds_bitters"
+    ]
+  },
+  "scotch-highball": {
+    "src": "/images/cocktails/photos/scotch-highball.jpg",
+    "kind": "photo",
+    "glassware": "Highball",
+    "aspectRatio": "4 / 3",
+    "credit": "Apple Highball — TheCocktailDB",
+    "ingredients": [
+      "scotch",
+      "club_soda"
+    ]
+  },
+  "scotch-old-fashioned": {
+    "src": "/images/cocktails/photos/scotch-old-fashioned.jpg",
+    "kind": "photo",
+    "glassware": "Rocks",
+    "aspectRatio": "4 / 3",
+    "credit": "Old Fashioned — TheCocktailDB",
+    "ingredients": [
+      "scotch",
+      "demerara_sugar",
+      "angostura_bitters"
+    ]
+  },
+  "sidecar-bourbon": {
+    "src": "/images/cocktails/photos/sidecar-bourbon.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "Sidecar — TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "cointreau",
+      "lemon_juice"
+    ]
+  },
+  "southside-fizz": {
+    "src": "/images/cocktails/photos/southside-fizz.jpg",
+    "kind": "photo",
+    "glassware": "Highball",
+    "aspectRatio": "4 / 3",
+    "credit": "Old Fashioned — TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "lime_juice",
+      "simple_syrup",
+      "mint",
+      "club_soda"
+    ]
+  },
+  "southside": {
+    "src": "/images/cocktails/photos/southside.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "Old Fashioned — TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "lime_juice",
+      "simple_syrup",
+      "Mint leaves"
+    ]
+  },
+  "spiced-rum-cola": {
+    "src": "/images/cocktails/photos/spiced-rum-cola.jpg",
+    "kind": "photo",
+    "glassware": "Highball",
+    "aspectRatio": "4 / 3",
+    "credit": "Cuba Libre — TheCocktailDB",
+    "ingredients": [
+      "spiced_rum",
+      "cola",
+      "lime_juice"
+    ]
+  },
+  "tequila-old-fashioned": {
+    "src": "/images/cocktails/photos/tequila-old-fashioned.jpg",
+    "kind": "photo",
+    "glassware": "Rocks",
+    "aspectRatio": "4 / 3",
+    "credit": "Old Fashioned — TheCocktailDB",
+    "ingredients": [
+      "anejo_tequila",
+      "agave_syrup",
+      "angostura_bitters"
+    ]
+  },
+  "tom-collins": {
+    "src": "/images/cocktails/photos/tom-collins.jpg",
+    "kind": "photo",
+    "glassware": "Collins glass",
+    "aspectRatio": "4 / 3",
+    "credit": "Tom Collins — TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "lemon_juice",
+      "simple_syrup",
+      "club_soda"
+    ]
+  },
+  "tommys-margarita": {
+    "src": "/images/cocktails/photos/tommys-margarita.jpg",
+    "kind": "photo",
+    "glassware": "Rocks",
+    "aspectRatio": "4 / 3",
+    "credit": "Margarita — TheCocktailDB",
+    "ingredients": [
+      "blanco_tequila",
+      "lime_juice",
+      "agave_syrup"
+    ]
+  },
+  "vieux-carre": {
+    "src": "/images/cocktails/photos/vieux-carre.jpg",
+    "kind": "photo",
+    "glassware": "Rocks",
+    "aspectRatio": "4 / 3",
+    "credit": "Old Fashioned — TheCocktailDB",
+    "ingredients": [
+      "rye",
+      "cognac",
+      "sweet_vermouth",
+      "benedictine",
+      "peychauds_bitters",
+      "angostura_bitters"
+    ]
+  },
+  "vodka-gimlet": {
+    "src": "/images/cocktails/photos/vodka-gimlet.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "Old Fashioned — TheCocktailDB",
+    "ingredients": [
+      "vodka",
+      "lime_juice",
+      "simple_syrup"
+    ]
+  },
+  "vodka-soda": {
+    "src": "/images/cocktails/photos/vodka-soda.jpg",
+    "kind": "photo",
+    "glassware": "Highball",
+    "aspectRatio": "4 / 3",
+    "credit": "Vodka And Tonic — TheCocktailDB",
+    "ingredients": [
+      "vodka",
+      "club_soda"
+    ]
+  },
+  "vodka-tonic": {
+    "src": "/images/cocktails/photos/vodka-tonic.jpg",
+    "kind": "photo",
+    "glassware": "Highball",
+    "aspectRatio": "4 / 3",
+    "credit": "Vodka Tonic — TheCocktailDB",
+    "ingredients": [
+      "vodka",
+      "tonic_water"
+    ]
+  },
+  "whiskey-highball": {
+    "src": "/images/cocktails/photos/whiskey-highball.jpg",
+    "kind": "photo",
+    "glassware": "Highball",
+    "aspectRatio": "4 / 3",
+    "credit": "Apple Highball — TheCocktailDB",
+    "ingredients": [
+      "Bourbon or rye",
+      "club_soda"
+    ]
+  },
+  "whiskey-sour": {
+    "src": "/images/cocktails/photos/whiskey-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "Whiskey Sour — TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "lemon_juice",
+      "simple_syrup"
+    ]
+  },
+  "white-lady": {
+    "src": "/images/cocktails/photos/white-lady.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "White Lady — TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "cointreau",
+      "lemon_juice"
+    ]
+  },
+  "bourbon-of-angostura": {
+    "src": "/images/cocktails/photos/bourbon-of-angostura.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "simple_syrup",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/old-fashioned.jpg"
+  },
+  "bourbon-of-orange-bitters": {
+    "src": "/images/cocktails/photos/bourbon-of-orange-bitters.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "simple_syrup",
+      "orange_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/old-fashioned.jpg"
+  },
+  "bourbon-of-cocoa": {
+    "src": "/images/cocktails/photos/bourbon-of-cocoa.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "simple_syrup",
+      "cocoa_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/cocoa-old-fashioned.jpg"
+  },
+  "bourbon-of-brown-sugar": {
+    "src": "/images/cocktails/photos/bourbon-of-brown-sugar.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "brown_sugar_cinnamon_syrup",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/brown-sugar-cinnamon-old-fashioned.jpg"
+  },
+  "bourbon-lemon-sour": {
+    "src": "/images/cocktails/photos/bourbon-lemon-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "lemon_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/whiskey-sour.jpg"
+  },
+  "bourbon-collins": {
+    "src": "/images/cocktails/photos/bourbon-collins.jpg",
+    "kind": "photo",
+    "glassware": "Collins glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "lemon_juice",
+      "simple_syrup",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/tom-collins.jpg"
+  },
+  "bourbon-soda-highball": {
+    "src": "/images/cocktails/photos/bourbon-soda-highball.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/whiskey-highball.jpg"
+  },
+  "bourbon-cola": {
+    "src": "/images/cocktails/photos/bourbon-cola.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "cola"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/cuba-libre.jpg"
+  },
+  "bourbon-rickey": {
+    "src": "/images/cocktails/photos/bourbon-rickey.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "lime_juice",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/gin-rickey.jpg"
+  },
+  "bourbon-negroni-style": {
+    "src": "/images/cocktails/photos/bourbon-negroni-style.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "campari",
+      "sweet_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/boulevardier.jpg"
+  },
+  "bourbon-sweet-manhattan": {
+    "src": "/images/cocktails/photos/bourbon-sweet-manhattan.jpg",
+    "kind": "photo",
+    "glassware": "Coupe or Nick & Nora",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "sweet_vermouth",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/manhattan.jpg"
+  },
+  "bourbon-perfect-manhattan": {
+    "src": "/images/cocktails/photos/bourbon-perfect-manhattan.jpg",
+    "kind": "photo",
+    "glassware": "Coupe or Nick & Nora",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "sweet_vermouth",
+      "angostura_bitters",
+      "dry_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/manhattan.jpg"
+  },
+  "bourbon-dry-manhattan": {
+    "src": "/images/cocktails/photos/bourbon-dry-manhattan.jpg",
+    "kind": "photo",
+    "glassware": "Coupe or Nick & Nora",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "dry_vermouth",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/manhattan.jpg"
+  },
+  "rye-of-angostura": {
+    "src": "/images/cocktails/photos/rye-of-angostura.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "rye",
+      "simple_syrup",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/old-fashioned.jpg"
+  },
+  "rye-of-orange-bitters": {
+    "src": "/images/cocktails/photos/rye-of-orange-bitters.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "rye",
+      "simple_syrup",
+      "orange_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/old-fashioned.jpg"
+  },
+  "rye-of-cocoa": {
+    "src": "/images/cocktails/photos/rye-of-cocoa.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "rye",
+      "simple_syrup",
+      "cocoa_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/cocoa-old-fashioned.jpg"
+  },
+  "rye-of-brown-sugar": {
+    "src": "/images/cocktails/photos/rye-of-brown-sugar.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "rye",
+      "brown_sugar_cinnamon_syrup",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/brown-sugar-cinnamon-old-fashioned.jpg"
+  },
+  "rye-lemon-sour": {
+    "src": "/images/cocktails/photos/rye-lemon-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "rye",
+      "lemon_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/whiskey-sour.jpg"
+  },
+  "rye-collins": {
+    "src": "/images/cocktails/photos/rye-collins.jpg",
+    "kind": "photo",
+    "glassware": "Collins glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "rye",
+      "lemon_juice",
+      "simple_syrup",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/tom-collins.jpg"
+  },
+  "rye-soda-highball": {
+    "src": "/images/cocktails/photos/rye-soda-highball.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "rye",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/whiskey-highball.jpg"
+  },
+  "rye-cola": {
+    "src": "/images/cocktails/photos/rye-cola.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "rye",
+      "cola"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/cuba-libre.jpg"
+  },
+  "rye-rickey": {
+    "src": "/images/cocktails/photos/rye-rickey.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "rye",
+      "lime_juice",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/gin-rickey.jpg"
+  },
+  "rye-negroni-style": {
+    "src": "/images/cocktails/photos/rye-negroni-style.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "rye",
+      "campari",
+      "sweet_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/boulevardier.jpg"
+  },
+  "rye-sweet-manhattan": {
+    "src": "/images/cocktails/photos/rye-sweet-manhattan.jpg",
+    "kind": "photo",
+    "glassware": "Coupe or Nick & Nora",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "rye",
+      "sweet_vermouth",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/manhattan.jpg"
+  },
+  "rye-perfect-manhattan": {
+    "src": "/images/cocktails/photos/rye-perfect-manhattan.jpg",
+    "kind": "photo",
+    "glassware": "Coupe or Nick & Nora",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "rye",
+      "sweet_vermouth",
+      "angostura_bitters",
+      "dry_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/manhattan.jpg"
+  },
+  "rye-dry-manhattan": {
+    "src": "/images/cocktails/photos/rye-dry-manhattan.jpg",
+    "kind": "photo",
+    "glassware": "Coupe or Nick & Nora",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "rye",
+      "dry_vermouth",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/manhattan.jpg"
+  },
+  "scotch-of-angostura": {
+    "src": "/images/cocktails/photos/scotch-of-angostura.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "scotch",
+      "simple_syrup",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/scotch-old-fashioned.jpg"
+  },
+  "scotch-of-orange-bitters": {
+    "src": "/images/cocktails/photos/scotch-of-orange-bitters.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "scotch",
+      "simple_syrup",
+      "orange_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/old-fashioned.jpg"
+  },
+  "scotch-of-cocoa": {
+    "src": "/images/cocktails/photos/scotch-of-cocoa.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "scotch",
+      "simple_syrup",
+      "cocoa_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/cocoa-old-fashioned.jpg"
+  },
+  "scotch-of-brown-sugar": {
+    "src": "/images/cocktails/photos/scotch-of-brown-sugar.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "scotch",
+      "brown_sugar_cinnamon_syrup",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/brown-sugar-cinnamon-old-fashioned.jpg"
+  },
+  "scotch-lemon-sour": {
+    "src": "/images/cocktails/photos/scotch-lemon-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "scotch",
+      "lemon_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/whiskey-sour.jpg"
+  },
+  "scotch-collins": {
+    "src": "/images/cocktails/photos/scotch-collins.jpg",
+    "kind": "photo",
+    "glassware": "Collins glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "scotch",
+      "lemon_juice",
+      "simple_syrup",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/tom-collins.jpg"
+  },
+  "scotch-soda-highball": {
+    "src": "/images/cocktails/photos/scotch-soda-highball.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "scotch",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/scotch-highball.jpg"
+  },
+  "scotch-cola": {
+    "src": "/images/cocktails/photos/scotch-cola.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "scotch",
+      "cola"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/cuba-libre.jpg"
+  },
+  "scotch-rickey": {
+    "src": "/images/cocktails/photos/scotch-rickey.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "scotch",
+      "lime_juice",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/gin-rickey.jpg"
+  },
+  "scotch-negroni-style": {
+    "src": "/images/cocktails/photos/scotch-negroni-style.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "scotch",
+      "campari",
+      "sweet_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/boulevardier.jpg"
+  },
+  "scotch-sweet-manhattan": {
+    "src": "/images/cocktails/photos/scotch-sweet-manhattan.jpg",
+    "kind": "photo",
+    "glassware": "Coupe or Nick & Nora",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "scotch",
+      "sweet_vermouth",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/rob-roy.jpg"
+  },
+  "scotch-perfect-manhattan": {
+    "src": "/images/cocktails/photos/scotch-perfect-manhattan.jpg",
+    "kind": "photo",
+    "glassware": "Coupe or Nick & Nora",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "scotch",
+      "sweet_vermouth",
+      "angostura_bitters",
+      "dry_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/manhattan.jpg"
+  },
+  "scotch-dry-manhattan": {
+    "src": "/images/cocktails/photos/scotch-dry-manhattan.jpg",
+    "kind": "photo",
+    "glassware": "Coupe or Nick & Nora",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "scotch",
+      "dry_vermouth",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/manhattan.jpg"
+  },
+  "gin-old-fashioned": {
+    "src": "/images/cocktails/photos/gin-old-fashioned.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "simple_syrup",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/old-fashioned.jpg"
+  },
+  "gin-sour": {
+    "src": "/images/cocktails/photos/gin-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "lemon_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/white-lady.jpg"
+  },
+  "gin-lime-sour": {
+    "src": "/images/cocktails/photos/gin-lime-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/daiquiri.jpg"
+  },
+  "gin-collins": {
+    "src": "/images/cocktails/photos/gin-collins.jpg",
+    "kind": "photo",
+    "glassware": "Collins glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "lemon_juice",
+      "simple_syrup",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/tom-collins.jpg"
+  },
+  "gin-soda": {
+    "src": "/images/cocktails/photos/gin-soda.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/vodka-soda.jpg"
+  },
+  "gin-tonic-build": {
+    "src": "/images/cocktails/photos/gin-tonic-build.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "tonic_water"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/gin-and-tonic.jpg"
+  },
+  "gin-gimlet-build": {
+    "src": "/images/cocktails/photos/gin-gimlet-build.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/gimlet.jpg"
+  },
+  "gin-negroni-build": {
+    "src": "/images/cocktails/photos/gin-negroni-build.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "campari",
+      "sweet_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/negroni.jpg"
+  },
+  "gin-martini-build": {
+    "src": "/images/cocktails/photos/gin-martini-build.jpg",
+    "kind": "photo",
+    "glassware": "Martini glass or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "dry_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/martini.jpg"
+  },
+  "gin-wet-martini": {
+    "src": "/images/cocktails/photos/gin-wet-martini.jpg",
+    "kind": "photo",
+    "glassware": "Martini glass or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "dry_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/martini.jpg"
+  },
+  "gin-dry-martini-build": {
+    "src": "/images/cocktails/photos/gin-dry-martini-build.jpg",
+    "kind": "photo",
+    "glassware": "Martini glass or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "dry_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/martini.jpg"
+  },
+  "vodka-old-fashioned": {
+    "src": "/images/cocktails/photos/vodka-old-fashioned.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "vodka",
+      "simple_syrup",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/old-fashioned.jpg"
+  },
+  "vodka-sour": {
+    "src": "/images/cocktails/photos/vodka-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "vodka",
+      "lemon_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/whiskey-sour.jpg"
+  },
+  "vodka-lime-sour": {
+    "src": "/images/cocktails/photos/vodka-lime-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "vodka",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/daiquiri.jpg"
+  },
+  "vodka-collins": {
+    "src": "/images/cocktails/photos/vodka-collins.jpg",
+    "kind": "photo",
+    "glassware": "Collins glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "vodka",
+      "lemon_juice",
+      "simple_syrup",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/tom-collins.jpg"
+  },
+  "vodka-tonic-build": {
+    "src": "/images/cocktails/photos/vodka-tonic-build.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "vodka",
+      "tonic_water"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/vodka-tonic.jpg"
+  },
+  "vodka-rickey": {
+    "src": "/images/cocktails/photos/vodka-rickey.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "vodka",
+      "lime_juice",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/gin-rickey.jpg"
+  },
+  "vodka-gimlet-build": {
+    "src": "/images/cocktails/photos/vodka-gimlet-build.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "vodka",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/vodka-gimlet.jpg"
+  },
+  "vodka-negroni-build": {
+    "src": "/images/cocktails/photos/vodka-negroni-build.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "vodka",
+      "campari",
+      "sweet_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/negroni.jpg"
+  },
+  "vodka-martini-build": {
+    "src": "/images/cocktails/photos/vodka-martini-build.jpg",
+    "kind": "photo",
+    "glassware": "Martini glass or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "vodka",
+      "dry_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/martini.jpg"
+  },
+  "vodka-wet-martini": {
+    "src": "/images/cocktails/photos/vodka-wet-martini.jpg",
+    "kind": "photo",
+    "glassware": "Martini glass or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "vodka",
+      "dry_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/martini.jpg"
+  },
+  "vodka-dry-martini-build": {
+    "src": "/images/cocktails/photos/vodka-dry-martini-build.jpg",
+    "kind": "photo",
+    "glassware": "Martini glass or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "vodka",
+      "dry_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/martini.jpg"
+  },
+  "aquavit-old-fashioned": {
+    "src": "/images/cocktails/photos/aquavit-old-fashioned.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "aquavit",
+      "simple_syrup",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/old-fashioned.jpg"
+  },
+  "aquavit-lime-sour": {
+    "src": "/images/cocktails/photos/aquavit-lime-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "aquavit",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/daiquiri.jpg"
+  },
+  "aquavit-collins": {
+    "src": "/images/cocktails/photos/aquavit-collins.jpg",
+    "kind": "photo",
+    "glassware": "Collins glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "aquavit",
+      "lemon_juice",
+      "simple_syrup",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/tom-collins.jpg"
+  },
+  "aquavit-soda": {
+    "src": "/images/cocktails/photos/aquavit-soda.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "aquavit",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/vodka-soda.jpg"
+  },
+  "aquavit-tonic-build": {
+    "src": "/images/cocktails/photos/aquavit-tonic-build.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "aquavit",
+      "tonic_water"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/vodka-tonic.jpg"
+  },
+  "aquavit-rickey": {
+    "src": "/images/cocktails/photos/aquavit-rickey.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "aquavit",
+      "lime_juice",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/gin-rickey.jpg"
+  },
+  "aquavit-gimlet-build": {
+    "src": "/images/cocktails/photos/aquavit-gimlet-build.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "aquavit",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/gimlet.jpg"
+  },
+  "aquavit-negroni-build": {
+    "src": "/images/cocktails/photos/aquavit-negroni-build.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "aquavit",
+      "campari",
+      "sweet_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/negroni.jpg"
+  },
+  "aquavit-martini-build": {
+    "src": "/images/cocktails/photos/aquavit-martini-build.jpg",
+    "kind": "photo",
+    "glassware": "Martini glass or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "aquavit",
+      "dry_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/martini.jpg"
+  },
+  "aquavit-wet-martini": {
+    "src": "/images/cocktails/photos/aquavit-wet-martini.jpg",
+    "kind": "photo",
+    "glassware": "Martini glass or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "aquavit",
+      "dry_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/martini.jpg"
+  },
+  "aquavit-dry-martini-build": {
+    "src": "/images/cocktails/photos/aquavit-dry-martini-build.jpg",
+    "kind": "photo",
+    "glassware": "Martini glass or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "aquavit",
+      "dry_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/martini.jpg"
+  },
+  "white_rum-old-fashioned-build": {
+    "src": "/images/cocktails/photos/white_rum-old-fashioned-build.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "white_rum",
+      "simple_syrup",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/rum-old-fashioned.jpg"
+  },
+  "white_rum-sour": {
+    "src": "/images/cocktails/photos/white_rum-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "white_rum",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/daiquiri.jpg"
+  },
+  "white_rum-collins": {
+    "src": "/images/cocktails/photos/white_rum-collins.jpg",
+    "kind": "photo",
+    "glassware": "Collins glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "white_rum",
+      "lime_juice",
+      "simple_syrup",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/mojito.jpg"
+  },
+  "white_rum-soda": {
+    "src": "/images/cocktails/photos/white_rum-soda.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "white_rum",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/cuba-libre.jpg"
+  },
+  "white_rum-tonic": {
+    "src": "/images/cocktails/photos/white_rum-tonic.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "white_rum",
+      "tonic_water"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/gin-and-tonic.jpg"
+  },
+  "white_rum-cola-highball": {
+    "src": "/images/cocktails/photos/white_rum-cola-highball.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "white_rum",
+      "cola"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/cuba-libre.jpg"
+  },
+  "white-rum-rickey": {
+    "src": "/images/cocktails/photos/white-rum-rickey.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "white_rum",
+      "lime_juice",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/gin-rickey.jpg"
+  },
+  "white_rum-gimlet": {
+    "src": "/images/cocktails/photos/white_rum-gimlet.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "white_rum",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/daiquiri.jpg"
+  },
+  "white_rum-negroni": {
+    "src": "/images/cocktails/photos/white_rum-negroni.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "white_rum",
+      "campari",
+      "sweet_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/negroni.jpg"
+  },
+  "gold_rum-old-fashioned-build": {
+    "src": "/images/cocktails/photos/gold_rum-old-fashioned-build.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gold_rum",
+      "simple_syrup",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/rum-old-fashioned.jpg"
+  },
+  "gold_rum-sour": {
+    "src": "/images/cocktails/photos/gold_rum-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gold_rum",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/daiquiri.jpg"
+  },
+  "gold_rum-collins": {
+    "src": "/images/cocktails/photos/gold_rum-collins.jpg",
+    "kind": "photo",
+    "glassware": "Collins glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gold_rum",
+      "lime_juice",
+      "simple_syrup",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/mojito.jpg"
+  },
+  "gold_rum-soda": {
+    "src": "/images/cocktails/photos/gold_rum-soda.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gold_rum",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/cuba-libre.jpg"
+  },
+  "gold_rum-tonic": {
+    "src": "/images/cocktails/photos/gold_rum-tonic.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gold_rum",
+      "tonic_water"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/gin-and-tonic.jpg"
+  },
+  "gold_rum-cola-highball": {
+    "src": "/images/cocktails/photos/gold_rum-cola-highball.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gold_rum",
+      "cola"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/cuba-libre.jpg"
+  },
+  "gold-rum-rickey": {
+    "src": "/images/cocktails/photos/gold-rum-rickey.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gold_rum",
+      "lime_juice",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/gin-rickey.jpg"
+  },
+  "gold_rum-gimlet": {
+    "src": "/images/cocktails/photos/gold_rum-gimlet.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gold_rum",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/daiquiri.jpg"
+  },
+  "gold_rum-negroni": {
+    "src": "/images/cocktails/photos/gold_rum-negroni.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gold_rum",
+      "campari",
+      "sweet_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/negroni.jpg"
+  },
+  "spiced_rum-old-fashioned-build": {
+    "src": "/images/cocktails/photos/spiced_rum-old-fashioned-build.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "spiced_rum",
+      "simple_syrup",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/rum-old-fashioned.jpg"
+  },
+  "spiced_rum-sour": {
+    "src": "/images/cocktails/photos/spiced_rum-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "spiced_rum",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/daiquiri.jpg"
+  },
+  "spiced_rum-collins": {
+    "src": "/images/cocktails/photos/spiced_rum-collins.jpg",
+    "kind": "photo",
+    "glassware": "Collins glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "spiced_rum",
+      "lime_juice",
+      "simple_syrup",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/mojito.jpg"
+  },
+  "spiced_rum-soda": {
+    "src": "/images/cocktails/photos/spiced_rum-soda.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "spiced_rum",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/cuba-libre.jpg"
+  },
+  "spiced_rum-tonic": {
+    "src": "/images/cocktails/photos/spiced_rum-tonic.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "spiced_rum",
+      "tonic_water"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/gin-and-tonic.jpg"
+  },
+  "spiced_rum-cola-highball": {
+    "src": "/images/cocktails/photos/spiced_rum-cola-highball.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "spiced_rum",
+      "cola"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/cuba-libre.jpg"
+  },
+  "spiced-rum-rickey": {
+    "src": "/images/cocktails/photos/spiced-rum-rickey.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "spiced_rum",
+      "lime_juice",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/gin-rickey.jpg"
+  },
+  "spiced_rum-gimlet": {
+    "src": "/images/cocktails/photos/spiced_rum-gimlet.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "spiced_rum",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/daiquiri.jpg"
+  },
+  "spiced_rum-negroni": {
+    "src": "/images/cocktails/photos/spiced_rum-negroni.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "spiced_rum",
+      "campari",
+      "sweet_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/negroni.jpg"
+  },
+  "coconut_rum-old-fashioned-build": {
+    "src": "/images/cocktails/photos/coconut_rum-old-fashioned-build.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "coconut_rum",
+      "simple_syrup",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/rum-old-fashioned.jpg"
+  },
+  "coconut_rum-sour": {
+    "src": "/images/cocktails/photos/coconut_rum-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "coconut_rum",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/daiquiri.jpg"
+  },
+  "coconut_rum-collins": {
+    "src": "/images/cocktails/photos/coconut_rum-collins.jpg",
+    "kind": "photo",
+    "glassware": "Collins glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "coconut_rum",
+      "lime_juice",
+      "simple_syrup",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/mojito.jpg"
+  },
+  "coconut_rum-soda": {
+    "src": "/images/cocktails/photos/coconut_rum-soda.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "coconut_rum",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/cuba-libre.jpg"
+  },
+  "coconut_rum-tonic": {
+    "src": "/images/cocktails/photos/coconut_rum-tonic.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "coconut_rum",
+      "tonic_water"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/gin-and-tonic.jpg"
+  },
+  "coconut_rum-cola-highball": {
+    "src": "/images/cocktails/photos/coconut_rum-cola-highball.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "coconut_rum",
+      "cola"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/cuba-libre.jpg"
+  },
+  "coconut-rum-rickey": {
+    "src": "/images/cocktails/photos/coconut-rum-rickey.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "coconut_rum",
+      "lime_juice",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/gin-rickey.jpg"
+  },
+  "coconut_rum-gimlet": {
+    "src": "/images/cocktails/photos/coconut_rum-gimlet.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "coconut_rum",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/daiquiri.jpg"
+  },
+  "coconut_rum-negroni": {
+    "src": "/images/cocktails/photos/coconut_rum-negroni.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "coconut_rum",
+      "campari",
+      "sweet_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/negroni.jpg"
+  },
+  "blanco_tequila-of-build": {
+    "src": "/images/cocktails/photos/blanco_tequila-of-build.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "blanco_tequila",
+      "agave_syrup",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/tequila-old-fashioned.jpg"
+  },
+  "blanco_tequila-sour": {
+    "src": "/images/cocktails/photos/blanco_tequila-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "blanco_tequila",
+      "lime_juice",
+      "agave_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/margarita.jpg"
+  },
+  "blanco_tequila-collins": {
+    "src": "/images/cocktails/photos/blanco_tequila-collins.jpg",
+    "kind": "photo",
+    "glassware": "Collins glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "blanco_tequila",
+      "lime_juice",
+      "simple_syrup",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/ranch-water.jpg"
+  },
+  "blanco_tequila-soda": {
+    "src": "/images/cocktails/photos/blanco_tequila-soda.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "blanco_tequila",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/ranch-water.jpg"
+  },
+  "blanco_tequila-tonic": {
+    "src": "/images/cocktails/photos/blanco_tequila-tonic.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "blanco_tequila",
+      "tonic_water"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/gin-and-tonic.jpg"
+  },
+  "blanco-tequila-rickey": {
+    "src": "/images/cocktails/photos/blanco-tequila-rickey.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "blanco_tequila",
+      "lime_juice",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/ranch-water.jpg"
+  },
+  "blanco_tequila-negroni": {
+    "src": "/images/cocktails/photos/blanco_tequila-negroni.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "blanco_tequila",
+      "campari",
+      "sweet_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/negroni.jpg"
+  },
+  "blanco_tequila-martini": {
+    "src": "/images/cocktails/photos/blanco_tequila-martini.jpg",
+    "kind": "photo",
+    "glassware": "Martini glass or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "blanco_tequila",
+      "dry_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/martini.jpg"
+  },
+  "anejo_tequila-of-build": {
+    "src": "/images/cocktails/photos/anejo_tequila-of-build.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "anejo_tequila",
+      "agave_syrup",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/tequila-old-fashioned.jpg"
+  },
+  "anejo_tequila-sour": {
+    "src": "/images/cocktails/photos/anejo_tequila-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "anejo_tequila",
+      "lime_juice",
+      "agave_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/margarita.jpg"
+  },
+  "anejo_tequila-collins": {
+    "src": "/images/cocktails/photos/anejo_tequila-collins.jpg",
+    "kind": "photo",
+    "glassware": "Collins glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "anejo_tequila",
+      "lime_juice",
+      "simple_syrup",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/ranch-water.jpg"
+  },
+  "anejo_tequila-soda": {
+    "src": "/images/cocktails/photos/anejo_tequila-soda.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "anejo_tequila",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/ranch-water.jpg"
+  },
+  "anejo_tequila-tonic": {
+    "src": "/images/cocktails/photos/anejo_tequila-tonic.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "anejo_tequila",
+      "tonic_water"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/gin-and-tonic.jpg"
+  },
+  "anejo-tequila-rickey": {
+    "src": "/images/cocktails/photos/anejo-tequila-rickey.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "anejo_tequila",
+      "lime_juice",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/ranch-water.jpg"
+  },
+  "anejo_tequila-negroni": {
+    "src": "/images/cocktails/photos/anejo_tequila-negroni.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "anejo_tequila",
+      "campari",
+      "sweet_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/negroni.jpg"
+  },
+  "anejo_tequila-martini": {
+    "src": "/images/cocktails/photos/anejo_tequila-martini.jpg",
+    "kind": "photo",
+    "glassware": "Martini glass or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "anejo_tequila",
+      "dry_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/martini.jpg"
+  },
+  "apple_vodka-sour": {
+    "src": "/images/cocktails/photos/apple_vodka-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "apple_vodka",
+      "lemon_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/whiskey-sour.jpg"
+  },
+  "apple_vodka-lime-sour": {
+    "src": "/images/cocktails/photos/apple_vodka-lime-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "apple_vodka",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/daiquiri.jpg"
+  },
+  "apple_vodka-collins": {
+    "src": "/images/cocktails/photos/apple_vodka-collins.jpg",
+    "kind": "photo",
+    "glassware": "Collins glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "apple_vodka",
+      "lemon_juice",
+      "simple_syrup",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/tom-collins.jpg"
+  },
+  "apple_vodka-soda-build": {
+    "src": "/images/cocktails/photos/apple_vodka-soda-build.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "apple_vodka",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/vodka-soda.jpg"
+  },
+  "apple_vodka-tonic-build": {
+    "src": "/images/cocktails/photos/apple_vodka-tonic-build.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "apple_vodka",
+      "tonic_water"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/vodka-tonic.jpg"
+  },
+  "apple_vodka-gimlet": {
+    "src": "/images/cocktails/photos/apple_vodka-gimlet.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "apple_vodka",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/vodka-gimlet.jpg"
+  },
+  "apple_vodka-martini": {
+    "src": "/images/cocktails/photos/apple_vodka-martini.jpg",
+    "kind": "photo",
+    "glassware": "Martini glass or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "apple_vodka",
+      "dry_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/martini.jpg"
+  },
+  "blueberry_vodka-sour": {
+    "src": "/images/cocktails/photos/blueberry_vodka-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "blueberry_vodka",
+      "lemon_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/whiskey-sour.jpg"
+  },
+  "blueberry_vodka-lime-sour": {
+    "src": "/images/cocktails/photos/blueberry_vodka-lime-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "blueberry_vodka",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/daiquiri.jpg"
+  },
+  "blueberry_vodka-collins": {
+    "src": "/images/cocktails/photos/blueberry_vodka-collins.jpg",
+    "kind": "photo",
+    "glassware": "Collins glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "blueberry_vodka",
+      "lemon_juice",
+      "simple_syrup",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/tom-collins.jpg"
+  },
+  "blueberry_vodka-soda-build": {
+    "src": "/images/cocktails/photos/blueberry_vodka-soda-build.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "blueberry_vodka",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/vodka-soda.jpg"
+  },
+  "blueberry_vodka-tonic-build": {
+    "src": "/images/cocktails/photos/blueberry_vodka-tonic-build.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "blueberry_vodka",
+      "tonic_water"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/vodka-tonic.jpg"
+  },
+  "blueberry_vodka-gimlet": {
+    "src": "/images/cocktails/photos/blueberry_vodka-gimlet.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "blueberry_vodka",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/vodka-gimlet.jpg"
+  },
+  "blueberry_vodka-martini": {
+    "src": "/images/cocktails/photos/blueberry_vodka-martini.jpg",
+    "kind": "photo",
+    "glassware": "Martini glass or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "blueberry_vodka",
+      "dry_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/martini.jpg"
+  },
+  "lemon_vodka-sour": {
+    "src": "/images/cocktails/photos/lemon_vodka-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "lemon_vodka",
+      "lemon_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/whiskey-sour.jpg"
+  },
+  "lemon_vodka-lime-sour": {
+    "src": "/images/cocktails/photos/lemon_vodka-lime-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "lemon_vodka",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/daiquiri.jpg"
+  },
+  "lemon_vodka-collins": {
+    "src": "/images/cocktails/photos/lemon_vodka-collins.jpg",
+    "kind": "photo",
+    "glassware": "Collins glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "lemon_vodka",
+      "lemon_juice",
+      "simple_syrup",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/tom-collins.jpg"
+  },
+  "lemon_vodka-soda-build": {
+    "src": "/images/cocktails/photos/lemon_vodka-soda-build.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "lemon_vodka",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/vodka-soda.jpg"
+  },
+  "lemon_vodka-tonic-build": {
+    "src": "/images/cocktails/photos/lemon_vodka-tonic-build.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "lemon_vodka",
+      "tonic_water"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/vodka-tonic.jpg"
+  },
+  "lemon_vodka-gimlet": {
+    "src": "/images/cocktails/photos/lemon_vodka-gimlet.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "lemon_vodka",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/vodka-gimlet.jpg"
+  },
+  "lemon_vodka-martini": {
+    "src": "/images/cocktails/photos/lemon_vodka-martini.jpg",
+    "kind": "photo",
+    "glassware": "Martini glass or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "lemon_vodka",
+      "dry_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/martini.jpg"
+  },
+  "peach_vodka-sour": {
+    "src": "/images/cocktails/photos/peach_vodka-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "peach_vodka",
+      "lemon_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/whiskey-sour.jpg"
+  },
+  "peach_vodka-lime-sour": {
+    "src": "/images/cocktails/photos/peach_vodka-lime-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "peach_vodka",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/daiquiri.jpg"
+  },
+  "peach_vodka-collins": {
+    "src": "/images/cocktails/photos/peach_vodka-collins.jpg",
+    "kind": "photo",
+    "glassware": "Collins glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "peach_vodka",
+      "lemon_juice",
+      "simple_syrup",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/tom-collins.jpg"
+  },
+  "peach_vodka-soda-build": {
+    "src": "/images/cocktails/photos/peach_vodka-soda-build.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "peach_vodka",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/vodka-soda.jpg"
+  },
+  "peach_vodka-tonic-build": {
+    "src": "/images/cocktails/photos/peach_vodka-tonic-build.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "peach_vodka",
+      "tonic_water"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/vodka-tonic.jpg"
+  },
+  "peach_vodka-gimlet": {
+    "src": "/images/cocktails/photos/peach_vodka-gimlet.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "peach_vodka",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/vodka-gimlet.jpg"
+  },
+  "peach_vodka-martini": {
+    "src": "/images/cocktails/photos/peach_vodka-martini.jpg",
+    "kind": "photo",
+    "glassware": "Martini glass or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "peach_vodka",
+      "dry_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/martini.jpg"
+  },
+  "honey_pepper_vodka-sour": {
+    "src": "/images/cocktails/photos/honey_pepper_vodka-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "honey_pepper_vodka",
+      "lemon_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/whiskey-sour.jpg"
+  },
+  "honey_pepper_vodka-lime-sour": {
+    "src": "/images/cocktails/photos/honey_pepper_vodka-lime-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "honey_pepper_vodka",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/daiquiri.jpg"
+  },
+  "honey_pepper_vodka-collins": {
+    "src": "/images/cocktails/photos/honey_pepper_vodka-collins.jpg",
+    "kind": "photo",
+    "glassware": "Collins glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "honey_pepper_vodka",
+      "lemon_juice",
+      "simple_syrup",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/tom-collins.jpg"
+  },
+  "honey_pepper_vodka-soda-build": {
+    "src": "/images/cocktails/photos/honey_pepper_vodka-soda-build.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "honey_pepper_vodka",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/vodka-soda.jpg"
+  },
+  "honey_pepper_vodka-tonic-build": {
+    "src": "/images/cocktails/photos/honey_pepper_vodka-tonic-build.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "honey_pepper_vodka",
+      "tonic_water"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/vodka-tonic.jpg"
+  },
+  "honey_pepper_vodka-gimlet": {
+    "src": "/images/cocktails/photos/honey_pepper_vodka-gimlet.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "honey_pepper_vodka",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/vodka-gimlet.jpg"
+  },
+  "honey_pepper_vodka-martini": {
+    "src": "/images/cocktails/photos/honey_pepper_vodka-martini.jpg",
+    "kind": "photo",
+    "glassware": "Martini glass or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "honey_pepper_vodka",
+      "dry_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/martini.jpg"
+  },
+  "bees-knees": {
+    "src": "/images/cocktails/photos/bees-knees.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "lemon_juice",
+      "honey_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/gold-rush.jpg"
+  },
+  "whiskey-smash": {
+    "src": "/images/cocktails/photos/whiskey-smash.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "lemon_juice",
+      "simple_syrup",
+      "mint"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/mint-julep.jpg"
+  },
+  "rye-smash": {
+    "src": "/images/cocktails/photos/rye-smash.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "rye",
+      "lemon_juice",
+      "simple_syrup",
+      "mint"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/mint-julep.jpg"
+  },
+  "brown-derby": {
+    "src": "/images/cocktails/photos/brown-derby.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "grapefruit_juice",
+      "honey_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/gold-rush.jpg"
+  },
+  "blood-and-sand": {
+    "src": "/images/cocktails/photos/blood-and-sand.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "scotch",
+      "cherry_liqueur",
+      "sweet_vermouth",
+      "orange_juice"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/rob-roy.jpg"
+  },
+  "penicillin": {
+    "src": "/images/cocktails/photos/penicillin.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "scotch",
+      "lemon_juice",
+      "honey_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/gold-rush.jpg"
+  },
+  "left-hand": {
+    "src": "/images/cocktails/photos/left-hand.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "campari",
+      "sweet_vermouth",
+      "cocoa_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/boulevardier.jpg"
+  },
+  "right-hand": {
+    "src": "/images/cocktails/photos/right-hand.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gold_rum",
+      "campari",
+      "sweet_vermouth",
+      "cocoa_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/boulevardier.jpg"
+  },
+  "hemingway-daiquiri": {
+    "src": "/images/cocktails/photos/hemingway-daiquiri.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "white_rum",
+      "lime_juice",
+      "grapefruit_juice",
+      "maraschino"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/daiquiri.jpg"
+  },
+  "bacardi-cocktail": {
+    "src": "/images/cocktails/photos/bacardi-cocktail.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "white_rum",
+      "lime_juice",
+      "cherry_liqueur",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/daiquiri.jpg"
+  },
+  "hotel-nacional": {
+    "src": "/images/cocktails/photos/hotel-nacional.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gold_rum",
+      "lime_juice",
+      "peach_liqueur",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/daiquiri.jpg"
+  },
+  "rum-negroni": {
+    "src": "/images/cocktails/photos/rum-negroni.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gold_rum",
+      "campari",
+      "sweet_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/negroni.jpg"
+  },
+  "tegroni": {
+    "src": "/images/cocktails/photos/tegroni.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "blanco_tequila",
+      "campari",
+      "sweet_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/negroni.jpg"
+  },
+  "rosita": {
+    "src": "/images/cocktails/photos/rosita.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "blanco_tequila",
+      "sweet_vermouth",
+      "dry_vermouth",
+      "campari"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/negroni.jpg"
+  },
+  "cadillac-margarita": {
+    "src": "/images/cocktails/photos/cadillac-margarita.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "blanco_tequila",
+      "lime_juice",
+      "cointreau",
+      "grand_marnier"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/margarita.jpg"
+  },
+  "spicy-ranch-water": {
+    "src": "/images/cocktails/photos/spicy-ranch-water.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "blanco_tequila",
+      "lime_juice",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/ranch-water.jpg"
+  },
+  "tequila-paloma-fresh": {
+    "src": "/images/cocktails/photos/tequila-paloma-fresh.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "blanco_tequila",
+      "grapefruit_juice",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/paloma.jpg"
+  },
+  "lemon-drop": {
+    "src": "/images/cocktails/photos/lemon-drop.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "vodka",
+      "lemon_juice",
+      "simple_syrup",
+      "cointreau"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/white-lady.jpg"
+  },
+  "screwdriver": {
+    "src": "/images/cocktails/photos/screwdriver.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "vodka",
+      "orange_juice"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/vodka-soda.jpg"
+  },
+  "greyhound": {
+    "src": "/images/cocktails/photos/greyhound.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "vodka",
+      "grapefruit_juice"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/paloma.jpg"
+  },
+  "salty-dog": {
+    "src": "/images/cocktails/photos/salty-dog.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "vodka",
+      "grapefruit_juice",
+      "salt"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/paloma.jpg"
+  },
+  "kamikaze": {
+    "src": "/images/cocktails/photos/kamikaze.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "vodka",
+      "cointreau",
+      "lime_juice"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/cosmopolitan.jpg"
+  },
+  "vodka-martini": {
+    "src": "/images/cocktails/photos/vodka-martini.jpg",
+    "kind": "photo",
+    "glassware": "Martini glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "vodka",
+      "dry_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/martini.jpg"
+  },
+  "dirty-martini": {
+    "src": "/images/cocktails/photos/dirty-martini.jpg",
+    "kind": "photo",
+    "glassware": "Martini glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "dry_vermouth",
+      "olive"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/martini.jpg"
+  },
+  "gibson": {
+    "src": "/images/cocktails/photos/gibson.jpg",
+    "kind": "photo",
+    "glassware": "Martini glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "dry_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/martini.jpg"
+  },
+  "fifty-fifty-martini": {
+    "src": "/images/cocktails/photos/fifty-fifty-martini.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "dry_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/martini.jpg"
+  },
+  "bronx": {
+    "src": "/images/cocktails/photos/bronx.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "sweet_vermouth",
+      "dry_vermouth",
+      "orange_juice"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/martinez.jpg"
+  },
+  "orange-blossom": {
+    "src": "/images/cocktails/photos/orange-blossom.jpg",
+    "kind": "photo",
+    "glassware": "Coupe or rocks",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "orange_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/screwdriver.jpg"
+  },
+  "gin-fizz": {
+    "src": "/images/cocktails/photos/gin-fizz.jpg",
+    "kind": "photo",
+    "glassware": "Fizz or Collins glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "lemon_juice",
+      "simple_syrup",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/tom-collins.jpg"
+  },
+  "ramos-lite": {
+    "src": "/images/cocktails/photos/ramos-lite.jpg",
+    "kind": "photo",
+    "glassware": "Fizz glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "lemon_juice",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/tom-collins.jpg"
+  },
+  "campari-soda": {
+    "src": "/images/cocktails/photos/campari-soda.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "campari",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/americano.jpg"
+  },
+  "aperol-soda": {
+    "src": "/images/cocktails/photos/aperol-soda.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "aperol",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/aperol-spritz.jpg"
+  },
+  "aperol-sour": {
+    "src": "/images/cocktails/photos/aperol-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks or coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "aperol",
+      "lemon_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/aperol-spritz.jpg"
+  },
+  "campari-sour": {
+    "src": "/images/cocktails/photos/campari-sour.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "campari",
+      "lemon_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/americano.jpg"
+  },
+  "campari-gin-tonic": {
+    "src": "/images/cocktails/photos/campari-gin-tonic.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "campari",
+      "tonic_water"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/gin-and-tonic.jpg"
+  },
+  "italian-greyhound": {
+    "src": "/images/cocktails/photos/italian-greyhound.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "campari",
+      "grapefruit_juice"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/paloma.jpg"
+  },
+  "garibaldi": {
+    "src": "/images/cocktails/photos/garibaldi.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "campari",
+      "orange_juice"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/americano.jpg"
+  },
+  "americano-highball": {
+    "src": "/images/cocktails/photos/americano-highball.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "campari",
+      "sweet_vermouth",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/americano.jpg"
+  },
+  "negroni-bianco-house": {
+    "src": "/images/cocktails/photos/negroni-bianco-house.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "dry_vermouth",
+      "aperol"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/negroni.jpg"
+  },
+  "aperol-negroni": {
+    "src": "/images/cocktails/photos/aperol-negroni.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "aperol",
+      "sweet_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/negroni.jpg"
+  },
+  "mezzogiorno": {
+    "src": "/images/cocktails/photos/mezzogiorno.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "aperol",
+      "grapefruit_juice",
+      "lemon_juice"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/aperol-spritz.jpg"
+  },
+  "paper-plane-house": {
+    "src": "/images/cocktails/photos/paper-plane-house.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "aperol",
+      "lemon_juice",
+      "cointreau"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/paper-plane.jpg"
+  },
+  "ward-eight": {
+    "src": "/images/cocktails/photos/ward-eight.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "rye",
+      "lemon_juice",
+      "orange_juice",
+      "cherry_liqueur"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/whiskey-sour.jpg"
+  },
+  "remember-the-maine": {
+    "src": "/images/cocktails/photos/remember-the-maine.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "rye",
+      "sweet_vermouth",
+      "cherry_liqueur",
+      "peychauds_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/manhattan.jpg"
+  },
+  "fancy-free-rye": {
+    "src": "/images/cocktails/photos/fancy-free-rye.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "rye",
+      "maraschino",
+      "orange_bitters",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/fancy-free.jpg"
+  },
+  "toronto": {
+    "src": "/images/cocktails/photos/toronto.jpg",
+    "kind": "photo",
+    "glassware": "Coupe or rocks",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "rye",
+      "simple_syrup",
+      "angostura_bitters",
+      "campari"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/old-fashioned.jpg"
+  },
+  "scofflaw": {
+    "src": "/images/cocktails/photos/scofflaw.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "rye",
+      "dry_vermouth",
+      "lemon_juice",
+      "cherry_liqueur"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/whiskey-sour.jpg"
+  },
+  "colonel-cordial": {
+    "src": "/images/cocktails/photos/colonel-cordial.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "peach_liqueur",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/peach-whiskey-sour.jpg"
+  },
+  "cherry-boulevardier": {
+    "src": "/images/cocktails/photos/cherry-boulevardier.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "campari",
+      "sweet_vermouth",
+      "cherry_liqueur"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/boulevardier.jpg"
+  },
+  "banana-manhattan": {
+    "src": "/images/cocktails/photos/banana-manhattan.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "sweet_vermouth",
+      "creme_de_banane",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/banana-boulevardier.jpg"
+  },
+  "falernum-old-fashioned": {
+    "src": "/images/cocktails/photos/falernum-old-fashioned.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gold_rum",
+      "falernum",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/rum-old-fashioned.jpg"
+  },
+  "corn-n-oil-soda": {
+    "src": "/images/cocktails/photos/corn-n-oil-soda.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gold_rum",
+      "falernum",
+      "lime_juice",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/corn-n-oil.jpg"
+  },
+  "spiced-daiquiri": {
+    "src": "/images/cocktails/photos/spiced-daiquiri.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "spiced_rum",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/daiquiri.jpg"
+  },
+  "coconut-old-fashioned": {
+    "src": "/images/cocktails/photos/coconut-old-fashioned.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "coconut_rum",
+      "simple_syrup",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/rum-old-fashioned.jpg"
+  },
+  "toasted-coconut-colada-rocks": {
+    "src": "/images/cocktails/photos/toasted-coconut-colada-rocks.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "coconut_rum",
+      "cream_of_coconut",
+      "lime_juice"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/pina-colada.jpg"
+  },
+  "peppermint-vodka-martini": {
+    "src": "/images/cocktails/photos/peppermint-vodka-martini.jpg",
+    "kind": "photo",
+    "glassware": "Martini glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "vodka",
+      "peppermint_liqueur",
+      "dry_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/baileys-peppermint.jpg"
+  },
+  "peppermint-patty": {
+    "src": "/images/cocktails/photos/peppermint-patty.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "baileys",
+      "peppermint_liqueur"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/baileys-peppermint.jpg"
+  },
+  "baileys-bourbon": {
+    "src": "/images/cocktails/photos/baileys-bourbon.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "bourbon",
+      "baileys"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/baileys-on-the-rocks.jpg"
+  },
+  "banana-baileys": {
+    "src": "/images/cocktails/photos/banana-baileys.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "creme_de_banane",
+      "baileys"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/banana-daiquiri.jpg"
+  },
+  "aquavit-negroni": {
+    "src": "/images/cocktails/photos/aquavit-negroni.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "aquavit",
+      "campari",
+      "sweet_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/negroni.jpg"
+  },
+  "aquavit-martini": {
+    "src": "/images/cocktails/photos/aquavit-martini.jpg",
+    "kind": "photo",
+    "glassware": "Martini glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "aquavit",
+      "dry_vermouth"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/martini.jpg"
+  },
+  "becherovka-sour": {
+    "src": "/images/cocktails/photos/becherovka-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "becherovka",
+      "lemon_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/becherovka-tonic.jpg"
+  },
+  "becherovka-collins": {
+    "src": "/images/cocktails/photos/becherovka-collins.jpg",
+    "kind": "photo",
+    "glassware": "Collins glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "becherovka",
+      "lemon_juice",
+      "simple_syrup",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/becherovka-tonic.jpg"
+  },
+  "honey-pepper-sour": {
+    "src": "/images/cocktails/photos/honey-pepper-sour.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "honey_pepper_vodka",
+      "lemon_juice",
+      "honey_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/honey-pepper-tonic.jpg"
+  },
+  "apple-vodka-sour": {
+    "src": "/images/cocktails/photos/apple-vodka-sour.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "apple_vodka",
+      "lemon_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/apple-vodka-highball.jpg"
+  },
+  "blueberry-lemon-collins": {
+    "src": "/images/cocktails/photos/blueberry-lemon-collins.jpg",
+    "kind": "photo",
+    "glassware": "Collins glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "blueberry_vodka",
+      "lemon_juice",
+      "simple_syrup",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/blueberry-vodka-soda.jpg"
+  },
+  "peach-vodka-bellini-ish": {
+    "src": "/images/cocktails/photos/peach-vodka-bellini-ish.jpg",
+    "kind": "photo",
+    "glassware": "Flute",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "peach_vodka",
+      "peach_liqueur",
+      "prosecco"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/french-75.jpg"
+  },
+  "french-76": {
+    "src": "/images/cocktails/photos/french-76.jpg",
+    "kind": "photo",
+    "glassware": "Flute",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "vodka",
+      "lemon_juice",
+      "simple_syrup",
+      "prosecco"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/french-75.jpg"
+  },
+  "kir-royale-house": {
+    "src": "/images/cocktails/photos/kir-royale-house.jpg",
+    "kind": "photo",
+    "glassware": "Flute",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "cherry_liqueur",
+      "prosecco"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/french-75.jpg"
+  },
+  "grand-marnier-sour": {
+    "src": "/images/cocktails/photos/grand-marnier-sour.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "grand_marnier",
+      "lemon_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/sidecar-bourbon.jpg"
+  },
+  "cointreau-fizz": {
+    "src": "/images/cocktails/photos/cointreau-fizz.jpg",
+    "kind": "photo",
+    "glassware": "Wine glass or highball",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "cointreau",
+      "lime_juice",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/white-lady.jpg"
+  },
+  "maraschino-sour": {
+    "src": "/images/cocktails/photos/aviation.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "maraschino",
+      "gin",
+      "lemon_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/aviation.jpg"
+  },
+  "crystal-margarita": {
+    "src": "/images/cocktails/photos/crystal-margarita.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "cristalino_tequila",
+      "lime_juice",
+      "cointreau"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/margarita.jpg"
+  },
+  "anejo-highball": {
+    "src": "/images/cocktails/photos/anejo-highball.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "anejo_tequila",
+      "club_soda",
+      "orange_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/whiskey-highball.jpg"
+  },
+  "overproof-daiquiri": {
+    "src": "/images/cocktails/photos/overproof-daiquiri.jpg",
+    "kind": "photo",
+    "glassware": "Coupe",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "overproof_rum",
+      "white_rum",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/daiquiri.jpg"
+  },
+  "stroh-coffee-ish": {
+    "src": "/images/cocktails/photos/stroh-coffee-ish.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gold_rum",
+      "overproof_rum",
+      "simple_syrup",
+      "angostura_bitters"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/rum-old-fashioned.jpg"
+  },
+  "cucumber-gin-cooler": {
+    "src": "/images/cocktails/photos/cucumber-gin-cooler.jpg",
+    "kind": "photo",
+    "glassware": "Highball glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "lime_juice",
+      "simple_syrup",
+      "cucumber"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/gin-and-tonic.jpg"
+  },
+  "mint-gin-smash": {
+    "src": "/images/cocktails/photos/mint-gin-smash.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "lemon_juice",
+      "simple_syrup",
+      "mint"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/southside.jpg"
+  },
+  "mint-vodka-smash": {
+    "src": "/images/cocktails/photos/mint-vodka-smash.jpg",
+    "kind": "photo",
+    "glassware": "Rocks glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "vodka",
+      "lemon_juice",
+      "simple_syrup",
+      "mint"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/southside.jpg"
+  },
+  "mojito-royale": {
+    "src": "/images/cocktails/photos/mojito-royale.jpg",
+    "kind": "photo",
+    "glassware": "Collins glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "white_rum",
+      "lime_juice",
+      "simple_syrup",
+      "mint"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/mojito.jpg"
+  },
+  "champagne-margarita": {
+    "src": "/images/cocktails/photos/champagne-margarita.jpg",
+    "kind": "photo",
+    "glassware": "Coupe or rocks",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "blanco_tequila",
+      "lime_juice",
+      "cointreau",
+      "prosecco"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/margarita.jpg"
+  },
+  "bitter-spritz": {
+    "src": "/images/cocktails/photos/bitter-spritz.jpg",
+    "kind": "photo",
+    "glassware": "Wine glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "campari",
+      "prosecco",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/negroni-sbagliato.jpg"
+  },
+  "gin-spritz": {
+    "src": "/images/cocktails/photos/gin-spritz.jpg",
+    "kind": "photo",
+    "glassware": "Wine glass",
+    "aspectRatio": "4 / 3",
+    "credit": "TheCocktailDB",
+    "ingredients": [
+      "gin",
+      "aperol",
+      "prosecco",
+      "club_soda"
+    ],
+    "fallbackSrc": "/images/cocktails/photos/aperol-spritz.jpg"
+  }
+}

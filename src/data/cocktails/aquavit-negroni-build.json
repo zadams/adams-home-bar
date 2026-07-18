@@ -1,0 +1,73 @@
+{
+  "id": "aquavit-negroni-build",
+  "slug": "aquavit-negroni-build",
+  "name": "Aquavit Negroni",
+  "aliases": [],
+  "description": "Equal parts aquavit, Campari, and sweet vermouth.",
+  "whyItWorks": "Bitter, sweet, and spirit lock into a self-balancing triangle.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Negroni",
+  "flavorProfiles": [
+    "bitter",
+    "herbal",
+    "bittersweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "strong",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "aquavit-negroni-build",
+  "ingredients": [
+    {
+      "ingredientId": "aquavit",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "campari",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Add all ingredients to a rocks glass with a large cube.",
+    "Stir briefly.",
+    "Express orange peel over the drink."
+  ],
+  "techniqueNotes": [
+    "If too bitter, nudge vermouth up a barspoon."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "inderoy-aquavit",
+      "rank": 1,
+      "rationale": "Showcases your Aquavit."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "negroni",
+    "bitter",
+    "aquavit"
+  ]
+}

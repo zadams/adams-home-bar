@@ -1,0 +1,87 @@
+{
+  "id": "paper-plane-house",
+  "slug": "paper-plane-house",
+  "name": "House Paper Plane",
+  "aliases": [],
+  "description": "Bourbon equal-parts sour using Aperol and lemon (Amaro Nonino out).",
+  "whyItWorks": "Aperol carries the bitter-orange role when Nonino isn’t stocked.",
+  "classifications": [
+    "variation",
+    "sour"
+  ],
+  "cocktailFamily": "Paper Plane",
+  "flavorProfiles": [
+    "bitter",
+    "citrus",
+    "oak"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; served up",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "paper-plane-house",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "aperol",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cointreau",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake equal parts hard.",
+    "Strain into a coupe.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "barrell-vantage",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "bourbon",
+    "aperol",
+    "equal-parts"
+  ]
+}

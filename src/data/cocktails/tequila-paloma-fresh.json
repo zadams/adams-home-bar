@@ -1,0 +1,96 @@
+{
+  "id": "tequila-paloma-fresh",
+  "slug": "tequila-paloma-fresh",
+  "name": "Fresh Juice Paloma",
+  "aliases": [],
+  "description": "Paloma built on fresh grapefruit juice and soda.",
+  "whyItWorks": "Fresh grapefruit is brighter than soda alone; salt ties it together.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Paloma",
+  "flavorProfiles": [
+    "grapefruit",
+    "agave",
+    "salty"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Grapefruit wedge"
+  ],
+  "illustrationKey": "tequila-paloma-fresh",
+  "ingredients": [
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grapefruit_juice",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    },
+    {
+      "ingredientId": "salt",
+      "amount": null,
+      "unit": "to_taste",
+      "scaleMode": "garnish",
+      "optional": true,
+      "label": "Salt rim"
+    }
+  ],
+  "steps": [
+    "Salt the rim if desired.",
+    "Build tequila, juices, and syrup over ice.",
+    "Top with soda."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-cristalino",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "kirkland-tequila-other",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "tequila",
+    "grapefruit",
+    "paloma"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "tegroni",
+  "slug": "tegroni",
+  "name": "Tegroni",
+  "aliases": [],
+  "description": "Tequila Negroni—agave meets bitter orange.",
+  "whyItWorks": "Blanco tequila’s peppery edge cuts Campari’s sweetness.",
+  "classifications": [
+    "variation",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Negroni",
+  "flavorProfiles": [
+    "bitter",
+    "agave",
+    "herbal"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "tegroni",
+  "ingredients": [
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "campari",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Stir over ice.",
+    "Garnish with orange."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-cristalino",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "kirkland-tequila-other",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "tequila",
+    "negroni"
+  ]
+}

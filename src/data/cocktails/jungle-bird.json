@@ -1,0 +1,88 @@
+{
+  "aliases": [],
+  "history": "Created in 1970s Kuala Lumpur and revived by modern cocktail bars. Campari is the point.",
+  "origin": "Malaysia",
+  "whyItWorks": "Campari bitterness cuts tropical sweetness so pineapple does not cloy.",
+  "classifications": [
+    "modern classic",
+    "tiki"
+  ],
+  "cocktailFamily": "Jungle Bird",
+  "flavorProfiles": [
+    "bitter",
+    "tropical",
+    "citrus"
+  ],
+  "difficulty": "medium",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Pineapple leaf if available"
+  ],
+  "illustrationKey": "jungle-bird",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gold_rum",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "campari",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "pineapple_juice",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake all with ice.",
+    "Strain over fresh ice."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-especial",
+      "rank": 1,
+      "rationale": "Gold rum with enough weight for Campari."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "mai-tai",
+    "negroni"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rum",
+    "bitter",
+    "tiki"
+  ],
+  "id": "jungle-bird",
+  "slug": "jungle-bird",
+  "name": "Jungle Bird",
+  "description": "Rum, Campari, pineapple, and lime—bitter tiki."
+}

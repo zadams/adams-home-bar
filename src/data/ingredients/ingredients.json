@@ -1,0 +1,879 @@
+[
+  {
+    "id": "bourbon",
+    "name": "Bourbon",
+    "category": "spirit",
+    "subcategory": "whiskey",
+    "aliases": [
+      "American whiskey",
+      "Kentucky bourbon"
+    ],
+    "tags": [
+      "whiskey"
+    ]
+  },
+  {
+    "id": "rye",
+    "name": "Rye whiskey",
+    "category": "spirit",
+    "subcategory": "whiskey",
+    "aliases": [
+      "rye"
+    ],
+    "tags": [
+      "whiskey"
+    ]
+  },
+  {
+    "id": "scotch",
+    "name": "Scotch whisky",
+    "category": "spirit",
+    "subcategory": "whiskey",
+    "aliases": [
+      "Scotch"
+    ],
+    "tags": [
+      "whiskey"
+    ]
+  },
+  {
+    "id": "gin",
+    "name": "Gin",
+    "category": "spirit",
+    "subcategory": "gin",
+    "aliases": [],
+    "tags": [
+      "gin"
+    ]
+  },
+  {
+    "id": "vodka",
+    "name": "Vodka",
+    "category": "spirit",
+    "subcategory": "vodka",
+    "aliases": [],
+    "tags": [
+      "vodka"
+    ]
+  },
+  {
+    "id": "blanco_tequila",
+    "name": "Blanco tequila",
+    "category": "spirit",
+    "subcategory": "tequila",
+    "aliases": [
+      "silver tequila",
+      "tequila"
+    ],
+    "tags": [
+      "tequila"
+    ]
+  },
+  {
+    "id": "anejo_tequila",
+    "name": "Añejo tequila",
+    "category": "spirit",
+    "subcategory": "tequila",
+    "aliases": [
+      "anejo tequila"
+    ],
+    "tags": [
+      "tequila"
+    ]
+  },
+  {
+    "id": "cristalino_tequila",
+    "name": "Cristalino tequila",
+    "category": "spirit",
+    "subcategory": "tequila",
+    "aliases": [
+      "añejo cristalino"
+    ],
+    "tags": [
+      "tequila"
+    ]
+  },
+  {
+    "id": "white_rum",
+    "name": "White rum",
+    "category": "spirit",
+    "subcategory": "rum",
+    "aliases": [
+      "light rum",
+      "Cuban rum"
+    ],
+    "tags": [
+      "rum"
+    ]
+  },
+  {
+    "id": "gold_rum",
+    "name": "Gold rum",
+    "category": "spirit",
+    "subcategory": "rum",
+    "aliases": [
+      "amber rum",
+      "añejo rum"
+    ],
+    "tags": [
+      "rum"
+    ]
+  },
+  {
+    "id": "spiced_rum",
+    "name": "Spiced rum",
+    "category": "spirit",
+    "subcategory": "rum",
+    "aliases": [],
+    "tags": [
+      "rum"
+    ]
+  },
+  {
+    "id": "overproof_rum",
+    "name": "Overproof rum",
+    "category": "spirit",
+    "subcategory": "rum",
+    "aliases": [
+      "navy strength rum"
+    ],
+    "tags": [
+      "rum"
+    ]
+  },
+  {
+    "id": "aquavit",
+    "name": "Aquavit",
+    "category": "spirit",
+    "subcategory": "aquavit",
+    "aliases": [],
+    "tags": [
+      "aquavit"
+    ]
+  },
+  {
+    "id": "absinthe",
+    "name": "Absinthe",
+    "category": "spirit",
+    "subcategory": "anise",
+    "aliases": [
+      "Herbsaint",
+      "pastis"
+    ],
+    "tags": [
+      "anise"
+    ]
+  },
+  {
+    "id": "sweet_vermouth",
+    "name": "Sweet vermouth",
+    "category": "liqueur",
+    "subcategory": "vermouth",
+    "aliases": [
+      "rosso vermouth",
+      "Italian vermouth"
+    ],
+    "tags": [
+      "vermouth"
+    ]
+  },
+  {
+    "id": "dry_vermouth",
+    "name": "Dry vermouth",
+    "category": "liqueur",
+    "subcategory": "vermouth",
+    "aliases": [
+      "French vermouth"
+    ],
+    "tags": [
+      "vermouth"
+    ]
+  },
+  {
+    "id": "campari",
+    "name": "Campari",
+    "category": "liqueur",
+    "subcategory": "aperitif",
+    "aliases": [],
+    "tags": [
+      "bitter"
+    ]
+  },
+  {
+    "id": "aperol",
+    "name": "Aperol",
+    "category": "liqueur",
+    "subcategory": "aperitif",
+    "aliases": [],
+    "tags": [
+      "bitter"
+    ]
+  },
+  {
+    "id": "cointreau",
+    "name": "Cointreau",
+    "category": "liqueur",
+    "subcategory": "orange",
+    "aliases": [
+      "triple sec",
+      "orange liqueur"
+    ],
+    "tags": [
+      "orange"
+    ]
+  },
+  {
+    "id": "triple_sec",
+    "name": "Triple sec",
+    "category": "liqueur",
+    "subcategory": "orange",
+    "aliases": [
+      "orange curaçao"
+    ],
+    "tags": [
+      "orange"
+    ]
+  },
+  {
+    "id": "grand_marnier",
+    "name": "Grand Marnier",
+    "category": "liqueur",
+    "subcategory": "orange",
+    "aliases": [],
+    "tags": [
+      "orange"
+    ]
+  },
+  {
+    "id": "maraschino",
+    "name": "Maraschino liqueur",
+    "category": "liqueur",
+    "subcategory": "cherry",
+    "aliases": [
+      "Luxardo"
+    ],
+    "tags": [
+      "cherry"
+    ]
+  },
+  {
+    "id": "creme_de_banane",
+    "name": "Crème de banane",
+    "category": "liqueur",
+    "subcategory": "banana",
+    "aliases": [
+      "banana liqueur"
+    ],
+    "tags": [
+      "banana"
+    ]
+  },
+  {
+    "id": "falernum",
+    "name": "Falernum",
+    "category": "liqueur",
+    "subcategory": "spice",
+    "aliases": [
+      "golden falernum"
+    ],
+    "tags": [
+      "spice"
+    ]
+  },
+  {
+    "id": "baileys",
+    "name": "Irish cream",
+    "category": "liqueur",
+    "subcategory": "cream",
+    "aliases": [
+      "Baileys"
+    ],
+    "tags": [
+      "cream"
+    ]
+  },
+  {
+    "id": "peach_liqueur",
+    "name": "Peach liqueur",
+    "category": "liqueur",
+    "subcategory": "peach",
+    "aliases": [],
+    "tags": [
+      "peach"
+    ]
+  },
+  {
+    "id": "angostura_bitters",
+    "name": "Angostura bitters",
+    "category": "bitter",
+    "subcategory": "aromatic",
+    "aliases": [
+      "aromatic bitters"
+    ],
+    "tags": [
+      "bitters"
+    ]
+  },
+  {
+    "id": "peychauds_bitters",
+    "name": "Peychaud's bitters",
+    "category": "bitter",
+    "subcategory": "aromatic",
+    "aliases": [
+      "Peychauds"
+    ],
+    "tags": [
+      "bitters"
+    ]
+  },
+  {
+    "id": "orange_bitters",
+    "name": "Orange bitters",
+    "category": "bitter",
+    "subcategory": "citrus",
+    "aliases": [],
+    "tags": [
+      "bitters"
+    ]
+  },
+  {
+    "id": "cocoa_bitters",
+    "name": "Cocoa bitters",
+    "category": "bitter",
+    "subcategory": "chocolate",
+    "aliases": [
+      "Angostura cocoa"
+    ],
+    "tags": [
+      "bitters"
+    ]
+  },
+  {
+    "id": "simple_syrup",
+    "name": "Simple syrup",
+    "category": "syrup",
+    "subcategory": "sweetener",
+    "aliases": [
+      "sugar syrup"
+    ],
+    "tags": [
+      "sweet"
+    ]
+  },
+  {
+    "id": "agave_syrup",
+    "name": "Agave syrup",
+    "category": "syrup",
+    "subcategory": "sweetener",
+    "aliases": [
+      "agave nectar"
+    ],
+    "tags": [
+      "sweet"
+    ]
+  },
+  {
+    "id": "brown_sugar_cinnamon_syrup",
+    "name": "Brown sugar cinnamon syrup",
+    "category": "syrup",
+    "subcategory": "sweetener",
+    "aliases": [],
+    "tags": [
+      "sweet",
+      "spice"
+    ]
+  },
+  {
+    "id": "cream_of_coconut",
+    "name": "Cream of coconut",
+    "category": "syrup",
+    "subcategory": "coconut",
+    "aliases": [
+      "Coco López"
+    ],
+    "tags": [
+      "coconut"
+    ]
+  },
+  {
+    "id": "demerara_sugar",
+    "name": "Demerara sugar",
+    "category": "pantry",
+    "subcategory": "sweetener",
+    "aliases": [
+      "raw sugar",
+      "sugar cube"
+    ],
+    "tags": [
+      "sweet"
+    ]
+  },
+  {
+    "id": "lemon_juice",
+    "name": "Fresh lemon juice",
+    "category": "juice",
+    "subcategory": "citrus",
+    "aliases": [
+      "lemon"
+    ],
+    "tags": [
+      "citrus",
+      "fresh"
+    ]
+  },
+  {
+    "id": "lime_juice",
+    "name": "Fresh lime juice",
+    "category": "juice",
+    "subcategory": "citrus",
+    "aliases": [
+      "lime"
+    ],
+    "tags": [
+      "citrus",
+      "fresh"
+    ]
+  },
+  {
+    "id": "orange_juice",
+    "name": "Fresh orange juice",
+    "category": "juice",
+    "subcategory": "citrus",
+    "aliases": [],
+    "tags": [
+      "citrus",
+      "fresh"
+    ]
+  },
+  {
+    "id": "grapefruit_juice",
+    "name": "Fresh grapefruit juice",
+    "category": "juice",
+    "subcategory": "citrus",
+    "aliases": [],
+    "tags": [
+      "citrus",
+      "fresh"
+    ]
+  },
+  {
+    "id": "tonic_water",
+    "name": "Tonic water",
+    "category": "mixer",
+    "subcategory": "carbonated",
+    "aliases": [
+      "tonic"
+    ],
+    "tags": [
+      "soda"
+    ]
+  },
+  {
+    "id": "club_soda",
+    "name": "Club soda",
+    "category": "mixer",
+    "subcategory": "carbonated",
+    "aliases": [
+      "soda water",
+      "sparkling water"
+    ],
+    "tags": [
+      "soda"
+    ]
+  },
+  {
+    "id": "grapefruit_soda",
+    "name": "Grapefruit soda",
+    "category": "mixer",
+    "subcategory": "carbonated",
+    "aliases": [
+      "Jarritos",
+      "Squirt"
+    ],
+    "tags": [
+      "soda",
+      "citrus"
+    ]
+  },
+  {
+    "id": "lemon",
+    "name": "Lemon",
+    "category": "fresh",
+    "subcategory": "citrus",
+    "aliases": [],
+    "tags": [
+      "garnish",
+      "fresh"
+    ]
+  },
+  {
+    "id": "lime",
+    "name": "Lime",
+    "category": "fresh",
+    "subcategory": "citrus",
+    "aliases": [],
+    "tags": [
+      "garnish",
+      "fresh"
+    ]
+  },
+  {
+    "id": "orange",
+    "name": "Orange",
+    "category": "fresh",
+    "subcategory": "citrus",
+    "aliases": [],
+    "tags": [
+      "garnish",
+      "fresh"
+    ]
+  },
+  {
+    "id": "grapefruit",
+    "name": "Grapefruit",
+    "category": "fresh",
+    "subcategory": "citrus",
+    "aliases": [],
+    "tags": [
+      "garnish",
+      "fresh"
+    ]
+  },
+  {
+    "id": "mint",
+    "name": "Fresh mint",
+    "category": "fresh",
+    "subcategory": "herb",
+    "aliases": [
+      "spearmint"
+    ],
+    "tags": [
+      "garnish",
+      "fresh"
+    ]
+  },
+  {
+    "id": "cocktail_cherry",
+    "name": "Cocktail cherry",
+    "category": "garnish",
+    "subcategory": "cherry",
+    "aliases": [
+      "Luxardo cherry",
+      "maraschino cherry"
+    ],
+    "tags": [
+      "garnish"
+    ]
+  },
+  {
+    "id": "olive",
+    "name": "Cocktail olive",
+    "category": "garnish",
+    "subcategory": "savory",
+    "aliases": [],
+    "tags": [
+      "garnish"
+    ]
+  },
+  {
+    "id": "cucumber",
+    "name": "Cucumber",
+    "category": "fresh",
+    "subcategory": "produce",
+    "aliases": [],
+    "tags": [
+      "garnish",
+      "fresh"
+    ]
+  },
+  {
+    "id": "salt",
+    "name": "Salt",
+    "category": "pantry",
+    "subcategory": "seasoning",
+    "aliases": [],
+    "tags": [
+      "rim"
+    ]
+  },
+  {
+    "id": "tajin",
+    "name": "Tajín",
+    "category": "pantry",
+    "subcategory": "seasoning",
+    "aliases": [
+      "chili-lime salt"
+    ],
+    "tags": [
+      "rim"
+    ]
+  },
+  {
+    "id": "egg_white",
+    "name": "Egg white",
+    "category": "fresh",
+    "subcategory": "egg",
+    "aliases": [],
+    "tags": [
+      "texture",
+      "optional"
+    ]
+  },
+  {
+    "id": "ginger_beer",
+    "name": "Ginger beer",
+    "category": "mixer",
+    "subcategory": "carbonated",
+    "aliases": [],
+    "tags": [
+      "soda",
+      "spice"
+    ]
+  },
+  {
+    "id": "pineapple_juice",
+    "name": "Pineapple juice",
+    "category": "juice",
+    "subcategory": "tropical",
+    "aliases": [],
+    "tags": [
+      "tropical"
+    ]
+  },
+  {
+    "id": "orgeat",
+    "name": "Orgeat",
+    "category": "syrup",
+    "subcategory": "nut",
+    "aliases": [
+      "almond syrup"
+    ],
+    "tags": [
+      "sweet"
+    ]
+  },
+  {
+    "id": "cognac",
+    "name": "Cognac",
+    "category": "spirit",
+    "subcategory": "brandy",
+    "aliases": [
+      "brandy"
+    ],
+    "tags": [
+      "brandy"
+    ]
+  },
+  {
+    "id": "benedictine",
+    "name": "Bénédictine",
+    "category": "liqueur",
+    "subcategory": "herbal",
+    "aliases": [],
+    "tags": [
+      "herbal"
+    ]
+  },
+  {
+    "id": "amaro_nonino",
+    "name": "Amaro Nonino",
+    "category": "liqueur",
+    "subcategory": "amaro",
+    "aliases": [
+      "amaro"
+    ],
+    "tags": [
+      "bitter"
+    ]
+  },
+  {
+    "id": "aperol_as_amaro",
+    "name": "Aperol (as amaro stand-in)",
+    "category": "liqueur",
+    "subcategory": "aperitif",
+    "aliases": [],
+    "tags": [
+      "bitter"
+    ]
+  },
+  {
+    "id": "green_chartreuse",
+    "name": "Green Chartreuse",
+    "category": "liqueur",
+    "subcategory": "herbal",
+    "aliases": [],
+    "tags": [
+      "herbal"
+    ]
+  },
+  {
+    "id": "prosecco",
+    "name": "Prosecco / sparkling wine",
+    "category": "mixer",
+    "subcategory": "sparkling",
+    "aliases": [
+      "champagne",
+      "sparkling wine"
+    ],
+    "tags": [
+      "sparkling"
+    ]
+  },
+  {
+    "id": "honey_syrup",
+    "name": "Honey syrup",
+    "category": "syrup",
+    "subcategory": "sweetener",
+    "aliases": [],
+    "tags": [
+      "sweet"
+    ]
+  },
+  {
+    "id": "cola",
+    "name": "Cola",
+    "category": "mixer",
+    "subcategory": "carbonated",
+    "aliases": [],
+    "tags": [
+      "soda"
+    ]
+  },
+  {
+    "id": "coffee_liqueur",
+    "name": "Coffee liqueur",
+    "category": "liqueur",
+    "subcategory": "coffee",
+    "aliases": [],
+    "tags": [
+      "coffee"
+    ]
+  },
+  {
+    "id": "campari_as_amaro",
+    "name": "Campari",
+    "category": "liqueur",
+    "subcategory": "aperitif",
+    "aliases": [],
+    "tags": [
+      "bitter"
+    ]
+  },
+  {
+    "id": "peppermint_liqueur",
+    "name": "Peppermint liqueur",
+    "category": "liqueur",
+    "subcategory": "peppermint",
+    "aliases": [
+      "Berliner Luft",
+      "peppermint schnapps"
+    ],
+    "tags": [
+      "peppermint"
+    ]
+  },
+  {
+    "id": "cherry_liqueur",
+    "name": "Cherry liqueur",
+    "category": "liqueur",
+    "subcategory": "cherry",
+    "aliases": [
+      "Griotte",
+      "cherry brandy"
+    ],
+    "tags": [
+      "cherry"
+    ]
+  },
+  {
+    "id": "becherovka",
+    "name": "Becherovka",
+    "category": "liqueur",
+    "subcategory": "herbal",
+    "aliases": [],
+    "tags": [
+      "herbal"
+    ]
+  },
+  {
+    "id": "cream_liqueur",
+    "name": "Cream liqueur / eggnog liqueur",
+    "category": "liqueur",
+    "subcategory": "cream",
+    "aliases": [
+      "holiday nog"
+    ],
+    "tags": [
+      "cream",
+      "seasonal"
+    ]
+  },
+  {
+    "id": "coconut_rum",
+    "name": "Coconut rum",
+    "category": "spirit",
+    "subcategory": "rum",
+    "aliases": [
+      "toasted coconut rum"
+    ],
+    "tags": [
+      "rum",
+      "coconut"
+    ]
+  },
+  {
+    "id": "apple_vodka",
+    "name": "Apple vodka",
+    "category": "spirit",
+    "subcategory": "flavored-vodka",
+    "aliases": [],
+    "tags": [
+      "vodka",
+      "apple"
+    ]
+  },
+  {
+    "id": "blueberry_vodka",
+    "name": "Blueberry vodka",
+    "category": "spirit",
+    "subcategory": "flavored-vodka",
+    "aliases": [],
+    "tags": [
+      "vodka",
+      "blueberry"
+    ]
+  },
+  {
+    "id": "lemon_vodka",
+    "name": "Lemon vodka",
+    "category": "spirit",
+    "subcategory": "flavored-vodka",
+    "aliases": [],
+    "tags": [
+      "vodka",
+      "lemon"
+    ]
+  },
+  {
+    "id": "peach_vodka",
+    "name": "Peach vodka",
+    "category": "spirit",
+    "subcategory": "flavored-vodka",
+    "aliases": [],
+    "tags": [
+      "vodka",
+      "peach"
+    ]
+  },
+  {
+    "id": "honey_pepper_vodka",
+    "name": "Honey pepper vodka",
+    "category": "spirit",
+    "subcategory": "flavored-vodka",
+    "aliases": [],
+    "tags": [
+      "vodka",
+      "honey"
+    ]
+  }
+]

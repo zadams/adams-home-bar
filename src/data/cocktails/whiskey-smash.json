@@ -1,0 +1,91 @@
+{
+  "id": "whiskey-smash",
+  "slug": "whiskey-smash",
+  "name": "Whiskey Smash",
+  "aliases": [],
+  "description": "Bourbon, lemon, mint, and sugar—like a mint julep’s citrus cousin.",
+  "whyItWorks": "Mint oils and lemon brighten bourbon without drowning it.",
+  "classifications": [
+    "classic",
+    "smash"
+  ],
+  "cocktailFamily": "Smash",
+  "flavorProfiles": [
+    "mint",
+    "citrus",
+    "oak"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Crushed or cubed",
+  "garnish": [
+    "Mint sprig",
+    "Lemon wheel"
+  ],
+  "illustrationKey": "whiskey-smash",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "mint",
+      "amount": 8,
+      "unit": "piece",
+      "scaleMode": "fixed",
+      "label": "Mint leaves"
+    }
+  ],
+  "steps": [
+    "Gently muddle mint with syrup in a shaker.",
+    "Add bourbon, lemon, and ice; shake hard.",
+    "Strain over fresh ice; garnish lavishly with mint."
+  ],
+  "techniqueNotes": [
+    "Slap the mint garnish to wake up the aroma."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "barrell-vantage",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "bourbon",
+    "mint",
+    "smash"
+  ]
+}

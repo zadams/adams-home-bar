@@ -1,0 +1,72 @@
+{
+  "aliases": [],
+  "classifications": [
+    "modern",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "caraway",
+    "citrus",
+    "bright"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "medium",
+  "glassware": "Rocks or coupe",
+  "ice": "Shaken",
+  "garnish": [
+    "Lemon"
+  ],
+  "illustrationKey": "aquavit-sour",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "aquavit",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake with ice and strain."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "inderoy-aquavit",
+      "rank": 1,
+      "rationale": "House aquavit sour."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "whiskey-sour",
+    "gimlet"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "aquavit",
+    "sour"
+  ],
+  "description": "Aquavit, lemon, and simple—Nordic sour template.",
+  "whyItWorks": "Lemon brightens caraway and dill spice without cream or egg.",
+  "id": "aquavit-sour",
+  "slug": "aquavit-sour",
+  "name": "Aquavit Sour"
+}

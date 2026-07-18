@@ -1,0 +1,955 @@
+[
+  {
+    "id": "angels-envy-bourbon",
+    "brand": "Angel's Envy",
+    "productName": "Kentucky Straight Bourbon Finished in Port Wine Barrels",
+    "ingredientIds": [
+      "bourbon"
+    ],
+    "category": "spirit",
+    "subcategory": "bourbon",
+    "tags": [
+      "bourbon",
+      "finished"
+    ]
+  },
+  {
+    "id": "angels-envy-rye",
+    "brand": "Angel's Envy",
+    "productName": "Finished Rye",
+    "ingredientIds": [
+      "rye"
+    ],
+    "category": "spirit",
+    "subcategory": "rye",
+    "tags": [
+      "rye",
+      "finished"
+    ]
+  },
+  {
+    "id": "asw-fiddler-toasted",
+    "brand": "ASW Distillery",
+    "productName": "Fiddler Toasted Series Cask Strength Wheated Bourbon",
+    "ingredientIds": [
+      "bourbon"
+    ],
+    "category": "spirit",
+    "subcategory": "bourbon",
+    "tags": [
+      "bourbon",
+      "wheated",
+      "cask-strength"
+    ]
+  },
+  {
+    "id": "barrell-rye",
+    "brand": "Barrell Craft Spirits",
+    "productName": "Rye",
+    "ingredientIds": [
+      "rye"
+    ],
+    "category": "spirit",
+    "subcategory": "rye",
+    "tags": [
+      "rye"
+    ]
+  },
+  {
+    "id": "barrell-vantage",
+    "brand": "Barrell Craft Spirits",
+    "productName": "Vantage",
+    "ingredientIds": [
+      "bourbon"
+    ],
+    "category": "spirit",
+    "subcategory": "bourbon",
+    "tags": [
+      "bourbon",
+      "finished"
+    ]
+  },
+  {
+    "id": "bardstown-fusion",
+    "brand": "Bardstown Bourbon Company",
+    "productName": "Fusion Series",
+    "ingredientIds": [
+      "bourbon"
+    ],
+    "category": "spirit",
+    "subcategory": "bourbon",
+    "tags": [
+      "bourbon"
+    ]
+  },
+  {
+    "id": "bardstown-triple-blended",
+    "brand": "Bardstown Bourbon Company",
+    "productName": "Triple Blended Finish",
+    "ingredientIds": [
+      "bourbon"
+    ],
+    "category": "spirit",
+    "subcategory": "bourbon",
+    "tags": [
+      "bourbon",
+      "finished"
+    ]
+  },
+  {
+    "id": "blantons",
+    "brand": "Blanton's",
+    "productName": "Original Single Barrel Bourbon",
+    "ingredientIds": [
+      "bourbon"
+    ],
+    "category": "spirit",
+    "subcategory": "bourbon",
+    "tags": [
+      "bourbon",
+      "single-barrel"
+    ]
+  },
+  {
+    "id": "chicken-cock-bourbon",
+    "brand": "Chicken Cock",
+    "productName": "Kentucky Straight Bourbon",
+    "ingredientIds": [
+      "bourbon"
+    ],
+    "category": "spirit",
+    "subcategory": "bourbon",
+    "tags": [
+      "bourbon"
+    ]
+  },
+  {
+    "id": "eagle-rare",
+    "brand": "Eagle Rare",
+    "productName": "10 Year Bourbon",
+    "ingredientIds": [
+      "bourbon"
+    ],
+    "category": "spirit",
+    "subcategory": "bourbon",
+    "tags": [
+      "bourbon"
+    ]
+  },
+  {
+    "id": "elijah-craig-rye",
+    "brand": "Elijah Craig",
+    "productName": "Straight Rye",
+    "ingredientIds": [
+      "rye"
+    ],
+    "category": "spirit",
+    "subcategory": "rye",
+    "tags": [
+      "rye"
+    ]
+  },
+  {
+    "id": "henry-mckenna-10",
+    "brand": "Henry McKenna",
+    "productName": "10 Year Bottled-in-Bond",
+    "ingredientIds": [
+      "bourbon"
+    ],
+    "category": "spirit",
+    "subcategory": "bourbon",
+    "tags": [
+      "bourbon",
+      "bottled-in-bond"
+    ]
+  },
+  {
+    "id": "kirkland-bourbon",
+    "brand": "Kirkland Signature",
+    "productName": "Small Batch Kentucky Straight Bourbon",
+    "ingredientIds": [
+      "bourbon"
+    ],
+    "category": "spirit",
+    "subcategory": "bourbon",
+    "tags": [
+      "bourbon"
+    ]
+  },
+  {
+    "id": "macallan-12",
+    "brand": "The Macallan",
+    "productName": "12 Year",
+    "ingredientIds": [
+      "scotch"
+    ],
+    "category": "spirit",
+    "subcategory": "scotch",
+    "tags": [
+      "scotch"
+    ]
+  },
+  {
+    "id": "old-medley-12",
+    "brand": "Old Medley",
+    "productName": "12 Year",
+    "ingredientIds": [
+      "bourbon"
+    ],
+    "category": "spirit",
+    "subcategory": "bourbon",
+    "tags": [
+      "bourbon"
+    ]
+  },
+  {
+    "id": "penelope-architect",
+    "brand": "Penelope",
+    "productName": "Architect Bourbon",
+    "ingredientIds": [
+      "bourbon"
+    ],
+    "category": "spirit",
+    "subcategory": "bourbon",
+    "tags": [
+      "bourbon"
+    ]
+  },
+  {
+    "id": "pinhook-bourbon",
+    "brand": "Pinhook",
+    "productName": "Kentucky Straight Bourbon",
+    "ingredientIds": [
+      "bourbon"
+    ],
+    "category": "spirit",
+    "subcategory": "bourbon",
+    "tags": [
+      "bourbon"
+    ]
+  },
+  {
+    "id": "russells-reserve-10",
+    "brand": "Russell's Reserve",
+    "productName": "10 Year",
+    "ingredientIds": [
+      "bourbon"
+    ],
+    "category": "spirit",
+    "subcategory": "bourbon",
+    "tags": [
+      "bourbon"
+    ]
+  },
+  {
+    "id": "sazerac-rye",
+    "brand": "Sazerac",
+    "productName": "Rye",
+    "ingredientIds": [
+      "rye"
+    ],
+    "category": "spirit",
+    "subcategory": "rye",
+    "tags": [
+      "rye"
+    ]
+  },
+  {
+    "id": "widow-jane-decadence",
+    "brand": "Widow Jane",
+    "productName": "Decadence",
+    "ingredientIds": [
+      "bourbon"
+    ],
+    "category": "spirit",
+    "subcategory": "bourbon",
+    "tags": [
+      "bourbon",
+      "finished"
+    ]
+  },
+  {
+    "id": "woodford-reserve",
+    "brand": "Woodford Reserve",
+    "productName": "Distiller's Select",
+    "ingredientIds": [
+      "bourbon"
+    ],
+    "category": "spirit",
+    "subcategory": "bourbon",
+    "tags": [
+      "bourbon"
+    ]
+  },
+  {
+    "id": "woodford-masters-collection",
+    "brand": "Woodford Reserve",
+    "productName": "Master's Collection (multiple bottles)",
+    "ingredientIds": [
+      "bourbon"
+    ],
+    "category": "spirit",
+    "subcategory": "bourbon",
+    "tags": [
+      "bourbon",
+      "special"
+    ],
+    "notes": "Multiple Master's Collection releases; treat as bourbon inventory until SKUs are listed."
+  },
+  {
+    "id": "havana-club-3",
+    "brand": "Havana Club",
+    "productName": "Añejo 3 Años",
+    "ingredientIds": [
+      "white_rum",
+      "gold_rum"
+    ],
+    "category": "spirit",
+    "subcategory": "rum",
+    "tags": [
+      "rum",
+      "cuban-style"
+    ]
+  },
+  {
+    "id": "havana-club-especial",
+    "brand": "Havana Club",
+    "productName": "Especial",
+    "ingredientIds": [
+      "gold_rum"
+    ],
+    "category": "spirit",
+    "subcategory": "rum",
+    "tags": [
+      "rum"
+    ]
+  },
+  {
+    "id": "havana-club-maestros",
+    "brand": "Havana Club",
+    "productName": "Selección de Maestros",
+    "ingredientIds": [
+      "gold_rum"
+    ],
+    "category": "spirit",
+    "subcategory": "rum",
+    "tags": [
+      "rum"
+    ]
+  },
+  {
+    "id": "kraken-spiced",
+    "brand": "Kraken",
+    "productName": "Black Spiced Rum",
+    "ingredientIds": [
+      "spiced_rum"
+    ],
+    "category": "spirit",
+    "subcategory": "rum",
+    "tags": [
+      "rum",
+      "spiced"
+    ]
+  },
+  {
+    "id": "stroh-160",
+    "brand": "Stroh",
+    "productName": "160",
+    "ingredientIds": [
+      "overproof_rum"
+    ],
+    "category": "spirit",
+    "subcategory": "rum",
+    "tags": [
+      "rum",
+      "overproof"
+    ]
+  },
+  {
+    "id": "toasted-coconut-rum",
+    "brand": "House",
+    "productName": "Toasted coconut rum",
+    "ingredientIds": [
+      "coconut_rum",
+      "gold_rum"
+    ],
+    "category": "spirit",
+    "subcategory": "rum",
+    "tags": [
+      "rum",
+      "coconut"
+    ],
+    "notes": "Best for coconut variations rather than classic Daiquiris."
+  },
+  {
+    "id": "kirkland-cristalino",
+    "brand": "Kirkland Signature",
+    "productName": "Añejo Cristalino",
+    "ingredientIds": [
+      "cristalino_tequila",
+      "anejo_tequila",
+      "blanco_tequila"
+    ],
+    "category": "spirit",
+    "subcategory": "tequila",
+    "tags": [
+      "tequila"
+    ]
+  },
+  {
+    "id": "kirkland-extra-anejo",
+    "brand": "Kirkland Signature",
+    "productName": "Extra Añejo",
+    "ingredientIds": [
+      "anejo_tequila"
+    ],
+    "category": "spirit",
+    "subcategory": "tequila",
+    "tags": [
+      "tequila"
+    ]
+  },
+  {
+    "id": "kirkland-tequila-other",
+    "brand": "Kirkland Signature",
+    "productName": "Confirmed tequila (photo inventory)",
+    "ingredientIds": [
+      "blanco_tequila"
+    ],
+    "category": "spirit",
+    "subcategory": "tequila",
+    "tags": [
+      "tequila"
+    ],
+    "notes": "Additional Kirkland tequila confirmed from photo inventory."
+  },
+  {
+    "id": "drumshanbo-gunpowder",
+    "brand": "Drumshanbo",
+    "productName": "Gunpowder Irish Gin",
+    "ingredientIds": [
+      "gin"
+    ],
+    "category": "spirit",
+    "subcategory": "gin",
+    "tags": [
+      "gin"
+    ]
+  },
+  {
+    "id": "hendricks",
+    "brand": "Hendrick's",
+    "productName": "Gin",
+    "ingredientIds": [
+      "gin"
+    ],
+    "category": "spirit",
+    "subcategory": "gin",
+    "tags": [
+      "gin"
+    ]
+  },
+  {
+    "id": "malfy-originale",
+    "brand": "Malfy",
+    "productName": "Gin Originale",
+    "ingredientIds": [
+      "gin"
+    ],
+    "category": "spirit",
+    "subcategory": "gin",
+    "tags": [
+      "gin"
+    ]
+  },
+  {
+    "id": "titos",
+    "brand": "Tito's",
+    "productName": "Handmade Vodka",
+    "ingredientIds": [
+      "vodka"
+    ],
+    "category": "spirit",
+    "subcategory": "vodka",
+    "tags": [
+      "vodka"
+    ]
+  },
+  {
+    "id": "berliner-luft",
+    "brand": "Berliner Luft",
+    "productName": "Peppermint liqueur",
+    "ingredientIds": [
+      "peppermint_liqueur"
+    ],
+    "category": "liqueur",
+    "subcategory": "peppermint",
+    "tags": [
+      "peppermint"
+    ]
+  },
+  {
+    "id": "bozkov-peppermint",
+    "brand": "Božkov",
+    "productName": "Peppermint",
+    "ingredientIds": [
+      "peppermint_liqueur"
+    ],
+    "category": "liqueur",
+    "subcategory": "peppermint",
+    "tags": [
+      "peppermint"
+    ]
+  },
+  {
+    "id": "bozkov-griotte",
+    "brand": "Božkov",
+    "productName": "Griotte",
+    "ingredientIds": [
+      "cherry_liqueur"
+    ],
+    "category": "liqueur",
+    "subcategory": "cherry",
+    "tags": [
+      "cherry"
+    ]
+  },
+  {
+    "id": "inderoy-aquavit",
+    "brand": "Inderøy",
+    "productName": "Den Gyldne Aquavit",
+    "ingredientIds": [
+      "aquavit"
+    ],
+    "category": "spirit",
+    "subcategory": "aquavit",
+    "tags": [
+      "aquavit"
+    ]
+  },
+  {
+    "id": "koskenkorva-apple",
+    "brand": "Koskenkorva",
+    "productName": "Apple",
+    "ingredientIds": [
+      "apple_vodka",
+      "vodka"
+    ],
+    "category": "spirit",
+    "subcategory": "flavored-vodka",
+    "tags": [
+      "vodka",
+      "apple"
+    ]
+  },
+  {
+    "id": "koskenkorva-blueberry",
+    "brand": "Koskenkorva",
+    "productName": "Blueberry",
+    "ingredientIds": [
+      "blueberry_vodka",
+      "vodka"
+    ],
+    "category": "spirit",
+    "subcategory": "flavored-vodka",
+    "tags": [
+      "vodka",
+      "blueberry"
+    ]
+  },
+  {
+    "id": "koskenkorva-lemon",
+    "brand": "Koskenkorva",
+    "productName": "Lemon",
+    "ingredientIds": [
+      "lemon_vodka",
+      "vodka"
+    ],
+    "category": "spirit",
+    "subcategory": "flavored-vodka",
+    "tags": [
+      "vodka",
+      "lemon"
+    ]
+  },
+  {
+    "id": "koskenkorva-peach",
+    "brand": "Koskenkorva",
+    "productName": "Peach",
+    "ingredientIds": [
+      "peach_vodka",
+      "vodka"
+    ],
+    "category": "spirit",
+    "subcategory": "flavored-vodka",
+    "tags": [
+      "vodka",
+      "peach"
+    ]
+  },
+  {
+    "id": "nemiroff-honey-pepper",
+    "brand": "Nemiroff",
+    "productName": "Honey Pepper",
+    "ingredientIds": [
+      "honey_pepper_vodka",
+      "vodka"
+    ],
+    "category": "spirit",
+    "subcategory": "flavored-vodka",
+    "tags": [
+      "vodka",
+      "honey"
+    ]
+  },
+  {
+    "id": "aperol",
+    "brand": "Aperol",
+    "productName": "Aperitivo",
+    "ingredientIds": [
+      "aperol"
+    ],
+    "category": "liqueur",
+    "subcategory": "aperitif",
+    "tags": [
+      "aperitif"
+    ]
+  },
+  {
+    "id": "baileys",
+    "brand": "Baileys",
+    "productName": "Original Irish Cream",
+    "ingredientIds": [
+      "baileys"
+    ],
+    "category": "liqueur",
+    "subcategory": "cream",
+    "tags": [
+      "cream"
+    ]
+  },
+  {
+    "id": "becherovka-lemond",
+    "brand": "Becherovka",
+    "productName": "Fruits & Herbs Lemond",
+    "ingredientIds": [
+      "becherovka"
+    ],
+    "category": "liqueur",
+    "subcategory": "herbal",
+    "tags": [
+      "herbal"
+    ]
+  },
+  {
+    "id": "blind-squirrel-nog",
+    "brand": "Blind Squirrel",
+    "productName": "Peanut Butter Holiday Nog",
+    "ingredientIds": [
+      "cream_liqueur",
+      "baileys"
+    ],
+    "category": "liqueur",
+    "subcategory": "cream",
+    "tags": [
+      "seasonal",
+      "peanut-butter"
+    ]
+  },
+  {
+    "id": "campari",
+    "brand": "Campari",
+    "productName": "Bitter",
+    "ingredientIds": [
+      "campari"
+    ],
+    "category": "liqueur",
+    "subcategory": "aperitif",
+    "tags": [
+      "bitter"
+    ]
+  },
+  {
+    "id": "cointreau",
+    "brand": "Cointreau",
+    "productName": "Orange Liqueur",
+    "ingredientIds": [
+      "cointreau",
+      "triple_sec"
+    ],
+    "category": "liqueur",
+    "subcategory": "orange",
+    "tags": [
+      "orange"
+    ]
+  },
+  {
+    "id": "creme-de-banane",
+    "brand": "House",
+    "productName": "Crème de Banane",
+    "ingredientIds": [
+      "creme_de_banane"
+    ],
+    "category": "liqueur",
+    "subcategory": "banana",
+    "tags": [
+      "banana"
+    ]
+  },
+  {
+    "id": "grand-marnier",
+    "brand": "Grand Marnier",
+    "productName": "Cordon Rouge",
+    "ingredientIds": [
+      "grand_marnier",
+      "triple_sec"
+    ],
+    "category": "liqueur",
+    "subcategory": "orange",
+    "tags": [
+      "orange"
+    ]
+  },
+  {
+    "id": "luxardo-maraschino",
+    "brand": "Luxardo",
+    "productName": "Maraschino Liqueur",
+    "ingredientIds": [
+      "maraschino"
+    ],
+    "category": "liqueur",
+    "subcategory": "cherry",
+    "tags": [
+      "cherry"
+    ]
+  },
+  {
+    "id": "montbisou-peches",
+    "brand": "MontBisou",
+    "productName": "Pêches Liqueur",
+    "ingredientIds": [
+      "peach_liqueur"
+    ],
+    "category": "liqueur",
+    "subcategory": "peach",
+    "tags": [
+      "peach"
+    ]
+  },
+  {
+    "id": "bitter-truth-falernum",
+    "brand": "The Bitter Truth",
+    "productName": "Golden Falernum",
+    "ingredientIds": [
+      "falernum"
+    ],
+    "category": "liqueur",
+    "subcategory": "spice",
+    "tags": [
+      "spice"
+    ]
+  },
+  {
+    "id": "finest-call-peach",
+    "brand": "Finest Call",
+    "productName": "Peach",
+    "ingredientIds": [
+      "peach_liqueur"
+    ],
+    "category": "liqueur",
+    "subcategory": "peach",
+    "tags": [
+      "peach"
+    ]
+  },
+  {
+    "id": "finest-call-triple-sec",
+    "brand": "Finest Call",
+    "productName": "Triple Sec",
+    "ingredientIds": [
+      "triple_sec"
+    ],
+    "category": "liqueur",
+    "subcategory": "orange",
+    "tags": [
+      "orange",
+      "batching"
+    ]
+  },
+  {
+    "id": "sweet-vermouth",
+    "brand": "House",
+    "productName": "Sweet vermouth",
+    "ingredientIds": [
+      "sweet_vermouth"
+    ],
+    "category": "liqueur",
+    "subcategory": "vermouth",
+    "tags": [
+      "vermouth"
+    ]
+  },
+  {
+    "id": "dry-vermouth",
+    "brand": "House",
+    "productName": "Dry vermouth",
+    "ingredientIds": [
+      "dry_vermouth"
+    ],
+    "category": "liqueur",
+    "subcategory": "vermouth",
+    "tags": [
+      "vermouth"
+    ]
+  },
+  {
+    "id": "angostura-aromatic",
+    "brand": "Angostura",
+    "productName": "Aromatic Bitters",
+    "ingredientIds": [
+      "angostura_bitters"
+    ],
+    "category": "bitter",
+    "subcategory": "aromatic",
+    "tags": [
+      "bitters"
+    ]
+  },
+  {
+    "id": "angostura-cocoa",
+    "brand": "Angostura",
+    "productName": "Cocoa Bitters",
+    "ingredientIds": [
+      "cocoa_bitters"
+    ],
+    "category": "bitter",
+    "subcategory": "chocolate",
+    "tags": [
+      "bitters"
+    ]
+  },
+  {
+    "id": "fee-brothers-orange",
+    "brand": "Fee Brothers",
+    "productName": "Orange Bitters",
+    "ingredientIds": [
+      "orange_bitters"
+    ],
+    "category": "bitter",
+    "subcategory": "citrus",
+    "tags": [
+      "bitters"
+    ]
+  },
+  {
+    "id": "peychauds",
+    "brand": "Peychaud's",
+    "productName": "Bitters",
+    "ingredientIds": [
+      "peychauds_bitters"
+    ],
+    "category": "bitter",
+    "subcategory": "aromatic",
+    "tags": [
+      "bitters"
+    ]
+  },
+  {
+    "id": "agave-syrup",
+    "brand": "House",
+    "productName": "Agave syrup",
+    "ingredientIds": [
+      "agave_syrup"
+    ],
+    "category": "syrup",
+    "tags": [
+      "sweet"
+    ]
+  },
+  {
+    "id": "simple-syrup",
+    "brand": "House",
+    "productName": "Simple syrup",
+    "ingredientIds": [
+      "simple_syrup"
+    ],
+    "category": "syrup",
+    "tags": [
+      "sweet"
+    ]
+  },
+  {
+    "id": "brown-sugar-cinnamon-syrup",
+    "brand": "House",
+    "productName": "Brown sugar cinnamon syrup",
+    "ingredientIds": [
+      "brown_sugar_cinnamon_syrup"
+    ],
+    "category": "syrup",
+    "tags": [
+      "sweet",
+      "spice"
+    ]
+  },
+  {
+    "id": "sweetened-lime-juice",
+    "brand": "House",
+    "productName": "Sweetened lime juice",
+    "ingredientIds": [],
+    "category": "syrup",
+    "tags": [
+      "citrus"
+    ],
+    "notes": "Convenience bottle only — does not satisfy fresh lime juice in recipes."
+  },
+  {
+    "id": "cream-of-coconut",
+    "brand": "House",
+    "productName": "Cream of coconut",
+    "ingredientIds": [
+      "cream_of_coconut"
+    ],
+    "category": "syrup",
+    "tags": [
+      "coconut"
+    ]
+  },
+  {
+    "id": "fever-tree-tonic",
+    "brand": "Fever-Tree",
+    "productName": "Tonic Water",
+    "ingredientIds": [
+      "tonic_water"
+    ],
+    "category": "mixer",
+    "tags": [
+      "soda"
+    ]
+  },
+  {
+    "id": "fever-tree-soda",
+    "brand": "Fever-Tree",
+    "productName": "Club Soda",
+    "ingredientIds": [
+      "club_soda"
+    ],
+    "category": "mixer",
+    "tags": [
+      "soda"
+    ]
+  },
+  {
+    "id": "grapefruit-soda",
+    "brand": "House",
+    "productName": "Grapefruit soda",
+    "ingredientIds": [
+      "grapefruit_soda"
+    ],
+    "category": "mixer",
+    "tags": [
+      "soda",
+      "citrus"
+    ],
+    "notes": "Availability varies; editable inventory item."
+  }
+]

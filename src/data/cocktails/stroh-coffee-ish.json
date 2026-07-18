@@ -1,0 +1,75 @@
+{
+  "id": "stroh-coffee-ish",
+  "slug": "stroh-coffee-ish",
+  "name": "Overproof Rum Old Fashioned",
+  "aliases": [],
+  "description": "A cautious OF using overproof as a float over gold rum.",
+  "whyItWorks": "Base rum carries the drink; overproof is aroma and heat.",
+  "classifications": [
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Old Fashioned",
+  "flavorProfiles": [
+    "potent",
+    "spice",
+    "aromatic"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "stroh-coffee-ish",
+  "ingredients": [
+    {
+      "ingredientId": "gold_rum",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "overproof_rum",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Build gold rum, syrup, and bitters over ice.",
+    "Float overproof.",
+    "Express orange."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "stroh-160",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rum",
+    "overproof"
+  ]
+}

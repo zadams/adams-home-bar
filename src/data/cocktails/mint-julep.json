@@ -1,0 +1,83 @@
+{
+  "aliases": [],
+  "history": "Associated with the American South and the Kentucky Derby. Crushed ice and gentle mint are essential.",
+  "origin": "United States",
+  "whyItWorks": "Mint perfume and dilution turn strong bourbon into a cooling sipper.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Julep",
+  "flavorProfiles": [
+    "mint",
+    "oak",
+    "cooling"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "strong",
+  "glassware": "Julep cup or rocks",
+  "ice": "Crushed ice",
+  "garnish": [
+    "Mint bouquet"
+  ],
+  "illustrationKey": "mint-julep",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "mint",
+      "amount": 8,
+      "unit": "piece",
+      "label": "Mint leaves",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Lightly muddle mint with syrup.",
+    "Add bourbon and pack with crushed ice.",
+    "Swizzle and top with more ice; garnish heavily with mint."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "woodford-reserve",
+      "rank": 1,
+      "rationale": "Classic Derby-adjacent bourbon character."
+    },
+    {
+      "bottleId": "eagle-rare",
+      "rank": 2,
+      "rationale": "Softer fruit for a gentler julep."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "old-fashioned",
+    "southside"
+  ],
+  "seasonality": [
+    "spring",
+    "summer"
+  ],
+  "tags": [
+    "whiskey",
+    "mint"
+  ],
+  "id": "mint-julep",
+  "slug": "mint-julep",
+  "name": "Mint Julep",
+  "description": "Bourbon, mint, and sugar over crushed ice—Kentucky’s ceremonial highball."
+}

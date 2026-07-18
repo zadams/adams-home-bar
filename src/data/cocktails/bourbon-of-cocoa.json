@@ -1,0 +1,84 @@
+{
+  "id": "bourbon-of-cocoa",
+  "slug": "bourbon-of-cocoa",
+  "name": "Bourbon Cocoa Old Fashioned",
+  "aliases": [],
+  "description": "Spirit, sugar, and bitters—the original cocktail template, built over ice.",
+  "whyItWorks": "Sugar softens the spirit while bitters add aromatic lift. Ice dilutes just enough.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Old Fashioned",
+  "flavorProfiles": [
+    "chocolate",
+    "oak",
+    "rich"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "spirit-forward",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "bourbon-of-cocoa",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cocoa_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Add syrup and bitters to a rocks glass.",
+    "Add bourbon and a large cube.",
+    "Stir briefly; express citrus oil over the drink."
+  ],
+  "techniqueNotes": [
+    "Start lean on sugar—you can always add a barspoon more."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 1,
+      "rationale": "Showcases your Bourbon."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "barrell-vantage",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "old-fashioned",
+    "built",
+    "bourbon",
+    "whiskey"
+  ]
+}

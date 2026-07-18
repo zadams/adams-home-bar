@@ -1,0 +1,73 @@
+{
+  "aliases": [],
+  "whyItWorks": "Carbonation and dilution open whiskey’s aroma without sweetness.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "refreshing",
+    "oak",
+    "clean"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "light",
+  "glassware": "Highball",
+  "ice": "Plenty of cubes",
+  "garnish": [
+    "Lemon peel optional"
+  ],
+  "illustrationKey": "whiskey-highball",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "label": "Bourbon or rye",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Fill a highball with ice.",
+    "Add whiskey, top with soda, lift once."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "russells-reserve-10",
+      "rank": 1,
+      "rationale": "Holds up in a long drink."
+    },
+    {
+      "bottleId": "sazerac-rye",
+      "rank": 2,
+      "rationale": "Spicy rye highball."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "gin-and-tonic",
+    "old-fashioned"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "whiskey",
+    "highball"
+  ],
+  "id": "whiskey-highball",
+  "slug": "whiskey-highball",
+  "name": "Whiskey Highball",
+  "description": "Whiskey and soda over ice—simple, cold, and endlessly drinkable."
+}

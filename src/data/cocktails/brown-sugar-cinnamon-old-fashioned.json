@@ -1,0 +1,80 @@
+{
+  "aliases": [],
+  "whyItWorks": "Spice syrup echoes barrel oak and makes a dessert-leaning nightcap.",
+  "classifications": [
+    "modern",
+    "spirit-forward",
+    "seasonal"
+  ],
+  "cocktailFamily": "Old Fashioned",
+  "flavorProfiles": [
+    "spice",
+    "oak",
+    "warming"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Rocks",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "brown-sugar-cinnamon-old-fashioned",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "brown_sugar_cinnamon_syrup",
+      "amount": 0.35,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Stir bourbon, syrup, and bitters with ice.",
+    "Strain over a large cube.",
+    "Express orange peel."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 1,
+      "rationale": "Toasted sweetness mirrors the syrup."
+    },
+    {
+      "bottleId": "penelope-architect",
+      "rank": 2,
+      "rationale": "Oak-forward and polished."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "old-fashioned"
+  ],
+  "seasonality": [
+    "autumn",
+    "winter"
+  ],
+  "tags": [
+    "whiskey",
+    "seasonal"
+  ],
+  "id": "brown-sugar-cinnamon-old-fashioned",
+  "slug": "brown-sugar-cinnamon-old-fashioned",
+  "name": "Brown Sugar Cinnamon Old Fashioned",
+  "description": "An Old Fashioned sweetened with house brown sugar cinnamon syrup."
+}

@@ -1,0 +1,80 @@
+{
+  "id": "orange-blossom",
+  "slug": "orange-blossom",
+  "name": "Orange Blossom",
+  "aliases": [],
+  "description": "Gin and orange juice with a touch of sweetness.",
+  "whyItWorks": "Simple fruit-and-spirit template; gin keeps it from tasting flat.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "orange",
+    "botanical",
+    "soft"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe or rocks",
+  "ice": "Shaken; up or over",
+  "garnish": [
+    "Orange wheel"
+  ],
+  "illustrationKey": "orange-blossom",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake with ice.",
+    "Strain.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "orange"
+  ]
+}

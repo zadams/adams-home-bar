@@ -1,0 +1,68 @@
+{
+  "aliases": [],
+  "classifications": [
+    "dessert"
+  ],
+  "cocktailFamily": "Dessert",
+  "flavorProfiles": [
+    "mint",
+    "cream",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "light",
+  "glassware": "Rocks",
+  "ice": "Cubed ice",
+  "garnish": [],
+  "illustrationKey": "baileys-peppermint",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "baileys",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peppermint_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Build over ice and stir briefly."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "baileys",
+      "rank": 1,
+      "rationale": "House Irish cream."
+    },
+    {
+      "bottleId": "berliner-luft",
+      "rank": 2,
+      "rationale": "Peppermint lift."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "baileys-on-the-rocks",
+    "peppermint-bourbon"
+  ],
+  "seasonality": [
+    "winter"
+  ],
+  "tags": [
+    "dessert",
+    "cream"
+  ],
+  "description": "Irish cream with peppermint liqueur over ice.",
+  "whyItWorks": "Cream softens mint into a dessert sipper.",
+  "id": "baileys-peppermint",
+  "slug": "baileys-peppermint",
+  "name": "Baileys Peppermint"
+}

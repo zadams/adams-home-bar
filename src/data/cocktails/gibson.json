@@ -1,0 +1,82 @@
+{
+  "id": "gibson",
+  "slug": "gibson",
+  "name": "Gibson",
+  "aliases": [],
+  "description": "A martini garnished with a cocktail onion (use olive if needed).",
+  "whyItWorks": "Same structure as a martini; garnish shifts the aroma savory.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Martini",
+  "flavorProfiles": [
+    "botanical",
+    "dry",
+    "savory"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Martini glass",
+  "ice": "Stirred; served up",
+  "garnish": [
+    "Cocktail onion or olive"
+  ],
+  "illustrationKey": "gibson",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "dry_vermouth",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "olive",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "optional": true,
+      "label": "Onion or olive"
+    }
+  ],
+  "steps": [
+    "Stir with ice.",
+    "Strain up.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "martini"
+  ]
+}

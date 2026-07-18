@@ -1,0 +1,70 @@
+{
+  "id": "campari-sour",
+  "slug": "campari-sour",
+  "name": "Campari Sour",
+  "aliases": [],
+  "description": "Campari and lemon in sour form—bitter and bright.",
+  "whyItWorks": "Sugar and lemon make Campari’s bitterness deliciously drinkable.",
+  "classifications": [
+    "sour",
+    "aperitivo"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "bitter",
+    "citrus",
+    "orange"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; served up",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "campari-sour",
+  "ingredients": [
+    {
+      "ingredientId": "campari",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake hard.",
+    "Strain up.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "campari",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "campari",
+    "sour"
+  ]
+}

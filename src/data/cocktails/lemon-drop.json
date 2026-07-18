@@ -1,0 +1,88 @@
+{
+  "id": "lemon-drop",
+  "slug": "lemon-drop",
+  "name": "Lemon Drop",
+  "aliases": [],
+  "description": "Vodka lemon sour with an orange-liqueur edge.",
+  "whyItWorks": "Cointreau adds aromatic sweetness to a sharp lemon profile.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "lemon",
+    "sweet",
+    "bright"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; served up",
+  "garnish": [
+    "Sugar rim",
+    "Lemon twist"
+  ],
+  "illustrationKey": "lemon-drop",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cointreau",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake hard with ice.",
+    "Strain into a sugar-rimmed coupe.",
+    "Garnish with lemon."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "koskenkorva-apple",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "koskenkorva-blueberry",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "vodka",
+    "lemon",
+    "sweet"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "anejo_tequila-martini",
+  "slug": "anejo_tequila-martini",
+  "name": "Añejo tequila Martini",
+  "aliases": [],
+  "description": "Ice-cold añejo tequila with dry vermouth.",
+  "whyItWorks": "Vermouth rounds the edges; temperature and dilution do the rest.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Martini",
+  "flavorProfiles": [
+    "agave",
+    "dry",
+    "clean"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Martini glass or coupe",
+  "ice": "Stirred; served up",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "anejo_tequila-martini",
+  "ingredients": [
+    {
+      "ingredientId": "anejo_tequila",
+      "amount": 2.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "dry_vermouth",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Stir spirit and vermouth with plenty of ice.",
+    "Strain into a chilled glass.",
+    "Garnish."
+  ],
+  "techniqueNotes": [
+    "Stir, don’t shake, unless you prefer a cloudier martini."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-cristalino",
+      "rank": 1,
+      "rationale": "Showcases your Añejo tequila."
+    },
+    {
+      "bottleId": "kirkland-extra-anejo",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "martini",
+    "stirred",
+    "tequila",
+    "anejo"
+  ]
+}

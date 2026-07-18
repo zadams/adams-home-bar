@@ -1,0 +1,83 @@
+{
+  "aliases": [],
+  "history": "A classic gin sour associated with the British Navy and later refined as a shaken coupe drink with fresh lime and sugar.",
+  "origin": "United Kingdom",
+  "whyItWorks": "Lime acidity and sugar frame gin’s botanicals without vermouth’s herbal softness.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Gimlet",
+  "flavorProfiles": [
+    "citrus",
+    "botanical",
+    "bright"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; served up",
+  "garnish": [
+    "Lime wheel"
+  ],
+  "illustrationKey": "gimlet",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake gin, lime, and syrup with ice.",
+    "Double-strain into a chilled coupe.",
+    "Garnish with lime."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "malfy-originale",
+      "rank": 1,
+      "rationale": "Clean juniper for a bright Gimlet."
+    },
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 2,
+      "rationale": "Tea spice adds intrigue."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "daiquiri",
+    "southside",
+    "martini"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "shaken",
+    "sour"
+  ],
+  "id": "gimlet",
+  "slug": "gimlet",
+  "name": "Gimlet",
+  "description": "Gin and lime cordial sharpness—clean, tart, and short."
+}

@@ -1,0 +1,74 @@
+{
+  "id": "peach_vodka-sour",
+  "slug": "peach_vodka-sour",
+  "name": "Peach vodka Sour",
+  "aliases": [],
+  "description": "A clean lemon sour built on peach vodka.",
+  "whyItWorks": "Acid brightens peach vodka; syrup restores balance.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "citrus",
+    "bright",
+    "balanced"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks or coupe",
+  "ice": "Shaken; served up or over ice",
+  "garnish": [
+    "Lemon wheel"
+  ],
+  "illustrationKey": "peach_vodka-sour",
+  "ingredients": [
+    {
+      "ingredientId": "peach_vodka",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake all ingredients hard with ice.",
+    "Strain into a chilled coupe or over fresh ice.",
+    "Garnish."
+  ],
+  "techniqueNotes": [
+    "Shake longer than you think for a cold, airy texture."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "koskenkorva-peach",
+      "rank": 1,
+      "rationale": "Showcases your Peach vodka."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "sour",
+    "shaken",
+    "vodka",
+    "flavored"
+  ]
+}

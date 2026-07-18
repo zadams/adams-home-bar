@@ -1,0 +1,64 @@
+{
+  "id": "white_rum-soda",
+  "slug": "white_rum-soda",
+  "name": "White rum Soda",
+  "aliases": [],
+  "description": "A simple highball: white rum lengthened with soda.",
+  "whyItWorks": "Dilution and bubbles make a strong spirit easy to sip.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "refreshing",
+    "clean"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "light",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [],
+  "illustrationKey": "white_rum-soda",
+  "ingredients": [
+    {
+      "ingredientId": "white_rum",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build white rum over ice.",
+    "Top with soda.",
+    "Stir once; garnish if desired."
+  ],
+  "techniqueNotes": [
+    "Keep the pour cold and don’t over-stir."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-3",
+      "rank": 1,
+      "rationale": "Showcases your White rum."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "highball",
+    "built",
+    "rum"
+  ]
+}

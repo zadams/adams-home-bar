@@ -1,0 +1,85 @@
+{
+  "id": "bees-knees",
+  "slug": "bees-knees",
+  "name": "Bee's Knees",
+  "aliases": [],
+  "description": "Gin shaken with lemon and honey—Prohibition-era brightness.",
+  "history": "A Prohibition classic that used honey to mask rough gin.",
+  "origin": "United States",
+  "whyItWorks": "Honey’s viscosity softens gin while lemon keeps it lively.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "honey",
+    "citrus",
+    "botanical"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; served up",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "bees-knees",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "honey_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake all ingredients hard with ice.",
+    "Strain into a chilled coupe.",
+    "Express lemon oil over the top."
+  ],
+  "techniqueNotes": [
+    "Warm honey syrup pours more easily; 1:1 honey:water works."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "honey",
+    "prohibition"
+  ]
+}

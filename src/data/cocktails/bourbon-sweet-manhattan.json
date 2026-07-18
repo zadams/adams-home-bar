@@ -1,0 +1,84 @@
+{
+  "id": "bourbon-sweet-manhattan",
+  "slug": "bourbon-sweet-manhattan",
+  "name": "Bourbon Manhattan",
+  "aliases": [],
+  "description": "Bourbon stirred with sweet vermouth and bitters.",
+  "whyItWorks": "Vermouth softens and sweetens; bitters keep the finish dry and aromatic.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Manhattan",
+  "flavorProfiles": [
+    "oak",
+    "herbal",
+    "bittersweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Coupe or Nick & Nora",
+  "ice": "Stirred; served up",
+  "garnish": [
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "bourbon-sweet-manhattan",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Stir all ingredients with ice until very cold.",
+    "Strain into a chilled coupe.",
+    "Garnish."
+  ],
+  "techniqueNotes": [
+    "Aim for 20–30 seconds of stirring for the right dilution."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 1,
+      "rationale": "Showcases your Bourbon."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "barrell-vantage",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "manhattan",
+    "stirred",
+    "bourbon",
+    "whiskey"
+  ]
+}

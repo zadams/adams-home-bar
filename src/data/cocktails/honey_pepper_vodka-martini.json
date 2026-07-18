@@ -1,0 +1,68 @@
+{
+  "id": "honey_pepper_vodka-martini",
+  "slug": "honey_pepper_vodka-martini",
+  "name": "Honey pepper vodka Martini",
+  "aliases": [],
+  "description": "Ice-cold honey pepper vodka with dry vermouth.",
+  "whyItWorks": "Vermouth rounds the edges; temperature and dilution do the rest.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Martini",
+  "flavorProfiles": [
+    "fruity",
+    "clean",
+    "bright"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Martini glass or coupe",
+  "ice": "Stirred; served up",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "honey_pepper_vodka-martini",
+  "ingredients": [
+    {
+      "ingredientId": "honey_pepper_vodka",
+      "amount": 2.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "dry_vermouth",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Stir spirit and vermouth with plenty of ice.",
+    "Strain into a chilled glass.",
+    "Garnish."
+  ],
+  "techniqueNotes": [
+    "Stir, don’t shake, unless you prefer a cloudier martini."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "nemiroff-honey-pepper",
+      "rank": 1,
+      "rationale": "Showcases your Honey pepper vodka."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "martini",
+    "stirred",
+    "vodka",
+    "flavored"
+  ]
+}

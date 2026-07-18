@@ -1,0 +1,75 @@
+{
+  "aliases": [],
+  "history": "A Milanese variation that swaps gin for prosecco. Lighter and festive.",
+  "origin": "Milan",
+  "whyItWorks": "Bubbles replace gin’s strength while Campari and vermouth stay.",
+  "classifications": [
+    "classic",
+    "sparkling"
+  ],
+  "cocktailFamily": "Negroni",
+  "flavorProfiles": [
+    "bitter",
+    "sparkling",
+    "herbal"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks or wine glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Orange"
+  ],
+  "illustrationKey": "negroni-sbagliato",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "campari",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "prosecco",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build Campari and vermouth over ice.",
+    "Top with prosecco."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "campari",
+      "rank": 1,
+      "rationale": "House Campari."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "negroni",
+    "aperol-spritz"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "aperitif",
+    "sparkling"
+  ],
+  "id": "negroni-sbagliato",
+  "slug": "negroni-sbagliato",
+  "name": "Negroni Sbagliato",
+  "description": "A “mistaken” Negroni with sparkling wine instead of gin."
+}

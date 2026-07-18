@@ -1,0 +1,84 @@
+{
+  "aliases": [],
+  "whyItWorks": "Falernum adds clove-lime-almond complexity to a long gin drink.",
+  "classifications": [
+    "modern",
+    "highball"
+  ],
+  "cocktailFamily": "Collins",
+  "flavorProfiles": [
+    "spice",
+    "citrus",
+    "botanical"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "light",
+  "glassware": "Collins",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime"
+  ],
+  "illustrationKey": "falernum-gin-collins",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "falernum",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 3,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Shake gin, lemon, and falernum.",
+    "Strain over ice and top with soda."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "bitter-truth-falernum",
+      "rank": 1,
+      "rationale": "House falernum."
+    },
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 2,
+      "rationale": "Gin with spice affinity."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "tom-collins",
+    "corn-n-oil"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "falernum"
+  ],
+  "id": "falernum-gin-collins",
+  "slug": "falernum-gin-collins",
+  "name": "Falernum Gin Collins",
+  "description": "Collins structure with falernum spice instead of plain syrup."
+}

@@ -1,0 +1,84 @@
+{
+  "id": "bourbon-lemon-sour",
+  "slug": "bourbon-lemon-sour",
+  "name": "Bourbon Sour",
+  "aliases": [],
+  "description": "A clean lemon sour built on bourbon.",
+  "whyItWorks": "Acid brightens bourbon; syrup restores balance.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "citrus",
+    "bright",
+    "balanced"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks or coupe",
+  "ice": "Shaken; served up or over ice",
+  "garnish": [
+    "Lemon wheel"
+  ],
+  "illustrationKey": "bourbon-lemon-sour",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake all ingredients hard with ice.",
+    "Strain into a chilled coupe or over fresh ice.",
+    "Garnish."
+  ],
+  "techniqueNotes": [
+    "Shake longer than you think for a cold, airy texture."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 1,
+      "rationale": "Showcases your Bourbon."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "barrell-vantage",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "sour",
+    "shaken",
+    "bourbon",
+    "whiskey"
+  ]
+}

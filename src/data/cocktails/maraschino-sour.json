@@ -1,0 +1,75 @@
+{
+  "id": "maraschino-sour",
+  "slug": "maraschino-sour",
+  "name": "Maraschino Sour",
+  "aliases": [],
+  "description": "Luxardo-forward sour with lemon.",
+  "whyItWorks": "Maraschino’s nutty cherry needs acid more than sugar.",
+  "classifications": [
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "cherry",
+    "almond",
+    "citrus"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; served up",
+  "garnish": [
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "maraschino-sour",
+  "ingredients": [
+    {
+      "ingredientId": "maraschino",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "gin",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake with ice.",
+    "Strain up.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "luxardo-maraschino",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "maraschino",
+    "gin"
+  ]
+}

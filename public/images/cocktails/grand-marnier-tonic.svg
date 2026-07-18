@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Grand Marnier and Tonic">
+  <defs>
+    <linearGradient id="bg-grand-marnier-tonic" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="hsl(45 32% 14%)"/>
+      <stop offset="100%" stop-color="hsl(69 38% 24%)"/>
+    </linearGradient>
+    <radialGradient id="glow-grand-marnier-tonic" cx="48%" cy="28%" r="52%">
+      <stop offset="0%" stop-color="hsl(81 45% 70%)" stop-opacity="0.32"/>
+      <stop offset="100%" stop-color="hsl(81 45% 70%)" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="liq-grand-marnier-tonic" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#c8dce8" stop-opacity="0.92"/>
+      <stop offset="100%" stop-color="#304850" stop-opacity="0.95"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg-grand-marnier-tonic)"/>
+  <rect width="400" height="400" fill="url(#glow-grand-marnier-tonic)"/>
+  <path d="M182 140h36l-6 55c-1 10-5 15-12 15s-11-5-12-15l-6-55z" fill="url(#liq-grand-marnier-tonic)"/>
+  <g fill="none" stroke="hsl(81 45% 70%)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.95">
+    <path d="M175 70h50l-12 140c-2 20-10 30-18 30s-16-10-18-30L175 70z"/>
+    <path d="M200 240v70"/>
+    <path d="M165 318h70"/>
+  </g>
+  <circle cx="248" cy="128" r="14" fill="none" stroke="#f0a070" stroke-width="2"/><path d="M248 114v28M234 128h28" stroke="#f0a070" stroke-width="1.5" opacity="0.6"/>
+  <ellipse cx="200" cy="348" rx="72" ry="11" fill="hsl(81 45% 70%)" opacity="0.1"/>
+  <text x="200" y="378" text-anchor="middle" fill="hsl(81 45% 70%)" font-family="Georgia, 'Times New Roman', serif" font-size="15" opacity="0.8">Grand Marnier and Tonic</text>
+</svg>

@@ -1,0 +1,76 @@
+{
+  "id": "blueberry-lemon-collins",
+  "slug": "blueberry-lemon-collins",
+  "name": "Blueberry Lemon Collins",
+  "aliases": [],
+  "description": "Blueberry vodka Collins—brunch-friendly.",
+  "whyItWorks": "Berry vodka plus lemon reads like lemonade with a kick.",
+  "classifications": [
+    "highball"
+  ],
+  "cocktailFamily": "Collins",
+  "flavorProfiles": [
+    "berry",
+    "citrus",
+    "light"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Collins glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lemon wheel"
+  ],
+  "illustrationKey": "blueberry-lemon-collins",
+  "ingredients": [
+    {
+      "ingredientId": "blueberry_vodka",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Shake vodka, lemon, and syrup.",
+    "Strain over ice.",
+    "Top with soda."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "koskenkorva-blueberry",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "blueberry",
+    "vodka",
+    "collins"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "penicillin",
+  "slug": "penicillin",
+  "name": "Penicillin",
+  "aliases": [],
+  "description": "Scotch sour with honey-ginger warmth (built for your honey syrup).",
+  "origin": "New York",
+  "whyItWorks": "Honey and lemon frame Scotch; a float of richer Scotch adds aroma.",
+  "classifications": [
+    "modern classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "honey",
+    "citrus",
+    "smoke"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Candied ginger or lemon"
+  ],
+  "illustrationKey": "penicillin",
+  "ingredients": [
+    {
+      "ingredientId": "scotch",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "notes": "Use a blend; optional smoky float"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "honey_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake Scotch, lemon, and honey syrup with ice.",
+    "Strain over a large cube.",
+    "Optional: float a barspoon of smokier Scotch if you have it."
+  ],
+  "techniqueNotes": [
+    "Classic Penicillin uses ginger syrup; honey syrup still makes a delicious house version."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "macallan-12",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "scotch",
+    "honey",
+    "modern-classic"
+  ]
+}

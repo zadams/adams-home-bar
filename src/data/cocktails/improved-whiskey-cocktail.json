@@ -1,0 +1,94 @@
+{
+  "aliases": [],
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Old Fashioned",
+  "flavorProfiles": [
+    "cherry",
+    "oak",
+    "bittersweet"
+  ],
+  "difficulty": "medium",
+  "preparationTime": 3,
+  "strength": "spirit-forward",
+  "glassware": "Rocks or coupe",
+  "ice": "Large cube or up",
+  "garnish": [
+    "Lemon peel"
+  ],
+  "illustrationKey": "improved-whiskey-cocktail",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "label": "Bourbon or rye",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "maraschino",
+      "amount": 1,
+      "unit": "tsp",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 1,
+      "unit": "tsp",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "absinthe",
+      "amount": 1,
+      "unit": "rinse",
+      "optional": true,
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Optional: rinse glass with absinthe.",
+    "Stir whiskey, maraschino, syrup, and bitters with ice.",
+    "Strain over ice or up; express lemon."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "sazerac-rye",
+      "rank": 1,
+      "rationale": "Rye version stays spicy and historic."
+    },
+    {
+      "bottleId": "luxardo-maraschino",
+      "rank": 2,
+      "rationale": "House maraschino."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "old-fashioned",
+    "sazerac",
+    "manhattan"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "whiskey",
+    "maraschino"
+  ],
+  "description": "Whiskey, sugar, bitters, and a touch of maraschino—the Old Fashioned’s 19th-century sibling.",
+  "whyItWorks": "Maraschino adds cherry-almond lift without turning the drink into a Manhattan.",
+  "id": "improved-whiskey-cocktail",
+  "slug": "improved-whiskey-cocktail",
+  "name": "Improved Whiskey Cocktail"
+}

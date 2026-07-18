@@ -1,0 +1,86 @@
+{
+  "id": "hotel-nacional",
+  "slug": "hotel-nacional",
+  "name": "Hotel Nacional (House)",
+  "aliases": [],
+  "description": "Rum, lime, apricot-peach liqueur, and a whisper of sweetness.",
+  "whyItWorks": "Peach liqueur approximates the classic’s apricot richness.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Daiquiri",
+  "flavorProfiles": [
+    "peach",
+    "citrus",
+    "tropical"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; served up",
+  "garnish": [
+    "Lime wheel"
+  ],
+  "illustrationKey": "hotel-nacional",
+  "ingredients": [
+    {
+      "ingredientId": "gold_rum",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peach_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake hard.",
+    "Strain into a coupe.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-3",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "havana-club-especial",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "havana-club-maestros",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rum",
+    "peach"
+  ]
+}

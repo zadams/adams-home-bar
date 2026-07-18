@@ -1,0 +1,71 @@
+{
+  "aliases": [],
+  "classifications": [
+    "modern",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "lemon",
+    "bitter",
+    "refreshing"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "light",
+  "glassware": "Highball",
+  "ice": "Plenty of ice",
+  "garnish": [
+    "Lemon"
+  ],
+  "illustrationKey": "lemon-vodka-tonic",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "lemon_vodka",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "tonic_water",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build over ice; garnish with lemon."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "koskenkorva-lemon",
+      "rank": 1,
+      "rationale": "House lemon vodka."
+    },
+    {
+      "bottleId": "fever-tree-tonic",
+      "rank": 2,
+      "rationale": "House tonic."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "vodka-tonic",
+    "gin-and-tonic"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "vodka",
+    "lemon"
+  ],
+  "description": "Koskenkorva Lemon with Fever-Tree tonic.",
+  "whyItWorks": "Lemon vodka and tonic reinforce each other—bright and bitter.",
+  "id": "lemon-vodka-tonic",
+  "slug": "lemon-vodka-tonic",
+  "name": "Lemon Vodka Tonic"
+}

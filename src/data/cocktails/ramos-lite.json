@@ -1,0 +1,98 @@
+{
+  "id": "ramos-lite",
+  "slug": "ramos-lite",
+  "name": "Silver Fizz (No Egg)",
+  "aliases": [],
+  "description": "A gin fizz shaken extra-long for texture without egg white.",
+  "whyItWorks": "Extended shaking adds air; soda finishes the lift.",
+  "classifications": [
+    "classic",
+    "fizz"
+  ],
+  "cocktailFamily": "Fizz",
+  "flavorProfiles": [
+    "citrus",
+    "floral",
+    "light"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Fizz glass",
+  "ice": "Shaken; soda",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "ramos-lite",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_bitters",
+      "amount": 1,
+      "unit": "dash",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Shake citrus, syrup, bitters, and gin very hard.",
+    "Strain into a glass.",
+    "Top with a short soda pour."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "fizz"
+  ]
+}

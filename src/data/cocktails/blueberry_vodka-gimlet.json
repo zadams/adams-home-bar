@@ -1,0 +1,74 @@
+{
+  "id": "blueberry_vodka-gimlet",
+  "slug": "blueberry_vodka-gimlet",
+  "name": "Blueberry vodka Gimlet",
+  "aliases": [],
+  "description": "Blueberry vodka shaken with lime and a touch of sweetness.",
+  "whyItWorks": "Lime’s sharp acid loves a clean spirit; syrup keeps it drinkable.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Gimlet",
+  "flavorProfiles": [
+    "citrus",
+    "clean",
+    "bright"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; served up",
+  "garnish": [
+    "Lime wheel"
+  ],
+  "illustrationKey": "blueberry_vodka-gimlet",
+  "ingredients": [
+    {
+      "ingredientId": "blueberry_vodka",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake hard with ice.",
+    "Strain into a chilled coupe.",
+    "Garnish."
+  ],
+  "techniqueNotes": [
+    "Equal citrus and syrup is the modern sweet spot."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "koskenkorva-blueberry",
+      "rank": 1,
+      "rationale": "Showcases your Blueberry vodka."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gimlet",
+    "shaken",
+    "vodka",
+    "flavored"
+  ]
+}

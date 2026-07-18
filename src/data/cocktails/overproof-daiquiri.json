@@ -1,0 +1,79 @@
+{
+  "id": "overproof-daiquiri",
+  "slug": "overproof-daiquiri",
+  "name": "Navy-Strength Daiquiri",
+  "aliases": [],
+  "description": "Daiquiri with a measured overproof kick.",
+  "whyItWorks": "Overproof needs more citrus and dilution—shake hard.",
+  "classifications": [
+    "sour",
+    "tropical"
+  ],
+  "cocktailFamily": "Daiquiri",
+  "flavorProfiles": [
+    "citrus",
+    "potent",
+    "bright"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; served up",
+  "garnish": [
+    "Lime wheel"
+  ],
+  "illustrationKey": "overproof-daiquiri",
+  "ingredients": [
+    {
+      "ingredientId": "overproof_rum",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "white_rum",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake very hard with plenty of ice.",
+    "Strain up.",
+    "Garnish."
+  ],
+  "techniqueNotes": [
+    "Respect overproof—this drinks stronger than it looks."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "stroh-160",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rum",
+    "overproof",
+    "daiquiri"
+  ]
+}

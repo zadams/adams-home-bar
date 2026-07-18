@@ -1,0 +1,69 @@
+{
+  "id": "apple-vodka-sour",
+  "slug": "apple-vodka-sour",
+  "name": "Apple Vodka Sour",
+  "aliases": [],
+  "description": "Bright apple sour.",
+  "whyItWorks": "Apple vodka already tastes like a sour base—lemon finishes it.",
+  "classifications": [
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "apple",
+    "citrus",
+    "bright"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; served up",
+  "garnish": [
+    "Apple slice or lemon"
+  ],
+  "illustrationKey": "apple-vodka-sour",
+  "ingredients": [
+    {
+      "ingredientId": "apple_vodka",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake.",
+    "Strain up.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "koskenkorva-apple",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "apple",
+    "vodka"
+  ]
+}

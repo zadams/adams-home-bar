@@ -1,0 +1,80 @@
+{
+  "aliases": [],
+  "whyItWorks": "Banana liqueur adds ripe fruit without turning the drink into a dessert shot.",
+  "classifications": [
+    "modern",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Old Fashioned",
+  "flavorProfiles": [
+    "banana",
+    "oak",
+    "bittersweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Rocks",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "banana-old-fashioned",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "creme_de_banane",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "demerara_sugar",
+      "amount": 1,
+      "unit": "tsp",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Stir all ingredients with ice.",
+    "Strain over a large cube.",
+    "Garnish with orange."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "eagle-rare",
+      "rank": 1,
+      "rationale": "Fruit-forward bourbon pairs with banana."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "old-fashioned",
+    "boulevardier"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "whiskey",
+    "banana"
+  ],
+  "id": "banana-old-fashioned",
+  "slug": "banana-old-fashioned",
+  "name": "Banana Old Fashioned",
+  "description": "Bourbon Old Fashioned lifted with crème de banane."
+}

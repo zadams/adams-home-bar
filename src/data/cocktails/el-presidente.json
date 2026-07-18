@@ -1,0 +1,79 @@
+{
+  "aliases": [],
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "El Presidente",
+  "flavorProfiles": [
+    "rum",
+    "orange",
+    "dry"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "spirit-forward",
+  "glassware": "Coupe",
+  "ice": "Stirred; up",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "el-presidente",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "white_rum",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "dry_vermouth",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cointreau",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Stir rum, vermouth, and Cointreau with ice.",
+    "Strain into a coupe.",
+    "Express orange peel."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-3",
+      "rank": 1,
+      "rationale": "Classic Cuban-style rum."
+    },
+    {
+      "bottleId": "havana-club-especial",
+      "rank": 2,
+      "rationale": "Richer gold rum version."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "daiquiri",
+    "martini"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rum",
+    "stirred"
+  ],
+  "description": "Rum, dry vermouth, and orange liqueur—stirred and elegant.",
+  "whyItWorks": "Dry vermouth keeps rum from reading sweet; orange liqueur perfumes the finish.",
+  "id": "el-presidente",
+  "slug": "el-presidente",
+  "name": "El Presidente"
+}

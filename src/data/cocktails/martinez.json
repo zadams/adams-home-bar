@@ -1,0 +1,86 @@
+{
+  "aliases": [],
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Martini",
+  "flavorProfiles": [
+    "botanical",
+    "cherry",
+    "herbal"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "spirit-forward",
+  "glassware": "Coupe",
+  "ice": "Stirred; up",
+  "garnish": [
+    "Lemon or orange peel"
+  ],
+  "illustrationKey": "martinez",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "maraschino",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Stir all with ice.",
+    "Strain into a coupe.",
+    "Express citrus peel."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "malfy-originale",
+      "rank": 1,
+      "rationale": "Clean gin for a classic Martinez."
+    },
+    {
+      "bottleId": "luxardo-maraschino",
+      "rank": 2,
+      "rationale": "Essential maraschino."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "martini",
+    "manhattan",
+    "negroni"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "stirred"
+  ],
+  "description": "Gin, sweet vermouth, maraschino, and bitters—ancestor of the Martini.",
+  "whyItWorks": "Maraschino bridges gin botanicals and vermouth sweetness.",
+  "id": "martinez",
+  "slug": "martinez",
+  "name": "Martinez"
+}

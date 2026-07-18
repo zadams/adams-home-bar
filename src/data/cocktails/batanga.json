@@ -1,0 +1,82 @@
+{
+  "aliases": [],
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "cola",
+    "agave",
+    "salty"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "light",
+  "glassware": "Highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime",
+    "Salt rim or pinch"
+  ],
+  "illustrationKey": "batanga",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cola",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "salt",
+      "amount": 1,
+      "unit": "to_taste",
+      "optional": true,
+      "scaleMode": "garnish"
+    }
+  ],
+  "steps": [
+    "Salt the glass lightly if desired.",
+    "Add tequila and lime over ice.",
+    "Top with cola and stir once with a knife (traditional) or spoon."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-tequila-other",
+      "rank": 1,
+      "rationale": "Everyday tequila for a Batanga."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "cuba-libre",
+    "ranch-water"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "tequila",
+    "cola"
+  ],
+  "description": "Tequila, cola, lime, and salt—Don Javier’s highball from Tequila, Mexico.",
+  "whyItWorks": "Salt and lime keep cola from tasting like a soft drink.",
+  "id": "batanga",
+  "slug": "batanga",
+  "name": "Batanga"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "rosita",
+  "slug": "rosita",
+  "name": "Rosita",
+  "aliases": [],
+  "description": "Tequila with both vermouths and Campari—a softer Tegroni cousin.",
+  "whyItWorks": "Split vermouths add complexity without more bitterness.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Negroni",
+  "flavorProfiles": [
+    "bitter",
+    "herbal",
+    "agave"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "rosita",
+  "ingredients": [
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "dry_vermouth",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "campari",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 1,
+      "unit": "dash",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Stir with ice.",
+    "Strain over a large cube.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-cristalino",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "kirkland-tequila-other",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "tequila",
+    "vermouth",
+    "campari"
+  ]
+}

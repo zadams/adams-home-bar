@@ -1,0 +1,69 @@
+{
+  "id": "aquavit-negroni",
+  "slug": "aquavit-negroni",
+  "name": "Aquavit Negroni",
+  "aliases": [],
+  "description": "Caraway-forward Negroni.",
+  "whyItWorks": "Aquavit’s spice stands up to Campari better than vodka.",
+  "classifications": [
+    "variation",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Negroni",
+  "flavorProfiles": [
+    "caraway",
+    "bitter",
+    "herbal"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "aquavit-negroni",
+  "ingredients": [
+    {
+      "ingredientId": "aquavit",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "campari",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Stir over ice.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "inderoy-aquavit",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "aquavit",
+    "negroni"
+  ]
+}

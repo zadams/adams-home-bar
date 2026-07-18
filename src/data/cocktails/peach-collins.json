@@ -1,0 +1,90 @@
+{
+  "aliases": [],
+  "whyItWorks": "Peach softens the lemon-gin sour before soda lengthens it.",
+  "classifications": [
+    "modern",
+    "highball"
+  ],
+  "cocktailFamily": "Collins",
+  "flavorProfiles": [
+    "peach",
+    "citrus",
+    "refreshing"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "light",
+  "glassware": "Collins",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lemon"
+  ],
+  "illustrationKey": "peach-collins",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peach_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.35,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 3,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Shake gin, peach, lemon, and syrup.",
+    "Strain over ice and top with soda."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "montbisou-peches",
+      "rank": 1,
+      "rationale": "House peach."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 2,
+      "rationale": "Bright gin."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "tom-collins",
+    "peach-whiskey-sour"
+  ],
+  "seasonality": [
+    "summer"
+  ],
+  "tags": [
+    "gin",
+    "peach"
+  ],
+  "id": "peach-collins",
+  "slug": "peach-collins",
+  "name": "Peach Collins",
+  "description": "A Tom Collins with peach liqueur for stone-fruit lift."
+}

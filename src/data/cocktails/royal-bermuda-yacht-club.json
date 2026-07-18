@@ -1,0 +1,89 @@
+{
+  "aliases": [],
+  "history": "A mid-century rum classic associated with Trader Vic. Not invented for racing yachts so much as named for one.",
+  "origin": "United States / Caribbean-inspired",
+  "whyItWorks": "Curaçao and falernum deepen a Daiquiri structure without losing snap.",
+  "classifications": [
+    "classic",
+    "sour",
+    "tiki"
+  ],
+  "cocktailFamily": "Daiquiri",
+  "flavorProfiles": [
+    "citrus",
+    "spice",
+    "orange"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Lime wheel"
+  ],
+  "illustrationKey": "royal-bermuda-yacht-club",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gold_rum",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cointreau",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "falernum",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake all with ice.",
+    "Strain into a coupe.",
+    "Garnish with lime."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-especial",
+      "rank": 1,
+      "rationale": "Depth without heaviness."
+    },
+    {
+      "bottleId": "havana-club-3",
+      "rank": 2,
+      "rationale": "Lighter, crisper version."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "daiquiri",
+    "corn-n-oil"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rum",
+    "tiki",
+    "sour"
+  ],
+  "id": "royal-bermuda-yacht-club",
+  "slug": "royal-bermuda-yacht-club",
+  "name": "Royal Bermuda Yacht Club",
+  "description": "Rum sour with orange liqueur and falernum—elegant and tropical."
+}

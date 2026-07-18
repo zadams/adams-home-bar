@@ -1,0 +1,75 @@
+{
+  "id": "fifty-fifty-martini",
+  "slug": "fifty-fifty-martini",
+  "name": "Fifty-Fifty Martini",
+  "aliases": [],
+  "description": "Equal parts gin and dry vermouth—softer and more aromatic.",
+  "whyItWorks": "More vermouth means more herbal complexity and less heat.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Martini",
+  "flavorProfiles": [
+    "herbal",
+    "botanical",
+    "soft"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Stirred; served up",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "fifty-fifty-martini",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "dry_vermouth",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Stir with ice.",
+    "Strain.",
+    "Twist lemon over the top."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "martini",
+    "vermouth"
+  ]
+}

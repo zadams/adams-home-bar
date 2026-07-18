@@ -1,0 +1,87 @@
+{
+  "aliases": [],
+  "history": "Created by Sam Ross in the 2000s. Equal parts; Amaro Nonino is traditional (marked out if not stocked).",
+  "origin": "United States",
+  "whyItWorks": "Bittersweet amari and lemon brighten bourbon without a heavy sour syrup.",
+  "classifications": [
+    "modern classic",
+    "sour"
+  ],
+  "cocktailFamily": "Paper Plane",
+  "flavorProfiles": [
+    "bitter",
+    "citrus",
+    "oak"
+  ],
+  "difficulty": "medium",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [],
+  "illustrationKey": "paper-plane",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "aperol",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "amaro_nonino",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake equal parts with ice.",
+    "Strain into a coupe."
+  ],
+  "techniqueNotes": [
+    "If Amaro Nonino is unavailable, the drink is incomplete—add it to the shopping list rather than forcing a substitute."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "russells-reserve-10",
+      "rank": 1,
+      "rationale": "Bourbon that can handle amari."
+    },
+    {
+      "bottleId": "aperol",
+      "rank": 2,
+      "rationale": "House Aperol."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "boulevardier",
+    "whiskey-sour"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "whiskey",
+    "modern",
+    "bitter"
+  ],
+  "id": "paper-plane",
+  "slug": "paper-plane",
+  "name": "Paper Plane",
+  "description": "Bourbon, Aperol, Amaro Nonino, and lemon—equal parts modern classic."
+}

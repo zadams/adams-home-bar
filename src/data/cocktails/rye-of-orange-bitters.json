@@ -1,0 +1,84 @@
+{
+  "id": "rye-of-orange-bitters",
+  "slug": "rye-of-orange-bitters",
+  "name": "Rye Orange Bitters Old Fashioned",
+  "aliases": [],
+  "description": "Spirit, sugar, and bitters—the original cocktail template, built over ice.",
+  "whyItWorks": "Sugar softens the spirit while bitters add aromatic lift. Ice dilutes just enough.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Old Fashioned",
+  "flavorProfiles": [
+    "orange",
+    "oak",
+    "aromatic"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "spirit-forward",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "rye-of-orange-bitters",
+  "ingredients": [
+    {
+      "ingredientId": "rye",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Add syrup and bitters to a rocks glass.",
+    "Add rye and a large cube.",
+    "Stir briefly; express citrus oil over the drink."
+  ],
+  "techniqueNotes": [
+    "Start lean on sugar—you can always add a barspoon more."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-rye",
+      "rank": 1,
+      "rationale": "Showcases your Rye."
+    },
+    {
+      "bottleId": "barrell-rye",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "elijah-craig-rye",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "old-fashioned",
+    "built",
+    "rye",
+    "whiskey"
+  ]
+}

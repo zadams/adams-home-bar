@@ -1,0 +1,87 @@
+{
+  "aliases": [],
+  "history": "Named for a World War I field gun. Gin and Champagne (or Prosecco) is the common modern form.",
+  "origin": "France / United States",
+  "whyItWorks": "Bubbles lift a lemon-gin sour into something celebratory.",
+  "classifications": [
+    "classic",
+    "sparkling"
+  ],
+  "cocktailFamily": "French 75",
+  "flavorProfiles": [
+    "citrus",
+    "botanical",
+    "sparkling"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Flute or coupe",
+  "ice": "Shaken base; sparkling top",
+  "garnish": [
+    "Lemon peel"
+  ],
+  "illustrationKey": "french-75",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "prosecco",
+      "amount": 3,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Shake gin, lemon, and syrup with ice.",
+    "Strain into a flute.",
+    "Top with sparkling wine and garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "malfy-originale",
+      "rank": 1,
+      "rationale": "Bright gin under bubbles."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Floral French 75."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "tom-collins",
+    "gin-and-tonic"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "sparkling"
+  ],
+  "id": "french-75",
+  "slug": "french-75",
+  "name": "French 75",
+  "description": "Gin sour topped with sparkling wine—festive and bright."
+}

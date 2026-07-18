@@ -1,0 +1,83 @@
+{
+  "aliases": [],
+  "classifications": [
+    "modern",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "cherry",
+    "citrus",
+    "oak"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "medium",
+  "glassware": "Rocks",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Cherry"
+  ],
+  "illustrationKey": "cherry-sour",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cherry_liqueur",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake with ice and strain over fresh ice."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "bozkov-griotte",
+      "rank": 1,
+      "rationale": "House cherry liqueur."
+    },
+    {
+      "bottleId": "russells-reserve-10",
+      "rank": 2,
+      "rationale": "Bourbon backbone."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "whiskey-sour",
+    "manhattan"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "whiskey",
+    "cherry"
+  ],
+  "description": "Bourbon sour with Božkov Griotte cherry liqueur.",
+  "whyItWorks": "Cherry liqueur deepens the sour without vermouth.",
+  "id": "cherry-sour",
+  "slug": "cherry-sour",
+  "name": "Cherry Sour"
+}

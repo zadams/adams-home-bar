@@ -1,0 +1,1080 @@
+[
+  {
+    "id": "inv-angels-envy-bourbon",
+    "bottleId": "angels-envy-bourbon",
+    "status": "in_stock",
+    "brand": "Angel's Envy",
+    "productName": "Kentucky Straight Bourbon Finished in Port Wine Barrels",
+    "preferredForMixing": true,
+    "tags": [
+      "bourbon",
+      "finished"
+    ]
+  },
+  {
+    "id": "inv-angels-envy-rye",
+    "bottleId": "angels-envy-rye",
+    "status": "in_stock",
+    "brand": "Angel's Envy",
+    "productName": "Finished Rye",
+    "preferredForMixing": true,
+    "tags": [
+      "rye",
+      "finished"
+    ]
+  },
+  {
+    "id": "inv-asw-fiddler-toasted",
+    "bottleId": "asw-fiddler-toasted",
+    "status": "in_stock",
+    "brand": "ASW Distillery",
+    "productName": "Fiddler Toasted Series Cask Strength Wheated Bourbon",
+    "preferredForMixing": true,
+    "tags": [
+      "bourbon",
+      "wheated",
+      "cask-strength"
+    ]
+  },
+  {
+    "id": "inv-barrell-rye",
+    "bottleId": "barrell-rye",
+    "status": "in_stock",
+    "brand": "Barrell Craft Spirits",
+    "productName": "Rye",
+    "preferredForMixing": true,
+    "tags": [
+      "rye"
+    ]
+  },
+  {
+    "id": "inv-barrell-vantage",
+    "bottleId": "barrell-vantage",
+    "status": "in_stock",
+    "brand": "Barrell Craft Spirits",
+    "productName": "Vantage",
+    "preferredForMixing": true,
+    "tags": [
+      "bourbon",
+      "finished"
+    ]
+  },
+  {
+    "id": "inv-bardstown-fusion",
+    "bottleId": "bardstown-fusion",
+    "status": "in_stock",
+    "brand": "Bardstown Bourbon Company",
+    "productName": "Fusion Series",
+    "preferredForMixing": true,
+    "tags": [
+      "bourbon"
+    ]
+  },
+  {
+    "id": "inv-bardstown-triple-blended",
+    "bottleId": "bardstown-triple-blended",
+    "status": "in_stock",
+    "brand": "Bardstown Bourbon Company",
+    "productName": "Triple Blended Finish",
+    "preferredForMixing": true,
+    "tags": [
+      "bourbon",
+      "finished"
+    ]
+  },
+  {
+    "id": "inv-blantons",
+    "bottleId": "blantons",
+    "status": "in_stock",
+    "brand": "Blanton's",
+    "productName": "Original Single Barrel Bourbon",
+    "preferredForMixing": true,
+    "tags": [
+      "bourbon",
+      "single-barrel"
+    ]
+  },
+  {
+    "id": "inv-chicken-cock-bourbon",
+    "bottleId": "chicken-cock-bourbon",
+    "status": "in_stock",
+    "brand": "Chicken Cock",
+    "productName": "Kentucky Straight Bourbon",
+    "preferredForMixing": true,
+    "tags": [
+      "bourbon"
+    ]
+  },
+  {
+    "id": "inv-eagle-rare",
+    "bottleId": "eagle-rare",
+    "status": "in_stock",
+    "brand": "Eagle Rare",
+    "productName": "10 Year Bourbon",
+    "preferredForMixing": true,
+    "tags": [
+      "bourbon"
+    ]
+  },
+  {
+    "id": "inv-elijah-craig-rye",
+    "bottleId": "elijah-craig-rye",
+    "status": "in_stock",
+    "brand": "Elijah Craig",
+    "productName": "Straight Rye",
+    "preferredForMixing": true,
+    "tags": [
+      "rye"
+    ]
+  },
+  {
+    "id": "inv-henry-mckenna-10",
+    "bottleId": "henry-mckenna-10",
+    "status": "in_stock",
+    "brand": "Henry McKenna",
+    "productName": "10 Year Bottled-in-Bond",
+    "preferredForMixing": true,
+    "tags": [
+      "bourbon",
+      "bottled-in-bond"
+    ]
+  },
+  {
+    "id": "inv-kirkland-bourbon",
+    "bottleId": "kirkland-bourbon",
+    "status": "in_stock",
+    "brand": "Kirkland Signature",
+    "productName": "Small Batch Kentucky Straight Bourbon",
+    "preferredForMixing": true,
+    "tags": [
+      "bourbon"
+    ]
+  },
+  {
+    "id": "inv-macallan-12",
+    "bottleId": "macallan-12",
+    "status": "in_stock",
+    "brand": "The Macallan",
+    "productName": "12 Year",
+    "preferredForMixing": true,
+    "tags": [
+      "scotch"
+    ]
+  },
+  {
+    "id": "inv-old-medley-12",
+    "bottleId": "old-medley-12",
+    "status": "in_stock",
+    "brand": "Old Medley",
+    "productName": "12 Year",
+    "preferredForMixing": true,
+    "tags": [
+      "bourbon"
+    ]
+  },
+  {
+    "id": "inv-penelope-architect",
+    "bottleId": "penelope-architect",
+    "status": "in_stock",
+    "brand": "Penelope",
+    "productName": "Architect Bourbon",
+    "preferredForMixing": true,
+    "tags": [
+      "bourbon"
+    ]
+  },
+  {
+    "id": "inv-pinhook-bourbon",
+    "bottleId": "pinhook-bourbon",
+    "status": "in_stock",
+    "brand": "Pinhook",
+    "productName": "Kentucky Straight Bourbon",
+    "preferredForMixing": true,
+    "tags": [
+      "bourbon"
+    ]
+  },
+  {
+    "id": "inv-russells-reserve-10",
+    "bottleId": "russells-reserve-10",
+    "status": "in_stock",
+    "brand": "Russell's Reserve",
+    "productName": "10 Year",
+    "preferredForMixing": true,
+    "tags": [
+      "bourbon"
+    ]
+  },
+  {
+    "id": "inv-sazerac-rye",
+    "bottleId": "sazerac-rye",
+    "status": "in_stock",
+    "brand": "Sazerac",
+    "productName": "Rye",
+    "preferredForMixing": true,
+    "tags": [
+      "rye"
+    ]
+  },
+  {
+    "id": "inv-widow-jane-decadence",
+    "bottleId": "widow-jane-decadence",
+    "status": "in_stock",
+    "brand": "Widow Jane",
+    "productName": "Decadence",
+    "preferredForMixing": true,
+    "tags": [
+      "bourbon",
+      "finished"
+    ]
+  },
+  {
+    "id": "inv-woodford-reserve",
+    "bottleId": "woodford-reserve",
+    "status": "in_stock",
+    "brand": "Woodford Reserve",
+    "productName": "Distiller's Select",
+    "preferredForMixing": true,
+    "tags": [
+      "bourbon"
+    ]
+  },
+  {
+    "id": "inv-woodford-masters-collection",
+    "bottleId": "woodford-masters-collection",
+    "status": "in_stock",
+    "brand": "Woodford Reserve",
+    "productName": "Master's Collection (multiple bottles)",
+    "preferredForMixing": true,
+    "tags": [
+      "bourbon",
+      "special"
+    ],
+    "notes": "Multiple Master's Collection releases; treat as bourbon inventory until SKUs are listed."
+  },
+  {
+    "id": "inv-havana-club-3",
+    "bottleId": "havana-club-3",
+    "status": "in_stock",
+    "brand": "Havana Club",
+    "productName": "Añejo 3 Años",
+    "preferredForMixing": true,
+    "tags": [
+      "rum",
+      "cuban-style"
+    ]
+  },
+  {
+    "id": "inv-havana-club-especial",
+    "bottleId": "havana-club-especial",
+    "status": "in_stock",
+    "brand": "Havana Club",
+    "productName": "Especial",
+    "preferredForMixing": true,
+    "tags": [
+      "rum"
+    ]
+  },
+  {
+    "id": "inv-havana-club-maestros",
+    "bottleId": "havana-club-maestros",
+    "status": "in_stock",
+    "brand": "Havana Club",
+    "productName": "Selección de Maestros",
+    "preferredForMixing": true,
+    "tags": [
+      "rum"
+    ]
+  },
+  {
+    "id": "inv-kraken-spiced",
+    "bottleId": "kraken-spiced",
+    "status": "in_stock",
+    "brand": "Kraken",
+    "productName": "Black Spiced Rum",
+    "preferredForMixing": true,
+    "tags": [
+      "rum",
+      "spiced"
+    ]
+  },
+  {
+    "id": "inv-stroh-160",
+    "bottleId": "stroh-160",
+    "status": "in_stock",
+    "brand": "Stroh",
+    "productName": "160",
+    "preferredForMixing": true,
+    "tags": [
+      "rum",
+      "overproof"
+    ]
+  },
+  {
+    "id": "inv-toasted-coconut-rum",
+    "bottleId": "toasted-coconut-rum",
+    "status": "in_stock",
+    "brand": "House",
+    "productName": "Toasted coconut rum",
+    "preferredForMixing": true,
+    "tags": [
+      "rum",
+      "coconut"
+    ],
+    "notes": "Best for coconut variations rather than classic Daiquiris."
+  },
+  {
+    "id": "inv-kirkland-cristalino",
+    "bottleId": "kirkland-cristalino",
+    "status": "in_stock",
+    "brand": "Kirkland Signature",
+    "productName": "Añejo Cristalino",
+    "preferredForMixing": true,
+    "tags": [
+      "tequila"
+    ]
+  },
+  {
+    "id": "inv-kirkland-extra-anejo",
+    "bottleId": "kirkland-extra-anejo",
+    "status": "in_stock",
+    "brand": "Kirkland Signature",
+    "productName": "Extra Añejo",
+    "preferredForMixing": true,
+    "tags": [
+      "tequila"
+    ]
+  },
+  {
+    "id": "inv-kirkland-tequila-other",
+    "bottleId": "kirkland-tequila-other",
+    "status": "in_stock",
+    "brand": "Kirkland Signature",
+    "productName": "Confirmed tequila (photo inventory)",
+    "preferredForMixing": true,
+    "tags": [
+      "tequila"
+    ],
+    "notes": "Additional Kirkland tequila confirmed from photo inventory."
+  },
+  {
+    "id": "inv-drumshanbo-gunpowder",
+    "bottleId": "drumshanbo-gunpowder",
+    "status": "in_stock",
+    "brand": "Drumshanbo",
+    "productName": "Gunpowder Irish Gin",
+    "preferredForMixing": true,
+    "tags": [
+      "gin"
+    ]
+  },
+  {
+    "id": "inv-hendricks",
+    "bottleId": "hendricks",
+    "status": "in_stock",
+    "brand": "Hendrick's",
+    "productName": "Gin",
+    "preferredForMixing": true,
+    "tags": [
+      "gin"
+    ]
+  },
+  {
+    "id": "inv-malfy-originale",
+    "bottleId": "malfy-originale",
+    "status": "in_stock",
+    "brand": "Malfy",
+    "productName": "Gin Originale",
+    "preferredForMixing": true,
+    "tags": [
+      "gin"
+    ]
+  },
+  {
+    "id": "inv-titos",
+    "bottleId": "titos",
+    "status": "in_stock",
+    "brand": "Tito's",
+    "productName": "Handmade Vodka",
+    "preferredForMixing": true,
+    "tags": [
+      "vodka"
+    ]
+  },
+  {
+    "id": "inv-berliner-luft",
+    "bottleId": "berliner-luft",
+    "status": "in_stock",
+    "brand": "Berliner Luft",
+    "productName": "Peppermint liqueur",
+    "preferredForMixing": true,
+    "tags": [
+      "peppermint"
+    ]
+  },
+  {
+    "id": "inv-bozkov-peppermint",
+    "bottleId": "bozkov-peppermint",
+    "status": "in_stock",
+    "brand": "Božkov",
+    "productName": "Peppermint",
+    "preferredForMixing": true,
+    "tags": [
+      "peppermint"
+    ]
+  },
+  {
+    "id": "inv-bozkov-griotte",
+    "bottleId": "bozkov-griotte",
+    "status": "in_stock",
+    "brand": "Božkov",
+    "productName": "Griotte",
+    "preferredForMixing": true,
+    "tags": [
+      "cherry"
+    ]
+  },
+  {
+    "id": "inv-inderoy-aquavit",
+    "bottleId": "inderoy-aquavit",
+    "status": "in_stock",
+    "brand": "Inderøy",
+    "productName": "Den Gyldne Aquavit",
+    "preferredForMixing": true,
+    "tags": [
+      "aquavit"
+    ]
+  },
+  {
+    "id": "inv-koskenkorva-apple",
+    "bottleId": "koskenkorva-apple",
+    "status": "in_stock",
+    "brand": "Koskenkorva",
+    "productName": "Apple",
+    "preferredForMixing": true,
+    "tags": [
+      "vodka",
+      "apple"
+    ]
+  },
+  {
+    "id": "inv-koskenkorva-blueberry",
+    "bottleId": "koskenkorva-blueberry",
+    "status": "in_stock",
+    "brand": "Koskenkorva",
+    "productName": "Blueberry",
+    "preferredForMixing": true,
+    "tags": [
+      "vodka",
+      "blueberry"
+    ]
+  },
+  {
+    "id": "inv-koskenkorva-lemon",
+    "bottleId": "koskenkorva-lemon",
+    "status": "in_stock",
+    "brand": "Koskenkorva",
+    "productName": "Lemon",
+    "preferredForMixing": true,
+    "tags": [
+      "vodka",
+      "lemon"
+    ]
+  },
+  {
+    "id": "inv-koskenkorva-peach",
+    "bottleId": "koskenkorva-peach",
+    "status": "in_stock",
+    "brand": "Koskenkorva",
+    "productName": "Peach",
+    "preferredForMixing": true,
+    "tags": [
+      "vodka",
+      "peach"
+    ]
+  },
+  {
+    "id": "inv-nemiroff-honey-pepper",
+    "bottleId": "nemiroff-honey-pepper",
+    "status": "in_stock",
+    "brand": "Nemiroff",
+    "productName": "Honey Pepper",
+    "preferredForMixing": true,
+    "tags": [
+      "vodka",
+      "honey"
+    ]
+  },
+  {
+    "id": "inv-aperol",
+    "bottleId": "aperol",
+    "status": "in_stock",
+    "brand": "Aperol",
+    "productName": "Aperitivo",
+    "preferredForMixing": true,
+    "tags": [
+      "aperitif"
+    ]
+  },
+  {
+    "id": "inv-baileys",
+    "bottleId": "baileys",
+    "status": "in_stock",
+    "brand": "Baileys",
+    "productName": "Original Irish Cream",
+    "preferredForMixing": true,
+    "tags": [
+      "cream"
+    ]
+  },
+  {
+    "id": "inv-becherovka-lemond",
+    "bottleId": "becherovka-lemond",
+    "status": "in_stock",
+    "brand": "Becherovka",
+    "productName": "Fruits & Herbs Lemond",
+    "preferredForMixing": true,
+    "tags": [
+      "herbal"
+    ]
+  },
+  {
+    "id": "inv-blind-squirrel-nog",
+    "bottleId": "blind-squirrel-nog",
+    "status": "in_stock",
+    "brand": "Blind Squirrel",
+    "productName": "Peanut Butter Holiday Nog",
+    "preferredForMixing": true,
+    "tags": [
+      "seasonal",
+      "peanut-butter"
+    ]
+  },
+  {
+    "id": "inv-campari",
+    "bottleId": "campari",
+    "status": "in_stock",
+    "brand": "Campari",
+    "productName": "Bitter",
+    "preferredForMixing": true,
+    "tags": [
+      "bitter"
+    ]
+  },
+  {
+    "id": "inv-cointreau",
+    "bottleId": "cointreau",
+    "status": "in_stock",
+    "brand": "Cointreau",
+    "productName": "Orange Liqueur",
+    "preferredForMixing": true,
+    "tags": [
+      "orange"
+    ]
+  },
+  {
+    "id": "inv-creme-de-banane",
+    "bottleId": "creme-de-banane",
+    "status": "in_stock",
+    "brand": "House",
+    "productName": "Crème de Banane",
+    "preferredForMixing": true,
+    "tags": [
+      "banana"
+    ]
+  },
+  {
+    "id": "inv-grand-marnier",
+    "bottleId": "grand-marnier",
+    "status": "in_stock",
+    "brand": "Grand Marnier",
+    "productName": "Cordon Rouge",
+    "preferredForMixing": true,
+    "tags": [
+      "orange"
+    ]
+  },
+  {
+    "id": "inv-luxardo-maraschino",
+    "bottleId": "luxardo-maraschino",
+    "status": "in_stock",
+    "brand": "Luxardo",
+    "productName": "Maraschino Liqueur",
+    "preferredForMixing": true,
+    "tags": [
+      "cherry"
+    ]
+  },
+  {
+    "id": "inv-montbisou-peches",
+    "bottleId": "montbisou-peches",
+    "status": "in_stock",
+    "brand": "MontBisou",
+    "productName": "Pêches Liqueur",
+    "preferredForMixing": true,
+    "tags": [
+      "peach"
+    ]
+  },
+  {
+    "id": "inv-bitter-truth-falernum",
+    "bottleId": "bitter-truth-falernum",
+    "status": "in_stock",
+    "brand": "The Bitter Truth",
+    "productName": "Golden Falernum",
+    "preferredForMixing": true,
+    "tags": [
+      "spice"
+    ]
+  },
+  {
+    "id": "inv-finest-call-peach",
+    "bottleId": "finest-call-peach",
+    "status": "in_stock",
+    "brand": "Finest Call",
+    "productName": "Peach",
+    "preferredForMixing": true,
+    "tags": [
+      "peach"
+    ]
+  },
+  {
+    "id": "inv-finest-call-triple-sec",
+    "bottleId": "finest-call-triple-sec",
+    "status": "in_stock",
+    "brand": "Finest Call",
+    "productName": "Triple Sec",
+    "preferredForMixing": true,
+    "tags": [
+      "orange",
+      "batching"
+    ]
+  },
+  {
+    "id": "inv-sweet-vermouth",
+    "bottleId": "sweet-vermouth",
+    "status": "in_stock",
+    "brand": "House",
+    "productName": "Sweet vermouth",
+    "preferredForMixing": true,
+    "tags": [
+      "vermouth"
+    ]
+  },
+  {
+    "id": "inv-dry-vermouth",
+    "bottleId": "dry-vermouth",
+    "status": "in_stock",
+    "brand": "House",
+    "productName": "Dry vermouth",
+    "preferredForMixing": true,
+    "tags": [
+      "vermouth"
+    ]
+  },
+  {
+    "id": "inv-angostura-aromatic",
+    "bottleId": "angostura-aromatic",
+    "status": "in_stock",
+    "brand": "Angostura",
+    "productName": "Aromatic Bitters",
+    "preferredForMixing": true,
+    "tags": [
+      "bitters"
+    ]
+  },
+  {
+    "id": "inv-angostura-cocoa",
+    "bottleId": "angostura-cocoa",
+    "status": "in_stock",
+    "brand": "Angostura",
+    "productName": "Cocoa Bitters",
+    "preferredForMixing": true,
+    "tags": [
+      "bitters"
+    ]
+  },
+  {
+    "id": "inv-fee-brothers-orange",
+    "bottleId": "fee-brothers-orange",
+    "status": "in_stock",
+    "brand": "Fee Brothers",
+    "productName": "Orange Bitters",
+    "preferredForMixing": true,
+    "tags": [
+      "bitters"
+    ]
+  },
+  {
+    "id": "inv-peychauds",
+    "bottleId": "peychauds",
+    "status": "in_stock",
+    "brand": "Peychaud's",
+    "productName": "Bitters",
+    "preferredForMixing": true,
+    "tags": [
+      "bitters"
+    ]
+  },
+  {
+    "id": "inv-agave-syrup",
+    "bottleId": "agave-syrup",
+    "status": "in_stock",
+    "brand": "House",
+    "productName": "Agave syrup",
+    "preferredForMixing": true,
+    "tags": [
+      "sweet"
+    ]
+  },
+  {
+    "id": "inv-simple-syrup",
+    "bottleId": "simple-syrup",
+    "status": "in_stock",
+    "brand": "House",
+    "productName": "Simple syrup",
+    "preferredForMixing": true,
+    "tags": [
+      "sweet"
+    ]
+  },
+  {
+    "id": "inv-brown-sugar-cinnamon-syrup",
+    "bottleId": "brown-sugar-cinnamon-syrup",
+    "status": "in_stock",
+    "brand": "House",
+    "productName": "Brown sugar cinnamon syrup",
+    "preferredForMixing": true,
+    "tags": [
+      "sweet",
+      "spice"
+    ]
+  },
+  {
+    "id": "inv-sweetened-lime-juice",
+    "bottleId": "sweetened-lime-juice",
+    "status": "in_stock",
+    "brand": "House",
+    "productName": "Sweetened lime juice",
+    "preferredForMixing": true,
+    "tags": [
+      "citrus"
+    ],
+    "notes": "Convenience bottle; prefer fresh lime + simple when possible."
+  },
+  {
+    "id": "inv-cream-of-coconut",
+    "bottleId": "cream-of-coconut",
+    "status": "in_stock",
+    "brand": "House",
+    "productName": "Cream of coconut",
+    "preferredForMixing": true,
+    "tags": [
+      "coconut"
+    ]
+  },
+  {
+    "id": "inv-fever-tree-tonic",
+    "bottleId": "fever-tree-tonic",
+    "status": "in_stock",
+    "brand": "Fever-Tree",
+    "productName": "Tonic Water",
+    "preferredForMixing": true,
+    "tags": [
+      "soda"
+    ]
+  },
+  {
+    "id": "inv-fever-tree-soda",
+    "bottleId": "fever-tree-soda",
+    "status": "in_stock",
+    "brand": "Fever-Tree",
+    "productName": "Club Soda",
+    "preferredForMixing": true,
+    "tags": [
+      "soda"
+    ]
+  },
+  {
+    "id": "inv-grapefruit-soda",
+    "bottleId": "grapefruit-soda",
+    "status": "unknown",
+    "brand": "House",
+    "productName": "Grapefruit soda",
+    "preferredForMixing": true,
+    "tags": [
+      "soda",
+      "citrus"
+    ],
+    "notes": "Availability varies; editable inventory item."
+  },
+  {
+    "id": "inv-lemon",
+    "ingredientId": "lemon",
+    "status": "unknown",
+    "productName": "Lemons",
+    "tags": [
+      "fresh"
+    ],
+    "notes": "Fresh item — confirm availability before mixing."
+  },
+  {
+    "id": "inv-lime",
+    "ingredientId": "lime",
+    "status": "unknown",
+    "productName": "Limes",
+    "tags": [
+      "fresh"
+    ],
+    "notes": "Fresh item — confirm availability before mixing."
+  },
+  {
+    "id": "inv-orange",
+    "ingredientId": "orange",
+    "status": "unknown",
+    "productName": "Oranges",
+    "tags": [
+      "fresh"
+    ],
+    "notes": "Fresh item — confirm availability before mixing."
+  },
+  {
+    "id": "inv-grapefruit",
+    "ingredientId": "grapefruit",
+    "status": "unknown",
+    "productName": "Grapefruit",
+    "tags": [
+      "fresh"
+    ],
+    "notes": "Fresh item — confirm availability before mixing."
+  },
+  {
+    "id": "inv-mint",
+    "ingredientId": "mint",
+    "status": "unknown",
+    "productName": "Mint",
+    "tags": [
+      "fresh"
+    ],
+    "notes": "Fresh item — confirm availability before mixing."
+  },
+  {
+    "id": "inv-cocktail_cherry",
+    "ingredientId": "cocktail_cherry",
+    "status": "in_stock",
+    "productName": "Cocktail cherries / Luxardo cherries",
+    "tags": [
+      "fresh"
+    ]
+  },
+  {
+    "id": "inv-olive",
+    "ingredientId": "olive",
+    "status": "unknown",
+    "productName": "Olives",
+    "tags": [
+      "fresh"
+    ],
+    "notes": "Fresh item — confirm availability before mixing."
+  },
+  {
+    "id": "inv-cucumber",
+    "ingredientId": "cucumber",
+    "status": "unknown",
+    "productName": "Cucumber",
+    "tags": [
+      "fresh"
+    ],
+    "notes": "Fresh item — confirm availability before mixing."
+  },
+  {
+    "id": "inv-salt",
+    "ingredientId": "salt",
+    "status": "in_stock",
+    "productName": "Salt",
+    "tags": [
+      "fresh"
+    ]
+  },
+  {
+    "id": "inv-tajin",
+    "ingredientId": "tajin",
+    "status": "unknown",
+    "productName": "Tajín",
+    "tags": [
+      "fresh"
+    ],
+    "notes": "Fresh item — confirm availability before mixing."
+  },
+  {
+    "id": "inv-lemon_juice",
+    "ingredientId": "lemon_juice",
+    "status": "unknown",
+    "productName": "Fresh lemon juice",
+    "tags": [
+      "fresh"
+    ],
+    "notes": "Fresh item — confirm availability before mixing."
+  },
+  {
+    "id": "inv-lime_juice",
+    "ingredientId": "lime_juice",
+    "status": "unknown",
+    "productName": "Fresh lime juice",
+    "tags": [
+      "fresh"
+    ],
+    "notes": "Fresh item — confirm availability before mixing."
+  },
+  {
+    "id": "inv-egg_white",
+    "ingredientId": "egg_white",
+    "status": "out",
+    "productName": "Egg white",
+    "tags": [
+      "fresh"
+    ],
+    "notes": "Not currently stocked; recipes treat as optional or note technique."
+  },
+  {
+    "id": "inv-demerara_sugar",
+    "ingredientId": "demerara_sugar",
+    "status": "in_stock",
+    "productName": "Demerara sugar / sugar cubes",
+    "tags": [
+      "fresh"
+    ]
+  },
+  {
+    "id": "inv-absinthe",
+    "ingredientId": "absinthe",
+    "status": "out",
+    "productName": "Absinthe / Herbsaint",
+    "tags": [
+      "fresh"
+    ],
+    "notes": "Not currently stocked; recipes treat as optional or note technique."
+  },
+  {
+    "id": "inv-ginger_beer",
+    "ingredientId": "ginger_beer",
+    "status": "out",
+    "productName": "Ginger beer",
+    "tags": [
+      "expansion"
+    ],
+    "notes": "Not currently stocked."
+  },
+  {
+    "id": "inv-pineapple_juice",
+    "ingredientId": "pineapple_juice",
+    "status": "out",
+    "productName": "Pineapple juice",
+    "tags": [
+      "expansion"
+    ],
+    "notes": "Not currently stocked."
+  },
+  {
+    "id": "inv-orgeat",
+    "ingredientId": "orgeat",
+    "status": "out",
+    "productName": "Orgeat",
+    "tags": [
+      "expansion"
+    ],
+    "notes": "Not currently stocked."
+  },
+  {
+    "id": "inv-cognac",
+    "ingredientId": "cognac",
+    "status": "out",
+    "productName": "Cognac / brandy",
+    "tags": [
+      "expansion"
+    ],
+    "notes": "Not currently stocked."
+  },
+  {
+    "id": "inv-benedictine",
+    "ingredientId": "benedictine",
+    "status": "out",
+    "productName": "Bénédictine",
+    "tags": [
+      "expansion"
+    ],
+    "notes": "Not currently stocked."
+  },
+  {
+    "id": "inv-amaro_nonino",
+    "ingredientId": "amaro_nonino",
+    "status": "out",
+    "productName": "Amaro Nonino",
+    "tags": [
+      "expansion"
+    ],
+    "notes": "Not currently stocked."
+  },
+  {
+    "id": "inv-green_chartreuse",
+    "ingredientId": "green_chartreuse",
+    "status": "out",
+    "productName": "Green Chartreuse",
+    "tags": [
+      "expansion"
+    ],
+    "notes": "Not currently stocked."
+  },
+  {
+    "id": "inv-prosecco",
+    "ingredientId": "prosecco",
+    "status": "unknown",
+    "productName": "Prosecco / sparkling wine",
+    "tags": [
+      "expansion"
+    ],
+    "notes": "Confirm before mixing."
+  },
+  {
+    "id": "inv-honey_syrup",
+    "ingredientId": "honey_syrup",
+    "status": "unknown",
+    "productName": "Honey syrup",
+    "tags": [
+      "expansion"
+    ],
+    "notes": "Confirm before mixing."
+  },
+  {
+    "id": "inv-cola",
+    "ingredientId": "cola",
+    "status": "unknown",
+    "productName": "Cola",
+    "tags": [
+      "expansion"
+    ],
+    "notes": "Confirm before mixing."
+  },
+  {
+    "id": "inv-orange_juice",
+    "ingredientId": "orange_juice",
+    "status": "unknown",
+    "productName": "Fresh orange juice",
+    "tags": [
+      "fresh",
+      "juice"
+    ],
+    "notes": "Confirm before mixing."
+  },
+  {
+    "id": "inv-grapefruit_juice",
+    "ingredientId": "grapefruit_juice",
+    "status": "unknown",
+    "productName": "Fresh grapefruit juice",
+    "tags": [
+      "fresh",
+      "juice"
+    ],
+    "notes": "Confirm before mixing."
+  }
+]

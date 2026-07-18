@@ -1,0 +1,75 @@
+{
+  "id": "becherovka-collins",
+  "slug": "becherovka-collins",
+  "name": "Becherovka Collins",
+  "aliases": [],
+  "description": "Tall herbal Collins.",
+  "whyItWorks": "Soda stretches Becherovka into an easy aperitif.",
+  "classifications": [
+    "highball"
+  ],
+  "cocktailFamily": "Collins",
+  "flavorProfiles": [
+    "herbal",
+    "citrus",
+    "refreshing"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Collins glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lemon wheel"
+  ],
+  "illustrationKey": "becherovka-collins",
+  "ingredients": [
+    {
+      "ingredientId": "becherovka",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.35,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Shake Becherovka, lemon, and syrup.",
+    "Strain over ice.",
+    "Top with soda."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "becherovka-lemond",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "becherovka",
+    "collins"
+  ]
+}

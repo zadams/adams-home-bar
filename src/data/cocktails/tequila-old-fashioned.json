@@ -1,0 +1,77 @@
+{
+  "aliases": [],
+  "whyItWorks": "Agave sweetness mirrors the spirit; bitters add structure.",
+  "classifications": [
+    "modern",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Old Fashioned",
+  "flavorProfiles": [
+    "agave",
+    "oak",
+    "bittersweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Rocks",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "tequila-old-fashioned",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "anejo_tequila",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "agave_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Stir with ice and strain over a large cube."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-cristalino",
+      "rank": 1,
+      "rationale": "Cristalino elegance."
+    },
+    {
+      "bottleId": "kirkland-extra-anejo",
+      "rank": 2,
+      "rationale": "Richer añejo pour."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "old-fashioned",
+    "margarita"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "tequila",
+    "stirred"
+  ],
+  "id": "tequila-old-fashioned",
+  "slug": "tequila-old-fashioned",
+  "name": "Tequila Old Fashioned",
+  "description": "Añejo or cristalino tequila stirred with agave and bitters."
+}

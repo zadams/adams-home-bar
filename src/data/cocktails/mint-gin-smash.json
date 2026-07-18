@@ -1,0 +1,86 @@
+{
+  "id": "mint-gin-smash",
+  "slug": "mint-gin-smash",
+  "name": "Gin Smash",
+  "aliases": [],
+  "description": "Gin, mint, lemon, and sugar.",
+  "whyItWorks": "Mint and gin are natural partners; lemon keeps it bright.",
+  "classifications": [
+    "smash"
+  ],
+  "cocktailFamily": "Smash",
+  "flavorProfiles": [
+    "mint",
+    "botanical",
+    "citrus"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Mint sprig"
+  ],
+  "illustrationKey": "mint-gin-smash",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "mint",
+      "amount": 8,
+      "unit": "piece",
+      "scaleMode": "fixed",
+      "label": "Mint leaves"
+    }
+  ],
+  "steps": [
+    "Muddle mint with syrup.",
+    "Shake with gin and lemon.",
+    "Strain over ice."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "mint"
+  ]
+}

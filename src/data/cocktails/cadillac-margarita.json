@@ -1,0 +1,82 @@
+{
+  "id": "cadillac-margarita",
+  "slug": "cadillac-margarita",
+  "name": "Cadillac Margarita",
+  "aliases": [],
+  "description": "Margarita upgraded with Grand Marnier richness.",
+  "whyItWorks": "Grand Marnier’s cognac-orange depth luxes up the classic template.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Margarita",
+  "flavorProfiles": [
+    "agave",
+    "orange",
+    "citrus"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime wheel"
+  ],
+  "illustrationKey": "cadillac-margarita",
+  "ingredients": [
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cointreau",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grand_marnier",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake with ice.",
+    "Strain over fresh ice.",
+    "Optional salt rim."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-cristalino",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "kirkland-tequila-other",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "tequila",
+    "margarita",
+    "orange"
+  ]
+}

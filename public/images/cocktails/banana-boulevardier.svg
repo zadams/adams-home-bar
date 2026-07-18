@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Banana Boulevardier">
+  <defs>
+    <linearGradient id="bg-banana-boulevardier" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="hsl(48 32% 14%)"/>
+      <stop offset="100%" stop-color="hsl(72 38% 24%)"/>
+    </linearGradient>
+    <radialGradient id="glow-banana-boulevardier" cx="48%" cy="28%" r="52%">
+      <stop offset="0%" stop-color="hsl(84 45% 70%)" stop-opacity="0.32"/>
+      <stop offset="100%" stop-color="hsl(84 45% 70%)" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="liq-banana-boulevardier" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#c45c26" stop-opacity="0.92"/>
+      <stop offset="100%" stop-color="#8b2e14" stop-opacity="0.95"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg-banana-boulevardier)"/>
+  <rect width="400" height="400" fill="url(#glow-banana-boulevardier)"/>
+  <path d="M155 135h90v95c0 10-8 18-20 18h-50c-12 0-20-8-20-18v-95z" fill="url(#liq-banana-boulevardier)"/>
+  <g fill="none" stroke="hsl(84 45% 70%)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.95">
+    <path d="M140 95h120v155c0 18-15 32-35 32h-50c-20 0-35-14-35-32V95z"/>
+    
+    
+  </g>
+  <circle cx="248" cy="128" r="14" fill="none" stroke="#f0a070" stroke-width="2"/><path d="M248 114v28M234 128h28" stroke="#f0a070" stroke-width="1.5" opacity="0.6"/>
+  <ellipse cx="200" cy="348" rx="72" ry="11" fill="hsl(84 45% 70%)" opacity="0.1"/>
+  <text x="200" y="378" text-anchor="middle" fill="hsl(84 45% 70%)" font-family="Georgia, 'Times New Roman', serif" font-size="15" opacity="0.8">Banana Boulevardier</text>
+</svg>

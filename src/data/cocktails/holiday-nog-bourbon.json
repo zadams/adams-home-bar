@@ -1,0 +1,70 @@
+{
+  "aliases": [],
+  "classifications": [
+    "dessert",
+    "seasonal"
+  ],
+  "cocktailFamily": "Dessert",
+  "flavorProfiles": [
+    "peanut",
+    "cream",
+    "oak"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "medium",
+  "glassware": "Rocks or mug",
+  "ice": "Optional ice",
+  "garnish": [],
+  "illustrationKey": "holiday-nog-bourbon",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "cream_liqueur",
+      "amount": 3,
+      "unit": "oz",
+      "label": "Peanut butter holiday nog",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "bourbon",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Build over ice or serve chilled without ice.",
+    "Stir to combine."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "blind-squirrel-nog",
+      "rank": 1,
+      "rationale": "House holiday nog."
+    },
+    {
+      "bottleId": "eagle-rare",
+      "rank": 2,
+      "rationale": "Softer bourbon for dessert."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "baileys-on-the-rocks"
+  ],
+  "seasonality": [
+    "winter"
+  ],
+  "tags": [
+    "dessert",
+    "seasonal"
+  ],
+  "description": "Blind Squirrel peanut butter nog with a pour of bourbon.",
+  "whyItWorks": "Bourbon cuts sweetness and adds oak to the nog.",
+  "id": "holiday-nog-bourbon",
+  "slug": "holiday-nog-bourbon",
+  "name": "Holiday Nog Bourbon"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "scotch-lemon-sour",
+  "slug": "scotch-lemon-sour",
+  "name": "Scotch Sour",
+  "aliases": [],
+  "description": "A clean lemon sour built on scotch.",
+  "whyItWorks": "Acid brightens scotch; syrup restores balance.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "citrus",
+    "bright",
+    "balanced"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks or coupe",
+  "ice": "Shaken; served up or over ice",
+  "garnish": [
+    "Lemon wheel"
+  ],
+  "illustrationKey": "scotch-lemon-sour",
+  "ingredients": [
+    {
+      "ingredientId": "scotch",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake all ingredients hard with ice.",
+    "Strain into a chilled coupe or over fresh ice.",
+    "Garnish."
+  ],
+  "techniqueNotes": [
+    "Shake longer than you think for a cold, airy texture."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "macallan-12",
+      "rank": 1,
+      "rationale": "Showcases your Scotch."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "sour",
+    "shaken",
+    "scotch",
+    "whiskey"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "gold_rum-cola-highball",
+  "slug": "gold_rum-cola-highball",
+  "name": "Gold rum & Cola",
+  "aliases": [],
+  "description": "A simple highball: gold rum lengthened with cola.",
+  "whyItWorks": "Dilution and bubbles make a strong spirit easy to sip.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "refreshing",
+    "clean"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "light",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [],
+  "illustrationKey": "gold_rum-cola-highball",
+  "ingredients": [
+    {
+      "ingredientId": "gold_rum",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cola",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build gold rum over ice.",
+    "Top with cola.",
+    "Stir once; garnish if desired."
+  ],
+  "techniqueNotes": [
+    "Keep the pour cold and don’t over-stir."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-3",
+      "rank": 1,
+      "rationale": "Showcases your Gold rum."
+    },
+    {
+      "bottleId": "havana-club-especial",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "havana-club-maestros",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "highball",
+    "built",
+    "rum",
+    "aged"
+  ]
+}

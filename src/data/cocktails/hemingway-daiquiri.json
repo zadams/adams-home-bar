@@ -1,0 +1,86 @@
+{
+  "id": "hemingway-daiquiri",
+  "slug": "hemingway-daiquiri",
+  "name": "Hemingway Daiquiri",
+  "aliases": [],
+  "description": "Rum, lime, grapefruit, and maraschino—Papa’s drier daiquiri.",
+  "origin": "Havana",
+  "whyItWorks": "Grapefruit and maraschino replace sugar for a leaner, aromatic sour.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Daiquiri",
+  "flavorProfiles": [
+    "citrus",
+    "cherry",
+    "dry"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; served up",
+  "garnish": [
+    "Lime wheel"
+  ],
+  "illustrationKey": "hemingway-daiquiri",
+  "ingredients": [
+    {
+      "ingredientId": "white_rum",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grapefruit_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "maraschino",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "optional": true,
+      "notes": "If you prefer less austere"
+    }
+  ],
+  "steps": [
+    "Shake hard with ice.",
+    "Strain into a chilled coupe.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-3",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rum",
+    "daiquiri",
+    "grapefruit"
+  ]
+}

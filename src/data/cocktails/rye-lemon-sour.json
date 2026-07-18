@@ -1,0 +1,84 @@
+{
+  "id": "rye-lemon-sour",
+  "slug": "rye-lemon-sour",
+  "name": "Rye Sour",
+  "aliases": [],
+  "description": "A clean lemon sour built on rye.",
+  "whyItWorks": "Acid brightens rye; syrup restores balance.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "citrus",
+    "bright",
+    "balanced"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks or coupe",
+  "ice": "Shaken; served up or over ice",
+  "garnish": [
+    "Lemon wheel"
+  ],
+  "illustrationKey": "rye-lemon-sour",
+  "ingredients": [
+    {
+      "ingredientId": "rye",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake all ingredients hard with ice.",
+    "Strain into a chilled coupe or over fresh ice.",
+    "Garnish."
+  ],
+  "techniqueNotes": [
+    "Shake longer than you think for a cold, airy texture."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-rye",
+      "rank": 1,
+      "rationale": "Showcases your Rye."
+    },
+    {
+      "bottleId": "barrell-rye",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "elijah-craig-rye",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "sour",
+    "shaken",
+    "rye",
+    "whiskey"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "aliases": [],
+  "classifications": [
+    "modern",
+    "sour",
+    "tiki"
+  ],
+  "cocktailFamily": "Daiquiri",
+  "flavorProfiles": [
+    "spice",
+    "citrus",
+    "rum"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Lime"
+  ],
+  "illustrationKey": "falernum-daiquiri",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "white_rum",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "falernum",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "optional": true,
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake with ice and strain into a coupe."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-3",
+      "rank": 1,
+      "rationale": "Classic rum base."
+    },
+    {
+      "bottleId": "bitter-truth-falernum",
+      "rank": 2,
+      "rationale": "House falernum."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "daiquiri",
+    "corn-n-oil",
+    "royal-bermuda-yacht-club"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rum",
+    "falernum"
+  ],
+  "description": "Daiquiri spiced with golden falernum.",
+  "whyItWorks": "Falernum’s clove-lime-almond notes deepen a classic rum sour.",
+  "id": "falernum-daiquiri",
+  "slug": "falernum-daiquiri",
+  "name": "Falernum Daiquiri"
+}

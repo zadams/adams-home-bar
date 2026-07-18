@@ -1,0 +1,94 @@
+{
+  "aliases": [],
+  "history": "A Hotel Monteleone classic from the 1930s. Cognac and Bénédictine are structural.",
+  "origin": "New Orleans",
+  "whyItWorks": "Two base spirits, vermouth, and herbal Bénédictine create layered sweetness and spice.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Vieux Carré",
+  "flavorProfiles": [
+    "herbal",
+    "oak",
+    "rich"
+  ],
+  "difficulty": "advanced",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Rocks",
+  "ice": "Large cube",
+  "garnish": [
+    "Lemon or cherry"
+  ],
+  "illustrationKey": "vieux-carre",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "rye",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cognac",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "benedictine",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peychauds_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Stir all with ice.",
+    "Strain over a large cube."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "sazerac-rye",
+      "rank": 1,
+      "rationale": "New Orleans rye character."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "sazerac",
+    "manhattan"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "whiskey",
+    "cognac",
+    "new-orleans"
+  ],
+  "id": "vieux-carre",
+  "slug": "vieux-carre",
+  "name": "Vieux Carré",
+  "description": "Rye, cognac, vermouth, Bénédictine, and bitters—New Orleans complexity."
+}

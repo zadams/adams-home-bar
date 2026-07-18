@@ -1,0 +1,76 @@
+{
+  "id": "grand-marnier-sour",
+  "slug": "grand-marnier-sour",
+  "name": "Grand Marnier Sour",
+  "aliases": [],
+  "description": "Orange liqueur sour—dessert-leaning but bright.",
+  "whyItWorks": "Lemon cuts Grand Marnier’s richness into balance.",
+  "classifications": [
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "orange",
+    "citrus",
+    "rich"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; served up",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "grand-marnier-sour",
+  "ingredients": [
+    {
+      "ingredientId": "grand_marnier",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "bourbon",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake with ice.",
+    "Strain up.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "grand-marnier",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "orange",
+    "sour"
+  ]
+}

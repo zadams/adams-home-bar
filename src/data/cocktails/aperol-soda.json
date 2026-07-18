@@ -1,0 +1,63 @@
+{
+  "id": "aperol-soda",
+  "slug": "aperol-soda",
+  "name": "Aperol & Soda",
+  "aliases": [],
+  "description": "Lighter bitter-orange highball.",
+  "whyItWorks": "Aperol’s sweetness loves dilution and bubbles.",
+  "classifications": [
+    "aperitivo",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "orange",
+    "bitter",
+    "light"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Orange slice"
+  ],
+  "illustrationKey": "aperol-soda",
+  "ingredients": [
+    {
+      "ingredientId": "aperol",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build over ice.",
+    "Top with soda."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "aperol",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "aperol",
+    "aperitivo"
+  ]
+}

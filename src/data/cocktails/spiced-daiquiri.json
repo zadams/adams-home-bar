@@ -1,0 +1,71 @@
+{
+  "id": "spiced-daiquiri",
+  "slug": "spiced-daiquiri",
+  "name": "Spiced Daiquiri",
+  "aliases": [],
+  "description": "Daiquiri built on spiced rum.",
+  "whyItWorks": "Baking spice in the rum plays as built-in complexity.",
+  "classifications": [
+    "variation",
+    "sour"
+  ],
+  "cocktailFamily": "Daiquiri",
+  "flavorProfiles": [
+    "spice",
+    "citrus",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; served up",
+  "garnish": [
+    "Lime wheel"
+  ],
+  "illustrationKey": "spiced-daiquiri",
+  "ingredients": [
+    {
+      "ingredientId": "spiced_rum",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake hard.",
+    "Strain up.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kraken-spiced",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rum",
+    "spiced",
+    "daiquiri"
+  ]
+}

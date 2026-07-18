@@ -1,0 +1,81 @@
+{
+  "aliases": [],
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Manhattan",
+  "flavorProfiles": [
+    "Scotch",
+    "herbal",
+    "bittersweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "spirit-forward",
+  "glassware": "Coupe",
+  "ice": "Stirred; up",
+  "garnish": [
+    "Cherry or lemon"
+  ],
+  "illustrationKey": "rob-roy",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "scotch",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "cocktail_cherry",
+      "amount": 1,
+      "unit": "piece",
+      "optional": true,
+      "scaleMode": "garnish"
+    }
+  ],
+  "steps": [
+    "Stir Scotch, vermouth, and bitters with ice.",
+    "Strain into a chilled coupe.",
+    "Garnish with cherry or lemon."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "macallan-12",
+      "rank": 1,
+      "rationale": "House Scotch—polished and approachable in a Rob Roy."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "manhattan",
+    "old-fashioned"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "scotch",
+    "stirred"
+  ],
+  "description": "A Manhattan built on Scotch—smoky-sweet and stirred.",
+  "whyItWorks": "Sweet vermouth softens Scotch while bitters tie peat and oak together.",
+  "id": "rob-roy",
+  "slug": "rob-roy",
+  "name": "Rob Roy"
+}

@@ -1,0 +1,74 @@
+{
+  "aliases": [],
+  "history": "Created at Tommy’s Mexican Restaurant in San Francisco. Agave syrup replaces triple sec.",
+  "origin": "San Francisco",
+  "whyItWorks": "Agave sweetness mirrors tequila’s plant character more directly than curaçao.",
+  "classifications": [
+    "modern classic",
+    "sour"
+  ],
+  "cocktailFamily": "Margarita",
+  "flavorProfiles": [
+    "agave",
+    "citrus",
+    "clean"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime"
+  ],
+  "illustrationKey": "tommys-margarita",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "agave_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake with ice and strain over fresh ice."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-cristalino",
+      "rank": 1,
+      "rationale": "Smooth cristalino Tommy’s."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "margarita",
+    "paloma"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "tequila",
+    "sour"
+  ],
+  "id": "tommys-margarita",
+  "slug": "tommys-margarita",
+  "name": "Tommy's Margarita",
+  "description": "Tequila, lime, and agave—no orange liqueur."
+}

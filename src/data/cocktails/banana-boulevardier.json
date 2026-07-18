@@ -1,0 +1,84 @@
+{
+  "aliases": [],
+  "whyItWorks": "Banana rounds Campari’s bitterness into something softer and dessert-adjacent.",
+  "classifications": [
+    "modern",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Negroni",
+  "flavorProfiles": [
+    "banana",
+    "bitter",
+    "oak"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "strong",
+  "glassware": "Rocks",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "banana-boulevardier",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 1.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "campari",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "creme_de_banane",
+      "amount": 0.35,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Stir with ice and strain over a large cube."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "eagle-rare",
+      "rank": 1,
+      "rationale": "Fruit-forward bourbon."
+    },
+    {
+      "bottleId": "creme-de-banane",
+      "rank": 2,
+      "rationale": "House banana liqueur."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "boulevardier",
+    "banana-old-fashioned"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "whiskey",
+    "banana",
+    "bitter"
+  ],
+  "id": "banana-boulevardier",
+  "slug": "banana-boulevardier",
+  "name": "Banana Boulevardier",
+  "description": "Boulevardier with a measure of crème de banane."
+}

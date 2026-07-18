@@ -1,0 +1,64 @@
+{
+  "id": "campari-soda",
+  "slug": "campari-soda",
+  "name": "Campari & Soda",
+  "aliases": [],
+  "description": "Bitter, sparkling, and endlessly sipable.",
+  "whyItWorks": "Carbonation softens Campari’s intensity.",
+  "classifications": [
+    "aperitivo",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "bitter",
+    "orange",
+    "refreshing"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Orange slice"
+  ],
+  "illustrationKey": "campari-soda",
+  "ingredients": [
+    {
+      "ingredientId": "campari",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build Campari over ice.",
+    "Top with soda.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "campari",
+      "rank": 1,
+      "rationale": "Your Campari is the drink."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "campari",
+    "aperitivo"
+  ]
+}

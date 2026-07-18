@@ -1,0 +1,84 @@
+{
+  "aliases": [],
+  "history": "A modern classic from New York’s early-2000s cocktail revival, swapping simple syrup for honey.",
+  "origin": "New York",
+  "whyItWorks": "Honey’s viscosity and floral sweetness soften lemon against bourbon.",
+  "classifications": [
+    "modern classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "citrus",
+    "honey",
+    "oak"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks",
+  "ice": "Large cube",
+  "garnish": [
+    "Lemon peel"
+  ],
+  "illustrationKey": "gold-rush",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "honey_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake bourbon, lemon, and honey syrup with ice.",
+    "Strain over a large cube.",
+    "Garnish with lemon."
+  ],
+  "techniqueNotes": [
+    "Make honey syrup 1:1 honey to warm water."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "eagle-rare",
+      "rank": 1,
+      "rationale": "Fruitier bourbon loves honey."
+    },
+    {
+      "bottleId": "russells-reserve-10",
+      "rank": 2,
+      "rationale": "Classic structure."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "whiskey-sour",
+    "old-fashioned"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "whiskey",
+    "sour",
+    "modern"
+  ],
+  "id": "gold-rush",
+  "slug": "gold-rush",
+  "name": "Gold Rush",
+  "description": "Bourbon, lemon, and honey—a modern whiskey sour."
+}

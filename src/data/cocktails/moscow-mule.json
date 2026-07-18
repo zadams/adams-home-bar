@@ -1,0 +1,75 @@
+{
+  "aliases": [],
+  "history": "Popularized in mid-century America as a vodka highball. Ginger beer quality defines the drink.",
+  "origin": "United States",
+  "whyItWorks": "Neutral vodka lets ginger and lime lead.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Mule",
+  "flavorProfiles": [
+    "ginger",
+    "lime",
+    "refreshing"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "light",
+  "glassware": "Copper mug or highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime"
+  ],
+  "illustrationKey": "moscow-mule",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "ginger_beer",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Build vodka and lime over ice.",
+    "Top with ginger beer."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "Clean vodka for a classic mule."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "dark-n-stormy",
+    "vodka-tonic"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "vodka",
+    "ginger"
+  ],
+  "id": "moscow-mule",
+  "slug": "moscow-mule",
+  "name": "Moscow Mule",
+  "description": "Vodka, ginger beer, and lime—usually in a copper mug."
+}

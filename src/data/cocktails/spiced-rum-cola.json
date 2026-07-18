@@ -1,0 +1,73 @@
+{
+  "aliases": [],
+  "classifications": [
+    "modern",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "spice",
+    "cola",
+    "lime"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "light",
+  "glassware": "Highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime"
+  ],
+  "illustrationKey": "spiced-rum-cola",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "spiced_rum",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cola",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Build rum and lime over ice.",
+    "Top with cola."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kraken-spiced",
+      "rank": 1,
+      "rationale": "House spiced rum."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "cuba-libre",
+    "dark-n-stormy"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rum",
+    "cola"
+  ],
+  "description": "Kraken (or similar) with cola and lime—darker Cuba Libre.",
+  "whyItWorks": "Spice rum and cola share vanilla-clove notes; lime cuts sweetness.",
+  "id": "spiced-rum-cola",
+  "slug": "spiced-rum-cola",
+  "name": "Spiced Rum and Cola"
+}

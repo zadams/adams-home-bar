@@ -1,0 +1,83 @@
+{
+  "aliases": [],
+  "history": "Closely associated with Bermuda and traditionally made with Gosling’s rum; use a dark or rich rum from your shelf.",
+  "origin": "Bermuda",
+  "whyItWorks": "Ginger heat cuts rum richness; lime keeps it bright.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "ginger",
+    "spice",
+    "lime"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime wedge"
+  ],
+  "illustrationKey": "dark-n-stormy",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gold_rum",
+      "amount": 2,
+      "unit": "oz",
+      "label": "Dark or gold rum",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "ginger_beer",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "optional": true,
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Fill a highball with ice.",
+    "Add rum and lime, top with ginger beer.",
+    "Garnish with lime."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-especial",
+      "rank": 1,
+      "rationale": "Rich enough for ginger beer."
+    },
+    {
+      "bottleId": "kraken-spiced",
+      "rank": 2,
+      "rationale": "Spiced, sweeter storm."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "moscow-mule",
+    "cuba-libre"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rum",
+    "ginger"
+  ],
+  "id": "dark-n-stormy",
+  "slug": "dark-n-stormy",
+  "name": "Dark 'n' Stormy",
+  "description": "Dark rum and ginger beer with lime—stormy, spicy, tall."
+}

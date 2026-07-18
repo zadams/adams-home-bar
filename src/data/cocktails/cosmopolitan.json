@@ -1,0 +1,89 @@
+{
+  "aliases": [],
+  "history": "A late-20th-century hit. Balance matters more than nostalgia.",
+  "origin": "United States",
+  "whyItWorks": "Cranberry color and slight sweetness sit on a sour frame with orange liqueur.",
+  "classifications": [
+    "modern classic",
+    "sour"
+  ],
+  "cocktailFamily": "Cosmopolitan",
+  "flavorProfiles": [
+    "citrus",
+    "berry",
+    "bright"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "cosmopolitan",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cointreau",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "label": "Cranberry juice or syrup to tint",
+      "scaleMode": "linear",
+      "notes": "Use cranberry juice if available; otherwise a touch of syrup and bitters for balance."
+    }
+  ],
+  "steps": [
+    "Shake all with ice.",
+    "Strain into a coupe.",
+    "Express orange peel."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "Neutral base."
+    },
+    {
+      "bottleId": "cointreau",
+      "rank": 2,
+      "rationale": "Essential orange liqueur."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "margarita",
+    "vodka-gimlet"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "vodka",
+    "sour"
+  ],
+  "id": "cosmopolitan",
+  "slug": "cosmopolitan",
+  "name": "Cosmopolitan",
+  "description": "Vodka, orange liqueur, lime, and cranberry—pink and precise."
+}

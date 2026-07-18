@@ -1,0 +1,92 @@
+{
+  "id": "dirty-martini",
+  "slug": "dirty-martini",
+  "name": "Dirty Martini",
+  "aliases": [],
+  "description": "Martini with olive brine for a savory edge.",
+  "whyItWorks": "Brine adds salt and umami that amplify dry vermouth.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Martini",
+  "flavorProfiles": [
+    "savory",
+    "botanical",
+    "salty"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Martini glass",
+  "ice": "Stirred; served up",
+  "garnish": [
+    "Olives"
+  ],
+  "illustrationKey": "dirty-martini",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "dry_vermouth",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "olive",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Olive brine"
+    },
+    {
+      "ingredientId": "olive",
+      "amount": 2,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Olives",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Stir gin, vermouth, and brine with ice.",
+    "Strain up.",
+    "Garnish with olives."
+  ],
+  "techniqueNotes": [
+    "Start with ¼ oz brine—dirty can get muddy fast."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "martini",
+    "savory"
+  ]
+}

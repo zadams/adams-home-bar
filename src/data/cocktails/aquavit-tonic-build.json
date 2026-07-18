@@ -1,0 +1,66 @@
+{
+  "id": "aquavit-tonic-build",
+  "slug": "aquavit-tonic-build",
+  "name": "Aquavit & Tonic",
+  "aliases": [],
+  "description": "A simple highball: aquavit lengthened with tonic.",
+  "whyItWorks": "Dilution and bubbles make a strong spirit easy to sip.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "refreshing",
+    "clean"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "light",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime wedge"
+  ],
+  "illustrationKey": "aquavit-tonic-build",
+  "ingredients": [
+    {
+      "ingredientId": "aquavit",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "tonic_water",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build aquavit over ice.",
+    "Top with tonic.",
+    "Stir once; garnish if desired."
+  ],
+  "techniqueNotes": [
+    "Keep the pour cold and don’t over-stir."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "inderoy-aquavit",
+      "rank": 1,
+      "rationale": "Showcases your Aquavit."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "highball",
+    "built",
+    "aquavit"
+  ]
+}

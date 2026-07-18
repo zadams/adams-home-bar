@@ -1,0 +1,91 @@
+{
+  "aliases": [],
+  "history": "Credited to Trader Vic in 1944. Orgeat is structural, not optional garnish syrup.",
+  "origin": "United States",
+  "whyItWorks": "Orgeat’s almond richness and curaçao perfume lift a rum sour into something plush.",
+  "classifications": [
+    "classic",
+    "tiki",
+    "sour"
+  ],
+  "cocktailFamily": "Mai Tai",
+  "flavorProfiles": [
+    "almond",
+    "citrus",
+    "rum"
+  ],
+  "difficulty": "medium",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks / double old fashioned",
+  "ice": "Crushed or cubed",
+  "garnish": [
+    "Mint sprig",
+    "Lime shell"
+  ],
+  "illustrationKey": "mai-tai",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gold_rum",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cointreau",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orgeat",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "optional": true,
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake all with ice.",
+    "Strain into a rocks glass over ice.",
+    "Garnish with mint."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-especial",
+      "rank": 1,
+      "rationale": "Solid single-rum Mai Tai from the house shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "royal-bermuda-yacht-club",
+    "jungle-bird"
+  ],
+  "seasonality": [
+    "summer"
+  ],
+  "tags": [
+    "rum",
+    "tiki"
+  ],
+  "id": "mai-tai",
+  "slug": "mai-tai",
+  "name": "Mai Tai",
+  "description": "Rum, lime, orange liqueur, and orgeat—the tropical standard."
+}

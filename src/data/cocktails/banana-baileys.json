@@ -1,0 +1,60 @@
+{
+  "id": "banana-baileys",
+  "slug": "banana-baileys",
+  "name": "Banana Cream",
+  "aliases": [],
+  "description": "Crème de banane and Baileys over ice.",
+  "whyItWorks": "Banana and cream read as a melted milkshake.",
+  "classifications": [
+    "dessert"
+  ],
+  "cocktailFamily": "Dessert",
+  "flavorProfiles": [
+    "banana",
+    "cream",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Cubed ice",
+  "garnish": [],
+  "illustrationKey": "banana-baileys",
+  "ingredients": [
+    {
+      "ingredientId": "creme_de_banane",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "baileys",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Build over ice.",
+    "Stir."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "creme-de-banane",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "banana",
+    "baileys"
+  ]
+}

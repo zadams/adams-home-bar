@@ -1,0 +1,63 @@
+{
+  "id": "aquavit-martini",
+  "slug": "aquavit-martini",
+  "name": "Aquavit Martini",
+  "aliases": [],
+  "description": "Martini template with aquavit’s savory spice.",
+  "whyItWorks": "Dry vermouth softens caraway into something elegant.",
+  "classifications": [
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Martini",
+  "flavorProfiles": [
+    "caraway",
+    "dry",
+    "savory"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Martini glass",
+  "ice": "Stirred; served up",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "aquavit-martini",
+  "ingredients": [
+    {
+      "ingredientId": "aquavit",
+      "amount": 2.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "dry_vermouth",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Stir with ice.",
+    "Strain up.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "inderoy-aquavit",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "aquavit",
+    "martini"
+  ]
+}

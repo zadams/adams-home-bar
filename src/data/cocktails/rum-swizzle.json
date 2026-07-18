@@ -1,0 +1,85 @@
+{
+  "aliases": [],
+  "classifications": [
+    "classic",
+    "tiki"
+  ],
+  "cocktailFamily": "Swizzle",
+  "flavorProfiles": [
+    "spice",
+    "citrus",
+    "rum"
+  ],
+  "difficulty": "medium",
+  "preparationTime": 3,
+  "strength": "medium",
+  "glassware": "Collins or tall glass",
+  "ice": "Crushed ice",
+  "garnish": [
+    "Mint if available"
+  ],
+  "illustrationKey": "rum-swizzle",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gold_rum",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "falernum",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Add ingredients to a tall glass with crushed ice.",
+    "Swizzle until frosty.",
+    "Top with more ice."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-especial",
+      "rank": 1,
+      "rationale": "Gold rum with enough weight."
+    },
+    {
+      "bottleId": "kraken-spiced",
+      "rank": 2,
+      "rationale": "Spiced, sweeter swizzle."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "corn-n-oil",
+    "mai-tai"
+  ],
+  "seasonality": [
+    "summer"
+  ],
+  "tags": [
+    "rum",
+    "tiki"
+  ],
+  "description": "Rum, citrus, falernum, and bitters—swizzled with crushed ice.",
+  "whyItWorks": "Swizzling aerates and dilutes; falernum seasons the rum.",
+  "id": "rum-swizzle",
+  "slug": "rum-swizzle",
+  "name": "Rum Swizzle"
+}

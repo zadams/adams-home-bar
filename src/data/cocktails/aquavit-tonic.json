@@ -1,0 +1,72 @@
+{
+  "aliases": [],
+  "classifications": [
+    "modern",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "caraway",
+    "bitter",
+    "refreshing"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "light",
+  "glassware": "Highball",
+  "ice": "Plenty of ice",
+  "garnish": [
+    "Lemon or cucumber"
+  ],
+  "illustrationKey": "aquavit-tonic",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "aquavit",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "tonic_water",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build over ice.",
+    "Top with tonic; garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "inderoy-aquavit",
+      "rank": 1,
+      "rationale": "House aquavit—the point of this drink."
+    },
+    {
+      "bottleId": "fever-tree-tonic",
+      "rank": 2,
+      "rationale": "House tonic."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "gin-and-tonic",
+    "vodka-tonic"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "aquavit",
+    "highball"
+  ],
+  "description": "Aquavit lengthened with Fever-Tree tonic—caraway and quinine.",
+  "whyItWorks": "Tonic’s bitterness flatters aquavit’s spice the way it flatters gin.",
+  "id": "aquavit-tonic",
+  "slug": "aquavit-tonic",
+  "name": "Aquavit and Tonic"
+}

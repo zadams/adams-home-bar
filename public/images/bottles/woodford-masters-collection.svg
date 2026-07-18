@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 320" role="img">
+  <rect width="200" height="320" fill="hsl(143 30% 14%)"/>
+  <g fill="none" stroke="hsl(143 40% 65%)" stroke-width="3" stroke-linejoin="round">
+    <path d="M85 40h30v30h-30z"/>
+    <path d="M78 70h44l12 40v130c0 18-14 32-34 32h-12c-20 0-34-14-34-32V110l12-40z"/>
+    <path d="M70 150h60"/>
+  </g>
+  <rect x="88" y="175" width="24" height="55" fill="hsl(143 40% 65%)" opacity="0.35"/>
+</svg>

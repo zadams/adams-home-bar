@@ -1,0 +1,89 @@
+{
+  "id": "remember-the-maine",
+  "slug": "remember-the-maine",
+  "name": "Remember the Maine",
+  "aliases": [],
+  "description": "Rye, cherry, vermouth, and absinthe-free with a Peychaud’s lift.",
+  "whyItWorks": "Cherry and vermouth sweeten rye; Peychaud’s adds anise perfume.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Manhattan",
+  "flavorProfiles": [
+    "cherry",
+    "spice",
+    "herbal"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Stirred; served up",
+  "garnish": [
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "remember-the-maine",
+  "ingredients": [
+    {
+      "ingredientId": "rye",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cherry_liqueur",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peychauds_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Stir with ice.",
+    "Strain into a coupe.",
+    "Garnish."
+  ],
+  "techniqueNotes": [
+    "Classic uses an absinthe rinse; Peychaud’s keeps the spirit without it."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-rye",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "barrell-rye",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "elijah-craig-rye",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rye",
+    "cherry",
+    "manhattan-family"
+  ]
+}

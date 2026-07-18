@@ -1,0 +1,79 @@
+{
+  "aliases": [],
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "citrus",
+    "botanical",
+    "bright"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Lemon peel"
+  ],
+  "illustrationKey": "white-lady",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cointreau",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake hard with ice.",
+    "Strain into a coupe."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "Tea spice under citrus."
+    },
+    {
+      "bottleId": "cointreau",
+      "rank": 2,
+      "rationale": "Preferred orange liqueur."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "gimlet",
+    "margarita",
+    "sidecar-bourbon"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "sour"
+  ],
+  "description": "Gin, Cointreau, and lemon—the citrus cousin of the Margarita.",
+  "whyItWorks": "Orange liqueur and lemon frame gin in a clean sour structure.",
+  "id": "white-lady",
+  "slug": "white-lady",
+  "name": "White Lady"
+}

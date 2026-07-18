@@ -1,0 +1,75 @@
+{
+  "aliases": [],
+  "history": "A Venetian-style spritz that became globally popular in the 2010s. Keep it cold and not too sweet.",
+  "origin": "Italy",
+  "whyItWorks": "Bittersweet Aperol, bubbles, and dilution make an easy aperitivo.",
+  "classifications": [
+    "classic",
+    "sparkling"
+  ],
+  "cocktailFamily": "Spritz",
+  "flavorProfiles": [
+    "bitter-orange",
+    "sparkling",
+    "light"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "light",
+  "glassware": "Wine glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Orange slice"
+  ],
+  "illustrationKey": "aperol-spritz",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "aperol",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "prosecco",
+      "amount": 3,
+      "unit": "oz",
+      "scaleMode": "top"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build over ice in a wine glass: Aperol, prosecco, splash of soda.",
+    "Garnish with orange."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "aperol",
+      "rank": 1,
+      "rationale": "House Aperol."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "americano",
+    "negroni-sbagliato"
+  ],
+  "seasonality": [
+    "summer"
+  ],
+  "tags": [
+    "aperitif",
+    "sparkling"
+  ],
+  "id": "aperol-spritz",
+  "slug": "aperol-spritz",
+  "name": "Aperol Spritz",
+  "description": "Aperol, prosecco, and soda—the afternoon spritz."
+}

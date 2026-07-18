@@ -1,0 +1,81 @@
+{
+  "id": "italian-greyhound",
+  "slug": "italian-greyhound",
+  "name": "Italian Greyhound",
+  "aliases": [],
+  "description": "Gin, grapefruit, and a splash of Campari.",
+  "whyItWorks": "Campari echoes grapefruit bitterness with orange perfume.",
+  "classifications": [
+    "highball",
+    "aperitivo"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "grapefruit",
+    "bitter",
+    "botanical"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Grapefruit wedge"
+  ],
+  "illustrationKey": "italian-greyhound",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "campari",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grapefruit_juice",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build over ice.",
+    "Top with grapefruit.",
+    "Stir once."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "campari",
+    "grapefruit"
+  ]
+}

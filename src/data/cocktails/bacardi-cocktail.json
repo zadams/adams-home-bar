@@ -1,0 +1,76 @@
+{
+  "id": "bacardi-cocktail",
+  "slug": "bacardi-cocktail",
+  "name": "Bacardi Cocktail",
+  "aliases": [],
+  "description": "A daiquiri relative with a touch of cherry richness.",
+  "whyItWorks": "Cherry liqueur stands in for grenadine’s fruit sweetness.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Daiquiri",
+  "flavorProfiles": [
+    "cherry",
+    "citrus",
+    "bright"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; served up",
+  "garnish": [
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "bacardi-cocktail",
+  "ingredients": [
+    {
+      "ingredientId": "white_rum",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cherry_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake with ice.",
+    "Strain up.",
+    "Garnish with a cherry."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-3",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rum",
+    "cherry"
+  ]
+}

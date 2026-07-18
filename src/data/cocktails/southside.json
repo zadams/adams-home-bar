@@ -1,0 +1,118 @@
+{
+  "id": "southside",
+  "slug": "southside",
+  "name": "Southside",
+  "aliases": [],
+  "description": "Gin, lime, mint, and sugar—essentially a gin Mojito served up.",
+  "history": "Associated with early-20th-century American bars and Prohibition-era lore. The mint-lime-gin combination is the point; the stories are optional.",
+  "origin": "United States",
+  "whyItWorks": "Mint oils and lime brighten gin; sugar keeps the sour from turning austere. Served up, it feels more composed than a Mojito.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Southside",
+  "flavorProfiles": [
+    "mint",
+    "citrus",
+    "botanical",
+    "bright"
+  ],
+  "difficulty": "medium",
+  "preparationTime": 5,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; served up",
+  "garnish": [
+    "Mint sprig"
+  ],
+  "illustrationKey": "southside",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "mint",
+      "amount": 6,
+      "unit": "piece",
+      "label": "Mint leaves",
+      "scaleMode": "fixed",
+      "notes": "Required for the drink’s identity; confirm mint is on hand."
+    },
+    {
+      "ingredientId": "mint",
+      "amount": 1,
+      "unit": "piece",
+      "label": "Mint sprig garnish",
+      "optional": true,
+      "scaleMode": "garnish"
+    }
+  ],
+  "steps": [
+    "Gently clap or lightly muddle mint with simple syrup in the shaker—do not shred the leaves.",
+    "Add gin, lime juice, and ice.",
+    "Shake hard and double-strain into a chilled coupe.",
+    "Garnish with a fresh mint sprig."
+  ],
+  "techniqueNotes": [
+    "Overmuddling mint turns the drink grassy and bitter.",
+    "Double-strain to keep leaf fragments out of the coupe."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "Gunpowder tea and mint are a natural pairing."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Cucumber-rose gin leans into the herbal side."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 3,
+      "rationale": "Clean juniper keeps mint and lime in focus."
+    }
+  ],
+  "substitutions": [],
+  "variations": [
+    {
+      "id": "southside-fizz",
+      "name": "Southside Fizz",
+      "notes": "Strain over ice and top with club soda.",
+      "relatedCocktailId": "southside-fizz"
+    }
+  ],
+  "relatedCocktailIds": [
+    "tom-collins",
+    "gin-and-tonic",
+    "daiquiri",
+    "southside-fizz"
+  ],
+  "seasonality": [
+    "spring",
+    "summer"
+  ],
+  "tags": [
+    "foundational",
+    "gin",
+    "shaken",
+    "mint"
+  ]
+}

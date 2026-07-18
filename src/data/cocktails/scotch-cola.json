@@ -1,0 +1,66 @@
+{
+  "id": "scotch-cola",
+  "slug": "scotch-cola",
+  "name": "Scotch & Cola",
+  "aliases": [],
+  "description": "A simple highball: scotch lengthened with cola.",
+  "whyItWorks": "Dilution and bubbles make a strong spirit easy to sip.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "sweet",
+    "oak",
+    "cola"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "light",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [],
+  "illustrationKey": "scotch-cola",
+  "ingredients": [
+    {
+      "ingredientId": "scotch",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cola",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build scotch over ice.",
+    "Top with cola.",
+    "Stir once; garnish if desired."
+  ],
+  "techniqueNotes": [
+    "Keep the pour cold and don’t over-stir."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "macallan-12",
+      "rank": 1,
+      "rationale": "Showcases your Scotch."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "highball",
+    "built",
+    "scotch",
+    "whiskey"
+  ]
+}

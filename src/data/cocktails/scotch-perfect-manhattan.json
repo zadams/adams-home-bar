@@ -1,0 +1,80 @@
+{
+  "id": "scotch-perfect-manhattan",
+  "slug": "scotch-perfect-manhattan",
+  "name": "Perfect Scotch Manhattan",
+  "aliases": [],
+  "description": "Scotch stirred with sweet vermouth and bitters.",
+  "whyItWorks": "Vermouth softens and sweetens; bitters keep the finish dry and aromatic.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Manhattan",
+  "flavorProfiles": [
+    "oak",
+    "herbal",
+    "bittersweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Coupe or Nick & Nora",
+  "ice": "Stirred; served up",
+  "garnish": [
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "scotch-perfect-manhattan",
+  "ingredients": [
+    {
+      "ingredientId": "scotch",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "dry_vermouth",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Stir all ingredients with ice until very cold.",
+    "Strain into a chilled coupe.",
+    "Garnish."
+  ],
+  "techniqueNotes": [
+    "Aim for 20–30 seconds of stirring for the right dilution."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "macallan-12",
+      "rank": 1,
+      "rationale": "Showcases your Scotch."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "manhattan",
+    "stirred",
+    "scotch",
+    "whiskey"
+  ]
+}

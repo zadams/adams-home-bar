@@ -1,0 +1,54 @@
+{
+  "aliases": [],
+  "whyItWorks": "Cold softens sweetness; no need to overcomplicate.",
+  "classifications": [
+    "dessert"
+  ],
+  "cocktailFamily": "Dessert",
+  "flavorProfiles": [
+    "cream",
+    "sweet",
+    "cocoa"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "light",
+  "glassware": "Rocks",
+  "ice": "Cubed ice",
+  "garnish": [],
+  "illustrationKey": "baileys-on-the-rocks",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "baileys",
+      "amount": 2.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Pour over ice and serve."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "baileys",
+      "rank": 1,
+      "rationale": "House Irish cream."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "winter"
+  ],
+  "tags": [
+    "dessert",
+    "cream"
+  ],
+  "id": "baileys-on-the-rocks",
+  "slug": "baileys-on-the-rocks",
+  "name": "Baileys on the Rocks",
+  "description": "Irish cream over ice—simple dessert sipper from the shelf."
+}
