@@ -7,6 +7,7 @@ import { bottleById, cocktailById, getIngredientName } from '../../data'
 import ingredientImages from '../../data/illustrations/ingredients.json'
 import { CocktailIllustration } from '../../components/CocktailIllustration'
 import { readinessClass } from '../../utils/illustrations'
+import { assetUrl } from '../../utils/assetUrl'
 import { useUserData } from '../persistence/UserDataContext'
 import '../../styles/recipe-spread.css'
 
@@ -297,7 +298,7 @@ export function RecipeView({ cocktail, readiness }: RecipeViewProps) {
                     <span className="ingredient-table__name">
                       {ingPhoto ? (
                         <img
-                          src={ingPhoto.src}
+                          src={assetUrl(ingPhoto.src)}
                           alt=""
                           width={40}
                           height={40}

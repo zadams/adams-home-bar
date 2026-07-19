@@ -5,6 +5,7 @@ import {
   statusLabel,
 } from '../../services/inventory/effective'
 import { cocktailsUsingBottle } from '../../services/recommendation/rank'
+import { assetUrl } from '../../utils/assetUrl'
 import { useUserData } from '../persistence/UserDataContext'
 import { CocktailCard } from '../cocktails/CocktailCard'
 import type { InventoryStatus } from '../../types/inventory'
@@ -62,7 +63,7 @@ export function BottleDetailPage() {
         }}
       >
         <img
-          src={`/images/bottles/${bottle.id}.svg`}
+          src={assetUrl(`/images/bottles/${bottle.id}.svg`)}
           alt=""
           width={200}
           height={320}

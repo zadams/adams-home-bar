@@ -2,6 +2,7 @@ import { useState } from 'react'
 import registry from '../data/illustrations/registry.json'
 import ingredientImages from '../data/illustrations/ingredients.json'
 import { getIngredientName } from '../data'
+import { assetUrl } from '../utils/assetUrl'
 import { getPlaceholderPalette, resolveGlassStyle } from '../utils/illustrations'
 
 interface CocktailIllustrationProps {
@@ -57,20 +58,22 @@ export function CocktailIllustration({
   const palette = getPlaceholderPalette(illustrationKey)
   const style = resolveGlassStyle(glassware ?? entry?.glassware)
   const uid = illustrationKey.replace(/[^a-z0-9-]/gi, '')
-  const imageSrc =
+  const rawSrc =
     useFallback && entry?.fallbackSrc ? entry.fallbackSrc : entry?.src
+  const imageSrc = assetUrl(rawSrc)
+  const fallbackSrc = assetUrl(entry?.fallbackSrc)
   const isPhoto = entry?.kind === 'photo' && !failed && Boolean(imageSrc)
 
   const ingredientItems =
     ingredientIds?.map((id) => ({
       id,
       label: getIngredientName(id),
-      src: ingredientRegistry[id]?.src,
+      src: assetUrl(ingredientRegistry[id]?.src),
     })) ??
     (ingredientLabels ?? entry?.ingredients ?? []).map((label, index) => ({
       id: `label-${index}`,
       label: label.replace(/_/g, ' '),
-      src: undefined as string | undefined,
+      src: '' as string,
     }))
 
   return (
@@ -85,7 +88,7 @@ export function CocktailIllustration({
             loading="lazy"
             decoding="async"
             onError={() => {
-              if (!useFallback && entry?.fallbackSrc && entry.fallbackSrc !== imageSrc) {
+              if (!useFallback && fallbackSrc && fallbackSrc !== imageSrc) {
                 setUseFallback(true)
                 return
               }
