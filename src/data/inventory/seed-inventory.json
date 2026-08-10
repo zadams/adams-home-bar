@@ -958,22 +958,22 @@
   {
     "id": "inv-ginger_beer",
     "ingredientId": "ginger_beer",
-    "status": "out",
+    "status": "in_stock",
     "productName": "Ginger beer",
     "tags": [
       "expansion"
     ],
-    "notes": "Not currently stocked."
+    "notes": "Currently stocked."
   },
   {
     "id": "inv-pineapple_juice",
     "ingredientId": "pineapple_juice",
-    "status": "out",
+    "status": "in_stock",
     "productName": "Pineapple juice",
     "tags": [
       "expansion"
     ],
-    "notes": "Not currently stocked."
+    "notes": "Currently stocked."
   },
   {
     "id": "inv-orgeat",
