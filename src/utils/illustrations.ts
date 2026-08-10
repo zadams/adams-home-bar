@@ -23,7 +23,17 @@ function hashHue(str: string): number {
   return h % 360
 }
 
-export function getPlaceholderPalette(illustrationKey: string): Palette {
+export function getPlaceholderPalette(
+  illustrationKey: string,
+  liquidHex?: string,
+): Palette {
+  if (liquidHex) {
+    return {
+      from: '#1a1510',
+      to: shadeHex(liquidHex, -0.35),
+      accent: liquidHex,
+    }
+  }
   if (PLACEHOLDER_COLORS[illustrationKey]) return PLACEHOLDER_COLORS[illustrationKey]
   const hue = hashHue(illustrationKey)
   return {
@@ -31,6 +41,16 @@ export function getPlaceholderPalette(illustrationKey: string): Palette {
     to: `hsl(${(hue + 28) % 360} 42% 28%)`,
     accent: `hsl(${(hue + 40) % 360} 48% 68%)`,
   }
+}
+
+function shadeHex(hex: string, amount: number): string {
+  const raw = hex.replace('#', '')
+  if (raw.length !== 6) return hex
+  const num = Number.parseInt(raw, 16)
+  const r = Math.min(255, Math.max(0, ((num >> 16) & 255) * (1 + amount)))
+  const g = Math.min(255, Math.max(0, ((num >> 8) & 255) * (1 + amount)))
+  const b = Math.min(255, Math.max(0, (num & 255) * (1 + amount)))
+  return `#${[r, g, b].map((c) => Math.round(c).toString(16).padStart(2, '0')).join('')}`
 }
 
 export function resolveGlassStyle(glassware?: string) {

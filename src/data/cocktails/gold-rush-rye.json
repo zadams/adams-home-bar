@@ -1,0 +1,87 @@
+{
+  "id": "gold-rush-rye",
+  "slug": "gold-rush-rye",
+  "name": "Gold Rush (Rye)",
+  "aliases": [],
+  "description": "Rye, lemon, and honey—spicy Gold Rush.",
+  "whyItWorks": "Rye spice cuts honey sweetness better than some bourbons.",
+  "classifications": [
+    "variation",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "honey",
+    "spicy",
+    "citrus"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Lemon wheel"
+  ],
+  "illustrationKey": "gold-rush-rye",
+  "ingredients": [
+    {
+      "ingredientId": "rye",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "honey_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake with ice.",
+    "Strain over a large cube.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-rye",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "barrell-rye",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "elijah-craig-rye",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "gold-rush",
+    "penicillin",
+    "bees-knees"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rye",
+    "honey",
+    "sour",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

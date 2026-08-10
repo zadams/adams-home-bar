@@ -1,0 +1,94 @@
+{
+  "id": "french-manhattan",
+  "slug": "french-manhattan",
+  "name": "French Manhattan",
+  "aliases": [],
+  "description": "Rye Manhattan with Grand Marnier in place of (or beside) sweet vermouth accents.",
+  "whyItWorks": "Orange liqueur adds Cognac-orange richness to rye’s spice.",
+  "classifications": [
+    "modern-classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Manhattan",
+  "flavorProfiles": [
+    "orange",
+    "oak",
+    "bittersweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Coupe",
+  "ice": "Stirred; up",
+  "garnish": [
+    "Orange peel",
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "french-manhattan",
+  "ingredients": [
+    {
+      "ingredientId": "rye",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grand_marnier",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Stir all with ice.",
+    "Strain into a coupe.",
+    "Garnish with peel and cherry."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-rye",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "barrell-rye",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "elijah-craig-rye",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "manhattan",
+    "rob-roy",
+    "boulevardier"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rye",
+    "manhattan",
+    "orange",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

@@ -1,0 +1,81 @@
+{
+  "id": "woo-woo",
+  "slug": "woo-woo",
+  "name": "Woo Woo",
+  "aliases": [],
+  "description": "Vodka, peach liqueur, and cranberry—Sex on the Beach without the orange.",
+  "whyItWorks": "Peach sweetness meets cranberry tartness in a short highball.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "peach",
+    "berry",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "medium",
+  "glassware": "Highball or rocks glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime wedge"
+  ],
+  "illustrationKey": "woo-woo",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peach_liqueur",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cranberry_juice",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build vodka and peach over ice.",
+    "Top with cranberry and stir."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "Clean vodka."
+    },
+    {
+      "bottleId": "montbisou-peches",
+      "rank": 2,
+      "rationale": "Peach backbone."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "sex-on-the-beach",
+    "cape-codder"
+  ],
+  "seasonality": [
+    "summer",
+    "year-round"
+  ],
+  "tags": [
+    "vodka",
+    "peach",
+    "cranberry",
+    "party"
+  ],
+  "featuredBottleImages": []
+}

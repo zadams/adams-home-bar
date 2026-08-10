@@ -1,0 +1,81 @@
+{
+  "id": "fuzzy-navel",
+  "slug": "fuzzy-navel",
+  "name": "Fuzzy Navel",
+  "aliases": [],
+  "description": "Peach liqueur and orange juice—sweet, simple, and sunny.",
+  "whyItWorks": "Peach and orange reinforce each other; keep it cold and not too thick.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "peach",
+    "orange",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "light",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Orange wheel"
+  ],
+  "illustrationKey": "fuzzy-navel",
+  "ingredients": [
+    {
+      "ingredientId": "peach_liqueur",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build peach liqueur over ice.",
+    "Top with orange juice and stir."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "montbisou-peches",
+      "rank": 1,
+      "rationale": "Best peach character."
+    },
+    {
+      "bottleId": "finest-call-peach",
+      "rank": 2,
+      "rationale": "Party-friendly peach."
+    }
+  ],
+  "substitutions": [],
+  "variations": [
+    {
+      "id": "hairy-navel",
+      "name": "Hairy Navel",
+      "notes": "Add vodka."
+    }
+  ],
+  "relatedCocktailIds": [
+    "screwdriver",
+    "sex-on-the-beach",
+    "bellini"
+  ],
+  "seasonality": [
+    "summer"
+  ],
+  "tags": [
+    "peach",
+    "orange",
+    "simple",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

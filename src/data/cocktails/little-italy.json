@@ -1,0 +1,89 @@
+{
+  "id": "little-italy",
+  "slug": "little-italy",
+  "name": "Little Italy",
+  "aliases": [],
+  "description": "Rye, sweet vermouth, and cherry liqueur—house nod to the Cynar classic.",
+  "whyItWorks": "Cherry bitterness stands in for Cynar’s herbal depth beside rye.",
+  "classifications": [
+    "modern-classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Manhattan",
+  "flavorProfiles": [
+    "cherry",
+    "herbal",
+    "oak"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Coupe",
+  "ice": "Stirred; up",
+  "garnish": [
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "little-italy",
+  "ingredients": [
+    {
+      "ingredientId": "rye",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cherry_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Cherry liqueur (Cynar stand-in)"
+    }
+  ],
+  "steps": [
+    "Stir with ice.",
+    "Strain up.",
+    "Garnish with cherry."
+  ],
+  "techniqueNotes": [
+    "Classic uses Cynar; cherry liqueur is an honest house approximation."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-rye",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "barrell-rye",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "elijah-craig-rye",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "manhattan",
+    "red-hook",
+    "cherry-boulevardier"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rye",
+    "cherry",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

@@ -1,0 +1,100 @@
+{
+  "id": "peach-smash",
+  "slug": "peach-smash",
+  "name": "Peach Smash",
+  "aliases": [],
+  "description": "Bourbon smash with peach liqueur, lemon, and mint.",
+  "whyItWorks": "Peach and mint love bourbon; lemon keeps it bright.",
+  "classifications": [
+    "smash",
+    "modern"
+  ],
+  "cocktailFamily": "Smash",
+  "flavorProfiles": [
+    "peach",
+    "mint",
+    "citrus"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Crushed or cubed",
+  "garnish": [
+    "Mint sprig"
+  ],
+  "illustrationKey": "peach-smash",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peach_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "mint",
+      "amount": 8,
+      "unit": "piece",
+      "scaleMode": "fixed",
+      "label": "Mint leaves"
+    }
+  ],
+  "steps": [
+    "Muddle mint with syrup.",
+    "Add rest; shake.",
+    "Dump or strain over ice; garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "barrell-vantage",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "whiskey-smash",
+    "peach-julep",
+    "peach-whiskey-sour"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "bourbon",
+    "peach",
+    "mint",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

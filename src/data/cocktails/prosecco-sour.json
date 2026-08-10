@@ -1,0 +1,94 @@
+{
+  "id": "prosecco-sour",
+  "slug": "prosecco-sour",
+  "name": "Prosecco Sour",
+  "aliases": [],
+  "description": "Lemon sour shaken and lengthened with prosecco.",
+  "whyItWorks": "Acid and sugar set a sour frame; bubbles finish it light.",
+  "classifications": [
+    "sour",
+    "sparkling"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "citrus",
+    "effervescent",
+    "bright"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "light",
+  "glassware": "Coupe or wine glass",
+  "ice": "Shaken; topped",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "prosecco-sour",
+  "ingredients": [
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "prosecco",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    },
+    {
+      "ingredientId": "gin",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake lemon, syrup, and optional gin with ice.",
+    "Strain into a coupe.",
+    "Top with prosecco."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "french-75",
+    "gin-fizz",
+    "aperol-sour"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "prosecco",
+    "sour",
+    "brunch",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

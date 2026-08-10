@@ -55,6 +55,11 @@
   box-shadow: inset 0 0 0 1px rgba(212, 180, 131, 0.12);
 }
 
+.drink-visual__frame--illustration {
+  box-shadow: inset 0 0 0 1px rgba(212, 180, 131, 0.16);
+  background: linear-gradient(160deg, #1a1510 0%, #0f1c18 100%);
+}
+
 .drink-visual__img {
   display: block;
   width: 100%;
@@ -140,6 +145,15 @@
 }
 
 .recipe-hero .drink-visual__frame {
+  aspect-ratio: auto;
+}
+
+.recipe-hero .drink-visual__frame--illustration {
+  aspect-ratio: 1 / 1;
+  max-width: min(100%, 28rem);
+}
+
+.recipe-hero .drink-visual__frame--photo {
   aspect-ratio: 4 / 3;
 }
 
@@ -149,6 +163,12 @@
   min-height: 14rem;
   max-height: min(46vh, 24rem);
   object-fit: cover;
+}
+
+.recipe-hero .drink-visual__frame--illustration .drink-visual__img {
+  max-height: min(52vh, 28rem);
+  object-fit: contain;
+  background: transparent;
 }
 
 .recipe-spread__name {

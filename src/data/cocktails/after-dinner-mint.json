@@ -1,0 +1,73 @@
+{
+  "id": "after-dinner-mint",
+  "slug": "after-dinner-mint",
+  "name": "After Dinner Mint",
+  "aliases": [],
+  "description": "Baileys and peppermint liqueur—liquid after-dinner mint.",
+  "whyItWorks": "Cream liqueur and mint read like a chocolate mint without cacao.",
+  "classifications": [
+    "dessert",
+    "shot"
+  ],
+  "cocktailFamily": "Dessert",
+  "flavorProfiles": [
+    "mint",
+    "creamy",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks or shot",
+  "ice": "Optional rocks",
+  "garnish": [],
+  "illustrationKey": "after-dinner-mint",
+  "ingredients": [
+    {
+      "ingredientId": "baileys",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peppermint_liqueur",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Build over ice or shake and strain.",
+    "Serve short."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "baileys",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "blind-squirrel-nog",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "peppermint-patty",
+    "baileys-peppermint",
+    "stinger"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "baileys",
+    "mint",
+    "dessert",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

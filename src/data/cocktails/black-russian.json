@@ -1,0 +1,83 @@
+{
+  "id": "black-russian",
+  "slug": "black-russian",
+  "name": "Black Russian",
+  "aliases": [],
+  "description": "Vodka and coffee liqueur over ice—short, dark, and simple.",
+  "history": "A mid-century classic; the White Russian is the cream-topped sibling.",
+  "origin": "Belgium / international",
+  "whyItWorks": "Coffee sweetness rounds vodka without citrus.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Russian",
+  "flavorProfiles": [
+    "coffee",
+    "sweet",
+    "rich"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Rocks glass",
+  "ice": "Cubed ice",
+  "garnish": [],
+  "illustrationKey": "black-russian",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "coffee_liqueur",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Build over ice and stir briefly."
+  ],
+  "techniqueNotes": [
+    "Adjust coffee liqueur down if your bottle is very sweet."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "Clean vodka behind coffee liqueur."
+    }
+  ],
+  "substitutions": [],
+  "variations": [
+    {
+      "id": "white-russian",
+      "name": "White Russian",
+      "notes": "Float or stir in cream.",
+      "relatedCocktailId": "white-russian"
+    },
+    {
+      "id": "mudslide",
+      "name": "Mudslide",
+      "notes": "Add Irish cream.",
+      "relatedCocktailId": "mudslide"
+    }
+  ],
+  "relatedCocktailIds": [
+    "white-russian",
+    "mudslide"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "vodka",
+    "coffee",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

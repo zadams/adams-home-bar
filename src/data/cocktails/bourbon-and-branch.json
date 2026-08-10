@@ -1,0 +1,80 @@
+{
+  "id": "bourbon-and-branch",
+  "slug": "bourbon-and-branch",
+  "name": "Bourbon and Branch",
+  "aliases": [],
+  "description": "Straight bourbon softened with a splash of water—“branch” water, old-school.",
+  "whyItWorks": "A little water opens aromatics without turning the pour into a highball.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "oak",
+    "diluted",
+    "aromatic"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Rocks glass",
+  "ice": "Optional large cube",
+  "garnish": [],
+  "illustrationKey": "bourbon-and-branch",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "hot_water",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "fixed",
+      "label": "Cool water / branch"
+    }
+  ],
+  "steps": [
+    "Pour bourbon over a large cube (or neat).",
+    "Add a splash of cool water and stir once."
+  ],
+  "techniqueNotes": [
+    "Use room-temp water, not ice melt alone, if you want intentional dilution."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "barrell-vantage",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "old-fashioned",
+    "whiskey-highball"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "bourbon",
+    "simple",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

@@ -1,0 +1,86 @@
+{
+  "id": "monte-carlo",
+  "slug": "monte-carlo",
+  "name": "Monte Carlo",
+  "aliases": [],
+  "description": "Rye, Bénédictine, and bitters—almost ready when Bénédictine is stocked.",
+  "whyItWorks": "Bénédictine’s herbal honey softens rye like an Old Fashioned cousin.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Old Fashioned",
+  "flavorProfiles": [
+    "herbal",
+    "spicy",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "monte-carlo",
+  "ingredients": [
+    {
+      "ingredientId": "rye",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "benedictine",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Stir with ice.",
+    "Strain over a large cube.",
+    "Lemon twist."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-rye",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "barrell-rye",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "elijah-craig-rye",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "old-fashioned",
+    "fancy-free",
+    "vieux-carre"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rye",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

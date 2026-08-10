@@ -1,0 +1,92 @@
+{
+  "id": "vesper",
+  "slug": "vesper",
+  "name": "Vesper",
+  "aliases": [],
+  "description": "Gin, vodka, and dry vermouth—Bond’s martini with a house Lillet stand-in.",
+  "whyItWorks": "Vodka softens gin; vermouth (for Lillet) adds winey aromatics.",
+  "classifications": [
+    "classic",
+    "martini",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Martini",
+  "flavorProfiles": [
+    "botanical",
+    "crisp",
+    "aromatic"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Coupe",
+  "ice": "Stirred; up",
+  "garnish": [
+    "Lemon peel"
+  ],
+  "illustrationKey": "vesper",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "vodka",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "dry_vermouth",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Dry vermouth (Lillet Blanc stand-in)"
+    }
+  ],
+  "steps": [
+    "Stir gin, vodka, and vermouth with ice.",
+    "Strain into a chilled coupe.",
+    "Express a large lemon peel over the drink."
+  ],
+  "techniqueNotes": [
+    "Classic calls for Lillet Blanc; dry vermouth is an honest house substitute."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "martini",
+    "vodka-martini",
+    "perfect-martini"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "vodka",
+    "martini",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

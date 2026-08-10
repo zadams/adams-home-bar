@@ -1,0 +1,119 @@
+{
+  "id": "adios-motherfucker",
+  "slug": "adios-motherfucker",
+  "name": "Adios Motherfucker",
+  "aliases": [],
+  "description": "Long Island cousin with blue curacao energy—house version uses cola + citrus color cues.",
+  "whyItWorks": "Five-spirit base like Long Island; cola/citrus finish when blue curaçao is unavailable.",
+  "classifications": [
+    "modern",
+    "highball"
+  ],
+  "cocktailFamily": "Long Island",
+  "flavorProfiles": [
+    "strong",
+    "citrus",
+    "cola"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "strong",
+  "glassware": "Highball or collins",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lemon wedge"
+  ],
+  "illustrationKey": "adios-motherfucker",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "gin",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "white_rum",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "triple_sec",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cola",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Shake spirits, lemon, and syrup with ice.",
+    "Strain into an ice-filled tall glass.",
+    "Top with cola; garnish."
+  ],
+  "techniqueNotes": [
+    "Classic uses blue curaçao; this house version stays honest without it."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "koskenkorva-apple",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "koskenkorva-blueberry",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "long-island-iced-tea",
+    "long-beach-iced-tea",
+    "texas-tea"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "vodka",
+    "strong",
+    "party",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

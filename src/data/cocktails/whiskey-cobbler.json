@@ -1,0 +1,95 @@
+{
+  "id": "whiskey-cobbler",
+  "slug": "whiskey-cobbler",
+  "name": "Whiskey Cobbler",
+  "aliases": [],
+  "description": "Whiskey, sugar, and citrus over crushed ice—19th-century cobbler.",
+  "whyItWorks": "Crushed ice and citrus make whiskey a porch sipper.",
+  "classifications": [
+    "classic",
+    "cobbler"
+  ],
+  "cocktailFamily": "Cobbler",
+  "flavorProfiles": [
+    "citrus",
+    "oak",
+    "refreshing"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Cobbler or wine glass",
+  "ice": "Crushed ice",
+  "garnish": [
+    "Orange slices",
+    "Berries if available"
+  ],
+  "illustrationKey": "whiskey-cobbler",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 2,
+      "unit": "piece",
+      "scaleMode": "fixed",
+      "label": "Orange slices"
+    },
+    {
+      "ingredientId": "lemon",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "fixed",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Muddle orange (and lemon) with syrup.",
+    "Add whiskey and crushed ice; swizzle.",
+    "Top with ice; garnish generously."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "barrell-vantage",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "whiskey-smash",
+    "mint-julep"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "bourbon",
+    "classic",
+    "cobbler",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

@@ -1,0 +1,76 @@
+{
+  "id": "mimosa",
+  "slug": "mimosa",
+  "name": "Mimosa",
+  "aliases": [],
+  "description": "Orange juice and sparkling wine—the brunch staple.",
+  "whyItWorks": "Bubbles lift orange sweetness; keep the pour roughly equal or juice-light.",
+  "classifications": [
+    "classic",
+    "sparkling",
+    "brunch"
+  ],
+  "cocktailFamily": "Sparkling",
+  "flavorProfiles": [
+    "orange",
+    "sparkling",
+    "light",
+    "brunch"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "light",
+  "glassware": "Flute or wine glass",
+  "ice": "None",
+  "garnish": [
+    "Orange twist"
+  ],
+  "illustrationKey": "mimosa",
+  "ingredients": [
+    {
+      "ingredientId": "orange_juice",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "prosecco",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Add orange juice to a flute.",
+    "Top with cold prosecco.",
+    "Optional orange twist."
+  ],
+  "techniqueNotes": [
+    "Pour sparkling wine gently to preserve bubbles."
+  ],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [
+    {
+      "id": "grand-mimosa",
+      "name": "Grand Mimosa",
+      "notes": "Add a splash of Grand Marnier or Cointreau."
+    }
+  ],
+  "relatedCocktailIds": [
+    "screwdriver",
+    "french-75",
+    "bellini"
+  ],
+  "seasonality": [
+    "brunch",
+    "year-round"
+  ],
+  "tags": [
+    "brunch",
+    "sparkling",
+    "orange",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

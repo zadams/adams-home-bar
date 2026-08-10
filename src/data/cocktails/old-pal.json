@@ -1,0 +1,87 @@
+{
+  "id": "old-pal",
+  "slug": "old-pal",
+  "name": "Old Pal",
+  "aliases": [],
+  "description": "Rye, dry vermouth, and Campari—Boulevardier’s drier cousin.",
+  "whyItWorks": "Dry vermouth and Campari keep rye lean and bitter.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Negroni",
+  "flavorProfiles": [
+    "bitter",
+    "spicy",
+    "herbal"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Coupe or rocks",
+  "ice": "Stirred; up or rocks",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "old-pal",
+  "ingredients": [
+    {
+      "ingredientId": "rye",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "dry_vermouth",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "campari",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Stir equal parts with ice.",
+    "Strain into a coupe.",
+    "Express lemon oil."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-rye",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "barrell-rye",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "elijah-craig-rye",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "boulevardier",
+    "negroni",
+    "cardinale"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rye",
+    "campari",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

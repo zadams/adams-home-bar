@@ -1,0 +1,76 @@
+{
+  "id": "bobby-burns",
+  "slug": "bobby-burns",
+  "name": "Bobby Burns",
+  "aliases": [],
+  "description": "Scotch, sweet vermouth, and Bénédictine—Rob Roy’s herbal cousin.",
+  "whyItWorks": "Bénédictine adds honeyed herbs to Scotch and vermouth.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Manhattan",
+  "flavorProfiles": [
+    "smoke",
+    "herbal",
+    "bittersweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Coupe",
+  "ice": "Stirred; up",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "bobby-burns",
+  "ingredients": [
+    {
+      "ingredientId": "scotch",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "benedictine",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Stir with ice.",
+    "Strain into a coupe.",
+    "Lemon twist."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "macallan-12",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "rob-roy",
+    "manhattan",
+    "monte-carlo"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "scotch",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

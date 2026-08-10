@@ -1,0 +1,95 @@
+{
+  "id": "horses-neck",
+  "slug": "horses-neck",
+  "name": "Horse's Neck",
+  "aliases": [],
+  "description": "Bourbon and ginger ale with a long lemon peel spiral down the glass.",
+  "whyItWorks": "Lemon oils perfume a simple whiskey-and-ginger highball.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "ginger",
+    "citrus",
+    "oak"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Long lemon peel spiral"
+  ],
+  "illustrationKey": "horses-neck",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "ginger_beer",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top",
+      "label": "Ginger ale or ginger beer"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed",
+      "optional": true
+    },
+    {
+      "ingredientId": "lemon",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Coil a long lemon peel inside a highball and fill with ice.",
+    "Add bourbon and bitters if using.",
+    "Top with ginger ale; stir gently."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "barrell-vantage",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "whiskey-ginger",
+    "whiskey-highball"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "bourbon",
+    "ginger",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

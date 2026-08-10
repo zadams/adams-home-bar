@@ -1,0 +1,77 @@
+{
+  "id": "grand-marnier-mimosa",
+  "slug": "grand-marnier-mimosa",
+  "name": "Grand Marnier Mimosa",
+  "aliases": [],
+  "description": "Classic Mimosa with a splash of Grand Marnier for orange liqueur depth.",
+  "whyItWorks": "Cognac-orange liqueur deepens juice and bubbles without heaviness.",
+  "classifications": [
+    "brunch",
+    "sparkling",
+    "variation"
+  ],
+  "cocktailFamily": "Sparkling",
+  "flavorProfiles": [
+    "orange",
+    "effervescent",
+    "rich"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "light",
+  "glassware": "Champagne flute",
+  "ice": "None",
+  "garnish": [
+    "Orange twist"
+  ],
+  "illustrationKey": "grand-marnier-mimosa",
+  "ingredients": [
+    {
+      "ingredientId": "orange_juice",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grand_marnier",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "prosecco",
+      "amount": 3,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Add juice and Grand Marnier to a flute.",
+    "Top with prosecco.",
+    "Twist orange."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "grand-marnier",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "mimosa",
+    "bucks-fizz",
+    "french-75"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "brunch",
+    "orange",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

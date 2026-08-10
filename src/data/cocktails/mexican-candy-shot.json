@@ -1,0 +1,89 @@
+{
+  "id": "mexican-candy-shot",
+  "slug": "mexican-candy-shot",
+  "name": "Mexican Candy Shot",
+  "aliases": [],
+  "description": "Tequila, lime, grenadine, and Tajín—house Mexican Candy without watermelon pucker.",
+  "whyItWorks": "Tajín heat + grenadine sweet-tart reads candy-like on tequila.",
+  "classifications": [
+    "shot",
+    "modern"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "spicy",
+    "sweet",
+    "agave"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Tajín rim"
+  ],
+  "illustrationKey": "mexican-candy-shot",
+  "ingredients": [
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 1.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grenadine",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "tajin",
+      "amount": 1,
+      "unit": "pinch",
+      "scaleMode": "garnish",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Tajín-rim shot glasses.",
+    "Shake tequila, lime, grenadine.",
+    "Strain into shots."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-cristalino",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "kirkland-tequila-other",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "tequila-sunrise",
+    "spicy-margarita",
+    "kamikaze-shot"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "tequila",
+    "shot",
+    "grenadine",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

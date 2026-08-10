@@ -1,0 +1,84 @@
+{
+  "id": "between-the-sheets",
+  "slug": "between-the-sheets",
+  "name": "Between the Sheets",
+  "aliases": [],
+  "description": "Rum, orange liqueur, lemon, and bourbon—cognac-free house Between the Sheets.",
+  "whyItWorks": "Rum and whiskey split the cognac role beside Cointreau and lemon.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "citrus",
+    "orange",
+    "rum"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "between-the-sheets",
+  "ingredients": [
+    {
+      "ingredientId": "white_rum",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "bourbon",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Bourbon (cognac stand-in)"
+    },
+    {
+      "ingredientId": "cointreau",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake hard with ice.",
+    "Strain into a coupe.",
+    "Twist lemon."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-3",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "sidecar-bourbon",
+    "daiquiri",
+    "white-lady"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rum",
+    "bourbon",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

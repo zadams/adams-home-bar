@@ -1,0 +1,126 @@
+{
+  "id": "rum-punch",
+  "slug": "rum-punch",
+  "name": "Rum Punch",
+  "aliases": [
+    "House Rum Punch"
+  ],
+  "description": "Gold or white rum with citrus, orange, and a grenadine kiss—one-two-three-four punch logic at home scale.",
+  "whyItWorks": "Classic punch balance: strong, weak, sour, sweet—with grenadine for color.",
+  "classifications": [
+    "classic",
+    "punch",
+    "tropical"
+  ],
+  "cocktailFamily": "Punch",
+  "flavorProfiles": [
+    "rum",
+    "citrus",
+    "orange",
+    "fruity"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Highball or punch cup",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Orange slice",
+    "Cherry"
+  ],
+  "illustrationKey": "rum-punch",
+  "ingredients": [
+    {
+      "ingredientId": "white_rum",
+      "amount": 2,
+      "unit": "oz",
+      "label": "White or gold rum",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grenadine",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "optional": true,
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Shake rum, lime, orange, syrup, and grenadine with ice.",
+    "Strain into a tall glass over fresh ice.",
+    "Optional bitters on top; garnish."
+  ],
+  "techniqueNotes": [
+    "Batch in a pitcher: keep the same ratios and add ice to glasses, not the pitcher."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-3",
+      "rank": 1,
+      "rationale": "Clean white rum for citrus punch."
+    },
+    {
+      "bottleId": "havana-club-especial",
+      "rank": 2,
+      "rationale": "Gold rum for a richer house punch."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "white_rum",
+      "alternatives": [
+        "gold_rum",
+        "spiced_rum"
+      ],
+      "notes": "Spiced rum reads warmer and sweeter."
+    }
+  ],
+  "variations": [
+    {
+      "id": "planters-punch",
+      "name": "Planter's Punch",
+      "notes": "Lean heavier on dark rum character and bitters.",
+      "relatedCocktailId": "planters-punch"
+    }
+  ],
+  "relatedCocktailIds": [
+    "daiquiri",
+    "cuba-libre",
+    "planters-punch",
+    "tequila-sunrise"
+  ],
+  "seasonality": [
+    "summer"
+  ],
+  "tags": [
+    "rum",
+    "punch",
+    "party",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

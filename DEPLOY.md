@@ -18,6 +18,10 @@ Live URL pattern:
 
 Local builds use `/` as the base path. The Pages workflow sets `BASE_PATH=/adams-home-bar/` so assets and routing work under the project subpath.
 
+## Cocktail illustrations
+
+Art direction lives in `docs/illustration-system/`. Runtime WebPs go in `public/images/cocktails/webp/`. Until those exist, stock photos remain the fallback. See that folder’s README for the production workflow.
+
 ## Netlify
 
 This repo includes `public/_redirects` for SPA routing.

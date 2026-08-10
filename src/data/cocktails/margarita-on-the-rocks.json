@@ -1,0 +1,90 @@
+{
+  "id": "margarita-on-the-rocks",
+  "slug": "margarita-on-the-rocks",
+  "name": "Margarita on the Rocks",
+  "aliases": [],
+  "description": "Classic margarita served over ice in a rocks glass.",
+  "whyItWorks": "Dilution on the rocks softens the sour for easy sipping.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Margarita",
+  "flavorProfiles": [
+    "agave",
+    "orange",
+    "lime"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime wheel",
+    "Salt rim"
+  ],
+  "illustrationKey": "margarita-on-the-rocks",
+  "ingredients": [
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cointreau",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "salt",
+      "amount": 1,
+      "unit": "pinch",
+      "scaleMode": "garnish",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Salt the rim if desired.",
+    "Shake with ice.",
+    "Strain over fresh ice; garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-cristalino",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "kirkland-tequila-other",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "margarita",
+    "cadillac-margarita",
+    "tommys-margarita"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "tequila",
+    "margarita",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

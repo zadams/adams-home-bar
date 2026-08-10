@@ -1,0 +1,99 @@
+{
+  "id": "negroni-sour",
+  "slug": "negroni-sour",
+  "name": "Negroni Sour",
+  "aliases": [],
+  "description": "Negroni specs shaken with lemon for a bright, foamy aperitivo sour.",
+  "whyItWorks": "Lemon turns bittersweet Campari into a proper sour frame.",
+  "classifications": [
+    "sour",
+    "modern-classic"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "bitter",
+    "citrus",
+    "botanical"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks or coupe",
+  "ice": "Shaken; rocks or up",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "negroni-sour",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "campari",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake hard with ice.",
+    "Strain over fresh ice or up.",
+    "Express orange oil."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "negroni",
+    "campari-sour",
+    "boulevardier-sour"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "campari",
+    "sour",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

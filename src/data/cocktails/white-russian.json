@@ -1,0 +1,98 @@
+{
+  "id": "white-russian",
+  "slug": "white-russian",
+  "name": "White Russian",
+  "aliases": [],
+  "description": "Vodka and coffee liqueur with cream—dessert-leaning and silky.",
+  "whyItWorks": "Cream softens coffee bitterness and stretches the drink.",
+  "classifications": [
+    "classic",
+    "dessert"
+  ],
+  "cocktailFamily": "Russian",
+  "flavorProfiles": [
+    "coffee",
+    "cream",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Cubed ice",
+  "garnish": [],
+  "illustrationKey": "white-russian",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "coffee_liqueur",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "heavy_cream",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Build vodka and coffee liqueur over ice.",
+    "Float or stir in cream to preference."
+  ],
+  "techniqueNotes": [
+    "Shake cream separately for a thicker float.",
+    "Baileys can stand in for cream in a pinch."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "Neutral vodka."
+    },
+    {
+      "bottleId": "baileys",
+      "rank": 2,
+      "rationale": "Optional cream substitute from the shelf."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "heavy_cream",
+      "alternatives": [
+        "baileys"
+      ],
+      "notes": "Irish cream makes a richer, sweeter White Russian."
+    }
+  ],
+  "variations": [
+    {
+      "id": "colorado-bulldog",
+      "name": "Colorado Bulldog",
+      "notes": "Top with cola.",
+      "relatedCocktailId": "colorado-bulldog"
+    }
+  ],
+  "relatedCocktailIds": [
+    "black-russian",
+    "mudslide",
+    "colorado-bulldog"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "vodka",
+    "coffee",
+    "cream",
+    "dessert",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

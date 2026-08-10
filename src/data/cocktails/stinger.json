@@ -1,0 +1,83 @@
+{
+  "id": "stinger",
+  "slug": "stinger",
+  "name": "Stinger",
+  "aliases": [],
+  "description": "Bourbon and peppermint liqueur—cognac-free house Stinger.",
+  "whyItWorks": "Mint cools whiskey into an after-dinner classic.",
+  "classifications": [
+    "classic",
+    "dessert",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Dessert",
+  "flavorProfiles": [
+    "mint",
+    "oak",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Coupe or rocks",
+  "ice": "Stirred or shaken; up or crushed",
+  "garnish": [
+    "Mint leaf"
+  ],
+  "illustrationKey": "stinger",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Bourbon (cognac stand-in)"
+    },
+    {
+      "ingredientId": "peppermint_liqueur",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Stir or shake with ice.",
+    "Strain into a coupe (or over crushed ice).",
+    "Mint leaf."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "barrell-vantage",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "peppermint-bourbon",
+    "peppermint-patty",
+    "after-dinner-mint"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "bourbon",
+    "mint",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

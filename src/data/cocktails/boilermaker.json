@@ -1,0 +1,79 @@
+{
+  "id": "boilermaker",
+  "slug": "boilermaker",
+  "name": "Boilermaker",
+  "aliases": [],
+  "description": "A shot of whiskey with a beer back—log the whiskey half even if beer varies.",
+  "whyItWorks": "Beer carbonation resets the palate between whiskey sips.",
+  "classifications": [
+    "classic",
+    "shot"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "oak",
+    "malty"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "strong",
+  "glassware": "Shot + beer glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "boilermaker",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 8,
+      "unit": "oz",
+      "scaleMode": "top",
+      "optional": true,
+      "label": "Beer back (or soda if logging whiskey only)"
+    }
+  ],
+  "steps": [
+    "Pour a whiskey shot.",
+    "Serve with a beer back.",
+    "Drop optional (not required)."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "barrell-vantage",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "three-wise-men",
+    "whiskey-highball"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "whiskey",
+    "beer",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

@@ -1,0 +1,102 @@
+{
+  "id": "corpse-reviver-no-2",
+  "slug": "corpse-reviver-no-2",
+  "name": "Corpse Reviver No. 2",
+  "aliases": [],
+  "description": "Equal parts gin, Cointreau, dry vermouth, and lemon with an absinthe rinse.",
+  "whyItWorks": "Citrus and orange liqueur wake the palate; absinthe adds herbal snap.",
+  "classifications": [
+    "classic",
+    "sour",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "citrus",
+    "herbal",
+    "orange"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "corpse-reviver-no-2",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cointreau",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "dry_vermouth",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Dry vermouth (Lillet Blanc stand-in)"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "absinthe",
+      "amount": 1,
+      "unit": "rinse",
+      "scaleMode": "fixed",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Rinse a chilled coupe with absinthe if available; discard excess.",
+    "Shake remaining ingredients hard with ice.",
+    "Strain into the coupe; express orange oil."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "white-lady",
+    "martini",
+    "last-word"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "classic",
+    "sour",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

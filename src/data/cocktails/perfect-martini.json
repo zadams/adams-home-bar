@@ -1,0 +1,95 @@
+{
+  "id": "perfect-martini",
+  "slug": "perfect-martini",
+  "name": "Perfect Martini",
+  "aliases": [],
+  "description": "Gin martini with equal parts sweet and dry vermouth—“perfect” proportions.",
+  "whyItWorks": "Split vermouth softens gin while keeping herbal dryness.",
+  "classifications": [
+    "classic",
+    "martini",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Martini",
+  "flavorProfiles": [
+    "botanical",
+    "herbal",
+    "balanced"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Coupe or martini glass",
+  "ice": "Stirred; up",
+  "garnish": [
+    "Lemon twist or olive"
+  ],
+  "illustrationKey": "perfect-martini",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "dry_vermouth",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_bitters",
+      "amount": 1,
+      "unit": "dash",
+      "scaleMode": "fixed",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Stir all with ice until very cold.",
+    "Strain into a chilled coupe.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "martini",
+    "fifty-fifty-martini",
+    "gin-wet-martini"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "martini",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

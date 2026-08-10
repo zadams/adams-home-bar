@@ -1,0 +1,98 @@
+{
+  "id": "seven-and-seven",
+  "slug": "seven-and-seven",
+  "name": "Seven and Seven",
+  "aliases": [],
+  "description": "House take on the Seagram’s 7 & 7UP highball—whiskey with lemon-lime soda.",
+  "whyItWorks": "Bright lemon-lime soda keeps whiskey light and sessionable.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "citrus",
+    "sweet",
+    "oak"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lemon wedge"
+  ],
+  "illustrationKey": "seven-and-seven",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "American whiskey"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top",
+      "label": "Lemon-lime soda or soda + lemon"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "fixed",
+      "optional": true
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "fixed",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Build whiskey over ice.",
+    "Top with lemon-lime soda (or soda with a squeeze of lemon and a touch of syrup).",
+    "Garnish with lemon."
+  ],
+  "techniqueNotes": [
+    "True 7UP/Sprite is ideal; soda + lemon + syrup is a fair house stand-in."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "barrell-vantage",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "whiskey-highball",
+    "bourbon-soda-highball"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "whiskey",
+    "highball",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

@@ -1,0 +1,89 @@
+{
+  "id": "skinny-margarita",
+  "slug": "skinny-margarita",
+  "name": "Skinny Margarita",
+  "aliases": [],
+  "description": "Tequila, fresh lime, and agave—no orange liqueur.",
+  "whyItWorks": "Same as Tommy’s template: agave sweetness, clean citrus.",
+  "classifications": [
+    "modern",
+    "sour"
+  ],
+  "cocktailFamily": "Margarita",
+  "flavorProfiles": [
+    "agave",
+    "lime",
+    "clean"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks or coupe",
+  "ice": "Shaken",
+  "garnish": [
+    "Lime wheel",
+    "Salt rim optional"
+  ],
+  "illustrationKey": "skinny-margarita",
+  "ingredients": [
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "agave_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "salt",
+      "amount": 1,
+      "unit": "pinch",
+      "scaleMode": "garnish",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Optional salt rim.",
+    "Shake tequila, lime, agave.",
+    "Strain over ice or up."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-cristalino",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "kirkland-tequila-other",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "tommys-margarita",
+    "margarita",
+    "ranch-water"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "tequila",
+    "margarita",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

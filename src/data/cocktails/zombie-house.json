@@ -1,0 +1,111 @@
+{
+  "id": "zombie-house",
+  "slug": "zombie-house",
+  "name": "Zombie (House)",
+  "aliases": [],
+  "description": "Simplified Zombie: mixed rums, citrus, falernum, grenadine, and bitters.",
+  "whyItWorks": "Multiple rums plus falernum give tiki depth without the full Donn checklist.",
+  "classifications": [
+    "tiki",
+    "strong"
+  ],
+  "cocktailFamily": "Tiki",
+  "flavorProfiles": [
+    "rum",
+    "spice",
+    "citrus"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "strong",
+  "glassware": "Tall tiki or collins",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Mint sprig"
+  ],
+  "illustrationKey": "zombie-house",
+  "ingredients": [
+    {
+      "ingredientId": "gold_rum",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "white_rum",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "overproof_rum",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "falernum",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grenadine",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Shake all except garnish with ice.",
+    "Strain into a tall ice-filled glass.",
+    "Mint garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-3",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "havana-club-especial",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "havana-club-maestros",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "mai-tai",
+    "jungle-bird",
+    "hurricane-house"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rum",
+    "tiki",
+    "strong",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

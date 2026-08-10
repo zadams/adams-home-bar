@@ -12,6 +12,13 @@ dist
 dist-ssr
 *.local
 
+# Illustration pipeline outputs
+docs/illustration-system/generated-prompts
+public/images/cocktails/masters/*
+!public/images/cocktails/masters/.gitkeep
+tmp/
+adams-home-bar-illustration-system.zip
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

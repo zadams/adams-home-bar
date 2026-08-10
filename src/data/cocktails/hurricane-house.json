@@ -1,0 +1,110 @@
+{
+  "id": "hurricane-house",
+  "slug": "hurricane-house",
+  "name": "Hurricane (House)",
+  "aliases": [],
+  "description": "House Hurricane: rum, lemon, orange, and grenadine when passion fruit isn’t stocked.",
+  "whyItWorks": "Fruit juices and grenadine approximate the Pat O’Brien classic.",
+  "classifications": [
+    "tiki",
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Tiki",
+  "flavorProfiles": [
+    "fruity",
+    "rum",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Hurricane glass or highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Orange slice",
+    "Cherry"
+  ],
+  "illustrationKey": "hurricane-house",
+  "ingredients": [
+    {
+      "ingredientId": "gold_rum",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "white_rum",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grenadine",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake all with ice.",
+    "Strain into an ice-filled hurricane glass.",
+    "Garnish."
+  ],
+  "techniqueNotes": [
+    "Passion fruit syrup is traditional; grenadine + OJ is a house stand-in."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-3",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "havana-club-especial",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "havana-club-maestros",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "planters-punch",
+    "rum-punch",
+    "tequila-sunrise"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rum",
+    "tiki",
+    "grenadine",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

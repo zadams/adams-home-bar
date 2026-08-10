@@ -1,0 +1,106 @@
+{
+  "id": "orange-crush",
+  "slug": "orange-crush",
+  "name": "Orange Crush",
+  "aliases": [
+    "Vodka Orange Crush"
+  ],
+  "description": "Vodka, orange liqueur, and fresh orange—Maryland’s beach crush, home-bar style.",
+  "whyItWorks": "Fresh orange plus Cointreau beat soda-only orange drinks.",
+  "classifications": [
+    "modern classic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "orange",
+    "bright",
+    "citrus"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Orange wheel"
+  ],
+  "illustrationKey": "orange-crush",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cointreau",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": null,
+      "unit": "top",
+      "optional": true,
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Shake vodka, Cointreau, and orange juice with ice.",
+    "Strain over fresh ice and optionally splash with soda.",
+    "Garnish with orange."
+  ],
+  "techniqueNotes": [
+    "Muddle an orange wedge in the shaker for a truer crush if you like pulp."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "Neutral vodka."
+    },
+    {
+      "bottleId": "cointreau",
+      "rank": 2,
+      "rationale": "Orange liqueur that tastes like oranges."
+    },
+    {
+      "bottleId": "finest-call-triple-sec",
+      "rank": 3,
+      "rationale": "Budget orange for batches."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "cointreau",
+      "alternatives": [
+        "triple_sec",
+        "grand_marnier"
+      ]
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "screwdriver",
+    "lemon-drop",
+    "margarita"
+  ],
+  "seasonality": [
+    "summer"
+  ],
+  "tags": [
+    "vodka",
+    "orange",
+    "popular",
+    "beach"
+  ],
+  "featuredBottleImages": []
+}

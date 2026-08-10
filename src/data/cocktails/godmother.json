@@ -1,0 +1,66 @@
+{
+  "id": "godmother",
+  "slug": "godmother",
+  "name": "Godmother",
+  "aliases": [],
+  "description": "Vodka and amaretto on the rocks—two-ingredient and almond-forward.",
+  "whyItWorks": "Amaretto sweetens and flavors vodka with almost no technique.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Duo",
+  "flavorProfiles": [
+    "almond",
+    "sweet",
+    "clean"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [],
+  "illustrationKey": "godmother",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "amaretto",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Build over ice and stir."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "Clean vodka base."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "amaretto-sour",
+    "black-russian"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "vodka",
+    "amaretto",
+    "simple",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

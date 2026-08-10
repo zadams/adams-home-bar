@@ -26,6 +26,7 @@ export function CocktailCard({ cocktail, readiness }: CocktailCardProps) {
           glassware={cocktail.glassware}
           className="cocktail-card__art"
           showIngredients={false}
+          preferThumb
         />
       <div className="cocktail-card__body">
         <h2 className="cocktail-card__name">{cocktail.name}</h2>

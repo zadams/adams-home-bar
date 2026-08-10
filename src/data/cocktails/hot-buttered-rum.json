@@ -1,0 +1,86 @@
+{
+  "id": "hot-buttered-rum",
+  "slug": "hot-buttered-rum",
+  "name": "Hot Buttered Rum",
+  "aliases": [],
+  "description": "Spiced rum with hot water, brown-sugar cinnamon syrup, and butter-like richness.",
+  "whyItWorks": "Spice syrup and heat bloom rum; syrup stands in for butter batter.",
+  "classifications": [
+    "classic",
+    "hot"
+  ],
+  "cocktailFamily": "Hot Drink",
+  "flavorProfiles": [
+    "spice",
+    "rum",
+    "warming"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Mug",
+  "ice": "None (hot)",
+  "garnish": [
+    "Cinnamon stick if available"
+  ],
+  "illustrationKey": "hot-buttered-rum",
+  "ingredients": [
+    {
+      "ingredientId": "spiced_rum",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "brown_sugar_cinnamon_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "hot_water",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 1,
+      "unit": "dash",
+      "scaleMode": "fixed",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Add rum and syrup to a mug.",
+    "Top with hot water; stir until integrated.",
+    "Optional dash of bitters."
+  ],
+  "techniqueNotes": [
+    "True versions use butter batter; cinnamon syrup is the pantry stand-in."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "kraken-spiced",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "grog",
+    "hot-toddy",
+    "spiced-daiquiri"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rum",
+    "hot",
+    "spice",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

@@ -1,0 +1,89 @@
+{
+  "id": "sunrise-margarita",
+  "slug": "sunrise-margarita",
+  "name": "Sunrise Margarita",
+  "aliases": [],
+  "description": "Margarita finished with a grenadine sunrise sink.",
+  "whyItWorks": "Classic margarita structure plus grenadine color and soft fruit.",
+  "classifications": [
+    "variation",
+    "sour"
+  ],
+  "cocktailFamily": "Margarita",
+  "flavorProfiles": [
+    "agave",
+    "lime",
+    "pomegranate"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks or highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Orange slice",
+    "Cherry"
+  ],
+  "illustrationKey": "sunrise-margarita",
+  "ingredients": [
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "triple_sec",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grenadine",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Shake tequila, triple sec, and lime; strain over ice.",
+    "Pour grenadine slowly to settle.",
+    "Garnish; do not stir the gradient."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-cristalino",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "kirkland-tequila-other",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "tequila-sunrise",
+    "margarita",
+    "tequila-daisy"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "tequila",
+    "grenadine",
+    "margarita",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

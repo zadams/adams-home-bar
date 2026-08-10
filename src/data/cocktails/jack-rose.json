@@ -1,0 +1,80 @@
+{
+  "id": "jack-rose",
+  "slug": "jack-rose",
+  "name": "Jack Rose",
+  "aliases": [],
+  "description": "House Jack Rose with apple vodka, lemon, and grenadine (applejack stand-in).",
+  "whyItWorks": "Apple spirit, citrus, and grenadine make a rosy classic sour.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "apple",
+    "citrus",
+    "pomegranate"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "jack-rose",
+  "ingredients": [
+    {
+      "ingredientId": "apple_vodka",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Apple vodka (applejack stand-in)"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grenadine",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake hard with ice.",
+    "Strain into a coupe.",
+    "Twist lemon."
+  ],
+  "techniqueNotes": [
+    "True Jack Rose uses applejack/Calvados; apple vodka keeps it makeable."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "koskenkorva-apple",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "appletini",
+    "whiskey-daisy",
+    "bacardi-cocktail"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "apple",
+    "grenadine",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

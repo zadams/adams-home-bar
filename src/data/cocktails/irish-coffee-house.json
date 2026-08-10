@@ -1,0 +1,102 @@
+{
+  "id": "irish-coffee-house",
+  "slug": "irish-coffee-house",
+  "name": "Irish Coffee (House)",
+  "aliases": [],
+  "description": "Whiskey, brown sugar, hot coffee/water, and a Baileys float when cream is out.",
+  "whyItWorks": "Baileys stands in for lightly whipped cream on a hot whiskey coffee.",
+  "classifications": [
+    "classic",
+    "hot"
+  ],
+  "cocktailFamily": "Hot Drink",
+  "flavorProfiles": [
+    "oak",
+    "sweet",
+    "warming"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Irish coffee glass or mug",
+  "ice": "None (hot)",
+  "garnish": [],
+  "illustrationKey": "irish-coffee-house",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Irish whiskey or bourbon"
+    },
+    {
+      "ingredientId": "brown_sugar_cinnamon_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "hot_water",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top",
+      "label": "Hot coffee or hot water"
+    },
+    {
+      "ingredientId": "baileys",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "optional": true,
+      "label": "Baileys float (cream stand-in)"
+    },
+    {
+      "ingredientId": "heavy_cream",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Add whiskey and syrup to a warm glass.",
+    "Top with hot coffee (preferred) or hot water.",
+    "Float Baileys or lightly whipped cream if available."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "barrell-vantage",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "hot-toddy",
+    "baileys-coffee",
+    "grog"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "whiskey",
+    "hot",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

@@ -1,0 +1,97 @@
+{
+  "id": "frozen-margarita",
+  "slug": "frozen-margarita",
+  "name": "Frozen Margarita",
+  "aliases": [],
+  "description": "Margarita blended to slush.",
+  "whyItWorks": "Ice dilution softens the sour into a blender classic.",
+  "classifications": [
+    "classic",
+    "frozen"
+  ],
+  "cocktailFamily": "Margarita",
+  "flavorProfiles": [
+    "agave",
+    "lime",
+    "orange"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Margarita or coupe",
+  "ice": "Blended",
+  "garnish": [
+    "Salt rim",
+    "Lime wheel"
+  ],
+  "illustrationKey": "frozen-margarita",
+  "ingredients": [
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cointreau",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "agave_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "optional": true
+    },
+    {
+      "ingredientId": "salt",
+      "amount": 1,
+      "unit": "pinch",
+      "scaleMode": "garnish",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Blend with ice until smooth.",
+    "Pour into a salted glass.",
+    "Lime garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-cristalino",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "kirkland-tequila-other",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "margarita",
+    "frozen-daiquiri",
+    "cadillac-margarita"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "tequila",
+    "frozen",
+    "margarita",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

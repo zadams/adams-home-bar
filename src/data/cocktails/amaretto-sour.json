@@ -1,0 +1,87 @@
+{
+  "id": "amaretto-sour",
+  "slug": "amaretto-sour",
+  "name": "Amaretto Sour",
+  "aliases": [],
+  "description": "Amaretto shaken with lemon and a touch of syrup—almond-sweet and easy-drinking.",
+  "whyItWorks": "Lemon cuts amaretto’s sugar; a little bourbon (optional) adds backbone.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "almond",
+    "lemon",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Shaken; over fresh ice",
+  "garnish": [
+    "Lemon wheel",
+    "Cherry"
+  ],
+  "illustrationKey": "amaretto-sour",
+  "ingredients": [
+    {
+      "ingredientId": "amaretto",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "bourbon",
+      "amount": 0.5,
+      "unit": "oz",
+      "optional": true,
+      "scaleMode": "linear",
+      "notes": "Modern backbone—recommended if you like a drier sour."
+    }
+  ],
+  "steps": [
+    "Shake with ice.",
+    "Strain over fresh ice.",
+    "Garnish with lemon and cherry."
+  ],
+  "techniqueNotes": [
+    "Optional egg white is traditional but marked out of stock here—skip or foam with aquafaba if desired."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "woodford-reserve",
+      "rank": 1,
+      "rationale": "Optional bourbon backbone."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "whiskey-sour",
+    "godmother",
+    "lemon-drop"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "amaretto",
+    "sour",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

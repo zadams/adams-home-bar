@@ -1,0 +1,83 @@
+{
+  "id": "kamikaze-shot",
+  "slug": "kamikaze-shot",
+  "name": "Kamikaze Shot",
+  "aliases": [],
+  "description": "Vodka, triple sec, and lime—shot-sized Kamikaze.",
+  "whyItWorks": "Same sour-orange math as the full cocktail, just shorter.",
+  "classifications": [
+    "shot"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "lime",
+    "orange",
+    "bright"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Lime wedge"
+  ],
+  "illustrationKey": "kamikaze-shot",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "triple_sec",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake with ice.",
+    "Strain into shot glasses."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "koskenkorva-apple",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "koskenkorva-blueberry",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "kamikaze",
+    "lemon-drop-shot"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "vodka",
+    "shot",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

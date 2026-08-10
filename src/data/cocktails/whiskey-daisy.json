@@ -1,0 +1,96 @@
+{
+  "id": "whiskey-daisy",
+  "slug": "whiskey-daisy",
+  "name": "Whiskey Daisy",
+  "aliases": [],
+  "description": "Whiskey, lemon, grenadine, and a soda splash—19th-century daisy template.",
+  "whyItWorks": "Grenadine sweetens the sour while soda keeps it light.",
+  "classifications": [
+    "classic",
+    "sour",
+    "daisy"
+  ],
+  "cocktailFamily": "Daisy",
+  "flavorProfiles": [
+    "citrus",
+    "pomegranate",
+    "oak"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe or goblet",
+  "ice": "Shaken; up or frappé",
+  "garnish": [
+    "Lemon wheel",
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "whiskey-daisy",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grenadine",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "top",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake whiskey, lemon, and grenadine with ice.",
+    "Strain into a chilled glass.",
+    "Optional soda splash; garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "barrell-vantage",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "whiskey-sour",
+    "gin-daisy",
+    "tequila-sunrise"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "bourbon",
+    "grenadine",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

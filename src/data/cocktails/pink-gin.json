@@ -1,0 +1,80 @@
+{
+  "id": "pink-gin",
+  "slug": "pink-gin",
+  "name": "Pink Gin",
+  "aliases": [],
+  "description": "Gin with a heavy dose of Angostura—Royal Navy classic.",
+  "whyItWorks": "Bitters perfume and slightly sweeten navy-strength gin energy.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Martini",
+  "flavorProfiles": [
+    "aromatic",
+    "botanical",
+    "spicy"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Coupe or rocks",
+  "ice": "Optional; traditionally room temp or chilled",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "pink-gin",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 4,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Dash bitters into a chilled glass and coat.",
+    "Add gin; stir with ice if preferred cold.",
+    "Twist lemon over the top."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "martini",
+    "gin-old-fashioned"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "bitters",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

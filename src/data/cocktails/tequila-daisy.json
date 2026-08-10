@@ -1,0 +1,90 @@
+{
+  "id": "tequila-daisy",
+  "slug": "tequila-daisy",
+  "name": "Tequila Daisy",
+  "aliases": [],
+  "description": "Tequila daisy—ancestor energy of the Margarita with grenadine sweetness.",
+  "whyItWorks": "Agave, citrus, and grenadine prefigure the margarita template.",
+  "classifications": [
+    "classic",
+    "sour",
+    "daisy"
+  ],
+  "cocktailFamily": "Daisy",
+  "flavorProfiles": [
+    "agave",
+    "citrus",
+    "pomegranate"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe or rocks",
+  "ice": "Shaken",
+  "garnish": [
+    "Lime wheel"
+  ],
+  "illustrationKey": "tequila-daisy",
+  "ingredients": [
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grenadine",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "triple_sec",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake all with ice.",
+    "Strain up or over rocks.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-cristalino",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "kirkland-tequila-other",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "margarita",
+    "whiskey-daisy",
+    "tequila-sunrise"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "tequila",
+    "grenadine",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

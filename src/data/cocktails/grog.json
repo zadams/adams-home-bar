@@ -1,0 +1,92 @@
+{
+  "id": "grog",
+  "slug": "grog",
+  "name": "Grog",
+  "aliases": [],
+  "description": "Rum, hot water, lemon, and sugar—naval classic.",
+  "whyItWorks": "Hot dilution and citrus make rum warming and simple.",
+  "classifications": [
+    "classic",
+    "hot"
+  ],
+  "cocktailFamily": "Hot Drink",
+  "flavorProfiles": [
+    "rum",
+    "citrus",
+    "warming"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Mug",
+  "ice": "None (hot)",
+  "garnish": [
+    "Lemon wheel"
+  ],
+  "illustrationKey": "grog",
+  "ingredients": [
+    {
+      "ingredientId": "gold_rum",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "hot_water",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Add rum, lemon, and syrup to a mug.",
+    "Top with hot water.",
+    "Stir; garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-3",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "havana-club-especial",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "havana-club-maestros",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "hot-toddy",
+    "hot-buttered-rum"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rum",
+    "hot",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

@@ -1,0 +1,64 @@
+{
+  "id": "bucks-fizz",
+  "slug": "bucks-fizz",
+  "name": "Buck's Fizz",
+  "aliases": [],
+  "description": "Two parts sparkling wine to one part orange juice—the Mimosa’s older cousin.",
+  "whyItWorks": "More wine than juice keeps brunch bubbles lively.",
+  "classifications": [
+    "classic",
+    "brunch",
+    "sparkling"
+  ],
+  "cocktailFamily": "Sparkling",
+  "flavorProfiles": [
+    "orange",
+    "effervescent"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "light",
+  "glassware": "Champagne flute",
+  "ice": "None",
+  "garnish": [
+    "Orange twist"
+  ],
+  "illustrationKey": "bucks-fizz",
+  "ingredients": [
+    {
+      "ingredientId": "prosecco",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Add orange juice to a flute.",
+    "Top with sparkling wine.",
+    "Optional twist."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "mimosa",
+    "champagne-cocktail"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "brunch",
+    "prosecco",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

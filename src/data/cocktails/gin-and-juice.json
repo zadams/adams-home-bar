@@ -1,0 +1,81 @@
+{
+  "id": "gin-and-juice",
+  "slug": "gin-and-juice",
+  "name": "Gin and Juice",
+  "aliases": [],
+  "description": "Gin topped with orange juice—simple, brunchy, and loud.",
+  "whyItWorks": "Citrus juice rounds juniper into an easy highball.",
+  "classifications": [
+    "highball",
+    "brunch"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "orange",
+    "botanical",
+    "fruity"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Orange slice"
+  ],
+  "illustrationKey": "gin-and-juice",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build gin over ice.",
+    "Top with orange juice.",
+    "Stir once; garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "screwdriver",
+    "orange-blossom",
+    "bronx"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "orange",
+    "brunch",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

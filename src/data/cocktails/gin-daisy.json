@@ -1,0 +1,95 @@
+{
+  "id": "gin-daisy",
+  "slug": "gin-daisy",
+  "name": "Gin Daisy",
+  "aliases": [],
+  "description": "Gin, lemon, grenadine, and soda—bright pink daisy.",
+  "whyItWorks": "Grenadine and citrus frame gin botanicals in a classic daisy.",
+  "classifications": [
+    "classic",
+    "sour",
+    "daisy"
+  ],
+  "cocktailFamily": "Daisy",
+  "flavorProfiles": [
+    "citrus",
+    "pomegranate",
+    "botanical"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe or goblet",
+  "ice": "Shaken",
+  "garnish": [
+    "Lemon wheel"
+  ],
+  "illustrationKey": "gin-daisy",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grenadine",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "top",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake gin, lemon, grenadine.",
+    "Strain; optional soda.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "whiskey-daisy",
+    "gin-sour",
+    "southside"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "grenadine",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

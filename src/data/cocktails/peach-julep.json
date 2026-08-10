@@ -1,0 +1,93 @@
+{
+  "id": "peach-julep",
+  "slug": "peach-julep",
+  "name": "Peach Julep",
+  "aliases": [],
+  "description": "Mint julep sweetened with peach liqueur.",
+  "whyItWorks": "Peach fruit sits naturally beside bourbon and mint.",
+  "classifications": [
+    "julep",
+    "variation"
+  ],
+  "cocktailFamily": "Julep",
+  "flavorProfiles": [
+    "peach",
+    "mint",
+    "oak"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Julep cup or rocks",
+  "ice": "Crushed ice",
+  "garnish": [
+    "Mint sprig"
+  ],
+  "illustrationKey": "peach-julep",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peach_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "mint",
+      "amount": 10,
+      "unit": "piece",
+      "scaleMode": "fixed",
+      "label": "Mint leaves"
+    }
+  ],
+  "steps": [
+    "Muddle mint with syrup and peach liqueur.",
+    "Add bourbon and crushed ice; swizzle.",
+    "Top with more ice; garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "barrell-vantage",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "mint-julep",
+    "peach-whiskey-sour"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "bourbon",
+    "peach",
+    "mint",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

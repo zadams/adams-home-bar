@@ -1,0 +1,101 @@
+{
+  "id": "appletini",
+  "slug": "appletini",
+  "name": "Appletini",
+  "aliases": [
+    "Apple Martini"
+  ],
+  "description": "Apple vodka shaken with citrus and a touch of orange liqueur—bright green-leaning and crisp.",
+  "whyItWorks": "Apple vodka carries the flavor so you do not need sour-apple schnapps.",
+  "classifications": [
+    "modern classic",
+    "sour"
+  ],
+  "cocktailFamily": "Martini",
+  "flavorProfiles": [
+    "apple",
+    "citrus",
+    "sweet",
+    "bright"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe or martini glass",
+  "ice": "Shaken; served up",
+  "garnish": [
+    "Apple slice or lemon twist"
+  ],
+  "illustrationKey": "appletini",
+  "ingredients": [
+    {
+      "ingredientId": "apple_vodka",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cointreau",
+      "amount": 0.25,
+      "unit": "oz",
+      "optional": true,
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake hard with ice.",
+    "Strain into a chilled coupe.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "koskenkorva-apple",
+      "rank": 1,
+      "rationale": "House apple vodka—built for this drink."
+    },
+    {
+      "bottleId": "cointreau",
+      "rank": 2,
+      "rationale": "Optional orange lift."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "apple_vodka",
+      "alternatives": [
+        "vodka"
+      ],
+      "notes": "Plain vodka needs more apple syrup or liqueur if you have it."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "lemon-drop",
+    "apple_vodka-martini",
+    "kamikaze"
+  ],
+  "seasonality": [
+    "fall",
+    "year-round"
+  ],
+  "tags": [
+    "vodka",
+    "apple",
+    "martini",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

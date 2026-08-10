@@ -1,0 +1,89 @@
+{
+  "id": "shirley-temple",
+  "slug": "shirley-temple",
+  "name": "Shirley Temple",
+  "aliases": [],
+  "description": "Grenadine and ginger ale (or soda)—the classic kid’s cocktail adults still order.",
+  "whyItWorks": "Grenadine sweetness + fizz = nostalgic cooler.",
+  "classifications": [
+    "classic",
+    "non-alcoholic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "pomegranate",
+    "sweet",
+    "effervescent"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "light",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Cocktail cherry",
+    "Orange slice"
+  ],
+  "illustrationKey": "shirley-temple",
+  "ingredients": [
+    {
+      "ingredientId": "grenadine",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 5,
+      "unit": "oz",
+      "scaleMode": "top",
+      "label": "Club soda or ginger ale"
+    },
+    {
+      "ingredientId": "ginger_beer",
+      "amount": 5,
+      "unit": "oz",
+      "scaleMode": "top",
+      "optional": true,
+      "label": "Ginger ale preferred when stocked"
+    },
+    {
+      "ingredientId": "cocktail_cherry",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "optional": true
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Add grenadine to an ice-filled highball.",
+    "Top with club soda (or ginger ale when you have it).",
+    "Garnish with cherry and orange."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "roy-rogers",
+    "tequila-sunrise"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "grenadine",
+    "non-alcoholic",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

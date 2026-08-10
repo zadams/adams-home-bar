@@ -1,0 +1,69 @@
+{
+  "id": "french-connection",
+  "slug": "french-connection",
+  "name": "French Connection",
+  "aliases": [],
+  "description": "Grand Marnier and bourbon—cognac-free house French Connection.",
+  "whyItWorks": "Orange-cognac liqueur and whiskey drink like a stirred digestif.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Dessert",
+  "flavorProfiles": [
+    "orange",
+    "oak",
+    "rich"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [],
+  "illustrationKey": "french-connection",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Bourbon (cognac stand-in)"
+    },
+    {
+      "ingredientId": "grand_marnier",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Build over ice.",
+    "Stir to chill."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "grand-marnier",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "godfather",
+    "sidecar-bourbon",
+    "old-fashioned"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "bourbon",
+    "orange",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

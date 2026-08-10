@@ -1076,5 +1076,70 @@
       "juice"
     ],
     "notes": "Confirm before mixing."
+  },
+  {
+    "id": "inv-grenadine",
+    "ingredientId": "grenadine",
+    "status": "in_stock",
+    "productName": "Grenadine",
+    "tags": [
+      "syrup",
+      "pantry"
+    ],
+    "notes": "Stocked — unlocks Tequila Sunrise, Shirley Temple, and grenadine punches."
+  },
+  {
+    "id": "inv-cranberry_juice",
+    "ingredientId": "cranberry_juice",
+    "status": "out",
+    "productName": "Cranberry juice",
+    "tags": [
+      "juice",
+      "pantry"
+    ],
+    "notes": "Not currently stocked."
+  },
+  {
+    "id": "inv-coffee_liqueur",
+    "ingredientId": "coffee_liqueur",
+    "status": "out",
+    "productName": "Coffee liqueur (Kahlúa-style)",
+    "tags": [
+      "liqueur",
+      "expansion"
+    ],
+    "notes": "Not currently stocked."
+  },
+  {
+    "id": "inv-heavy_cream",
+    "ingredientId": "heavy_cream",
+    "status": "out",
+    "productName": "Heavy cream",
+    "tags": [
+      "dairy",
+      "fresh"
+    ],
+    "notes": "Not currently stocked."
+  },
+  {
+    "id": "inv-hot_water",
+    "ingredientId": "hot_water",
+    "status": "unknown",
+    "productName": "Hot water",
+    "tags": [
+      "pantry"
+    ],
+    "notes": "Household staple when brewing tea/coffee — treat as usually available."
+  },
+  {
+    "id": "inv-amaretto",
+    "ingredientId": "amaretto",
+    "status": "out",
+    "productName": "Amaretto",
+    "tags": [
+      "liqueur",
+      "expansion"
+    ],
+    "notes": "Not currently stocked."
   }
 ]

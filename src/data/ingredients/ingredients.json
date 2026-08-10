@@ -875,5 +875,74 @@
       "vodka",
       "honey"
     ]
+  },
+  {
+    "id": "grenadine",
+    "name": "Grenadine",
+    "category": "syrup",
+    "subcategory": "fruit",
+    "aliases": [
+      "pomegranate syrup"
+    ],
+    "tags": [
+      "sweet",
+      "fruit",
+      "red"
+    ]
+  },
+  {
+    "id": "cranberry_juice",
+    "name": "Cranberry juice",
+    "category": "juice",
+    "subcategory": "berry",
+    "aliases": [
+      "cranberry cocktail"
+    ],
+    "tags": [
+      "berry",
+      "tart",
+      "juice"
+    ]
+  },
+  {
+    "id": "heavy_cream",
+    "name": "Heavy cream",
+    "category": "dairy",
+    "subcategory": "cream",
+    "aliases": [
+      "cream",
+      "whipping cream",
+      "half-and-half"
+    ],
+    "tags": [
+      "dairy",
+      "cream"
+    ]
+  },
+  {
+    "id": "hot_water",
+    "name": "Hot water",
+    "category": "mixer",
+    "subcategory": "water",
+    "aliases": [
+      "boiling water"
+    ],
+    "tags": [
+      "hot",
+      "dilution"
+    ]
+  },
+  {
+    "id": "amaretto",
+    "name": "Amaretto",
+    "category": "liqueur",
+    "subcategory": "nut",
+    "aliases": [
+      "almond liqueur"
+    ],
+    "tags": [
+      "almond",
+      "sweet"
+    ]
   }
 ]

@@ -1,0 +1,71 @@
+{
+  "id": "aperol-tonic",
+  "slug": "aperol-tonic",
+  "name": "Aperol and Tonic",
+  "aliases": [],
+  "description": "Aperol topped with tonic—lighter than a spritz when prosecco is out.",
+  "whyItWorks": "Tonic bitterness echoes Aperol’s orange-bitter profile.",
+  "classifications": [
+    "aperitivo",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "orange",
+    "bitter",
+    "effervescent"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "light",
+  "glassware": "Highball or wine glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Orange slice"
+  ],
+  "illustrationKey": "aperol-tonic",
+  "ingredients": [
+    {
+      "ingredientId": "aperol",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "tonic_water",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build Aperol over ice.",
+    "Top with tonic.",
+    "Orange garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "aperol",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "aperol-soda",
+    "aperol-spritz",
+    "campari-soda"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "aperol",
+    "tonic",
+    "aperitivo",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

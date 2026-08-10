@@ -1,0 +1,69 @@
+{
+  "id": "godfather",
+  "slug": "godfather",
+  "name": "Godfather",
+  "aliases": [],
+  "description": "Scotch and amaretto—simple stirred classic.",
+  "whyItWorks": "Almond liqueur softens Scotch into an after-dinner sipper.",
+  "classifications": [
+    "classic",
+    "spirit-forward",
+    "dessert"
+  ],
+  "cocktailFamily": "Dessert",
+  "flavorProfiles": [
+    "almond",
+    "smoke",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [],
+  "illustrationKey": "godfather",
+  "ingredients": [
+    {
+      "ingredientId": "scotch",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "amaretto",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Build over a large cube.",
+    "Stir briefly."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "macallan-12",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "godmother",
+    "rob-roy",
+    "amaretto-sour"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "scotch",
+    "amaretto",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

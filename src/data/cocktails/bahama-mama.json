@@ -1,0 +1,97 @@
+{
+  "id": "bahama-mama",
+  "slug": "bahama-mama",
+  "name": "Bahama Mama",
+  "aliases": [],
+  "description": "Coconut rum, gold rum, OJ, and grenadine—beach-bar classic.",
+  "whyItWorks": "Coconut and orange read tropical; grenadine adds color and fruit.",
+  "classifications": [
+    "tiki",
+    "highball"
+  ],
+  "cocktailFamily": "Tiki",
+  "flavorProfiles": [
+    "coconut",
+    "orange",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Hurricane or highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Orange",
+    "Cherry"
+  ],
+  "illustrationKey": "bahama-mama",
+  "ingredients": [
+    {
+      "ingredientId": "coconut_rum",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "gold_rum",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grenadine",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "coffee_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake all with ice.",
+    "Strain into an ice-filled glass.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "toasted-coconut-rum",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "hurricane-house",
+    "toasted-coconut-colada-rocks",
+    "planters-punch"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rum",
+    "coconut",
+    "tropical",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

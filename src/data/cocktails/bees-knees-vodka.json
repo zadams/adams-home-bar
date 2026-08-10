@@ -1,0 +1,87 @@
+{
+  "id": "bees-knees-vodka",
+  "slug": "bees-knees-vodka",
+  "name": "Bee's Knees (Vodka)",
+  "aliases": [],
+  "description": "Vodka, lemon, and honey—Bee’s Knees without gin.",
+  "whyItWorks": "Honey-lemon sour stays elegant on a clean vodka base.",
+  "classifications": [
+    "variation",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "honey",
+    "citrus",
+    "clean"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "bees-knees-vodka",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "honey_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake hard with ice.",
+    "Strain into a coupe.",
+    "Twist lemon."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "koskenkorva-apple",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "koskenkorva-blueberry",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "bees-knees",
+    "gold-rush",
+    "vodka-sour"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "vodka",
+    "honey",
+    "sour",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

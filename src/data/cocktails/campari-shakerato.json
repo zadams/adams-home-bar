@@ -1,0 +1,72 @@
+{
+  "id": "campari-shakerato",
+  "slug": "campari-shakerato",
+  "name": "Campari Shakerato",
+  "aliases": [],
+  "description": "Campari shaken hard with ice until frothy and ice-cold—Italian café classic.",
+  "whyItWorks": "Aeration softens bitterness and chills Campari into a silky shot-glass sipper.",
+  "classifications": [
+    "classic",
+    "aperitivo"
+  ],
+  "cocktailFamily": "Aperitivo",
+  "flavorProfiles": [
+    "bitter",
+    "orange",
+    "chilled"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe or small wine glass",
+  "ice": "Shaken hard; up",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "campari-shakerato",
+  "ingredients": [
+    {
+      "ingredientId": "campari",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake Campari (and optional syrup) very hard with ice until the tin frosts.",
+    "Double-strain into a chilled coupe.",
+    "Express orange oil."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "campari",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "campari-soda",
+    "americano",
+    "negroni"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "campari",
+    "aperitivo",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

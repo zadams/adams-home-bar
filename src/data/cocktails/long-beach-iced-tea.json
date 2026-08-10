@@ -1,0 +1,122 @@
+{
+  "id": "long-beach-iced-tea",
+  "slug": "long-beach-iced-tea",
+  "name": "Long Beach Iced Tea",
+  "aliases": [],
+  "description": "A Long Island build topped with cranberry instead of cola—pinker and tart.",
+  "whyItWorks": "Cranberry replaces cola sweetness with berry acidity while keeping the multi-spirit frame.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Long Island",
+  "flavorProfiles": [
+    "citrus",
+    "berry",
+    "strong"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 5,
+  "strength": "strong",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lemon wedge"
+  ],
+  "illustrationKey": "long-beach-iced-tea",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "gin",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "white_rum",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cointreau",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cranberry_juice",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Shake the spirits, lemon, and syrup with ice.",
+    "Strain over fresh ice and top with cranberry."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "Neutral vodka."
+    },
+    {
+      "bottleId": "havana-club-3",
+      "rank": 2,
+      "rationale": "White rum."
+    },
+    {
+      "bottleId": "cointreau",
+      "rank": 3,
+      "rationale": "Orange liqueur polish."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "cointreau",
+      "alternatives": [
+        "triple_sec"
+      ]
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "long-island-iced-tea",
+    "cape-codder"
+  ],
+  "seasonality": [
+    "summer"
+  ],
+  "tags": [
+    "party",
+    "strong",
+    "cranberry",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

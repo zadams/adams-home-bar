@@ -1,0 +1,114 @@
+{
+  "id": "tequila-sunrise",
+  "slug": "tequila-sunrise",
+  "name": "Tequila Sunrise",
+  "aliases": [],
+  "description": "Blanco tequila and orange juice with a grenadine float that settles into a sunrise gradient.",
+  "history": "Popularized in the 1970s California bar scene—built tall, never shaken hard once the grenadine goes in.",
+  "origin": "United States",
+  "whyItWorks": "Orange juice brightens agave; grenadine sinks for color and a soft pomegranate finish.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "orange",
+    "agave",
+    "sweet",
+    "fruity"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "medium",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Orange slice",
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "tequila-sunrise",
+  "ingredients": [
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    },
+    {
+      "ingredientId": "grenadine",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 1,
+      "unit": "piece",
+      "optional": true,
+      "scaleMode": "garnish"
+    }
+  ],
+  "steps": [
+    "Fill a highball with ice and add tequila.",
+    "Top with orange juice and stir once to chill.",
+    "Pour grenadine slowly down the inside of the glass so it settles at the bottom.",
+    "Garnish with orange and a cherry; do not stir the finished sunrise."
+  ],
+  "techniqueNotes": [
+    "Pour grenadine last and leave the gradient intact.",
+    "Fresh orange juice drinks brighter than carton concentrate."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-cristalino",
+      "rank": 1,
+      "rationale": "Clean cristalino profile under orange juice."
+    },
+    {
+      "bottleId": "kirkland-tequila-other",
+      "rank": 2,
+      "rationale": "Everyday blanco-style pour for highballs."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "blanco_tequila",
+      "alternatives": [
+        "cristalino_tequila",
+        "anejo_tequila"
+      ],
+      "notes": "Añejo makes a richer, oakier sunrise."
+    }
+  ],
+  "variations": [
+    {
+      "id": "tequila-sunset",
+      "name": "Tequila Sunset",
+      "notes": "Add a touch of blackberry or cherry liqueur with the grenadine."
+    }
+  ],
+  "relatedCocktailIds": [
+    "screwdriver",
+    "margarita",
+    "paloma"
+  ],
+  "seasonality": [
+    "summer",
+    "year-round"
+  ],
+  "tags": [
+    "tequila",
+    "brunch",
+    "highball",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

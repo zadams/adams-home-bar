@@ -1,0 +1,96 @@
+{
+  "id": "b-52",
+  "slug": "b-52",
+  "name": "B-52",
+  "aliases": [],
+  "description": "Layered coffee liqueur, Irish cream, and orange liqueur—a classic dessert shot.",
+  "whyItWorks": "Density differences stack coffee, cream, and orange into stripes.",
+  "classifications": [
+    "classic",
+    "shot",
+    "dessert"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "coffee",
+    "cream",
+    "orange",
+    "sweet"
+  ],
+  "difficulty": "medium",
+  "preparationTime": 3,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "b-52",
+  "ingredients": [
+    {
+      "ingredientId": "coffee_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "baileys",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grand_marnier",
+      "amount": 0.5,
+      "unit": "oz",
+      "label": "Grand Marnier or Cointreau",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Pour coffee liqueur into a shot glass.",
+    "Layer Baileys over the back of a spoon.",
+    "Layer Grand Marnier on top."
+  ],
+  "techniqueNotes": [
+    "Cointreau is lighter—pour carefully or stir as a mini cocktail if layering fails."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "baileys",
+      "rank": 1,
+      "rationale": "Middle cream layer."
+    },
+    {
+      "bottleId": "grand-marnier",
+      "rank": 2,
+      "rationale": "Classic top layer."
+    },
+    {
+      "bottleId": "cointreau",
+      "rank": 3,
+      "rationale": "Alternate orange top."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "grand_marnier",
+      "alternatives": [
+        "cointreau"
+      ]
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "mudslide",
+    "white-russian"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "layered",
+    "dessert",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

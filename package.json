@@ -9,7 +9,14 @@
     "lint": "oxlint",
     "preview": "vite preview",
     "test": "vitest run",
-    "test:watch": "vitest"
+    "test:watch": "vitest",
+    "index:cocktails": "node scripts/generate-cocktail-index.mjs",
+    "illustrations:prompts": "node scripts/illustration/generate-prompt-files.mjs",
+    "illustrations:generate": "node scripts/illustration/generate-assets.mjs",
+    "illustrations:generate-hero": "node scripts/illustration/generate-assets.mjs --hero",
+    "illustrations:generate-all": "node scripts/illustration/generate-assets.mjs --all",
+    "illustrations:validate": "node scripts/illustration/validate-assets.mjs",
+    "illustrations:sync-registry": "node scripts/illustration/sync-registry.mjs"
   },
   "dependencies": {
     "react": "^19.2.7",

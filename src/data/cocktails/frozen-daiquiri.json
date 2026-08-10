@@ -1,0 +1,77 @@
+{
+  "id": "frozen-daiquiri",
+  "slug": "frozen-daiquiri",
+  "name": "Frozen Daiquiri",
+  "aliases": [],
+  "description": "Classic daiquiri specs blended with crushed ice.",
+  "whyItWorks": "Same lime-rum-sugar balance, colder and thicker.",
+  "classifications": [
+    "classic",
+    "frozen"
+  ],
+  "cocktailFamily": "Daiquiri",
+  "flavorProfiles": [
+    "lime",
+    "rum",
+    "refreshing"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe or hurricane",
+  "ice": "Blended crushed ice",
+  "garnish": [
+    "Lime wheel"
+  ],
+  "illustrationKey": "frozen-daiquiri",
+  "ingredients": [
+    {
+      "ingredientId": "white_rum",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Blend rum, lime, syrup, and a cup of ice until slushy.",
+    "Pour into a chilled glass.",
+    "Garnish with lime."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-3",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "daiquiri",
+    "banana-daiquiri",
+    "coconut-daiquiri"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rum",
+    "frozen",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

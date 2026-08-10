@@ -1,0 +1,94 @@
+{
+  "id": "banana-smash",
+  "slug": "banana-smash",
+  "name": "Banana Smash",
+  "aliases": [],
+  "description": "Bourbon smash with crème de banane and mint.",
+  "whyItWorks": "Banana liqueur softens bourbon; mint keeps it fresh.",
+  "classifications": [
+    "smash",
+    "dessert"
+  ],
+  "cocktailFamily": "Smash",
+  "flavorProfiles": [
+    "banana",
+    "mint",
+    "oak"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Mint sprig"
+  ],
+  "illustrationKey": "banana-smash",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "creme_de_banane",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "mint",
+      "amount": 6,
+      "unit": "piece",
+      "scaleMode": "fixed",
+      "label": "Mint leaves"
+    }
+  ],
+  "steps": [
+    "Lightly muddle mint.",
+    "Shake with remaining ingredients.",
+    "Strain over ice."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "barrell-vantage",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "banana-old-fashioned",
+    "whiskey-smash",
+    "banana-daiquiri"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "bourbon",
+    "banana",
+    "mint",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

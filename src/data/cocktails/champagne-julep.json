@@ -1,0 +1,94 @@
+{
+  "id": "champagne-julep",
+  "slug": "champagne-julep",
+  "name": "Champagne Julep",
+  "aliases": [],
+  "description": "Mint julep bones topped with sparkling wine instead of crushed-ice only.",
+  "whyItWorks": "Mint and bourbon meet bubbles for a festive julep.",
+  "classifications": [
+    "sparkling",
+    "julep"
+  ],
+  "cocktailFamily": "Julep",
+  "flavorProfiles": [
+    "mint",
+    "effervescent",
+    "oak"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Julep cup or flute",
+  "ice": "Crushed ice",
+  "garnish": [
+    "Mint bouquet"
+  ],
+  "illustrationKey": "champagne-julep",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "mint",
+      "amount": 8,
+      "unit": "piece",
+      "scaleMode": "fixed",
+      "label": "Mint leaves"
+    },
+    {
+      "ingredientId": "prosecco",
+      "amount": 3,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Gently muddle mint with syrup.",
+    "Add bourbon and crushed ice; swizzle briefly.",
+    "Top with sparkling wine; garnish lavishly."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "barrell-vantage",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "mint-julep",
+    "mojito-royale",
+    "french-75"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "bourbon",
+    "mint",
+    "sparkling",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

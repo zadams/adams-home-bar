@@ -1,0 +1,115 @@
+{
+  "id": "hot-toddy",
+  "slug": "hot-toddy",
+  "name": "Hot Toddy",
+  "aliases": [],
+  "description": "Whiskey, honey, lemon, and hot water—the cold-night classic.",
+  "whyItWorks": "Heat blooms whiskey aroma; honey and lemon balance spirit heat.",
+  "classifications": [
+    "classic",
+    "hot"
+  ],
+  "cocktailFamily": "Toddy",
+  "flavorProfiles": [
+    "whiskey",
+    "honey",
+    "lemon",
+    "warming"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Heatproof mug or toddy glass",
+  "ice": "None",
+  "garnish": [
+    "Lemon wheel",
+    "Optional cinnamon stick"
+  ],
+  "illustrationKey": "hot-toddy",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "label": "Bourbon or other whiskey",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "honey_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "label": "Honey or honey syrup",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "hot_water",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Add whiskey, honey, and lemon to a warm mug.",
+    "Top with hot water and stir until honey dissolves.",
+    "Garnish with lemon."
+  ],
+  "techniqueNotes": [
+    "Rye or scotch also work—pick the whiskey you want to smell in the steam."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "woodford-reserve",
+      "rank": 1,
+      "rationale": "Classic toddy bourbon character."
+    },
+    {
+      "bottleId": "eagle-rare",
+      "rank": 2,
+      "rationale": "Softer fruit in a hot drink."
+    },
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 3,
+      "rationale": "Port-finished warmth."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "bourbon",
+      "alternatives": [
+        "rye",
+        "scotch"
+      ]
+    },
+    {
+      "ingredientId": "honey_syrup",
+      "alternatives": [
+        "simple_syrup"
+      ],
+      "notes": "Simple syrup works if honey is out."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "whiskey-sour",
+    "gold-rush",
+    "old-fashioned"
+  ],
+  "seasonality": [
+    "winter",
+    "fall"
+  ],
+  "tags": [
+    "whiskey",
+    "hot",
+    "honey",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

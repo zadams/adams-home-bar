@@ -1,0 +1,94 @@
+{
+  "id": "monkey-gland",
+  "slug": "monkey-gland",
+  "name": "Monkey Gland",
+  "aliases": [],
+  "description": "Gin, orange juice, grenadine, and a rinse of absinthe—Jazz Age oddball classic.",
+  "whyItWorks": "OJ and grenadine sweeten gin; absinthe adds herbal intrigue.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "orange",
+    "herbal",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "monkey-gland",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grenadine",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "absinthe",
+      "amount": 1,
+      "unit": "rinse",
+      "scaleMode": "fixed",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Rinse coupe with absinthe if available.",
+    "Shake gin, OJ, and grenadine with ice.",
+    "Strain; garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "orange-blossom",
+    "gin-and-juice",
+    "bacardi-cocktail"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "grenadine",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

@@ -1,0 +1,94 @@
+{
+  "id": "queens-park-swizzle",
+  "slug": "queens-park-swizzle",
+  "name": "Queen's Park Swizzle",
+  "aliases": [],
+  "description": "Rum, lime, mint, demerara, and bitters—Trinidad swizzle classic.",
+  "whyItWorks": "Swizzled dilution and mint make a tall, frosty rum cooler.",
+  "classifications": [
+    "classic",
+    "tiki",
+    "swizzle"
+  ],
+  "cocktailFamily": "Swizzle",
+  "flavorProfiles": [
+    "mint",
+    "lime",
+    "aromatic"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Collins or tall glass",
+  "ice": "Crushed ice",
+  "garnish": [
+    "Mint bouquet",
+    "Bitters float"
+  ],
+  "illustrationKey": "queens-park-swizzle",
+  "ingredients": [
+    {
+      "ingredientId": "white_rum",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Demerara or simple syrup"
+    },
+    {
+      "ingredientId": "mint",
+      "amount": 10,
+      "unit": "piece",
+      "scaleMode": "fixed",
+      "label": "Mint leaves"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 4,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Muddle mint with syrup in a tall glass.",
+    "Add rum, lime, and crushed ice; swizzle until frosty.",
+    "Dash bitters on top; mint garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-3",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "mojito",
+    "rum-swizzle",
+    "mai-tai"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rum",
+    "mint",
+    "tiki",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

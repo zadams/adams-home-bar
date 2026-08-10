@@ -1,0 +1,75 @@
+{
+  "id": "baileys-coffee",
+  "slug": "baileys-coffee",
+  "name": "Baileys Coffee",
+  "aliases": [],
+  "description": "Baileys stirred into hot coffee (or hot water as a stand-in) for a quick Irish-cream warmer.",
+  "whyItWorks": "Heat blooms Baileys into a café dessert drink.",
+  "classifications": [
+    "hot",
+    "dessert"
+  ],
+  "cocktailFamily": "Hot Drink",
+  "flavorProfiles": [
+    "creamy",
+    "coffee-adjacent",
+    "warming"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "light",
+  "glassware": "Mug",
+  "ice": "None (hot)",
+  "garnish": [],
+  "illustrationKey": "baileys-coffee",
+  "ingredients": [
+    {
+      "ingredientId": "baileys",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "hot_water",
+      "amount": 5,
+      "unit": "oz",
+      "scaleMode": "top",
+      "label": "Hot coffee or hot water"
+    }
+  ],
+  "steps": [
+    "Pour Baileys into a mug.",
+    "Top with hot coffee (preferred) or hot water.",
+    "Stir."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "baileys",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "blind-squirrel-nog",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "hot-toddy",
+    "irish-coffee-house",
+    "baileys-on-the-rocks"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "baileys",
+    "hot",
+    "dessert",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

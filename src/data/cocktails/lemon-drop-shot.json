@@ -1,0 +1,93 @@
+{
+  "id": "lemon-drop-shot",
+  "slug": "lemon-drop-shot",
+  "name": "Lemon Drop Shot",
+  "aliases": [],
+  "description": "Vodka, lemon, and simple—sugared-rim shot version of the Lemon Drop.",
+  "whyItWorks": "Sweet-sour balance in shot format.",
+  "classifications": [
+    "shot"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "lemon",
+    "sweet",
+    "bright"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Sugar rim",
+    "Lemon wedge"
+  ],
+  "illustrationKey": "lemon-drop-shot",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "demerara_sugar",
+      "amount": 1,
+      "unit": "pinch",
+      "scaleMode": "garnish",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Optional sugar rim on shot glasses.",
+    "Shake with ice; strain into shots.",
+    "Lemon wedge."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "koskenkorva-apple",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "koskenkorva-blueberry",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "lemon-drop",
+    "kamikaze-shot"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "vodka",
+    "shot",
+    "lemon",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

@@ -1,0 +1,79 @@
+{
+  "id": "champagne-cocktail",
+  "slug": "champagne-cocktail",
+  "name": "Champagne Cocktail",
+  "aliases": [],
+  "description": "A sugar cube soaked in bitters, topped with sparkling wine.",
+  "whyItWorks": "Bitters perfume the bubbles while sugar softens the dry wine.",
+  "classifications": [
+    "classic",
+    "sparkling"
+  ],
+  "cocktailFamily": "Sparkling",
+  "flavorProfiles": [
+    "aromatic",
+    "effervescent",
+    "bittersweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "light",
+  "glassware": "Champagne flute",
+  "ice": "None",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "champagne-cocktail",
+  "ingredients": [
+    {
+      "ingredientId": "demerara_sugar",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "fixed",
+      "label": "Sugar cube"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "prosecco",
+      "amount": 5,
+      "unit": "oz",
+      "scaleMode": "top"
+    },
+    {
+      "ingredientId": "lemon",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Place a sugar cube in a flute and soak with bitters.",
+    "Top gently with sparkling wine.",
+    "Express lemon oil over the top."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "mimosa",
+    "french-75",
+    "kir-royale-house"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "prosecco",
+    "brunch",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

@@ -1,0 +1,82 @@
+{
+  "id": "mexican-mule",
+  "slug": "mexican-mule",
+  "name": "Mexican Mule",
+  "aliases": [],
+  "description": "Blanco tequila, lime, and ginger beer.",
+  "whyItWorks": "Agave and ginger make a bright, spicy highball.",
+  "classifications": [
+    "modern-classic",
+    "highball"
+  ],
+  "cocktailFamily": "Mule",
+  "flavorProfiles": [
+    "agave",
+    "ginger",
+    "lime"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Copper mug or highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime wheel"
+  ],
+  "illustrationKey": "mexican-mule",
+  "ingredients": [
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "ginger_beer",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build tequila and lime over ice.",
+    "Top with ginger beer.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-cristalino",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "kirkland-tequila-other",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "moscow-mule",
+    "ranch-water",
+    "margarita"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "tequila",
+    "mule",
+    "ginger",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

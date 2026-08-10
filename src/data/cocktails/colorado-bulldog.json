@@ -1,0 +1,95 @@
+{
+  "id": "colorado-bulldog",
+  "slug": "colorado-bulldog",
+  "name": "Colorado Bulldog",
+  "aliases": [],
+  "description": "A White Russian topped with cola—cream, coffee, and fizz.",
+  "whyItWorks": "Cola cuts richness and adds familiar soda spice.",
+  "classifications": [
+    "classic",
+    "dessert"
+  ],
+  "cocktailFamily": "Russian",
+  "flavorProfiles": [
+    "coffee",
+    "cream",
+    "cola",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "medium",
+  "glassware": "Highball or rocks glass",
+  "ice": "Cubed ice",
+  "garnish": [],
+  "illustrationKey": "colorado-bulldog",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "coffee_liqueur",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "heavy_cream",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cola",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build vodka and coffee liqueur over ice.",
+    "Add cream, then top with cola and stir once."
+  ],
+  "techniqueNotes": [
+    "Baileys can replace cream."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "Clean vodka."
+    },
+    {
+      "bottleId": "baileys",
+      "rank": 2,
+      "rationale": "Cream substitute from stock."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "heavy_cream",
+      "alternatives": [
+        "baileys"
+      ]
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "white-russian",
+    "black-russian",
+    "mudslide"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "vodka",
+    "coffee",
+    "cola",
+    "dessert"
+  ],
+  "featuredBottleImages": []
+}

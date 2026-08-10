@@ -1,8 +1,8 @@
 import { useState } from 'react'
-import registry from '../data/illustrations/registry.json'
-import ingredientImages from '../data/illustrations/ingredients.json'
 import { getIngredientName } from '../data'
+import ingredientImages from '../data/illustrations/ingredients.json'
 import { assetUrl } from '../utils/assetUrl'
+import { resolveIllustration } from '../utils/illustrationSystem'
 import { getPlaceholderPalette, resolveGlassStyle } from '../utils/illustrations'
 
 interface CocktailIllustrationProps {
@@ -16,16 +16,8 @@ interface CocktailIllustrationProps {
   className?: string
   showIngredients?: boolean
   credit?: string
-}
-
-type RegistryEntry = {
-  src: string
-  kind?: 'photo' | 'illustration'
-  glassware?: string
-  aspectRatio?: string
-  credit?: string
-  ingredients?: string[]
-  fallbackSrc?: string
+  /** Prefer thumbnail path when available (cards) */
+  preferThumb?: boolean
 }
 
 type IngredientImageEntry = {
@@ -34,13 +26,12 @@ type IngredientImageEntry = {
   credit?: string
 }
 
-const illustrationRegistry = registry as Record<string, RegistryEntry>
 const ingredientRegistry = ingredientImages as Record<string, IngredientImageEntry>
 
 /**
- * Photo-first drink art with optional ingredient photo strip.
- * Swap files under public/images/cocktails/photos/ and
- * public/images/ingredients/photos/ — registries pick them up.
+ * Drink art resolver:
+ * editorial WebP (Bible system) → stock photo → painterly SVG placeholder.
+ * Art direction lives in illustration-manifest.json; completed images are optional.
  */
 export function CocktailIllustration({
   illustrationKey,
@@ -51,18 +42,33 @@ export function CocktailIllustration({
   className,
   showIngredients = false,
   credit,
+  preferThumb = false,
 }: CocktailIllustrationProps) {
-  const entry = illustrationRegistry[illustrationKey]
+  const resolved = resolveIllustration(illustrationKey)
   const [failed, setFailed] = useState(false)
   const [useFallback, setUseFallback] = useState(false)
-  const palette = getPlaceholderPalette(illustrationKey)
-  const style = resolveGlassStyle(glassware ?? entry?.glassware)
+  const palette = getPlaceholderPalette(
+    illustrationKey,
+    resolved.artDirection?.liquidPalette?.hex,
+  )
+  const style = resolveGlassStyle(
+    glassware ?? resolved.artDirection?.sourceGlassware ?? resolved.artDirection?.glass,
+  )
   const uid = illustrationKey.replace(/[^a-z0-9-]/gi, '')
+
+  const primarySrc = preferThumb
+    ? resolved.thumbSrc ?? resolved.src
+    : resolved.src
   const rawSrc =
-    useFallback && entry?.fallbackSrc ? entry.fallbackSrc : entry?.src
+    useFallback && resolved.fallbackSrc ? resolved.fallbackSrc : primarySrc
   const imageSrc = assetUrl(rawSrc)
-  const fallbackSrc = assetUrl(entry?.fallbackSrc)
-  const isPhoto = entry?.kind === 'photo' && !failed && Boolean(imageSrc)
+  const fallbackSrc = assetUrl(resolved.fallbackSrc)
+  const isRaster =
+    (resolved.kind === 'illustration' || resolved.kind === 'photo') &&
+    !failed &&
+    Boolean(imageSrc)
+
+  const showImage = Boolean(imageSrc) && !failed && resolved.kind !== 'placeholder'
 
   const ingredientItems =
     ingredientIds?.map((id) => ({
@@ -70,21 +76,28 @@ export function CocktailIllustration({
       label: getIngredientName(id),
       src: assetUrl(ingredientRegistry[id]?.src),
     })) ??
-    (ingredientLabels ?? entry?.ingredients ?? []).map((label, index) => ({
+    (ingredientLabels ?? []).map((label, index) => ({
       id: `label-${index}`,
       label: label.replace(/_/g, ' '),
       src: '' as string,
     }))
 
+  const frameClass =
+    resolved.kind === 'illustration' || resolved.artDirection
+      ? 'drink-visual__frame--illustration'
+      : resolved.kind === 'photo'
+        ? 'drink-visual__frame--photo'
+        : ''
+
   return (
     <figure className={`drink-visual ${className ?? ''}`.trim()}>
-      <div className={`drink-visual__frame ${isPhoto ? 'drink-visual__frame--photo' : ''}`}>
-        {imageSrc && !failed ? (
+      <div className={`drink-visual__frame ${frameClass}`.trim()}>
+        {showImage ? (
           <img
             src={imageSrc}
-            alt={`${name} — finished drink`}
+            alt={`${name} — ${resolved.kind === 'illustration' ? 'editorial illustration' : 'finished drink'}`}
             width={640}
-            height={480}
+            height={resolved.kind === 'photo' ? 480 : 640}
             loading="lazy"
             decoding="async"
             onError={() => {
@@ -95,7 +108,12 @@ export function CocktailIllustration({
               setFailed(true)
             }}
             className="drink-visual__img"
-            style={{ aspectRatio: entry?.aspectRatio ?? (isPhoto ? '4 / 3' : '1 / 1') }}
+            style={{
+              aspectRatio:
+                useFallback && resolved.fallbackSrc
+                  ? '4 / 3'
+                  : resolved.aspectRatio,
+            }}
           />
         ) : (
           <div
@@ -150,8 +168,8 @@ export function CocktailIllustration({
         </figcaption>
       )}
 
-      {(credit || entry?.credit) && (
-        <p className="drink-visual__credit">{credit ?? entry?.credit}</p>
+      {(credit || resolved.credit) && isRaster && (
+        <p className="drink-visual__credit">{credit ?? resolved.credit}</p>
       )}
     </figure>
   )

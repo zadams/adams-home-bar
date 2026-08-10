@@ -1,0 +1,133 @@
+{
+  "id": "singapore-sling-house",
+  "slug": "singapore-sling-house",
+  "name": "Singapore Sling (House)",
+  "aliases": [
+    "House Singapore Sling"
+  ],
+  "description": "Gin, cherry, citrus, and soda with a whisper of orange liqueur—a home-bar sling without pineapple or Bénédictine.",
+  "whyItWorks": "Cherry liqueur and lemon echo the classic’s fruit-herbal profile; soda keeps it tall and drinkable.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Sling",
+  "flavorProfiles": [
+    "cherry",
+    "gin",
+    "citrus",
+    "refreshing"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Cherry",
+    "Orange slice"
+  ],
+  "illustrationKey": "singapore-sling-house",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cherry_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cointreau",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grenadine",
+      "amount": 0.25,
+      "unit": "oz",
+      "optional": true,
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 1,
+      "unit": "dash",
+      "optional": true,
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Shake gin, cherry liqueur, Cointreau, lemon, syrup, and optional grenadine with ice.",
+    "Strain into a tall glass over ice and top with soda.",
+    "Garnish with cherry and orange."
+  ],
+  "techniqueNotes": [
+    "This is a pantry-friendly house version—not a Raffles museum replica."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "malfy-originale",
+      "rank": 1,
+      "rationale": "Bright gin under cherry."
+    },
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 2,
+      "rationale": "Tea-spice gin for a more complex sling."
+    },
+    {
+      "bottleId": "cointreau",
+      "rank": 3,
+      "rationale": "Orange lift."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "cointreau",
+      "alternatives": [
+        "triple_sec"
+      ]
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "tom-collins",
+    "gin-fizz",
+    "cherry-sour"
+  ],
+  "seasonality": [
+    "summer",
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "cherry",
+    "highball",
+    "classic"
+  ],
+  "featuredBottleImages": []
+}

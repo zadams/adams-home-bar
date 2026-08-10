@@ -1,0 +1,116 @@
+{
+  "id": "texas-tea",
+  "slug": "texas-tea",
+  "name": "Texas Tea",
+  "aliases": [],
+  "description": "Long Island Iced Tea with whiskey added—Texas-sized.",
+  "whyItWorks": "Extra whiskey deepens the multi-spirit cola cooler.",
+  "classifications": [
+    "modern",
+    "highball"
+  ],
+  "cocktailFamily": "Long Island",
+  "flavorProfiles": [
+    "strong",
+    "cola",
+    "citrus"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "strong",
+  "glassware": "Highball or collins",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lemon wedge"
+  ],
+  "illustrationKey": "texas-tea",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "gin",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "white_rum",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "bourbon",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "triple_sec",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cola",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Shake spirits and lemon with ice.",
+    "Strain over ice.",
+    "Top with cola."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "barrell-vantage",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "long-island-iced-tea",
+    "adios-motherfucker"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "bourbon",
+    "strong",
+    "party",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

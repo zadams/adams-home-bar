@@ -1,0 +1,95 @@
+{
+  "id": "caipiroska",
+  "slug": "caipiroska",
+  "name": "Caipiroska",
+  "aliases": [],
+  "description": "Vodka caipirinha—muddled lime, sugar, and vodka.",
+  "whyItWorks": "Lime oils and sugar make vodka lively and tart-sweet.",
+  "classifications": [
+    "classic",
+    "smash"
+  ],
+  "cocktailFamily": "Caipirinha",
+  "flavorProfiles": [
+    "lime",
+    "sweet",
+    "bright"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Crushed or cubed",
+  "garnish": [
+    "Lime wedge"
+  ],
+  "illustrationKey": "caipiroska",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "fixed",
+      "label": "1/2 lime, wedges"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "demerara_sugar",
+      "amount": 1,
+      "unit": "tsp",
+      "scaleMode": "fixed",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Muddle lime wedges with syrup (and sugar if using).",
+    "Add vodka and ice; stir or short-shake.",
+    "Serve in the same glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "koskenkorva-apple",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "koskenkorva-blueberry",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "vodka-lime-sour",
+    "daiquiri",
+    "mojito"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "vodka",
+    "lime",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

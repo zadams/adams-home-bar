@@ -1,0 +1,72 @@
+{
+  "id": "roy-rogers",
+  "slug": "roy-rogers",
+  "name": "Roy Rogers",
+  "aliases": [],
+  "description": "Cola and grenadine—Shirley Temple’s cola twin.",
+  "whyItWorks": "Grenadine sweetens cola into a cherry-cola cooler.",
+  "classifications": [
+    "classic",
+    "non-alcoholic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "cola",
+    "pomegranate",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "light",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "roy-rogers",
+  "ingredients": [
+    {
+      "ingredientId": "grenadine",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cola",
+      "amount": 5,
+      "unit": "oz",
+      "scaleMode": "top"
+    },
+    {
+      "ingredientId": "cocktail_cherry",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Add grenadine over ice.",
+    "Top with cola.",
+    "Cherry garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "shirley-temple",
+    "cuba-libre"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "grenadine",
+    "cola",
+    "non-alcoholic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

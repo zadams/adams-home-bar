@@ -1,0 +1,120 @@
+{
+  "id": "planters-punch",
+  "slug": "planters-punch",
+  "name": "Planter's Punch",
+  "aliases": [],
+  "description": "Rum, lime, sweetener, and bitters lengthened with juice—an old Caribbean punch template.",
+  "whyItWorks": "Bitters and lime keep sweet juice from going flat.",
+  "classifications": [
+    "classic",
+    "punch",
+    "tropical"
+  ],
+  "cocktailFamily": "Punch",
+  "flavorProfiles": [
+    "rum",
+    "lime",
+    "spice",
+    "fruity"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Highball glass",
+  "ice": "Cubed or crushed ice",
+  "garnish": [
+    "Mint",
+    "Orange slice"
+  ],
+  "illustrationKey": "planters-punch",
+  "ingredients": [
+    {
+      "ingredientId": "gold_rum",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grenadine",
+      "amount": 0.25,
+      "unit": "oz",
+      "optional": true,
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 3,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "mint",
+      "amount": 1,
+      "unit": "piece",
+      "optional": true,
+      "scaleMode": "garnish"
+    }
+  ],
+  "steps": [
+    "Shake rum, lime, syrup, orange, optional grenadine, and bitters with ice.",
+    "Strain over fresh ice and garnish with mint."
+  ],
+  "techniqueNotes": [
+    "Gold or aged rum is traditional; white rum works in a pinch."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-especial",
+      "rank": 1,
+      "rationale": "Gold rum body for punch."
+    },
+    {
+      "bottleId": "havana-club-maestros",
+      "rank": 2,
+      "rationale": "Richer aged rum character."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "gold_rum",
+      "alternatives": [
+        "white_rum",
+        "spiced_rum"
+      ]
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "rum-punch",
+    "mai-tai",
+    "daiquiri"
+  ],
+  "seasonality": [
+    "summer"
+  ],
+  "tags": [
+    "rum",
+    "punch",
+    "classic",
+    "tropical"
+  ],
+  "featuredBottleImages": []
+}

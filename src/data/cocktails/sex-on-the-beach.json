@@ -1,0 +1,114 @@
+{
+  "id": "sex-on-the-beach",
+  "slug": "sex-on-the-beach",
+  "name": "Sex on the Beach",
+  "aliases": [],
+  "description": "Vodka and peach liqueur lengthened with orange and cranberry—sweet, fruity, and unapologetically fun.",
+  "history": "A 1980s beach-bar classic. Keep the peach present but not candy-sweet.",
+  "origin": "United States",
+  "whyItWorks": "Peach liqueur bridges vodka and citrus; cranberry adds tart structure and color.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "peach",
+    "orange",
+    "berry",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "medium",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Orange slice"
+  ],
+  "illustrationKey": "sex-on-the-beach",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peach_liqueur",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cranberry_juice",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Build vodka and peach liqueur over ice.",
+    "Add orange and cranberry juices.",
+    "Stir gently and garnish with orange."
+  ],
+  "techniqueNotes": [
+    "Shake instead of build if you want a frothier top."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "Clean vodka base."
+    },
+    {
+      "bottleId": "montbisou-peches",
+      "rank": 2,
+      "rationale": "House peach liqueur."
+    },
+    {
+      "bottleId": "finest-call-peach",
+      "rank": 3,
+      "rationale": "Everyday peach for party builds."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "vodka",
+      "alternatives": [
+        "peach_vodka"
+      ],
+      "notes": "Peach vodka doubles down on the fruit."
+    }
+  ],
+  "variations": [
+    {
+      "id": "woo-woo",
+      "name": "Woo Woo",
+      "notes": "Drop the orange juice.",
+      "relatedCocktailId": "woo-woo"
+    }
+  ],
+  "relatedCocktailIds": [
+    "screwdriver",
+    "cape-codder",
+    "fuzzy-navel",
+    "woo-woo"
+  ],
+  "seasonality": [
+    "summer"
+  ],
+  "tags": [
+    "vodka",
+    "peach",
+    "party",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

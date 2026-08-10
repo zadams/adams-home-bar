@@ -1,0 +1,82 @@
+{
+  "id": "tequila-mockingbird",
+  "slug": "tequila-mockingbird",
+  "name": "Tequila Mockingbird",
+  "aliases": [],
+  "description": "Tequila, peppermint liqueur, and lime—crème de menthe classic with house mint.",
+  "whyItWorks": "Mint cools agave; lime keeps it a sour.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "mint",
+    "agave",
+    "lime"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe or rocks",
+  "ice": "Shaken",
+  "garnish": [
+    "Lime wheel"
+  ],
+  "illustrationKey": "tequila-mockingbird",
+  "ingredients": [
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peppermint_liqueur",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake hard with ice.",
+    "Strain up or over ice.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-cristalino",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "kirkland-tequila-other",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "margarita",
+    "southside",
+    "peppermint-vodka-martini"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "tequila",
+    "mint",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

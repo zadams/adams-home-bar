@@ -1,0 +1,101 @@
+{
+  "id": "cherry-smash",
+  "slug": "cherry-smash",
+  "name": "Cherry Smash",
+  "aliases": [],
+  "description": "Bourbon smash with cherry liqueur and mint.",
+  "whyItWorks": "Cherry sweetness and mint lift whiskey like a smash-julep hybrid.",
+  "classifications": [
+    "smash",
+    "modern"
+  ],
+  "cocktailFamily": "Smash",
+  "flavorProfiles": [
+    "cherry",
+    "mint",
+    "oak"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Crushed or cubed",
+  "garnish": [
+    "Mint",
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "cherry-smash",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cherry_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "mint",
+      "amount": 8,
+      "unit": "piece",
+      "scaleMode": "fixed",
+      "label": "Mint leaves"
+    }
+  ],
+  "steps": [
+    "Muddle mint with syrup.",
+    "Shake with remaining ingredients.",
+    "Serve over ice; garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "barrell-vantage",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "whiskey-smash",
+    "cherry-sour",
+    "fancy-free"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "bourbon",
+    "cherry",
+    "mint",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

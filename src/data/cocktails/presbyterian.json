@@ -1,0 +1,87 @@
+{
+  "id": "presbyterian",
+  "slug": "presbyterian",
+  "name": "Presbyterian",
+  "aliases": [],
+  "description": "Whiskey with ginger ale and club soda—lighter than a full ginger highball.",
+  "whyItWorks": "Soda stretches ginger sweetness so the whiskey stays present.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "ginger",
+    "diluted",
+    "oak"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "presbyterian",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "ginger_beer",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Ginger ale"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build whiskey over ice.",
+    "Add ginger ale and soda.",
+    "Stir once; twist lemon."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "barrell-vantage",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "whiskey-ginger",
+    "whiskey-highball"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "bourbon",
+    "highball",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

@@ -1,0 +1,94 @@
+{
+  "id": "painkiller",
+  "slug": "painkiller",
+  "name": "Painkiller",
+  "aliases": [],
+  "description": "Rum, pineapple, orange, and cream of coconut—tiki classic (pineapple currently out).",
+  "whyItWorks": "Coconut and citrus soften aged rum into a beach classic.",
+  "classifications": [
+    "tiki",
+    "classic"
+  ],
+  "cocktailFamily": "Tiki",
+  "flavorProfiles": [
+    "coconut",
+    "pineapple",
+    "orange"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Hurricane or double rocks",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Nutmeg if available",
+    "Orange"
+  ],
+  "illustrationKey": "painkiller",
+  "ingredients": [
+    {
+      "ingredientId": "gold_rum",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "pineapple_juice",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cream_of_coconut",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake hard with ice.",
+    "Strain into an ice-filled glass.",
+    "Dust with nutmeg if you have it."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-3",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "havana-club-especial",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "havana-club-maestros",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "pina-colada",
+    "toasted-coconut-colada-rocks",
+    "bahama-mama"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rum",
+    "tiki",
+    "coconut",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

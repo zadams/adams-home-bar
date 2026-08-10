@@ -1,0 +1,102 @@
+{
+  "id": "john-collins",
+  "slug": "john-collins",
+  "name": "John Collins",
+  "aliases": [],
+  "description": "Bourbon, lemon, sugar, and soda—the whiskey sibling of the Tom Collins.",
+  "whyItWorks": "Lemon and soda lift bourbon into a tall, sessionable highball.",
+  "classifications": [
+    "classic",
+    "highball",
+    "collins"
+  ],
+  "cocktailFamily": "Collins",
+  "flavorProfiles": [
+    "citrus",
+    "oak",
+    "effervescent"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Collins glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lemon wheel",
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "john-collins",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 3,
+      "unit": "oz",
+      "scaleMode": "top"
+    },
+    {
+      "ingredientId": "cocktail_cherry",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake bourbon, lemon, and syrup with ice.",
+    "Strain into an ice-filled collins glass.",
+    "Top with soda, stir once, garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "barrell-vantage",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "tom-collins",
+    "bourbon-collins",
+    "whiskey-sour"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "bourbon",
+    "collins",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

@@ -1,0 +1,84 @@
+{
+  "id": "mind-eraser",
+  "slug": "mind-eraser",
+  "name": "Mind Eraser",
+  "aliases": [],
+  "description": "Vodka, coffee liqueur, and soda—layered shot/sipper.",
+  "whyItWorks": "Soda lifts coffee liqueur sweetness into a fizzy short drink.",
+  "classifications": [
+    "shot",
+    "modern"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "coffee",
+    "effervescent",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks or highball short",
+  "ice": "Cubed ice",
+  "garnish": [],
+  "illustrationKey": "mind-eraser",
+  "ingredients": [
+    {
+      "ingredientId": "coffee_liqueur",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "vodka",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build coffee liqueur and vodka over ice.",
+    "Top with soda.",
+    "Drink through a straw in one go (tradition)."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "koskenkorva-apple",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "koskenkorva-blueberry",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "black-russian",
+    "espresso-martini"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "vodka",
+    "coffee",
+    "shot",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

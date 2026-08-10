@@ -1,0 +1,167 @@
+{
+  "id": "long-island-iced-tea",
+  "slug": "long-island-iced-tea",
+  "name": "Long Island Iced Tea",
+  "aliases": [
+    "LIIT",
+    "Long Island"
+  ],
+  "description": "Vodka, gin, tequila, rum, and orange liqueur shaken with lemon and syrup, then topped with cola—looks like iced tea, drinks like a party.",
+  "history": "A late-20th-century American multi-spirit highball. Keep the cola light so the drink stays bright, not syrupy.",
+  "origin": "United States",
+  "whyItWorks": "Equal-ish base spirits plus citrus and a cola top create familiar iced-tea color with layered strength.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Long Island",
+  "flavorProfiles": [
+    "citrus",
+    "cola",
+    "strong",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 5,
+  "strength": "strong",
+  "glassware": "Highball or collins glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lemon wedge"
+  ],
+  "illustrationKey": "long-island-iced-tea",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "gin",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "white_rum",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cointreau",
+      "amount": 0.5,
+      "unit": "oz",
+      "label": "Cointreau or triple sec",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cola",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    },
+    {
+      "ingredientId": "lemon",
+      "amount": 1,
+      "unit": "piece",
+      "optional": true,
+      "scaleMode": "garnish"
+    }
+  ],
+  "steps": [
+    "Shake vodka, gin, tequila, rum, Cointreau, lemon juice, and simple syrup with ice.",
+    "Strain into a tall glass filled with fresh ice.",
+    "Top with a splash of cola and garnish with lemon."
+  ],
+  "techniqueNotes": [
+    "A splash of cola is enough—too much turns it into soda pop.",
+    "Triple sec is fine if you prefer Finest Call for batching."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "Neutral vodka that stays in the background."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 2,
+      "rationale": "Clean gin botanicals under the multi-spirit mix."
+    },
+    {
+      "bottleId": "kirkland-cristalino",
+      "rank": 3,
+      "rationale": "Smooth tequila component."
+    },
+    {
+      "bottleId": "havana-club-3",
+      "rank": 4,
+      "rationale": "Classic white-rum backbone."
+    },
+    {
+      "bottleId": "cointreau",
+      "rank": 5,
+      "rationale": "Preferred orange liqueur for polish."
+    },
+    {
+      "bottleId": "finest-call-triple-sec",
+      "rank": 6,
+      "rationale": "Party batching option."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "cointreau",
+      "alternatives": [
+        "triple_sec",
+        "grand_marnier"
+      ],
+      "notes": "Grand Marnier reads richer and slightly cognac-like."
+    }
+  ],
+  "variations": [
+    {
+      "id": "long-beach-iced-tea",
+      "name": "Long Beach Iced Tea",
+      "notes": "Top with cranberry instead of cola.",
+      "relatedCocktailId": "long-beach-iced-tea"
+    }
+  ],
+  "relatedCocktailIds": [
+    "cuba-libre",
+    "kamikaze",
+    "long-beach-iced-tea"
+  ],
+  "seasonality": [
+    "summer",
+    "year-round"
+  ],
+  "tags": [
+    "party",
+    "strong",
+    "classic",
+    "popular",
+    "cola"
+  ],
+  "featuredBottleImages": []
+}

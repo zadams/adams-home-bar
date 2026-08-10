@@ -51,7 +51,7 @@ export default defineConfig({
         categories: ['food', 'lifestyle'],
       },
       workbox: {
-        globPatterns: ['**/*.{js,css,html,ico,svg,png,jpg,jpeg,json,woff2}'],
+        globPatterns: ['**/*.{js,css,html,ico,svg,png,jpg,jpeg,webp,json,woff2}'],
         navigateFallback: 'index.html',
         navigateFallbackDenylist: [/^\/api/],
         // Cocktail + ingredient photo set is large; keep offline cache roomy.

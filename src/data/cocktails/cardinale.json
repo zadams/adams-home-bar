@@ -1,0 +1,88 @@
+{
+  "id": "cardinale",
+  "slug": "cardinale",
+  "name": "Cardinale",
+  "aliases": [],
+  "description": "Gin, dry vermouth, and Campari—a drier Negroni.",
+  "whyItWorks": "Dry vermouth sharpens Campari against gin botanicals.",
+  "classifications": [
+    "classic",
+    "aperitivo",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Negroni",
+  "flavorProfiles": [
+    "bitter",
+    "botanical",
+    "dry"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Coupe or rocks",
+  "ice": "Stirred",
+  "garnish": [
+    "Orange or lemon peel"
+  ],
+  "illustrationKey": "cardinale",
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "dry_vermouth",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "campari",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Stir with ice.",
+    "Strain up or over a rock.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "negroni",
+    "old-pal",
+    "americano"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "campari",
+    "classic",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

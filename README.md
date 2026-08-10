@@ -7,6 +7,7 @@ Installable Progressive Web App for browsing and mixing cocktails from your home
 ## Features
 
 - 300+ cocktail recipes (JSON) with bottle recommendations
+- Editorial illustration system (art direction + WebP pipeline; photos as interim fallback)
 - Seeded home-bar inventory with editable status
 - Readiness matching, Make Something rankings, shopping list
 - Favorites, ratings, tasting notes, drink history, Cocktail Journey
@@ -20,7 +21,13 @@ npm run dev
 npm test
 npm run build
 npm run preview
+npm run index:cocktails
+npm run illustrations:prompts
+npm run illustrations:sync-registry
+npm run illustrations:validate
 ```
+
+Illustration Bible and prompts: `docs/illustration-system/`.
 
 ## Install on iPad
 

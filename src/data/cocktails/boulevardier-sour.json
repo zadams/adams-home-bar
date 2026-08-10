@@ -1,0 +1,100 @@
+{
+  "id": "boulevardier-sour",
+  "slug": "boulevardier-sour",
+  "name": "Boulevardier Sour",
+  "aliases": [],
+  "description": "Boulevardier shaken with lemon—whiskey-bitter sour.",
+  "whyItWorks": "Lemon cuts sweet vermouth richness against Campari and bourbon.",
+  "classifications": [
+    "sour",
+    "variation"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "bitter",
+    "citrus",
+    "oak"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Shaken; rocks",
+  "garnish": [
+    "Orange peel",
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "boulevardier-sour",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 1.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "campari",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake with ice.",
+    "Strain over ice.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "barrell-vantage",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "boulevardier",
+    "negroni-sour",
+    "whiskey-sour"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "bourbon",
+    "campari",
+    "sour",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

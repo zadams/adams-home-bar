@@ -1,0 +1,97 @@
+{
+  "id": "bellini",
+  "slug": "bellini",
+  "name": "Bellini",
+  "aliases": [],
+  "description": "Peach and prosecco—Venice’s brunch sparkler, home-bar friendly with peach liqueur.",
+  "history": "Created at Harry’s Bar in Venice; traditionally white peach puree.",
+  "origin": "Venice, Italy",
+  "whyItWorks": "Peach aroma rides bubbles without needing a spirit base.",
+  "classifications": [
+    "classic",
+    "sparkling",
+    "brunch"
+  ],
+  "cocktailFamily": "Sparkling",
+  "flavorProfiles": [
+    "peach",
+    "sparkling",
+    "light"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "light",
+  "glassware": "Flute",
+  "ice": "None",
+  "garnish": [
+    "Peach slice"
+  ],
+  "illustrationKey": "bellini",
+  "ingredients": [
+    {
+      "ingredientId": "peach_liqueur",
+      "amount": 1,
+      "unit": "oz",
+      "label": "Peach liqueur or puree",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "prosecco",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Add peach liqueur to a flute.",
+    "Top with prosecco and stir once gently."
+  ],
+  "techniqueNotes": [
+    "Use peach puree when in season for a truer Harry’s Bar style."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "montbisou-peches",
+      "rank": 1,
+      "rationale": "Peach-forward and elegant under bubbles."
+    },
+    {
+      "bottleId": "finest-call-peach",
+      "rank": 2,
+      "rationale": "Easy pantry peach for brunch."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "peach_liqueur",
+      "alternatives": [
+        "peach_vodka"
+      ],
+      "notes": "Peach vodka makes a slightly stronger Bellini."
+    }
+  ],
+  "variations": [
+    {
+      "id": "peach-vodka-bellini-ish",
+      "name": "Peach Sparkler",
+      "notes": "House peach-vodka variant.",
+      "relatedCocktailId": "peach-vodka-bellini-ish"
+    }
+  ],
+  "relatedCocktailIds": [
+    "mimosa",
+    "peach-vodka-bellini-ish",
+    "aperol-spritz"
+  ],
+  "seasonality": [
+    "brunch",
+    "summer"
+  ],
+  "tags": [
+    "peach",
+    "sparkling",
+    "brunch",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

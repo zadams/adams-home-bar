@@ -1,0 +1,87 @@
+{
+  "id": "irish-mule",
+  "slug": "irish-mule",
+  "name": "Irish Mule",
+  "aliases": [],
+  "description": "House Irish-style mule using whiskey, lime, and ginger beer.",
+  "whyItWorks": "Same mule architecture with a whiskey backbone.",
+  "classifications": [
+    "highball",
+    "variation"
+  ],
+  "cocktailFamily": "Mule",
+  "flavorProfiles": [
+    "ginger",
+    "lime",
+    "oak"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Copper mug or highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime wheel"
+  ],
+  "illustrationKey": "irish-mule",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Irish whiskey or bourbon"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "ginger_beer",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build over ice.",
+    "Top with ginger beer.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angels-envy-bourbon",
+      "rank": 1,
+      "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 2,
+      "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "barrell-vantage",
+      "rank": 3,
+      "rationale": "Also excellent from your shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "kentucky-mule",
+    "moscow-mule"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "whiskey",
+    "mule",
+    "ginger",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}

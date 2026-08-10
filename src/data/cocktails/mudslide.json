@@ -1,0 +1,81 @@
+{
+  "id": "mudslide",
+  "slug": "mudslide",
+  "name": "Mudslide",
+  "aliases": [],
+  "description": "Vodka, coffee liqueur, and Irish cream—frozen at resorts, excellent on the rocks at home.",
+  "whyItWorks": "Baileys replaces dairy while adding chocolate-malt sweetness to coffee liqueur.",
+  "classifications": [
+    "classic",
+    "dessert"
+  ],
+  "cocktailFamily": "Russian",
+  "flavorProfiles": [
+    "coffee",
+    "cream",
+    "chocolate",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Cubed ice (or blended)",
+  "garnish": [],
+  "illustrationKey": "mudslide",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "coffee_liqueur",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "baileys",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake with ice and strain over fresh ice, or build and stir."
+  ],
+  "techniqueNotes": [
+    "Blend with ice for the vacation version."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "Clean vodka."
+    },
+    {
+      "bottleId": "baileys",
+      "rank": 2,
+      "rationale": "House Irish cream."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "black-russian",
+    "white-russian"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "vodka",
+    "coffee",
+    "baileys",
+    "dessert",
+    "popular"
+  ],
+  "featuredBottleImages": []
+}
