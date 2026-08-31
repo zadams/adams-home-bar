@@ -1,27 +1,37 @@
 {
   "adios-motherfucker": {
-    "src": "/images/cocktails/webp/long-island-iced-tea.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/adios-motherfucker.webp",
+    "kind": "illustration",
     "glassware": "Highball or collins",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "vodka",
       "gin",
       "white_rum",
       "blanco_tequila"
-    ]
+    ],
+    "artTemplate": "highball",
+    "liquidPalette": {
+      "name": "deep-cola",
+      "hex": "#432B20"
+    }
   },
   "after-dinner-mint": {
-    "src": "/images/cocktails/webp/baileys-peppermint.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/after-dinner-mint.webp",
+    "kind": "illustration",
     "glassware": "Rocks or shot",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "baileys",
       "peppermint_liqueur"
-    ]
+    ],
+    "artTemplate": "dessert",
+    "liquidPalette": {
+      "name": "cafe-cream",
+      "hex": "#A88162"
+    }
   },
   "airmail": {
     "src": "/images/cocktails/webp/airmail.webp",
@@ -271,28 +281,38 @@
     "fallbackSrc": "/images/cocktails/photos/aperol-spritz.jpg"
   },
   "aperol-tonic": {
-    "src": "/images/cocktails/webp/aperol-spritz.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/aperol-tonic.webp",
+    "kind": "illustration",
     "glassware": "Highball or wine glass",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "aperol",
       "tonic_water"
-    ]
+    ],
+    "artTemplate": "highball",
+    "liquidPalette": {
+      "name": "luminous-orange",
+      "hex": "#E95B20"
+    }
   },
   "aperol-margarita": {
-    "src": "/images/cocktails/webp/margarita.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/aperol-margarita.webp",
+    "kind": "illustration",
     "glassware": "Rocks glass",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "blanco_tequila",
       "aperol",
       "lime_juice",
       "agave_syrup"
-    ]
+    ],
+    "artTemplate": "sour",
+    "liquidPalette": {
+      "name": "luminous-orange",
+      "hex": "#E95B20"
+    }
   },
   "aperol-negroni": {
     "src": "/images/cocktails/webp/aperol-negroni.webp",
@@ -556,16 +576,21 @@
     }
   },
   "aquavit-boulevardier": {
-    "src": "/images/cocktails/webp/boulevardier.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/aquavit-boulevardier.webp",
+    "kind": "illustration",
     "glassware": "Rocks glass",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "aquavit",
       "campari",
       "sweet_vermouth"
-    ]
+    ],
+    "artTemplate": "rocks-spirit-forward",
+    "liquidPalette": {
+      "name": "deep-garnet",
+      "hex": "#742833"
+    }
   },
   "aquavit-collins": {
     "src": "/images/cocktails/webp/aquavit-collins.webp",
@@ -799,39 +824,54 @@
     "fallbackSrc": "/images/cocktails/photos/daiquiri.jpg"
   },
   "bahama-mama": {
-    "src": "/images/cocktails/webp/pina-colada.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/bahama-mama.webp",
+    "kind": "illustration",
     "glassware": "Hurricane or highball",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "coconut_rum",
       "gold_rum",
       "orange_juice",
       "lime_juice"
-    ]
+    ],
+    "artTemplate": "tropical",
+    "liquidPalette": {
+      "name": "burnished-orange",
+      "hex": "#D66A2B"
+    }
   },
   "baileys-coffee": {
-    "src": "/images/cocktails/webp/hot-toddy.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/baileys-coffee.webp",
+    "kind": "illustration",
     "glassware": "Mug",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "baileys",
       "hot_water"
-    ]
+    ],
+    "artTemplate": "editorial-standard",
+    "liquidPalette": {
+      "name": "cafe-cream",
+      "hex": "#A88162"
+    }
   },
   "baileys-martini": {
-    "src": "/images/cocktails/webp/white-russian.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/baileys-martini.webp",
+    "kind": "illustration",
     "glassware": "Coupe",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "vodka",
       "baileys"
-    ]
+    ],
+    "artTemplate": "dessert",
+    "liquidPalette": {
+      "name": "cafe-cream",
+      "hex": "#A88162"
+    }
   },
   "baileys-on-the-rocks": {
     "src": "/images/cocktails/webp/baileys-on-the-rocks.webp",
@@ -973,15 +1013,20 @@
     }
   },
   "banshee": {
-    "src": "/images/cocktails/webp/banana-baileys.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/banshee.webp",
+    "kind": "illustration",
     "glassware": "Coupe",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "creme_de_banane",
       "baileys"
-    ]
+    ],
+    "artTemplate": "dessert",
+    "liquidPalette": {
+      "name": "ivory-cream",
+      "hex": "#E1D4BD"
+    }
   },
   "batanga": {
     "src": "/images/cocktails/webp/batanga.webp",
@@ -1036,17 +1081,22 @@
     "fallbackSrc": "/images/cocktails/photos/becherovka-tonic.jpg"
   },
   "becherovka-negroni": {
-    "src": "/images/cocktails/webp/negroni.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/becherovka-negroni.webp",
+    "kind": "illustration",
     "glassware": "Rocks glass",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "gin",
       "campari",
       "becherovka",
       "sweet_vermouth"
-    ]
+    ],
+    "artTemplate": "rocks-spirit-forward",
+    "liquidPalette": {
+      "name": "ruby-garnet",
+      "hex": "#7D1827"
+    }
   },
   "becherovka-sour": {
     "src": "/images/cocktails/webp/becherovka-sour.webp",
@@ -1118,17 +1168,22 @@
     }
   },
   "between-the-sheets": {
-    "src": "/images/cocktails/webp/sidecar-bourbon.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/between-the-sheets.webp",
+    "kind": "illustration",
     "glassware": "Coupe",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "white_rum",
       "bourbon",
       "cointreau",
       "lemon_juice"
-    ]
+    ],
+    "artTemplate": "stemmed-sour",
+    "liquidPalette": {
+      "name": "pale-citrus",
+      "hex": "#D7D39A"
+    }
   },
   "black-russian": {
     "src": "/images/cocktails/webp/black-russian.webp",
@@ -1325,26 +1380,36 @@
     "fallbackSrc": "/images/cocktails/photos/whiskey-sour.jpg"
   },
   "bobby-burns": {
-    "src": "/images/cocktails/webp/rob-roy.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/bobby-burns.webp",
+    "kind": "illustration",
     "glassware": "Coupe",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "scotch",
       "sweet_vermouth",
       "benedictine"
-    ]
+    ],
+    "artTemplate": "stemmed-spirit-forward",
+    "liquidPalette": {
+      "name": "warm-amber",
+      "hex": "#B06932"
+    }
   },
   "boilermaker": {
-    "src": "/images/cocktails/webp/whiskey-highball.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/boilermaker.webp",
+    "kind": "illustration",
     "glassware": "Shot + beer glass",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "bourbon"
-    ]
+    ],
+    "artTemplate": "rocks-spirit-forward",
+    "liquidPalette": {
+      "name": "warm-amber",
+      "hex": "#B06932"
+    }
   },
   "boulevardier": {
     "src": "/images/cocktails/webp/boulevardier.webp",
@@ -2262,16 +2327,21 @@
     }
   },
   "compadre": {
-    "src": "/images/cocktails/webp/tegroni.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/compadre.webp",
+    "kind": "illustration",
     "glassware": "Rocks glass",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "blanco_tequila",
       "campari",
       "lime_juice"
-    ]
+    ],
+    "artTemplate": "sour",
+    "liquidPalette": {
+      "name": "ruby-garnet",
+      "hex": "#7D1827"
+    }
   },
   "contessa": {
     "src": "/images/cocktails/webp/contessa.webp",
@@ -2540,15 +2610,20 @@
     }
   },
   "espresso-martini": {
-    "src": "/images/cocktails/webp/black-russian.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/espresso-martini.webp",
+    "kind": "illustration",
     "glassware": "Coupe",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "vodka",
       "coffee_liqueur"
-    ]
+    ],
+    "artTemplate": "dessert",
+    "liquidPalette": {
+      "name": "mahogany",
+      "hex": "#783F28"
+    }
   },
   "aquavit-dry-martini-build": {
     "src": "/images/cocktails/webp/aquavit-dry-martini-build.webp",
@@ -2746,15 +2821,20 @@
     "fallbackSrc": "/images/cocktails/photos/french-75.jpg"
   },
   "french-connection": {
-    "src": "/images/cocktails/webp/old-fashioned.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/french-connection.webp",
+    "kind": "illustration",
     "glassware": "Rocks glass",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "bourbon",
       "grand_marnier"
-    ]
+    ],
+    "artTemplate": "rocks-spirit-forward",
+    "liquidPalette": {
+      "name": "luminous-orange",
+      "hex": "#E95B20"
+    }
   },
   "french-manhattan": {
     "src": "/images/cocktails/webp/french-manhattan.webp",
@@ -2794,28 +2874,38 @@
     "fallbackSrc": "/images/cocktails/photos/paloma.jpg"
   },
   "frozen-daiquiri": {
-    "src": "/images/cocktails/webp/daiquiri.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/frozen-daiquiri.webp",
+    "kind": "illustration",
     "glassware": "Coupe or hurricane",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "white_rum",
       "lime_juice",
       "simple_syrup"
-    ]
+    ],
+    "artTemplate": "sour",
+    "liquidPalette": {
+      "name": "pale-citrus",
+      "hex": "#D7D39A"
+    }
   },
   "frozen-margarita": {
-    "src": "/images/cocktails/webp/margarita.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/frozen-margarita.webp",
+    "kind": "illustration",
     "glassware": "Margarita or coupe",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "blanco_tequila",
       "cointreau",
       "lime_juice"
-    ]
+    ],
+    "artTemplate": "sour",
+    "liquidPalette": {
+      "name": "pale-citrus",
+      "hex": "#D8D4A8"
+    }
   },
   "fuzzy-navel": {
     "src": "/images/cocktails/webp/fuzzy-navel.webp",
@@ -3186,15 +3276,20 @@
     "fallbackSrc": "/images/cocktails/photos/aperol-spritz.jpg"
   },
   "godfather": {
-    "src": "/images/cocktails/webp/rob-roy.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/godfather.webp",
+    "kind": "illustration",
     "glassware": "Rocks glass",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "scotch",
       "amaretto"
-    ]
+    ],
+    "artTemplate": "rocks-spirit-forward",
+    "liquidPalette": {
+      "name": "warm-amber",
+      "hex": "#B06932"
+    }
   },
   "godmother": {
     "src": "/images/cocktails/webp/godmother.webp",
@@ -3390,16 +3485,21 @@
     }
   },
   "gold-rush-rye": {
-    "src": "/images/cocktails/webp/gold-rush.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/gold-rush-rye.webp",
+    "kind": "illustration",
     "glassware": "Rocks glass",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "rye",
       "lemon_juice",
       "honey_syrup"
-    ]
+    ],
+    "artTemplate": "sour",
+    "liquidPalette": {
+      "name": "warm-amber",
+      "hex": "#B06932"
+    }
   },
   "grand-marnier-tonic": {
     "src": "/images/cocktails/webp/grand-marnier-tonic.webp",
@@ -3488,17 +3588,22 @@
     "fallbackSrc": "/images/cocktails/photos/paloma.jpg"
   },
   "grog": {
-    "src": "/images/cocktails/webp/hot-toddy.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/grog.webp",
+    "kind": "illustration",
     "glassware": "Mug",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "gold_rum",
       "hot_water",
       "lemon_juice",
       "simple_syrup"
-    ]
+    ],
+    "artTemplate": "editorial-standard",
+    "liquidPalette": {
+      "name": "warm-amber",
+      "hex": "#B06932"
+    }
   },
   "hemingway-daiquiri": {
     "src": "/images/cocktails/webp/hemingway-daiquiri.webp",
@@ -3710,16 +3815,21 @@
     }
   },
   "hot-buttered-rum": {
-    "src": "/images/cocktails/webp/hot-toddy.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/hot-buttered-rum.webp",
+    "kind": "illustration",
     "glassware": "Mug",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "spiced_rum",
       "brown_sugar_cinnamon_syrup",
       "hot_water"
-    ]
+    ],
+    "artTemplate": "editorial-standard",
+    "liquidPalette": {
+      "name": "mahogany",
+      "hex": "#783F28"
+    }
   },
   "hot-toddy": {
     "src": "/images/cocktails/webp/hot-toddy.webp",
@@ -3813,17 +3923,22 @@
     "fallbackSrc": "/images/cocktails/photos/negroni.jpg"
   },
   "hurricane-house": {
-    "src": "/images/cocktails/webp/planters-punch.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/hurricane-house.webp",
+    "kind": "illustration",
     "glassware": "Hurricane glass or highball",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "gold_rum",
       "white_rum",
       "lemon_juice",
       "orange_juice"
-    ]
+    ],
+    "artTemplate": "tropical",
+    "liquidPalette": {
+      "name": "cherry-red",
+      "hex": "#8B2332"
+    }
   },
   "improved-whiskey-cocktail": {
     "src": "/images/cocktails/webp/improved-whiskey-cocktail.webp",
@@ -3844,16 +3959,21 @@
     }
   },
   "irish-coffee-house": {
-    "src": "/images/cocktails/webp/hot-toddy.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/irish-coffee-house.webp",
+    "kind": "illustration",
     "glassware": "Irish coffee glass or mug",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "bourbon",
       "brown_sugar_cinnamon_syrup",
       "hot_water"
-    ]
+    ],
+    "artTemplate": "editorial-standard",
+    "liquidPalette": {
+      "name": "mahogany",
+      "hex": "#783F28"
+    }
   },
   "irish-mule": {
     "src": "/images/cocktails/webp/irish-mule.webp",
@@ -3962,16 +4082,21 @@
     "fallbackSrc": "/images/cocktails/photos/cosmopolitan.jpg"
   },
   "kamikaze-shot": {
-    "src": "/images/cocktails/webp/kamikaze.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/kamikaze-shot.webp",
+    "kind": "illustration",
     "glassware": "Shot glass",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "vodka",
       "triple_sec",
       "lime_juice"
-    ]
+    ],
+    "artTemplate": "sour",
+    "liquidPalette": {
+      "name": "pale-citrus",
+      "hex": "#D8D4A8"
+    }
   },
   "kentucky-mule": {
     "src": "/images/cocktails/webp/kentucky-mule.webp",
@@ -4047,16 +4172,21 @@
     "fallbackSrc": "/images/cocktails/photos/white-lady.jpg"
   },
   "lemon-drop-shot": {
-    "src": "/images/cocktails/webp/lemon-drop.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/lemon-drop-shot.webp",
+    "kind": "illustration",
     "glassware": "Shot glass",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "vodka",
       "lemon_juice",
       "simple_syrup"
-    ]
+    ],
+    "artTemplate": "sour",
+    "liquidPalette": {
+      "name": "pale-citrus",
+      "hex": "#D7D39A"
+    }
   },
   "lemon_vodka-tonic-build": {
     "src": "/images/cocktails/webp/lemon_vodka-tonic-build.webp",
@@ -4340,16 +4470,21 @@
     }
   },
   "margarita-on-the-rocks": {
-    "src": "/images/cocktails/webp/margarita.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/margarita-on-the-rocks.webp",
+    "kind": "illustration",
     "glassware": "Rocks glass",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "blanco_tequila",
       "cointreau",
       "lime_juice"
-    ]
+    ],
+    "artTemplate": "sour",
+    "liquidPalette": {
+      "name": "pale-citrus",
+      "hex": "#D7D39A"
+    }
   },
   "martinez": {
     "src": "/images/cocktails/webp/martinez.webp",
@@ -4386,29 +4521,39 @@
     }
   },
   "mary-pickford": {
-    "src": "/images/cocktails/webp/bacardi-cocktail.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/mary-pickford.webp",
+    "kind": "illustration",
     "glassware": "Coupe",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "white_rum",
       "pineapple_juice",
       "grenadine",
       "maraschino"
-    ]
+    ],
+    "artTemplate": "stemmed-sour",
+    "liquidPalette": {
+      "name": "cherry-red",
+      "hex": "#8B2332"
+    }
   },
   "mexican-candy-shot": {
-    "src": "/images/cocktails/webp/tequila-sunrise.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/mexican-candy-shot.webp",
+    "kind": "illustration",
     "glassware": "Shot glass",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "blanco_tequila",
       "lime_juice",
       "grenadine"
-    ]
+    ],
+    "artTemplate": "sour",
+    "liquidPalette": {
+      "name": "cherry-red",
+      "hex": "#8B2332"
+    }
   },
   "mexican-mule": {
     "src": "/images/cocktails/webp/mexican-mule.webp",
@@ -4463,16 +4608,21 @@
     }
   },
   "mind-eraser": {
-    "src": "/images/cocktails/webp/black-russian.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/mind-eraser.webp",
+    "kind": "illustration",
     "glassware": "Rocks or highball short",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "coffee_liqueur",
       "vodka",
       "club_soda"
-    ]
+    ],
+    "artTemplate": "highball",
+    "liquidPalette": {
+      "name": "deep-cola",
+      "hex": "#432B20"
+    }
   },
   "mint-julep": {
     "src": "/images/cocktails/webp/mint-julep.webp",
@@ -4546,16 +4696,21 @@
     }
   },
   "monte-carlo": {
-    "src": "/images/cocktails/webp/old-fashioned.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/monte-carlo.webp",
+    "kind": "illustration",
     "glassware": "Rocks glass",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "rye",
       "benedictine",
       "angostura_bitters"
-    ]
+    ],
+    "artTemplate": "rocks-spirit-forward",
+    "liquidPalette": {
+      "name": "warm-amber",
+      "hex": "#A86939"
+    }
   },
   "moscow-mule": {
     "src": "/images/cocktails/webp/moscow-mule.webp",
@@ -4751,17 +4906,22 @@
     "fallbackSrc": "/images/cocktails/photos/rum-old-fashioned.jpg"
   },
   "painkiller": {
-    "src": "/images/cocktails/webp/pina-colada.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/painkiller.webp",
+    "kind": "illustration",
     "glassware": "Hurricane or double rocks",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "gold_rum",
       "pineapple_juice",
       "orange_juice",
       "cream_of_coconut"
-    ]
+    ],
+    "artTemplate": "tropical",
+    "liquidPalette": {
+      "name": "ivory-cream",
+      "hex": "#E1D4BD"
+    }
   },
   "paloma": {
     "src": "/images/cocktails/webp/paloma.webp",
@@ -5275,17 +5435,22 @@
     }
   },
   "queens-park-swizzle": {
-    "src": "/images/cocktails/webp/mojito.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/queens-park-swizzle.webp",
+    "kind": "illustration",
     "glassware": "Collins or tall glass",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "white_rum",
       "lime_juice",
       "simple_syrup",
       "mint"
-    ]
+    ],
+    "artTemplate": "highball",
+    "liquidPalette": {
+      "name": "pale-citrus",
+      "hex": "#D7D39A"
+    }
   },
   "ranch-water": {
     "src": "/images/cocktails/webp/ranch-water.webp",
@@ -5341,16 +5506,21 @@
     "fallbackSrc": "/images/cocktails/photos/manhattan.jpg"
   },
   "remsen-cooler": {
-    "src": "/images/cocktails/webp/gin-soda.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/remsen-cooler.webp",
+    "kind": "illustration",
     "glassware": "Highball glass",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "gin",
       "club_soda",
       "lemon"
-    ]
+    ],
+    "artTemplate": "highball",
+    "liquidPalette": {
+      "name": "crystal-clear",
+      "hex": "#DDE2DD"
+    }
   },
   "right-hand": {
     "src": "/images/cocktails/webp/right-hand.webp",
@@ -5408,15 +5578,20 @@
     "fallbackSrc": "/images/cocktails/photos/negroni.jpg"
   },
   "roy-rogers": {
-    "src": "/images/cocktails/webp/cuba-libre.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/roy-rogers.webp",
+    "kind": "illustration",
     "glassware": "Highball glass",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "grenadine",
       "cola"
-    ]
+    ],
+    "artTemplate": "highball",
+    "liquidPalette": {
+      "name": "deep-cola",
+      "hex": "#432B20"
+    }
   },
   "royal-bermuda-yacht-club": {
     "src": "/images/cocktails/webp/royal-bermuda-yacht-club.webp",
@@ -6396,16 +6571,21 @@
     "fallbackSrc": "/images/cocktails/photos/daiquiri.jpg"
   },
   "spicy-margarita": {
-    "src": "/images/cocktails/webp/margarita.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/spicy-margarita.webp",
+    "kind": "illustration",
     "glassware": "Rocks glass",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "blanco_tequila",
       "cointreau",
       "lime_juice"
-    ]
+    ],
+    "artTemplate": "sour",
+    "liquidPalette": {
+      "name": "pale-citrus",
+      "hex": "#D7D39A"
+    }
   },
   "spicy-ranch-water": {
     "src": "/images/cocktails/webp/spicy-ranch-water.webp",
@@ -6426,15 +6606,20 @@
     "fallbackSrc": "/images/cocktails/photos/ranch-water.jpg"
   },
   "stinger": {
-    "src": "/images/cocktails/webp/peppermint-bourbon.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/stinger.webp",
+    "kind": "illustration",
     "glassware": "Coupe or rocks",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "bourbon",
       "peppermint_liqueur"
-    ]
+    ],
+    "artTemplate": "dessert",
+    "liquidPalette": {
+      "name": "crystal-clear",
+      "hex": "#DDE2DD"
+    }
   },
   "sunrise-margarita": {
     "src": "/images/cocktails/webp/sunrise-margarita.webp",
@@ -6561,16 +6746,21 @@
     "fallbackSrc": "/images/cocktails/photos/martini.jpg"
   },
   "tequila-mockingbird": {
-    "src": "/images/cocktails/webp/margarita.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/tequila-mockingbird.webp",
+    "kind": "illustration",
     "glassware": "Coupe or rocks",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "blanco_tequila",
       "peppermint_liqueur",
       "lime_juice"
-    ]
+    ],
+    "artTemplate": "sour",
+    "liquidPalette": {
+      "name": "pale-apple-green",
+      "hex": "#B7BF76"
+    }
   },
   "blanco_tequila-of-build": {
     "src": "/images/cocktails/webp/blanco_tequila-of-build.webp",
@@ -6678,29 +6868,39 @@
     }
   },
   "texas-tea": {
-    "src": "/images/cocktails/webp/long-island-iced-tea.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/texas-tea.webp",
+    "kind": "illustration",
     "glassware": "Highball or collins",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "vodka",
       "gin",
       "white_rum",
       "blanco_tequila"
-    ]
+    ],
+    "artTemplate": "highball",
+    "liquidPalette": {
+      "name": "deep-cola",
+      "hex": "#432B20"
+    }
   },
   "three-wise-men": {
-    "src": "/images/cocktails/webp/old-fashioned.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/three-wise-men.webp",
+    "kind": "illustration",
     "glassware": "Shot glass",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "bourbon",
       "scotch",
       "rye"
-    ]
+    ],
+    "artTemplate": "rocks-spirit-forward",
+    "liquidPalette": {
+      "name": "warm-amber",
+      "hex": "#B06932"
+    }
   },
   "tom-collins": {
     "src": "/images/cocktails/webp/tom-collins.webp",
@@ -7108,16 +7308,21 @@
     "fallbackSrc": "/images/cocktails/photos/martini.jpg"
   },
   "whiskey-cobbler": {
-    "src": "/images/cocktails/webp/whiskey-smash.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/whiskey-cobbler.webp",
+    "kind": "illustration",
     "glassware": "Cobbler or wine glass",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "bourbon",
       "simple_syrup",
       "orange"
-    ]
+    ],
+    "artTemplate": "smash",
+    "liquidPalette": {
+      "name": "warm-amber",
+      "hex": "#B06932"
+    }
   },
   "whiskey-daisy": {
     "src": "/images/cocktails/webp/whiskey-daisy.webp",
@@ -7433,29 +7638,39 @@
     }
   },
   "yellow-bird": {
-    "src": "/images/cocktails/webp/daiquiri.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/yellow-bird.webp",
+    "kind": "illustration",
     "glassware": "Coupe or coupe-tiki",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "white_rum",
       "triple_sec",
       "creme_de_banane",
       "lime_juice"
-    ]
+    ],
+    "artTemplate": "sour",
+    "liquidPalette": {
+      "name": "golden-yellow",
+      "hex": "#D7A62A"
+    }
   },
   "zombie-house": {
-    "src": "/images/cocktails/webp/mai-tai.webp",
-    "kind": "photo",
+    "src": "/images/cocktails/webp/zombie-house.webp",
+    "kind": "illustration",
     "glassware": "Tall tiki or collins",
-    "aspectRatio": "4 / 3",
-    "credit": "TheCocktailDB",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
     "ingredients": [
       "gold_rum",
       "white_rum",
       "overproof_rum",
       "lime_juice"
-    ]
+    ],
+    "artTemplate": "tropical",
+    "liquidPalette": {
+      "name": "warm-amber",
+      "hex": "#B06932"
+    }
   }
 }
