@@ -1,0 +1,69 @@
+{
+  "id": "porto-flip",
+  "slug": "porto-flip",
+  "name": "Porto Flip",
+  "aliases": [],
+  "description": "Port, cognac, and egg in a rich nineteenth-century flip.",
+  "history": "An established classic or modern-classic recipe added during the 2026 catalog expansion.",
+  "origin": "International",
+  "whyItWorks": "Each ingredient has a distinct structural role: base, modifier, sweetness, acidity, dilution, or aroma.",
+  "classifications": [
+    "classic"
+  ],
+  "cocktailFamily": "Flip",
+  "flavorProfiles": [
+    "rich",
+    "wine",
+    "spiced"
+  ],
+  "difficulty": "medium",
+  "preparationTime": 5,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Fresh nutmeg"
+  ],
+  "illustrationKey": "porto-flip",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "cognac",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "port",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "egg_white",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "fixed",
+      "label": "Whole egg"
+    }
+  ],
+  "steps": [
+    "Shake without ice to emulsify.",
+    "Shake hard with ice.",
+    "Fine-strain and grate nutmeg on top."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "flip",
+    "rich",
+    "wine",
+    "spiced"
+  ]
+}

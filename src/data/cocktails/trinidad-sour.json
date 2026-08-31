@@ -1,0 +1,71 @@
+{
+  "id": "trinidad-sour",
+  "slug": "trinidad-sour",
+  "name": "Trinidad Sour",
+  "aliases": [],
+  "description": "Angostura bitters lead this unusually spicy, almond-rich sour.",
+  "history": "An established classic or modern-classic recipe added during the 2026 catalog expansion.",
+  "origin": "International",
+  "whyItWorks": "Each ingredient has a distinct structural role: base, modifier, sweetness, acidity, dilution, or aroma.",
+  "classifications": [
+    "classic"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "spiced",
+    "almond",
+    "citrus"
+  ],
+  "difficulty": "medium",
+  "preparationTime": 5,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [],
+  "illustrationKey": "trinidad-sour",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orgeat",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "rye",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake hard with ice.",
+    "Fine-strain into a chilled coupe."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "sour",
+    "spiced",
+    "almond",
+    "citrus"
+  ]
+}

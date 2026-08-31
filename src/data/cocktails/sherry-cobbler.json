@@ -1,0 +1,70 @@
+{
+  "id": "sherry-cobbler",
+  "slug": "sherry-cobbler",
+  "name": "Sherry Cobbler",
+  "aliases": [],
+  "description": "A refreshing nineteenth-century mix of sherry, sugar, citrus, and crushed ice.",
+  "history": "An established classic or modern-classic recipe added during the 2026 catalog expansion.",
+  "origin": "International",
+  "whyItWorks": "Each ingredient has a distinct structural role: base, modifier, sweetness, acidity, dilution, or aroma.",
+  "classifications": [
+    "classic"
+  ],
+  "cocktailFamily": "Cobbler",
+  "flavorProfiles": [
+    "nutty",
+    "citrus",
+    "refreshing"
+  ],
+  "difficulty": "medium",
+  "preparationTime": 5,
+  "strength": "medium",
+  "glassware": "Wine glass",
+  "ice": "Crushed ice",
+  "garnish": [
+    "Seasonal berries",
+    "Orange slice"
+  ],
+  "illustrationKey": "sherry-cobbler",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "oloroso_sherry",
+      "amount": 3,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 2,
+      "unit": "piece",
+      "scaleMode": "fixed",
+      "label": "Orange half-wheels"
+    }
+  ],
+  "steps": [
+    "Shake briefly with ice.",
+    "Strain over crushed ice.",
+    "Garnish with fruit."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "cobbler",
+    "nutty",
+    "citrus",
+    "refreshing"
+  ]
+}

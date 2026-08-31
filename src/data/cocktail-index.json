@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-10T03:39:08.935Z",
-  "count": 437,
+  "generatedAt": "2026-08-31T04:29:56.682Z",
+  "count": 463,
   "cocktails": [
     {
       "id": "adios-motherfucker",
@@ -98,6 +98,36 @@
         "lime_juice",
         "honey_syrup",
         "prosecco"
+      ]
+    },
+    {
+      "id": "alexander",
+      "slug": "alexander",
+      "name": "Alexander",
+      "file": "alexander.json",
+      "cocktailFamily": "Brandy",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "creamy",
+        "chocolate",
+        "rich"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "alexander",
+      "tags": [
+        "brandy",
+        "creamy",
+        "chocolate",
+        "rich"
+      ],
+      "ingredientIds": [
+        "cognac",
+        "creme_de_cacao",
+        "heavy_cream"
       ]
     },
     {
@@ -459,6 +489,36 @@
         "anejo_tequila",
         "lime_juice",
         "agave_syrup"
+      ]
+    },
+    {
+      "id": "angel-face",
+      "slug": "angel-face",
+      "name": "Angel Face",
+      "file": "angel-face.json",
+      "cocktailFamily": "Martini",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "fruity",
+        "strong",
+        "aromatic"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "angel-face",
+      "tags": [
+        "martini",
+        "fruity",
+        "strong",
+        "aromatic"
+      ],
+      "ingredientIds": [
+        "gin",
+        "apricot_liqueur",
+        "calvados"
       ]
     },
     {
@@ -1559,6 +1619,37 @@
       ]
     },
     {
+      "id": "bamboo",
+      "slug": "bamboo",
+      "name": "Bamboo",
+      "file": "bamboo.json",
+      "cocktailFamily": "Aperitif",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "dry",
+        "nutty",
+        "herbal"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Nick & Nora",
+      "illustrationKey": "bamboo",
+      "tags": [
+        "aperitif",
+        "dry",
+        "nutty",
+        "herbal"
+      ],
+      "ingredientIds": [
+        "dry_sherry",
+        "dry_vermouth",
+        "orange_bitters",
+        "angostura_bitters"
+      ]
+    },
+    {
       "id": "banana-boulevardier",
       "slug": "banana-boulevardier",
       "name": "Banana Boulevardier",
@@ -2038,6 +2129,68 @@
       ]
     },
     {
+      "id": "bijou",
+      "slug": "bijou",
+      "name": "Bijou",
+      "file": "bijou.json",
+      "cocktailFamily": "Martini",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "herbal",
+        "rich",
+        "botanical"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Nick & Nora",
+      "illustrationKey": "bijou",
+      "tags": [
+        "martini",
+        "herbal",
+        "rich",
+        "botanical"
+      ],
+      "ingredientIds": [
+        "gin",
+        "sweet_vermouth",
+        "green_chartreuse",
+        "orange_bitters"
+      ]
+    },
+    {
+      "id": "black-manhattan",
+      "slug": "black-manhattan",
+      "name": "Black Manhattan",
+      "file": "black-manhattan.json",
+      "cocktailFamily": "Manhattan",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "bittersweet",
+        "oak",
+        "herbal"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Nick & Nora",
+      "illustrationKey": "black-manhattan",
+      "tags": [
+        "manhattan",
+        "bittersweet",
+        "oak",
+        "herbal"
+      ],
+      "ingredientIds": [
+        "rye",
+        "amaro_averna",
+        "angostura_bitters",
+        "orange_bitters"
+      ]
+    },
+    {
       "id": "black-russian",
       "slug": "black-russian",
       "name": "Black Russian",
@@ -2096,6 +2249,39 @@
         "cherry_liqueur",
         "sweet_vermouth",
         "orange_juice"
+      ]
+    },
+    {
+      "id": "bloody-mary",
+      "slug": "bloody-mary",
+      "name": "Bloody Mary",
+      "file": "bloody-mary.json",
+      "cocktailFamily": "Savory",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "savory",
+        "spicy",
+        "tomato"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Highball",
+      "illustrationKey": "bloody-mary",
+      "tags": [
+        "savory",
+        "savory",
+        "spicy",
+        "tomato"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "tomato_juice",
+        "lemon_juice",
+        "worcestershire_sauce",
+        "hot_sauce",
+        "salt"
       ]
     },
     {
@@ -2945,6 +3131,39 @@
       ]
     },
     {
+      "id": "brandy-crusta",
+      "slug": "brandy-crusta",
+      "name": "Brandy Crusta",
+      "file": "brandy-crusta.json",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "citrus",
+        "brandy",
+        "aromatic"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Wine glass",
+      "illustrationKey": "brandy-crusta",
+      "tags": [
+        "sour",
+        "citrus",
+        "brandy",
+        "aromatic"
+      ],
+      "ingredientIds": [
+        "cognac",
+        "cointreau",
+        "maraschino",
+        "lemon_juice",
+        "simple_syrup",
+        "angostura_bitters"
+      ]
+    },
+    {
       "id": "bronx",
       "slug": "bronx",
       "name": "Bronx",
@@ -3094,6 +3313,36 @@
         "lime_juice",
         "cointreau",
         "grand_marnier"
+      ]
+    },
+    {
+      "id": "caipirinha",
+      "slug": "caipirinha",
+      "name": "Caipirinha",
+      "file": "caipirinha.json",
+      "cocktailFamily": "Caipirinha",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "lime",
+        "cane",
+        "refreshing"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Rocks glass",
+      "illustrationKey": "caipirinha",
+      "tags": [
+        "caipirinha",
+        "lime",
+        "cane",
+        "refreshing"
+      ],
+      "ingredientIds": [
+        "cachaca",
+        "lime",
+        "demerara_sugar"
       ]
     },
     {
@@ -3302,6 +3551,36 @@
         "campari",
         "prosecco",
         "club_soda"
+      ]
+    },
+    {
+      "id": "canchanchara",
+      "slug": "canchanchara",
+      "name": "Canchánchara",
+      "file": "canchanchara.json",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "honey",
+        "lime",
+        "cane"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Rocks glass",
+      "illustrationKey": "canchanchara",
+      "tags": [
+        "sour",
+        "honey",
+        "lime",
+        "cane"
+      ],
+      "ingredientIds": [
+        "white_rum",
+        "honey_syrup",
+        "lime_juice"
       ]
     },
     {
@@ -3521,6 +3800,37 @@
         "cherry_liqueur",
         "lemon_juice",
         "simple_syrup"
+      ]
+    },
+    {
+      "id": "clover-club",
+      "slug": "clover-club",
+      "name": "Clover Club",
+      "file": "clover-club.json",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "raspberry",
+        "citrus",
+        "silky"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "clover-club",
+      "tags": [
+        "sour",
+        "raspberry",
+        "citrus",
+        "silky"
+      ],
+      "ingredientIds": [
+        "gin",
+        "raspberry_syrup",
+        "lemon_juice",
+        "egg_white"
       ]
     },
     {
@@ -4370,6 +4680,37 @@
       ]
     },
     {
+      "id": "division-bell",
+      "slug": "division-bell",
+      "name": "Division Bell",
+      "file": "division-bell.json",
+      "cocktailFamily": "Last Word",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "smoky",
+        "bitter",
+        "citrus"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "division-bell",
+      "tags": [
+        "last-word",
+        "smoky",
+        "bitter",
+        "citrus"
+      ],
+      "ingredientIds": [
+        "mezcal",
+        "aperol",
+        "maraschino",
+        "lime_juice"
+      ]
+    },
+    {
       "id": "bourbon-dry-manhattan",
       "slug": "bourbon-dry-manhattan",
       "name": "Dry Bourbon Manhattan",
@@ -4489,6 +4830,37 @@
         "white_rum",
         "dry_vermouth",
         "cointreau"
+      ]
+    },
+    {
+      "id": "enzoni",
+      "slug": "enzoni",
+      "name": "Enzoni",
+      "file": "enzoni.json",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "bitter",
+        "grape",
+        "citrus"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Rocks glass",
+      "illustrationKey": "enzoni",
+      "tags": [
+        "sour",
+        "bitter",
+        "grape",
+        "citrus"
+      ],
+      "ingredientIds": [
+        "gin",
+        "campari",
+        "lemon_juice",
+        "simple_syrup"
       ]
     },
     {
@@ -4758,6 +5130,35 @@
       ]
     },
     {
+      "id": "fernandito",
+      "slug": "fernandito",
+      "name": "Fernandito",
+      "file": "fernandito.json",
+      "cocktailFamily": "Highball",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "bitter",
+        "cola",
+        "herbal"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Highball",
+      "illustrationKey": "fernandito",
+      "tags": [
+        "highball",
+        "bitter",
+        "cola",
+        "herbal"
+      ],
+      "ingredientIds": [
+        "fernet_branca",
+        "cola"
+      ]
+    },
+    {
       "id": "fifty-fifty-martini",
       "slug": "fifty-fifty-martini",
       "name": "Fifty-Fifty Martini",
@@ -4784,6 +5185,37 @@
       "ingredientIds": [
         "gin",
         "dry_vermouth"
+      ]
+    },
+    {
+      "id": "final-ward",
+      "slug": "final-ward",
+      "name": "Final Ward",
+      "file": "final-ward.json",
+      "cocktailFamily": "Last Word",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "herbal",
+        "citrus",
+        "spicy"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "final-ward",
+      "tags": [
+        "last-word",
+        "herbal",
+        "citrus",
+        "spicy"
+      ],
+      "ingredientIds": [
+        "rye",
+        "green_chartreuse",
+        "maraschino",
+        "lemon_juice"
       ]
     },
     {
@@ -6205,6 +6637,36 @@
       ]
     },
     {
+      "id": "hanky-panky",
+      "slug": "hanky-panky",
+      "name": "Hanky Panky",
+      "file": "hanky-panky.json",
+      "cocktailFamily": "Martini",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "herbal",
+        "bitter",
+        "rich"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Nick & Nora",
+      "illustrationKey": "hanky-panky",
+      "tags": [
+        "martini",
+        "herbal",
+        "bitter",
+        "rich"
+      ],
+      "ingredientIds": [
+        "gin",
+        "sweet_vermouth",
+        "fernet_branca"
+      ]
+    },
+    {
       "id": "hemingway-daiquiri",
       "slug": "hemingway-daiquiri",
       "name": "Hemingway Daiquiri",
@@ -6931,6 +7393,36 @@
         "apple_vodka",
         "lemon_juice",
         "grenadine"
+      ]
+    },
+    {
+      "id": "japanese-cocktail",
+      "slug": "japanese-cocktail",
+      "name": "Japanese Cocktail",
+      "file": "japanese-cocktail.json",
+      "cocktailFamily": "Old Fashioned",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "nutty",
+        "brandy",
+        "aromatic"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "japanese-cocktail",
+      "tags": [
+        "old-fashioned",
+        "nutty",
+        "brandy",
+        "aromatic"
+      ],
+      "ingredientIds": [
+        "cognac",
+        "orgeat",
+        "angostura_bitters"
       ]
     },
     {
@@ -8204,6 +8696,37 @@
       ]
     },
     {
+      "id": "naked-and-famous",
+      "slug": "naked-and-famous",
+      "name": "Naked and Famous",
+      "file": "naked-and-famous.json",
+      "cocktailFamily": "Last Word",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "smoky",
+        "herbal",
+        "citrus"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "naked-and-famous",
+      "tags": [
+        "last-word",
+        "smoky",
+        "herbal",
+        "citrus"
+      ],
+      "ingredientIds": [
+        "mezcal",
+        "yellow_chartreuse",
+        "aperol",
+        "lime_juice"
+      ]
+    },
+    {
       "id": "overproof-daiquiri",
       "slug": "overproof-daiquiri",
       "name": "Navy-Strength Daiquiri",
@@ -8326,6 +8849,101 @@
         "sweet_vermouth",
         "lemon_juice",
         "simple_syrup"
+      ]
+    },
+    {
+      "id": "new-york-sour",
+      "slug": "new-york-sour",
+      "name": "New York Sour",
+      "file": "new-york-sour.json",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "citrus",
+        "wine",
+        "oak"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Rocks glass",
+      "illustrationKey": "new-york-sour",
+      "tags": [
+        "sour",
+        "citrus",
+        "wine",
+        "oak"
+      ],
+      "ingredientIds": [
+        "rye",
+        "lemon_juice",
+        "simple_syrup",
+        "red_wine"
+      ]
+    },
+    {
+      "id": "oaxaca-old-fashioned",
+      "slug": "oaxaca-old-fashioned",
+      "name": "Oaxaca Old Fashioned",
+      "file": "oaxaca-old-fashioned.json",
+      "cocktailFamily": "Old Fashioned",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "agave",
+        "smoky",
+        "bittersweet"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Rocks glass",
+      "illustrationKey": "oaxaca-old-fashioned",
+      "tags": [
+        "old-fashioned",
+        "agave",
+        "smoky",
+        "bittersweet"
+      ],
+      "ingredientIds": [
+        "reposado_tequila",
+        "mezcal",
+        "agave_syrup",
+        "angostura_bitters"
+      ]
+    },
+    {
+      "id": "old-cuban",
+      "slug": "old-cuban",
+      "name": "Old Cuban",
+      "file": "old-cuban.json",
+      "cocktailFamily": "Fizz",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "mint",
+        "citrus",
+        "sparkling"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "old-cuban",
+      "tags": [
+        "fizz",
+        "mint",
+        "citrus",
+        "sparkling"
+      ],
+      "ingredientIds": [
+        "gold_rum",
+        "lime_juice",
+        "simple_syrup",
+        "angostura_bitters",
+        "mint",
+        "prosecco"
       ]
     },
     {
@@ -9304,6 +9922,37 @@
       ]
     },
     {
+      "id": "pisco-sour",
+      "slug": "pisco-sour",
+      "name": "Pisco Sour",
+      "file": "pisco-sour.json",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "grape",
+        "citrus",
+        "silky"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "pisco-sour",
+      "tags": [
+        "sour",
+        "grape",
+        "citrus",
+        "silky"
+      ],
+      "ingredientIds": [
+        "pisco",
+        "lemon_juice",
+        "simple_syrup",
+        "egg_white"
+      ]
+    },
+    {
       "id": "planters-punch",
       "slug": "planters-punch",
       "name": "Planter's Punch",
@@ -9336,6 +9985,36 @@
         "simple_syrup",
         "orange_juice",
         "angostura_bitters"
+      ]
+    },
+    {
+      "id": "porto-flip",
+      "slug": "porto-flip",
+      "name": "Porto Flip",
+      "file": "porto-flip.json",
+      "cocktailFamily": "Flip",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "rich",
+        "wine",
+        "spiced"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "porto-flip",
+      "tags": [
+        "flip",
+        "rich",
+        "wine",
+        "spiced"
+      ],
+      "ingredientIds": [
+        "cognac",
+        "port",
+        "egg_white"
       ]
     },
     {
@@ -9555,6 +10234,36 @@
         "gin",
         "club_soda",
         "lemon"
+      ]
+    },
+    {
+      "id": "revolver",
+      "slug": "revolver",
+      "name": "Revolver",
+      "file": "revolver.json",
+      "cocktailFamily": "Old Fashioned",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "coffee",
+        "oak",
+        "orange"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Nick & Nora",
+      "illustrationKey": "revolver",
+      "tags": [
+        "old-fashioned",
+        "coffee",
+        "oak",
+        "orange"
+      ],
+      "ingredientIds": [
+        "bourbon",
+        "coffee_liqueur",
+        "orange_bitters"
       ]
     },
     {
@@ -10236,6 +10945,38 @@
       ]
     },
     {
+      "id": "saturn",
+      "slug": "saturn",
+      "name": "Saturn",
+      "file": "saturn.json",
+      "cocktailFamily": "Tiki",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "tropical",
+        "citrus",
+        "spiced"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "saturn",
+      "tags": [
+        "tiki",
+        "tropical",
+        "citrus",
+        "spiced"
+      ],
+      "ingredientIds": [
+        "gin",
+        "lemon_juice",
+        "passion_fruit_syrup",
+        "falernum",
+        "orgeat"
+      ]
+    },
+    {
       "id": "sazerac",
       "slug": "sazerac",
       "name": "Sazerac",
@@ -10817,6 +11558,36 @@
         "peach_liqueur",
         "orange_juice",
         "cranberry_juice"
+      ]
+    },
+    {
+      "id": "sherry-cobbler",
+      "slug": "sherry-cobbler",
+      "name": "Sherry Cobbler",
+      "file": "sherry-cobbler.json",
+      "cocktailFamily": "Cobbler",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "nutty",
+        "citrus",
+        "refreshing"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Wine glass",
+      "illustrationKey": "sherry-cobbler",
+      "tags": [
+        "cobbler",
+        "nutty",
+        "citrus",
+        "refreshing"
+      ],
+      "ingredientIds": [
+        "oloroso_sherry",
+        "simple_syrup",
+        "orange"
       ]
     },
     {
@@ -12045,6 +12816,37 @@
         "simple_syrup",
         "angostura_bitters",
         "campari"
+      ]
+    },
+    {
+      "id": "trinidad-sour",
+      "slug": "trinidad-sour",
+      "name": "Trinidad Sour",
+      "file": "trinidad-sour.json",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "spiced",
+        "almond",
+        "citrus"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "trinidad-sour",
+      "tags": [
+        "sour",
+        "spiced",
+        "almond",
+        "citrus"
+      ],
+      "ingredientIds": [
+        "angostura_bitters",
+        "orgeat",
+        "lemon_juice",
+        "rye"
       ]
     },
     {

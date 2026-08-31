@@ -1,0 +1,81 @@
+{
+  "id": "pisco-sour",
+  "slug": "pisco-sour",
+  "name": "Pisco Sour",
+  "aliases": [],
+  "description": "Pisco, citrus, sugar, and egg white with aromatic bitters.",
+  "history": "An established classic or modern-classic recipe added during the 2026 catalog expansion.",
+  "origin": "International",
+  "whyItWorks": "Each ingredient has a distinct structural role: base, modifier, sweetness, acidity, dilution, or aroma.",
+  "classifications": [
+    "classic"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "grape",
+    "citrus",
+    "silky"
+  ],
+  "difficulty": "medium",
+  "preparationTime": 5,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Bitters on foam"
+  ],
+  "illustrationKey": "pisco-sour",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "pisco",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "egg_white",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 3,
+      "unit": "dashes",
+      "scaleMode": "fixed",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Dry-shake without ice.",
+    "Shake again with ice.",
+    "Strain and dot bitters over the foam."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "sour",
+    "grape",
+    "citrus",
+    "silky"
+  ]
+}

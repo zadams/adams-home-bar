@@ -1,0 +1,86 @@
+{
+  "id": "bloody-mary",
+  "slug": "bloody-mary",
+  "name": "Bloody Mary",
+  "aliases": [],
+  "description": "The essential savory vodka highball.",
+  "history": "An established classic or modern-classic recipe added during the 2026 catalog expansion.",
+  "origin": "International",
+  "whyItWorks": "Each ingredient has a distinct structural role: base, modifier, sweetness, acidity, dilution, or aroma.",
+  "classifications": [
+    "classic"
+  ],
+  "cocktailFamily": "Savory",
+  "flavorProfiles": [
+    "savory",
+    "spicy",
+    "tomato"
+  ],
+  "difficulty": "medium",
+  "preparationTime": 5,
+  "strength": "medium",
+  "glassware": "Highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Celery stalk or lemon wedge"
+  ],
+  "illustrationKey": "bloody-mary",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "tomato_juice",
+      "amount": 3,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "worcestershire_sauce",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "hot_sauce",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "salt",
+      "amount": null,
+      "unit": "to_taste",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Roll gently with ice to combine.",
+    "Pour into an ice-filled highball.",
+    "Garnish simply."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "savory",
+    "savory",
+    "spicy",
+    "tomato"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "caipirinha",
+  "slug": "caipirinha",
+  "name": "Caipirinha",
+  "aliases": [],
+  "description": "Brazil’s cachaça, lime, and sugar classic.",
+  "history": "An established classic or modern-classic recipe added during the 2026 catalog expansion.",
+  "origin": "International",
+  "whyItWorks": "Each ingredient has a distinct structural role: base, modifier, sweetness, acidity, dilution, or aroma.",
+  "classifications": [
+    "classic"
+  ],
+  "cocktailFamily": "Caipirinha",
+  "flavorProfiles": [
+    "lime",
+    "cane",
+    "refreshing"
+  ],
+  "difficulty": "medium",
+  "preparationTime": 5,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Crushed ice",
+  "garnish": [
+    "Lime"
+  ],
+  "illustrationKey": "caipirinha",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "cachaca",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "demerara_sugar",
+      "amount": 2,
+      "unit": "tsp",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Muddle lime pieces gently with sugar.",
+    "Add cachaça and crushed ice.",
+    "Churn briefly and cap with more ice."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "caipirinha",
+    "lime",
+    "cane",
+    "refreshing"
+  ]
+}

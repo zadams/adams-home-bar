@@ -1,0 +1,68 @@
+{
+  "id": "hanky-panky",
+  "slug": "hanky-panky",
+  "name": "Hanky Panky",
+  "aliases": [],
+  "description": "A Martinez-like gin cocktail sharpened by Fernet-Branca.",
+  "history": "An established classic or modern-classic recipe added during the 2026 catalog expansion.",
+  "origin": "International",
+  "whyItWorks": "Each ingredient has a distinct structural role: base, modifier, sweetness, acidity, dilution, or aroma.",
+  "classifications": [
+    "classic"
+  ],
+  "cocktailFamily": "Martini",
+  "flavorProfiles": [
+    "herbal",
+    "bitter",
+    "rich"
+  ],
+  "difficulty": "medium",
+  "preparationTime": 5,
+  "strength": "medium",
+  "glassware": "Nick & Nora",
+  "ice": "Stirred; up",
+  "garnish": [
+    "Orange twist"
+  ],
+  "illustrationKey": "hanky-panky",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "fernet_branca",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Stir with ice.",
+    "Strain into a chilled glass.",
+    "Express an orange twist."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "martini",
+    "herbal",
+    "bitter",
+    "rich"
+  ]
+}

@@ -944,5 +944,377 @@
       "almond",
       "sweet"
     ]
+  },
+  {
+    "id": "mezcal",
+    "name": "Mezcal",
+    "category": "spirit",
+    "subcategory": "agave",
+    "aliases": [
+      "mezcal"
+    ],
+    "tags": [
+      "agave",
+      "smoky"
+    ]
+  },
+  {
+    "id": "reposado_tequila",
+    "name": "Reposado tequila",
+    "category": "spirit",
+    "subcategory": "tequila",
+    "aliases": [
+      "reposado"
+    ],
+    "tags": [
+      "agave",
+      "aged"
+    ]
+  },
+  {
+    "id": "pisco",
+    "name": "Pisco",
+    "category": "spirit",
+    "subcategory": "brandy",
+    "aliases": [
+      "Peruvian brandy"
+    ],
+    "tags": [
+      "grape",
+      "brandy"
+    ]
+  },
+  {
+    "id": "cachaca",
+    "name": "Cachaça",
+    "category": "spirit",
+    "subcategory": "cane spirit",
+    "aliases": [
+      "cachaca"
+    ],
+    "tags": [
+      "sugarcane",
+      "Brazil"
+    ]
+  },
+  {
+    "id": "genever",
+    "name": "Genever",
+    "category": "spirit",
+    "subcategory": "gin",
+    "aliases": [
+      "jenever"
+    ],
+    "tags": [
+      "malt",
+      "botanical"
+    ]
+  },
+  {
+    "id": "irish_whiskey",
+    "name": "Irish whiskey",
+    "category": "spirit",
+    "subcategory": "whiskey",
+    "aliases": [
+      "Irish whisky"
+    ],
+    "tags": [
+      "whiskey",
+      "Ireland"
+    ]
+  },
+  {
+    "id": "calvados",
+    "name": "Calvados",
+    "category": "spirit",
+    "subcategory": "brandy",
+    "aliases": [
+      "apple brandy"
+    ],
+    "tags": [
+      "apple",
+      "brandy"
+    ]
+  },
+  {
+    "id": "jamaican_rum",
+    "name": "Jamaican rum",
+    "category": "spirit",
+    "subcategory": "rum",
+    "aliases": [
+      "Jamaica rum"
+    ],
+    "tags": [
+      "rum",
+      "funky"
+    ]
+  },
+  {
+    "id": "agricole_rum",
+    "name": "Rhum agricole",
+    "category": "spirit",
+    "subcategory": "rum",
+    "aliases": [
+      "rhum agricole"
+    ],
+    "tags": [
+      "rum",
+      "grassy"
+    ]
+  },
+  {
+    "id": "dry_sherry",
+    "name": "Dry sherry",
+    "category": "liqueur",
+    "subcategory": "fortified wine",
+    "aliases": [
+      "fino sherry",
+      "manzanilla"
+    ],
+    "tags": [
+      "sherry",
+      "fortified-wine"
+    ]
+  },
+  {
+    "id": "oloroso_sherry",
+    "name": "Oloroso sherry",
+    "category": "liqueur",
+    "subcategory": "fortified wine",
+    "aliases": [
+      "oloroso"
+    ],
+    "tags": [
+      "sherry",
+      "nutty"
+    ]
+  },
+  {
+    "id": "port",
+    "name": "Ruby port",
+    "category": "liqueur",
+    "subcategory": "fortified wine",
+    "aliases": [
+      "port wine",
+      "ruby port"
+    ],
+    "tags": [
+      "port",
+      "fortified-wine"
+    ]
+  },
+  {
+    "id": "red_wine",
+    "name": "Dry red wine",
+    "category": "mixer",
+    "subcategory": "wine",
+    "aliases": [
+      "red wine"
+    ],
+    "tags": [
+      "wine"
+    ]
+  },
+  {
+    "id": "amaro_averna",
+    "name": "Averna amaro",
+    "category": "liqueur",
+    "subcategory": "amaro",
+    "aliases": [
+      "Averna"
+    ],
+    "tags": [
+      "amaro",
+      "bittersweet"
+    ]
+  },
+  {
+    "id": "cynar",
+    "name": "Cynar",
+    "category": "liqueur",
+    "subcategory": "amaro",
+    "aliases": [
+      "artichoke amaro"
+    ],
+    "tags": [
+      "amaro",
+      "vegetal"
+    ]
+  },
+  {
+    "id": "fernet_branca",
+    "name": "Fernet-Branca",
+    "category": "liqueur",
+    "subcategory": "amaro",
+    "aliases": [
+      "fernet"
+    ],
+    "tags": [
+      "amaro",
+      "bitter"
+    ]
+  },
+  {
+    "id": "yellow_chartreuse",
+    "name": "Yellow Chartreuse",
+    "category": "liqueur",
+    "subcategory": "herbal liqueur",
+    "aliases": [],
+    "tags": [
+      "herbal"
+    ]
+  },
+  {
+    "id": "creme_de_cacao",
+    "name": "Crème de cacao",
+    "category": "liqueur",
+    "subcategory": "chocolate liqueur",
+    "aliases": [
+      "white crème de cacao"
+    ],
+    "tags": [
+      "chocolate"
+    ]
+  },
+  {
+    "id": "creme_de_violette",
+    "name": "Crème de violette",
+    "category": "liqueur",
+    "subcategory": "floral liqueur",
+    "aliases": [
+      "violet liqueur"
+    ],
+    "tags": [
+      "floral"
+    ]
+  },
+  {
+    "id": "apricot_liqueur",
+    "name": "Apricot liqueur",
+    "category": "liqueur",
+    "subcategory": "fruit liqueur",
+    "aliases": [
+      "apricot brandy"
+    ],
+    "tags": [
+      "apricot"
+    ]
+  },
+  {
+    "id": "raspberry_syrup",
+    "name": "Raspberry syrup",
+    "category": "syrup",
+    "subcategory": "fruit syrup",
+    "aliases": [
+      "raspberry cordial"
+    ],
+    "tags": [
+      "raspberry"
+    ]
+  },
+  {
+    "id": "passion_fruit_syrup",
+    "name": "Passion fruit syrup",
+    "category": "syrup",
+    "subcategory": "fruit syrup",
+    "aliases": [
+      "passionfruit syrup"
+    ],
+    "tags": [
+      "tropical"
+    ]
+  },
+  {
+    "id": "cane_syrup",
+    "name": "Cane syrup",
+    "category": "syrup",
+    "subcategory": "sugar syrup",
+    "aliases": [
+      "sugar cane syrup"
+    ],
+    "tags": [
+      "cane"
+    ]
+  },
+  {
+    "id": "allspice_dram",
+    "name": "Allspice dram",
+    "category": "liqueur",
+    "subcategory": "spiced liqueur",
+    "aliases": [
+      "pimento dram"
+    ],
+    "tags": [
+      "spice",
+      "allspice"
+    ]
+  },
+  {
+    "id": "tomato_juice",
+    "name": "Tomato juice",
+    "category": "juice",
+    "aliases": [],
+    "tags": [
+      "savory"
+    ]
+  },
+  {
+    "id": "celery_bitters",
+    "name": "Celery bitters",
+    "category": "bitter",
+    "aliases": [],
+    "tags": [
+      "savory",
+      "bitters"
+    ]
+  },
+  {
+    "id": "worcestershire_sauce",
+    "name": "Worcestershire sauce",
+    "category": "pantry",
+    "aliases": [],
+    "tags": [
+      "savory"
+    ]
+  },
+  {
+    "id": "hot_sauce",
+    "name": "Hot sauce",
+    "category": "pantry",
+    "aliases": [],
+    "tags": [
+      "spicy"
+    ]
+  },
+  {
+    "id": "raspberry",
+    "name": "Fresh raspberries",
+    "category": "fresh",
+    "aliases": [
+      "raspberries"
+    ],
+    "tags": [
+      "berry"
+    ]
+  },
+  {
+    "id": "grape",
+    "name": "Fresh grapes",
+    "category": "fresh",
+    "aliases": [
+      "grapes"
+    ],
+    "tags": [
+      "fruit"
+    ]
+  },
+  {
+    "id": "basil",
+    "name": "Fresh basil",
+    "category": "fresh",
+    "aliases": [],
+    "tags": [
+      "herb"
+    ]
   }
 ]

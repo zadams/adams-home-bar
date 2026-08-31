@@ -1,4 +1,4 @@
-import { bottles, seedInventory } from '../../data'
+import { bottles, ingredients, seedInventory } from '../../data'
 import type { InventoryItem, InventoryStatus } from '../../types/inventory'
 import type {
   EffectiveInventoryItem,
@@ -9,7 +9,7 @@ export function mergeInventory(
   overrides: Record<string, InventoryOverride>,
   seed: InventoryItem[] = seedInventory,
 ): EffectiveInventoryItem[] {
-  return seed.map((item) => {
+  const mergedSeed = seed.map((item) => {
     const override = overrides[item.id]
     const merged = override ? { ...item, ...override } : item
     return {
@@ -17,6 +17,36 @@ export function mergeInventory(
       effectiveStatus: merged.status,
     }
   })
+
+  const representedIngredientIds = new Set<string>()
+  for (const item of mergedSeed) {
+    if (item.ingredientId) representedIngredientIds.add(item.ingredientId)
+    if (item.bottleId) {
+      const bottle = bottles.find((candidate) => candidate.id === item.bottleId)
+      for (const ingredientId of bottle?.ingredientIds ?? []) {
+        representedIngredientIds.add(ingredientId)
+      }
+    }
+  }
+
+  const catalogItems: EffectiveInventoryItem[] = ingredients
+    .filter((ingredient) => !representedIngredientIds.has(ingredient.id))
+    .map((ingredient) => {
+      const id = `catalog-${ingredient.id}`
+      const override = overrides[id]
+      const status = override?.status ?? 'out'
+      return {
+        id,
+        ingredientId: ingredient.id,
+        productName: ingredient.name,
+        status,
+        tags: ingredient.tags,
+        ...override,
+        effectiveStatus: status,
+      }
+    })
+
+  return [...mergedSeed, ...catalogItems]
 }
 
 export function getInventoryItemLabel(item: InventoryItem): string {

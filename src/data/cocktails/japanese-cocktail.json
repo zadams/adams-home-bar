@@ -1,0 +1,68 @@
+{
+  "id": "japanese-cocktail",
+  "slug": "japanese-cocktail",
+  "name": "Japanese Cocktail",
+  "aliases": [],
+  "description": "Cognac, orgeat, and bitters—simple, nutty, and aromatic.",
+  "history": "An established classic or modern-classic recipe added during the 2026 catalog expansion.",
+  "origin": "International",
+  "whyItWorks": "Each ingredient has a distinct structural role: base, modifier, sweetness, acidity, dilution, or aroma.",
+  "classifications": [
+    "classic"
+  ],
+  "cocktailFamily": "Old Fashioned",
+  "flavorProfiles": [
+    "nutty",
+    "brandy",
+    "aromatic"
+  ],
+  "difficulty": "medium",
+  "preparationTime": 5,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "japanese-cocktail",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "cognac",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orgeat",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Shake with ice.",
+    "Fine-strain into a chilled coupe.",
+    "Express lemon oil."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "old-fashioned",
+    "nutty",
+    "brandy",
+    "aromatic"
+  ]
+}

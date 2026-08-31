@@ -1,0 +1,86 @@
+{
+  "id": "old-cuban",
+  "slug": "old-cuban",
+  "name": "Old Cuban",
+  "aliases": [],
+  "description": "An aged-rum mint sour lengthened with sparkling wine.",
+  "history": "An established classic or modern-classic recipe added during the 2026 catalog expansion.",
+  "origin": "International",
+  "whyItWorks": "Each ingredient has a distinct structural role: base, modifier, sweetness, acidity, dilution, or aroma.",
+  "classifications": [
+    "classic"
+  ],
+  "cocktailFamily": "Fizz",
+  "flavorProfiles": [
+    "mint",
+    "citrus",
+    "sparkling"
+  ],
+  "difficulty": "medium",
+  "preparationTime": 5,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Mint leaf"
+  ],
+  "illustrationKey": "old-cuban",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gold_rum",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "mint",
+      "amount": 6,
+      "unit": "piece",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "prosecco",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Shake everything except sparkling wine with ice.",
+    "Double-strain into a coupe.",
+    "Top with sparkling wine and garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "fizz",
+    "mint",
+    "citrus",
+    "sparkling"
+  ]
+}
