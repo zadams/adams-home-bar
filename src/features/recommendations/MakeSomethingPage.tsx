@@ -1,18 +1,26 @@
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { Link, useSearchParams } from 'react-router-dom'
 import { bottles, seedInventory } from '../../data'
 import { rankCocktails } from '../../services/recommendation/rank'
 import { useUserData } from '../persistence/UserDataContext'
 import { CocktailCard } from '../cocktails/CocktailCard'
+import { useSurpriseMe } from './useSurpriseMe'
 
 export function MakeSomethingPage() {
   const { userData } = useUserData()
+  const surpriseMe = useSurpriseMe()
   const [params, setParams] = useSearchParams()
   const bottleId = params.get('bottle') ?? ''
   const modeParam = params.get('mode')
-  const [mode, setMode] = useState<'ready' | 'almost' | 'all' | 'surprise'>(
-    modeParam === 'surprise' ? 'surprise' : 'ready',
+  const [mode, setMode] = useState<'ready' | 'almost' | 'all'>(
+    modeParam === 'almost' ? 'almost' : 'ready',
   )
+
+  useEffect(() => {
+    if (modeParam === 'surprise') {
+      surpriseMe()
+    }
+  }, [modeParam, surpriseMe])
 
   const favoriteIds = useMemo(() => {
     return new Set(
@@ -23,15 +31,6 @@ export function MakeSomethingPage() {
   }, [userData.cocktailMeta])
 
   const ranked = useMemo(() => {
-    if (mode === 'surprise') {
-      return rankCocktails({
-        seedInventory,
-        overrides: userData.inventoryOverrides,
-        favoriteIds,
-        bottleId: bottleId || undefined,
-        surprise: true,
-      })
-    }
     return rankCocktails({
       seedInventory,
       overrides: userData.inventoryOverrides,
@@ -78,8 +77,8 @@ export function MakeSomethingPage() {
           </button>
           <button
             type="button"
-            className={`btn ${mode === 'surprise' ? 'btn--amber' : 'btn--ghost'}`}
-            onClick={() => setMode('surprise')}
+            className="btn btn--ghost"
+            onClick={() => surpriseMe()}
           >
             Surprise me
           </button>
