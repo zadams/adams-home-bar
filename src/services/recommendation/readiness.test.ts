@@ -85,6 +85,16 @@ describe('readiness engine', () => {
       'bar-margarita',
       'adios-motherfucker',
       'banshee',
+      'army-navy',
+      'bay-breeze',
+      'mai-tai',
+      'trinidad-sour',
+      'cosmopolitan',
+      'cape-codder',
+      'sea-breeze',
+      'port-light',
+      'poinsettia',
+      'cranberry-margarita',
     ]
     for (const id of unlocked) {
       const result = assessReadiness(cocktail(id), seedInventory)
@@ -109,8 +119,6 @@ describe('readiness engine', () => {
     const almost = [
       ['sidecar', 'cognac'],
       ['aviation', 'creme_de_violette'],
-      ['army-navy', 'orgeat'],
-      ['bay-breeze', 'cranberry_juice'],
       ['brave-bull', 'coffee_liqueur'],
       ['chartreuse-swizzle', 'green_chartreuse'],
       ['mezcal-negroni', 'mezcal'],

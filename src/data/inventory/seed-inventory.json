@@ -978,12 +978,15 @@
   {
     "id": "inv-orgeat",
     "ingredientId": "orgeat",
-    "status": "out",
+    "status": "in_stock",
     "productName": "Orgeat",
+    "preferredForMixing": true,
+    "purchaseDate": "2026-09-06",
     "tags": [
-      "expansion"
+      "syrup",
+      "almond"
     ],
-    "notes": "Not currently stocked."
+    "notes": "Stocked — unlocks Mai Tai, Army & Navy, Trinidad Sour, and Port Light."
   },
   {
     "id": "inv-cognac",
@@ -1091,13 +1094,15 @@
   {
     "id": "inv-cranberry_juice",
     "ingredientId": "cranberry_juice",
-    "status": "out",
+    "status": "in_stock",
     "productName": "Cranberry juice",
+    "preferredForMixing": true,
+    "purchaseDate": "2026-09-06",
     "tags": [
       "juice",
       "pantry"
     ],
-    "notes": "Not currently stocked."
+    "notes": "Stocked — unlocks Cosmopolitan, Bay Breeze, Sea Breeze, Cape Codder, and cranberry highballs."
   },
   {
     "id": "inv-coffee_liqueur",

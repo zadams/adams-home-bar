@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "generatedFrom": "cocktail-index.json + popular-classics batch (2026-08-10); 2026-09-06 supply expansion; almost-ready classics",
-  "cocktailCount": 504,
+  "cocktailCount": 507,
   "cocktails": [
     {
       "id": "adios-motherfucker",
@@ -6789,6 +6789,47 @@
           "master": "cocktails/masters/cosmopolitan.png",
           "runtime": "cocktails/webp/cosmopolitan.webp",
           "thumbnail": "cocktails/thumbs/cosmopolitan.webp"
+        }
+      }
+    },
+    {
+      "id": "cranberry-margarita",
+      "slug": "cranberry-margarita",
+      "name": "Cranberry Margarita",
+      "illustrationKey": "cranberry-margarita",
+      "cocktailFamily": "Margarita",
+      "classifications": [
+        "modern",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "agave",
+        "berry",
+        "citrus"
+      ],
+      "ingredientIds": [
+        "blanco_tequila",
+        "cointreau",
+        "lime_juice",
+        "cranberry_juice"
+      ],
+      "artDirection": {
+        "template": "margarita",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe or rocks glass",
+        "ice": "Shaken; up or over ice",
+        "garnish": "Lime wheel and Optional salt rim",
+        "liquidPalette": {
+          "name": "deep-garnet",
+          "hex": "#742833"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/cranberry-margarita.png",
+          "runtime": "cocktails/webp/cranberry-margarita.webp",
+          "thumbnail": "cocktails/thumbs/cranberry-margarita.webp"
         }
       }
     },
@@ -14534,6 +14575,87 @@
           "master": "cocktails/masters/planters-punch.png",
           "runtime": "cocktails/webp/planters-punch.webp",
           "thumbnail": "cocktails/thumbs/planters-punch.webp"
+        }
+      }
+    },
+    {
+      "id": "poinsettia",
+      "slug": "poinsettia",
+      "name": "Poinsettia",
+      "illustrationKey": "poinsettia",
+      "cocktailFamily": "Sparkling",
+      "classifications": [
+        "classic",
+        "sparkling"
+      ],
+      "flavorProfiles": [
+        "berry",
+        "orange",
+        "sparkling"
+      ],
+      "ingredientIds": [
+        "cointreau",
+        "cranberry_juice",
+        "prosecco"
+      ],
+      "artDirection": {
+        "template": "sparkling",
+        "glass": "flute",
+        "sourceGlassware": "Champagne flute",
+        "ice": "None; chilled",
+        "garnish": "Orange twist",
+        "liquidPalette": {
+          "name": "deep-garnet",
+          "hex": "#742833"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/poinsettia.png",
+          "runtime": "cocktails/webp/poinsettia.webp",
+          "thumbnail": "cocktails/thumbs/poinsettia.webp"
+        }
+      }
+    },
+    {
+      "id": "port-light",
+      "slug": "port-light",
+      "name": "Port Light",
+      "illustrationKey": "port-light",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "classic",
+        "tiki",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "almond",
+        "citrus",
+        "smoke"
+      ],
+      "ingredientIds": [
+        "scotch",
+        "lemon_juice",
+        "orgeat"
+      ],
+      "artDirection": {
+        "template": "sour",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe or tiki",
+        "ice": "Shaken; up or crushed",
+        "garnish": "Lemon twist",
+        "liquidPalette": {
+          "name": "pale-citrus",
+          "hex": "#D7D39A"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/port-light.png",
+          "runtime": "cocktails/webp/port-light.webp",
+          "thumbnail": "cocktails/thumbs/port-light.webp"
         }
       }
     },

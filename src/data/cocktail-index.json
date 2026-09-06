@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-06T03:07:24.901Z",
-  "count": 504,
+  "generatedAt": "2026-09-06T03:09:31.660Z",
+  "count": 507,
   "cocktails": [
     {
       "id": "adios-motherfucker",
@@ -5161,6 +5161,37 @@
       ],
       "ingredientIds": [
         "vodka",
+        "cointreau",
+        "lime_juice",
+        "cranberry_juice"
+      ]
+    },
+    {
+      "id": "cranberry-margarita",
+      "slug": "cranberry-margarita",
+      "name": "Cranberry Margarita",
+      "file": "cranberry-margarita.json",
+      "cocktailFamily": "Margarita",
+      "classifications": [
+        "modern",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "agave",
+        "berry",
+        "citrus"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Coupe or rocks glass",
+      "illustrationKey": "cranberry-margarita",
+      "tags": [
+        "tequila",
+        "cranberry",
+        "margarita"
+      ],
+      "ingredientIds": [
+        "blanco_tequila",
         "cointreau",
         "lime_juice",
         "cranberry_juice"
@@ -11055,6 +11086,68 @@
         "simple_syrup",
         "orange_juice",
         "angostura_bitters"
+      ]
+    },
+    {
+      "id": "poinsettia",
+      "slug": "poinsettia",
+      "name": "Poinsettia",
+      "file": "poinsettia.json",
+      "cocktailFamily": "Sparkling",
+      "classifications": [
+        "classic",
+        "sparkling"
+      ],
+      "flavorProfiles": [
+        "berry",
+        "orange",
+        "sparkling"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Champagne flute",
+      "illustrationKey": "poinsettia",
+      "tags": [
+        "cranberry",
+        "sparkling",
+        "holiday"
+      ],
+      "ingredientIds": [
+        "cointreau",
+        "cranberry_juice",
+        "prosecco"
+      ]
+    },
+    {
+      "id": "port-light",
+      "slug": "port-light",
+      "name": "Port Light",
+      "file": "port-light.json",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "classic",
+        "tiki",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "almond",
+        "citrus",
+        "smoke"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Coupe or tiki",
+      "illustrationKey": "port-light",
+      "tags": [
+        "scotch",
+        "tiki",
+        "orgeat",
+        "sour"
+      ],
+      "ingredientIds": [
+        "scotch",
+        "lemon_juice",
+        "orgeat"
       ]
     },
     {

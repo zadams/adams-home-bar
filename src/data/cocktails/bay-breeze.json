@@ -3,7 +3,7 @@
   "slug": "bay-breeze",
   "name": "Bay Breeze",
   "aliases": [],
-  "description": "Vodka, pineapple, and cranberry—the Sea Breeze’s pineapple cousin. Missing only cranberry.",
+  "description": "Vodka, pineapple, and cranberry—the Sea Breeze’s pineapple cousin, now makeable with juice on the bar.",
   "history": "A 1980s highball in the Cape Codder family. Sea Breeze uses grapefruit; Bay Breeze uses pineapple, which you already have.",
   "origin": "United States",
   "whyItWorks": "Pineapple sweetness needs cranberry’s tart dry edge so the drink does not taste like juice.",
@@ -65,7 +65,9 @@
     "sea-breeze",
     "madras",
     "cape-codder",
-    "woo-woo"
+    "woo-woo",
+    "poinsettia",
+    "cranberry-margarita"
   ],
   "seasonality": [
     "summer",

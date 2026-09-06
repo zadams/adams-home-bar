@@ -3,7 +3,7 @@
   "slug": "army-navy",
   "name": "Army & Navy",
   "aliases": [],
-  "description": "Gin, lemon, and orgeat—a three-ingredient sour waiting on almond syrup.",
+  "description": "Gin, lemon, and orgeat—a three-ingredient sour, now makeable with the almond syrup on the bar.",
   "history": "A mid-century gin sour from David A. Embury’s circle; orgeat stands in for simple syrup and adds almond.",
   "origin": "United States",
   "whyItWorks": "Orgeat sweetens and perfumes; lemon keeps gin from tasting like dessert.",
@@ -78,7 +78,8 @@
     "mai-tai",
     "japanese-cocktail",
     "gimlet",
-    "bees-knees"
+    "bees-knees",
+    "port-light"
   ],
   "seasonality": [
     "year-round"

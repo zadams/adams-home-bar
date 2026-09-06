@@ -2959,6 +2959,24 @@
       "hex": "#725184"
     }
   },
+  "cranberry-margarita": {
+    "src": "/images/cocktails/webp/cranberry-margarita.webp",
+    "kind": "illustration",
+    "glassware": "Coupe or rocks glass",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "blanco_tequila",
+      "cointreau",
+      "lime_juice",
+      "cranberry_juice"
+    ],
+    "artTemplate": "margarita",
+    "liquidPalette": {
+      "name": "deep-garnet",
+      "hex": "#742833"
+    }
+  },
   "crystal-margarita": {
     "src": "/images/cocktails/webp/crystal-margarita.webp",
     "kind": "illustration",
@@ -6335,6 +6353,40 @@
     "liquidPalette": {
       "name": "warm-amber",
       "hex": "#B06932"
+    }
+  },
+  "poinsettia": {
+    "src": "/images/cocktails/webp/poinsettia.webp",
+    "kind": "illustration",
+    "glassware": "Champagne flute",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "cointreau",
+      "cranberry_juice",
+      "prosecco"
+    ],
+    "artTemplate": "sparkling",
+    "liquidPalette": {
+      "name": "deep-garnet",
+      "hex": "#742833"
+    }
+  },
+  "port-light": {
+    "src": "/images/cocktails/webp/port-light.webp",
+    "kind": "illustration",
+    "glassware": "Coupe or tiki",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "scotch",
+      "lemon_juice",
+      "orgeat"
+    ],
+    "artTemplate": "sour",
+    "liquidPalette": {
+      "name": "pale-citrus",
+      "hex": "#D7D39A"
     }
   },
   "porto-flip": {

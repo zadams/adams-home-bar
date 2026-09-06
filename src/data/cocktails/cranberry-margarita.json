@@ -1,0 +1,92 @@
+{
+  "id": "cranberry-margarita",
+  "slug": "cranberry-margarita",
+  "name": "Cranberry Margarita",
+  "aliases": [],
+  "description": "Tequila, orange liqueur, lime, and cranberry—a Margarita with a tart red finish.",
+  "history": "A contemporary color-and-acid variation on the Margarita. Cranberry replaces some of the lime volume and adds color.",
+  "origin": "United States",
+  "whyItWorks": "Cranberry’s tannin and tartness sit next to lime the way they do in a Cosmo; tequila keeps it a Margarita.",
+  "classifications": [
+    "modern",
+    "sour"
+  ],
+  "cocktailFamily": "Margarita",
+  "flavorProfiles": [
+    "agave",
+    "berry",
+    "citrus"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe or rocks glass",
+  "ice": "Shaken; up or over ice",
+  "garnish": [
+    "Lime wheel",
+    "Optional salt rim"
+  ],
+  "illustrationKey": "cranberry-margarita",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cointreau",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cranberry_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Salt the rim if you want it.",
+    "Shake tequila, Cointreau, lime, and cranberry with ice.",
+    "Strain up or over fresh ice and garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-cristalino",
+      "rank": 1,
+      "rationale": "Smooth tequila under cranberry."
+    },
+    {
+      "bottleId": "cointreau",
+      "rank": 2,
+      "rationale": "Preferred orange liqueur for a single cocktail."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "margarita",
+    "cosmopolitan",
+    "bay-breeze",
+    "sunrise-margarita"
+  ],
+  "seasonality": [
+    "winter",
+    "year-round"
+  ],
+  "tags": [
+    "tequila",
+    "cranberry",
+    "margarita"
+  ]
+}
