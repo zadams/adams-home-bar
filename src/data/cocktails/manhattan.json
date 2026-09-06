@@ -7,15 +7,26 @@
   "history": "A late-19th-century New York classic that helped define the stirred whiskey cocktail. The best versions stay dry enough that vermouth supports the whiskey rather than smothering it.",
   "origin": "New York",
   "whyItWorks": "Vermouth’s herbal sweetness rounds whiskey while Angostura ties spice and oak together. Stirring keeps the texture polished.",
-  "classifications": ["classic", "spirit-forward"],
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
   "cocktailFamily": "Manhattan",
-  "flavorProfiles": ["herbal", "oak", "bittersweet", "cherry"],
+  "flavorProfiles": [
+    "herbal",
+    "oak",
+    "bittersweet",
+    "cherry"
+  ],
   "difficulty": "easy",
   "preparationTime": 4,
   "strength": "spirit-forward",
   "glassware": "Coupe or Nick & Nora",
   "ice": "Stirred with ice; served up",
-  "garnish": ["Cocktail cherry", "Optional lemon peel"],
+  "garnish": [
+    "Cocktail cherry",
+    "Optional lemon peel"
+  ],
   "illustrationKey": "manhattan",
   "ingredients": [
     {
@@ -75,12 +86,28 @@
   "substitutions": [
     {
       "ingredientId": "rye",
-      "alternatives": ["bourbon"],
+      "alternatives": [
+        "bourbon"
+      ],
       "notes": "Bourbon Manhattan is softer and sweeter."
     }
   ],
   "variations": [],
-  "relatedCocktailIds": ["old-fashioned", "negroni", "sazerac"],
-  "seasonality": ["year-round", "autumn", "winter"],
-  "tags": ["foundational", "whiskey", "stirred"]
+  "relatedCocktailIds": [
+    "old-fashioned",
+    "negroni",
+    "sazerac",
+    "fanciulli",
+    "harvard"
+  ],
+  "seasonality": [
+    "year-round",
+    "autumn",
+    "winter"
+  ],
+  "tags": [
+    "foundational",
+    "whiskey",
+    "stirred"
+  ]
 }

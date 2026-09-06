@@ -1,0 +1,86 @@
+{
+  "id": "brandy-old-fashioned",
+  "slug": "brandy-old-fashioned",
+  "name": "Brandy Old Fashioned",
+  "aliases": [],
+  "description": "The Wisconsin-style idea in classic form: cognac, sugar, and bitters. Missing only cognac.",
+  "history": "An Old Fashioned built on brandy instead of whiskey. In Wisconsin the drink is often muddled with fruit and topped with soda; this is the spirit-forward version.",
+  "origin": "United States",
+  "whyItWorks": "Cognac already tastes like dessert oak; a little sugar and bitters are enough.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Old Fashioned",
+  "flavorProfiles": [
+    "brandy",
+    "oak",
+    "bittersweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange twist"
+  ],
+  "illustrationKey": "brandy-old-fashioned",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "cognac",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "demerara_sugar",
+      "amount": 1,
+      "unit": "tsp",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "orange_bitters",
+      "amount": 1,
+      "unit": "dash",
+      "scaleMode": "fixed",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Muddle sugar with bitters and a splash of water.",
+    "Add cognac and ice; stir until cold.",
+    "Strain over a large cube and express orange oil."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angostura-aromatic",
+      "rank": 1,
+      "rationale": "The bitters are ready."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "old-fashioned",
+    "sidecar",
+    "harvard"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "classic",
+    "cognac",
+    "spirit-forward",
+    "inventory-gap"
+  ]
+}

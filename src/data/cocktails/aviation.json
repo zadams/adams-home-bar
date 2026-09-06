@@ -1,0 +1,100 @@
+{
+  "id": "aviation",
+  "slug": "aviation",
+  "name": "Aviation",
+  "aliases": [],
+  "description": "Gin, lemon, maraschino, and crème de violette—the pale-sky sour. Missing only violette.",
+  "history": "Hugo Ensslin’s 1916 recipe from the Hotel Wallick in New York. Crème de violette disappeared from American bars for decades; without it the drink is just a gin–maraschino sour.",
+  "origin": "New York",
+  "year": 1916,
+  "creator": "Hugo Ensslin",
+  "whyItWorks": "Maraschino and lemon make a crisp sour; a small violette dose adds floral color without perfume overload.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "floral",
+    "citrus",
+    "botanical"
+  ],
+  "difficulty": "medium",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Brandied cherry or lemon twist"
+  ],
+  "illustrationKey": "aviation",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "maraschino",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "creme_de_violette",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake gin, lemon, maraschino, and violette hard with ice.",
+    "Fine-strain into a chilled coupe.",
+    "Garnish with a cherry or lemon twist."
+  ],
+  "techniqueNotes": [
+    "Keep violette to a quarter ounce or the drink turns gray-purple and soapy."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "Citrus-forward gin under floral liqueur."
+    },
+    {
+      "bottleId": "luxardo-maraschino",
+      "rank": 2,
+      "rationale": "The maraschino is already on the bar."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 3,
+      "rationale": "Softer floral gin if you want more violet echo."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "last-word",
+    "white-lady",
+    "corpse-reviver-no-2",
+    "blue-moon"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "classic",
+    "gin",
+    "floral",
+    "inventory-gap"
+  ]
+}

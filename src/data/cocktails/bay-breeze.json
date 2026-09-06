@@ -1,0 +1,80 @@
+{
+  "id": "bay-breeze",
+  "slug": "bay-breeze",
+  "name": "Bay Breeze",
+  "aliases": [],
+  "description": "Vodka, pineapple, and cranberry—the Sea Breeze’s pineapple cousin. Missing only cranberry.",
+  "history": "A 1980s highball in the Cape Codder family. Sea Breeze uses grapefruit; Bay Breeze uses pineapple, which you already have.",
+  "origin": "United States",
+  "whyItWorks": "Pineapple sweetness needs cranberry’s tart dry edge so the drink does not taste like juice.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "tropical",
+    "tart",
+    "pineapple"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "light",
+  "glassware": "Highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime wedge"
+  ],
+  "illustrationKey": "bay-breeze",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "pineapple_juice",
+      "amount": 3,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cranberry_juice",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Build vodka and juices over ice.",
+    "Stir briefly and garnish with lime."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "Neutral vodka under juice."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "sea-breeze",
+    "madras",
+    "cape-codder",
+    "woo-woo"
+  ],
+  "seasonality": [
+    "summer",
+    "year-round"
+  ],
+  "tags": [
+    "vodka",
+    "highball",
+    "cranberry",
+    "inventory-gap"
+  ]
+}

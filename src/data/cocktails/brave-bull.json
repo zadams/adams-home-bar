@@ -1,0 +1,70 @@
+{
+  "id": "brave-bull",
+  "slug": "brave-bull",
+  "name": "Brave Bull",
+  "aliases": [],
+  "description": "Tequila and coffee liqueur—the Black Russian’s agave cousin. Missing only coffee liqueur.",
+  "history": "A mid-century two-ingredient drink from the same family as the Black Russian and Godfather.",
+  "origin": "United States / Mexico borderlands",
+  "whyItWorks": "Coffee bitterness tames tequila’s heat; no citrus needed.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Russian",
+  "flavorProfiles": [
+    "coffee",
+    "agave",
+    "bittersweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "strong",
+  "glassware": "Rocks glass",
+  "ice": "Cubed ice",
+  "garnish": [],
+  "illustrationKey": "brave-bull",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "coffee_liqueur",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Build tequila and coffee liqueur over ice.",
+    "Stir briefly."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-cristalino",
+      "rank": 1,
+      "rationale": "Smooth tequila waiting on Kahlúa or similar."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "black-russian",
+    "revolver",
+    "mudslide",
+    "sombrero"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "tequila",
+    "coffee",
+    "inventory-gap"
+  ]
+}

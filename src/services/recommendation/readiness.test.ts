@@ -105,6 +105,34 @@ describe('readiness engine', () => {
     ])
   })
 
+  it('marks gap classics almost or nearly ready from seed inventory', () => {
+    const almost = [
+      ['sidecar', 'cognac'],
+      ['aviation', 'creme_de_violette'],
+      ['army-navy', 'orgeat'],
+      ['bay-breeze', 'cranberry_juice'],
+      ['brave-bull', 'coffee_liqueur'],
+      ['chartreuse-swizzle', 'green_chartreuse'],
+      ['mezcal-negroni', 'mezcal'],
+      ['fanciulli', 'fernet_branca'],
+    ] as const
+    for (const [id, missing] of almost) {
+      const result = assessReadiness(cocktail(id), seedInventory)
+      expect({ id, state: result.state, missing: result.missingRequired.map((m) => m.ingredientId) }).toEqual({
+        id,
+        state: 'almost',
+        missing: [missing],
+      })
+    }
+
+    const champs = assessReadiness(cocktail('champs-elysees'), seedInventory)
+    expect(champs.state).toBe('nearly')
+    expect(champs.missingRequired.map((m) => m.ingredientId).sort()).toEqual([
+      'cognac',
+      'green_chartreuse',
+    ])
+  })
+
   it('marks Paloma almost ready when grapefruit soda is out', () => {
     const inventory: InventoryItem[] = seedInventory.map((item) =>
       item.bottleId === 'grapefruit-soda' || item.ingredientId === 'grapefruit_soda'

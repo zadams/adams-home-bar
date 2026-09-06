@@ -1,0 +1,103 @@
+{
+  "id": "sidecar",
+  "slug": "sidecar",
+  "name": "Sidecar",
+  "aliases": [],
+  "description": "Cognac, orange liqueur, and lemon—the foundational brandy sour. One bottle of cognac away from ready.",
+  "history": "A World War I–era classic, usually credited to Paris or London around 1920. The drink is a brandy sour with curaçao; Cointreau is the modern standard.",
+  "origin": "Paris / London",
+  "whyItWorks": "Lemon cuts cognac’s richness; orange liqueur supplies both sugar and aroma. A sugar rim is optional, not structural.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sidecar",
+  "flavorProfiles": [
+    "citrus",
+    "brandy",
+    "orange"
+  ],
+  "difficulty": "medium",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Orange twist",
+    "Optional sugar rim"
+  ],
+  "illustrationKey": "sidecar",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "cognac",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cointreau",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Sugar the rim if you want it.",
+    "Shake cognac, Cointreau, and lemon hard with ice.",
+    "Fine-strain into a chilled coupe and express orange oil."
+  ],
+  "techniqueNotes": [
+    "Until cognac is stocked, pour the Bourbon Sidecar already in the book."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "cointreau",
+      "rank": 1,
+      "rationale": "The orange half is already on the shelf."
+    },
+    {
+      "bottleId": "grand-marnier",
+      "rank": 2,
+      "rationale": "Richer orange if you want more cognac character before buying brandy."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "cognac",
+      "alternatives": [
+        "bourbon"
+      ],
+      "notes": "Bourbon Sidecar is the house version you can make tonight."
+    }
+  ],
+  "variations": [
+    {
+      "id": "sidecar-bourbon",
+      "name": "Bourbon Sidecar",
+      "notes": "Ready now with Eagle Rare or Russell’s.",
+      "relatedCocktailId": "sidecar-bourbon"
+    }
+  ],
+  "relatedCocktailIds": [
+    "sidecar-bourbon",
+    "white-lady",
+    "brandy-crusta",
+    "between-the-sheets"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "classic",
+    "cognac",
+    "sour",
+    "inventory-gap"
+  ]
+}

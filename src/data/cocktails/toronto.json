@@ -75,7 +75,9 @@
   ],
   "substitutions": [],
   "variations": [],
-  "relatedCocktailIds": [],
+  "relatedCocktailIds": [
+    "toronto-classic"
+  ],
   "seasonality": [
     "year-round"
   ],

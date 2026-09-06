@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-06T02:24:34.063Z",
-  "count": 481,
+  "generatedAt": "2026-09-06T03:07:24.901Z",
+  "count": 504,
   "cocktails": [
     {
       "id": "adios-motherfucker",
@@ -98,6 +98,37 @@
         "lime_juice",
         "honey_syrup",
         "prosecco"
+      ]
+    },
+    {
+      "id": "alaska",
+      "slug": "alaska",
+      "name": "Alaska",
+      "file": "alaska.json",
+      "cocktailFamily": "Martini",
+      "classifications": [
+        "classic",
+        "spirit-forward"
+      ],
+      "flavorProfiles": [
+        "herbal",
+        "botanical",
+        "honeyed"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Nick & Nora",
+      "illustrationKey": "alaska",
+      "tags": [
+        "classic",
+        "gin",
+        "herbal",
+        "inventory-gap"
+      ],
+      "ingredientIds": [
+        "gin",
+        "yellow_chartreuse",
+        "orange_bitters"
       ]
     },
     {
@@ -1442,6 +1473,69 @@
       ]
     },
     {
+      "id": "army-navy",
+      "slug": "army-navy",
+      "name": "Army & Navy",
+      "file": "army-navy.json",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "classic",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "almond",
+        "citrus",
+        "botanical"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "army-navy",
+      "tags": [
+        "classic",
+        "gin",
+        "almond",
+        "inventory-gap"
+      ],
+      "ingredientIds": [
+        "gin",
+        "lemon_juice",
+        "orgeat"
+      ]
+    },
+    {
+      "id": "aviation",
+      "slug": "aviation",
+      "name": "Aviation",
+      "file": "aviation.json",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "classic",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "floral",
+        "citrus",
+        "botanical"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "aviation",
+      "tags": [
+        "classic",
+        "gin",
+        "floral",
+        "inventory-gap"
+      ],
+      "ingredientIds": [
+        "gin",
+        "lemon_juice",
+        "maraschino",
+        "creme_de_violette"
+      ]
+    },
+    {
       "id": "b-52",
       "slug": "b-52",
       "name": "B-52",
@@ -1951,6 +2045,37 @@
         "blanco_tequila",
         "cola",
         "lime_juice"
+      ]
+    },
+    {
+      "id": "bay-breeze",
+      "slug": "bay-breeze",
+      "name": "Bay Breeze",
+      "file": "bay-breeze.json",
+      "cocktailFamily": "Highball",
+      "classifications": [
+        "classic",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "tropical",
+        "tart",
+        "pineapple"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Highball",
+      "illustrationKey": "bay-breeze",
+      "tags": [
+        "vodka",
+        "highball",
+        "cranberry",
+        "inventory-gap"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "pineapple_juice",
+        "cranberry_juice"
       ]
     },
     {
@@ -2514,6 +2639,37 @@
       ]
     },
     {
+      "id": "blue-moon",
+      "slug": "blue-moon",
+      "name": "Blue Moon",
+      "file": "blue-moon.json",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "classic",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "floral",
+        "citrus",
+        "botanical"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "blue-moon",
+      "tags": [
+        "classic",
+        "gin",
+        "floral",
+        "inventory-gap"
+      ],
+      "ingredientIds": [
+        "gin",
+        "creme_de_violette",
+        "lemon_juice"
+      ]
+    },
+    {
       "id": "blueberry-lemon-collins",
       "slug": "blueberry-lemon-collins",
       "name": "Blueberry Lemon Collins",
@@ -2811,6 +2967,35 @@
         "scotch",
         "sweet_vermouth",
         "benedictine"
+      ]
+    },
+    {
+      "id": "bocce-ball",
+      "slug": "bocce-ball",
+      "name": "Bocce Ball",
+      "file": "bocce-ball.json",
+      "cocktailFamily": "Highball",
+      "classifications": [
+        "classic",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "almond",
+        "orange",
+        "sweet"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Highball",
+      "illustrationKey": "bocce-ball",
+      "tags": [
+        "amaretto",
+        "highball",
+        "inventory-gap"
+      ],
+      "ingredientIds": [
+        "amaretto",
+        "orange_juice"
       ]
     },
     {
@@ -3424,6 +3609,66 @@
       ]
     },
     {
+      "id": "brandy-old-fashioned",
+      "slug": "brandy-old-fashioned",
+      "name": "Brandy Old Fashioned",
+      "file": "brandy-old-fashioned.json",
+      "cocktailFamily": "Old Fashioned",
+      "classifications": [
+        "classic",
+        "spirit-forward"
+      ],
+      "flavorProfiles": [
+        "brandy",
+        "oak",
+        "bittersweet"
+      ],
+      "difficulty": "easy",
+      "strength": "spirit-forward",
+      "glassware": "Rocks glass",
+      "illustrationKey": "brandy-old-fashioned",
+      "tags": [
+        "classic",
+        "cognac",
+        "spirit-forward",
+        "inventory-gap"
+      ],
+      "ingredientIds": [
+        "cognac",
+        "demerara_sugar",
+        "angostura_bitters"
+      ]
+    },
+    {
+      "id": "brave-bull",
+      "slug": "brave-bull",
+      "name": "Brave Bull",
+      "file": "brave-bull.json",
+      "cocktailFamily": "Russian",
+      "classifications": [
+        "classic",
+        "spirit-forward"
+      ],
+      "flavorProfiles": [
+        "coffee",
+        "agave",
+        "bittersweet"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Rocks glass",
+      "illustrationKey": "brave-bull",
+      "tags": [
+        "tequila",
+        "coffee",
+        "inventory-gap"
+      ],
+      "ingredientIds": [
+        "blanco_tequila",
+        "coffee_liqueur"
+      ]
+    },
+    {
       "id": "bronx",
       "slug": "bronx",
       "name": "Bronx",
@@ -3969,6 +4214,70 @@
       ]
     },
     {
+      "id": "champs-elysees",
+      "slug": "champs-elysees",
+      "name": "Champs-Élysées",
+      "file": "champs-elysees.json",
+      "cocktailFamily": "Sidecar",
+      "classifications": [
+        "classic",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "herbal",
+        "brandy",
+        "citrus"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "champs-elysees",
+      "tags": [
+        "classic",
+        "cognac",
+        "chartreuse",
+        "inventory-gap"
+      ],
+      "ingredientIds": [
+        "cognac",
+        "green_chartreuse",
+        "lemon_juice",
+        "angostura_bitters"
+      ]
+    },
+    {
+      "id": "chartreuse-swizzle",
+      "slug": "chartreuse-swizzle",
+      "name": "Chartreuse Swizzle",
+      "file": "chartreuse-swizzle.json",
+      "cocktailFamily": "Swizzle",
+      "classifications": [
+        "modern-classic",
+        "tiki"
+      ],
+      "flavorProfiles": [
+        "herbal",
+        "pineapple",
+        "spice"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Collins or tiki",
+      "illustrationKey": "chartreuse-swizzle",
+      "tags": [
+        "modern-classic",
+        "tiki",
+        "chartreuse",
+        "inventory-gap"
+      ],
+      "ingredientIds": [
+        "green_chartreuse",
+        "pineapple_juice",
+        "lime_juice",
+        "falernum"
+      ]
+    },
+    {
       "id": "cherry-boulevardier",
       "slug": "cherry-boulevardier",
       "name": "Cherry Boulevardier",
@@ -4123,6 +4432,39 @@
         "bourbon",
         "creme_de_cacao",
         "cocoa_bitters"
+      ]
+    },
+    {
+      "id": "cloister",
+      "slug": "cloister",
+      "name": "Cloister",
+      "file": "cloister.json",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "classic",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "herbal",
+        "citrus",
+        "grapefruit"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "cloister",
+      "tags": [
+        "classic",
+        "gin",
+        "herbal",
+        "inventory-gap"
+      ],
+      "ingredientIds": [
+        "gin",
+        "green_chartreuse",
+        "grapefruit_juice",
+        "lemon_juice",
+        "simple_syrup"
       ]
     },
     {
@@ -5393,6 +5735,37 @@
       ]
     },
     {
+      "id": "fanciulli",
+      "slug": "fanciulli",
+      "name": "Fanciulli",
+      "file": "fanciulli.json",
+      "cocktailFamily": "Manhattan",
+      "classifications": [
+        "classic",
+        "spirit-forward"
+      ],
+      "flavorProfiles": [
+        "bitter",
+        "minty",
+        "oak"
+      ],
+      "difficulty": "easy",
+      "strength": "spirit-forward",
+      "glassware": "Nick & Nora",
+      "illustrationKey": "fanciulli",
+      "tags": [
+        "classic",
+        "rye",
+        "fernet",
+        "inventory-gap"
+      ],
+      "ingredientIds": [
+        "rye",
+        "sweet_vermouth",
+        "fernet_branca"
+      ]
+    },
+    {
       "id": "fancy-free",
       "slug": "fancy-free",
       "name": "Fancy Free",
@@ -5632,6 +6005,36 @@
       ]
     },
     {
+      "id": "french-connection-classic",
+      "slug": "french-connection-classic",
+      "name": "French Connection (Classic)",
+      "file": "french-connection-classic.json",
+      "cocktailFamily": "Dessert",
+      "classifications": [
+        "classic",
+        "spirit-forward"
+      ],
+      "flavorProfiles": [
+        "almond",
+        "brandy",
+        "rich"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Rocks glass",
+      "illustrationKey": "french-connection-classic",
+      "tags": [
+        "classic",
+        "cognac",
+        "amaretto",
+        "inventory-gap"
+      ],
+      "ingredientIds": [
+        "cognac",
+        "amaretto"
+      ]
+    },
+    {
       "id": "french-manhattan",
       "slug": "french-manhattan",
       "name": "French Manhattan",
@@ -5693,6 +6096,37 @@
         "lime_juice",
         "simple_syrup",
         "club_soda"
+      ]
+    },
+    {
+      "id": "frisco-sour",
+      "slug": "frisco-sour",
+      "name": "Frisco Sour",
+      "file": "frisco-sour.json",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "classic",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "herbal",
+        "citrus",
+        "spicy"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Coupe or rocks",
+      "illustrationKey": "frisco-sour",
+      "tags": [
+        "classic",
+        "rye",
+        "herbal",
+        "inventory-gap"
+      ],
+      "ingredientIds": [
+        "rye",
+        "benedictine",
+        "lemon_juice"
       ]
     },
     {
@@ -7022,6 +7456,37 @@
       ]
     },
     {
+      "id": "harvard",
+      "slug": "harvard",
+      "name": "Harvard",
+      "file": "harvard.json",
+      "cocktailFamily": "Manhattan",
+      "classifications": [
+        "classic",
+        "spirit-forward"
+      ],
+      "flavorProfiles": [
+        "brandy",
+        "bittersweet",
+        "aromatic"
+      ],
+      "difficulty": "easy",
+      "strength": "spirit-forward",
+      "glassware": "Nick & Nora",
+      "illustrationKey": "harvard",
+      "tags": [
+        "classic",
+        "cognac",
+        "spirit-forward",
+        "inventory-gap"
+      ],
+      "ingredientIds": [
+        "cognac",
+        "sweet_vermouth",
+        "angostura_bitters"
+      ]
+    },
+    {
       "id": "hemingway-daiquiri",
       "slug": "hemingway-daiquiri",
       "name": "Hemingway Daiquiri",
@@ -7442,6 +7907,38 @@
         "honey_syrup",
         "lemon_juice",
         "hot_water"
+      ]
+    },
+    {
+      "id": "hotel-nacional-classic",
+      "slug": "hotel-nacional-classic",
+      "name": "Hotel Nacional",
+      "file": "hotel-nacional-classic.json",
+      "cocktailFamily": "Daiquiri",
+      "classifications": [
+        "classic",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "apricot",
+        "pineapple",
+        "citrus"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "hotel-nacional-classic",
+      "tags": [
+        "classic",
+        "rum",
+        "apricot",
+        "inventory-gap"
+      ],
+      "ingredientIds": [
+        "gold_rum",
+        "apricot_liqueur",
+        "pineapple_juice",
+        "lime_juice"
       ]
     },
     {
@@ -8772,6 +9269,68 @@
       ]
     },
     {
+      "id": "mezcal-margarita",
+      "slug": "mezcal-margarita",
+      "name": "Mezcal Margarita",
+      "file": "mezcal-margarita.json",
+      "cocktailFamily": "Margarita",
+      "classifications": [
+        "modern",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "smoky",
+        "citrus",
+        "agave"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Coupe or rocks glass",
+      "illustrationKey": "mezcal-margarita",
+      "tags": [
+        "modern",
+        "mezcal",
+        "margarita",
+        "inventory-gap"
+      ],
+      "ingredientIds": [
+        "mezcal",
+        "cointreau",
+        "lime_juice"
+      ]
+    },
+    {
+      "id": "mezcal-negroni",
+      "slug": "mezcal-negroni",
+      "name": "Mezcal Negroni",
+      "file": "mezcal-negroni.json",
+      "cocktailFamily": "Negroni",
+      "classifications": [
+        "modern",
+        "spirit-forward"
+      ],
+      "flavorProfiles": [
+        "smoky",
+        "bitter",
+        "herbal"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Rocks glass",
+      "illustrationKey": "mezcal-negroni",
+      "tags": [
+        "modern",
+        "mezcal",
+        "bitter",
+        "inventory-gap"
+      ],
+      "ingredientIds": [
+        "mezcal",
+        "campari",
+        "sweet_vermouth"
+      ]
+    },
+    {
       "id": "mezzogiorno",
       "slug": "mezzogiorno",
       "name": "Mezzogiorno",
@@ -9638,6 +10197,37 @@
         "aperol",
         "amaro_nonino",
         "lemon_juice"
+      ]
+    },
+    {
+      "id": "paradise",
+      "slug": "paradise",
+      "name": "Paradise",
+      "file": "paradise.json",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "classic",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "apricot",
+        "orange",
+        "botanical"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "paradise",
+      "tags": [
+        "classic",
+        "gin",
+        "apricot",
+        "inventory-gap"
+      ],
+      "ingredientIds": [
+        "gin",
+        "apricot_liqueur",
+        "orange_juice"
       ]
     },
     {
@@ -12102,6 +12692,37 @@
       ]
     },
     {
+      "id": "sidecar",
+      "slug": "sidecar",
+      "name": "Sidecar",
+      "file": "sidecar.json",
+      "cocktailFamily": "Sidecar",
+      "classifications": [
+        "classic",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "citrus",
+        "brandy",
+        "orange"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "sidecar",
+      "tags": [
+        "classic",
+        "cognac",
+        "sour",
+        "inventory-gap"
+      ],
+      "ingredientIds": [
+        "cognac",
+        "cointreau",
+        "lemon_juice"
+      ]
+    },
+    {
       "id": "ramos-lite",
       "slug": "ramos-lite",
       "name": "Silver Fizz (No Egg)",
@@ -12131,6 +12752,42 @@
         "simple_syrup",
         "orange_bitters",
         "club_soda"
+      ]
+    },
+    {
+      "id": "singapore-sling",
+      "slug": "singapore-sling",
+      "name": "Singapore Sling",
+      "file": "singapore-sling.json",
+      "cocktailFamily": "Sling",
+      "classifications": [
+        "classic",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "cherry",
+        "pineapple",
+        "herbal"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Highball glass",
+      "illustrationKey": "singapore-sling",
+      "tags": [
+        "classic",
+        "gin",
+        "tropical",
+        "inventory-gap"
+      ],
+      "ingredientIds": [
+        "gin",
+        "cherry_liqueur",
+        "cointreau",
+        "benedictine",
+        "pineapple_juice",
+        "lime_juice",
+        "grenadine",
+        "angostura_bitters"
       ]
     },
     {
@@ -12196,6 +12853,35 @@
         "blanco_tequila",
         "lime_juice",
         "agave_syrup"
+      ]
+    },
+    {
+      "id": "sombrero",
+      "slug": "sombrero",
+      "name": "Sombrero",
+      "file": "sombrero.json",
+      "cocktailFamily": "Dessert",
+      "classifications": [
+        "classic",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "coffee",
+        "creamy",
+        "sweet"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Rocks glass",
+      "illustrationKey": "sombrero",
+      "tags": [
+        "coffee",
+        "dessert",
+        "inventory-gap"
+      ],
+      "ingredientIds": [
+        "coffee_liqueur",
+        "heavy_cream"
       ]
     },
     {
@@ -13300,6 +13986,38 @@
         "blanco_tequila",
         "lime_juice",
         "agave_syrup"
+      ]
+    },
+    {
+      "id": "toronto-classic",
+      "slug": "toronto-classic",
+      "name": "Toronto",
+      "file": "toronto-classic.json",
+      "cocktailFamily": "Old Fashioned",
+      "classifications": [
+        "classic",
+        "spirit-forward"
+      ],
+      "flavorProfiles": [
+        "bitter",
+        "minty",
+        "oak"
+      ],
+      "difficulty": "easy",
+      "strength": "spirit-forward",
+      "glassware": "Coupe or rocks",
+      "illustrationKey": "toronto-classic",
+      "tags": [
+        "classic",
+        "rye",
+        "fernet",
+        "inventory-gap"
+      ],
+      "ingredientIds": [
+        "rye",
+        "fernet_branca",
+        "simple_syrup",
+        "angostura_bitters"
       ]
     },
     {

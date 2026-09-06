@@ -1,0 +1,92 @@
+{
+  "id": "army-navy",
+  "slug": "army-navy",
+  "name": "Army & Navy",
+  "aliases": [],
+  "description": "Gin, lemon, and orgeat—a three-ingredient sour waiting on almond syrup.",
+  "history": "A mid-century gin sour from David A. Embury’s circle; orgeat stands in for simple syrup and adds almond.",
+  "origin": "United States",
+  "whyItWorks": "Orgeat sweetens and perfumes; lemon keeps gin from tasting like dessert.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "almond",
+    "citrus",
+    "botanical"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "army-navy",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orgeat",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 1,
+      "unit": "dash",
+      "scaleMode": "fixed",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake gin, lemon, and orgeat hard with ice.",
+    "Fine-strain into a chilled coupe.",
+    "Express lemon oil; add a dash of bitters if you like."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "hendricks",
+      "rank": 1,
+      "rationale": "Soft gin beside almond."
+    },
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 2,
+      "rationale": "Brighter gin if the orgeat is rich."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "mai-tai",
+    "japanese-cocktail",
+    "gimlet",
+    "bees-knees"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "classic",
+    "gin",
+    "almond",
+    "inventory-gap"
+  ]
+}
