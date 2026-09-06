@@ -91,6 +91,13 @@
         "gold_rum"
       ],
       "notes": "Gold rum makes a richer Daiquiri."
+    },
+    {
+      "ingredientId": "lime_juice",
+      "alternatives": [
+        "sour_mix"
+      ],
+      "notes": "Sweet-and-sour mix is a bar shortcut. Use about 1.5 oz sour mix and skip the simple syrup so the drink does not go cloying."
     }
   ],
   "variations": [

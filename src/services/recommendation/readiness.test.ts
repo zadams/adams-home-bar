@@ -63,6 +63,48 @@ describe('readiness engine', () => {
     )
   })
 
+  it('marks new-stock classics ready once cacao, curaçao, noyaux, and sour mix are seeded', () => {
+    const unlocked = [
+      'grasshopper',
+      'bourbon-alexander',
+      'barbara',
+      'chocolate-martini',
+      'chocolate-old-fashioned',
+      'twentieth-century',
+      'pink-squirrel',
+      'blue-hawaiian',
+      'blue-hawaii',
+      'blue-lagoon',
+      'blue-margarita',
+      'blue-kamikaze',
+      'swimming-pool',
+      'noyaux-rose',
+      'almond-joy',
+      'noyaux-old-fashioned',
+      'bar-whiskey-sour',
+      'bar-margarita',
+      'adios-motherfucker',
+      'banshee',
+    ]
+    for (const id of unlocked) {
+      const result = assessReadiness(cocktail(id), seedInventory)
+      expect({ id, state: result.state, missing: result.missingRequired.map((m) => m.ingredientId) }).toEqual({
+        id,
+        state: 'ready',
+        missing: [],
+      })
+    }
+  })
+
+  it('marks the cognac Alexander nearly ready after cacao is stocked', () => {
+    const result = assessReadiness(cocktail('alexander'), seedInventory)
+    expect(result.state).toBe('nearly')
+    expect(result.missingRequired.map((m) => m.ingredientId).sort()).toEqual([
+      'cognac',
+      'heavy_cream',
+    ])
+  })
+
   it('marks Paloma almost ready when grapefruit soda is out', () => {
     const inventory: InventoryItem[] = seedInventory.map((item) =>
       item.bottleId === 'grapefruit-soda' || item.ingredientId === 'grapefruit_soda'

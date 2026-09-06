@@ -106,6 +106,13 @@
         "rye"
       ],
       "notes": "Rye sour is spicier and drier."
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "alternatives": [
+        "sour_mix"
+      ],
+      "notes": "Sweet-and-sour mix is a bar shortcut. Use about 1.5 oz sour mix and skip the simple syrup so the drink does not go cloying."
     }
   ],
   "variations": [
@@ -120,6 +127,12 @@
       "name": "Peach Whiskey Sour",
       "notes": "Add peach liqueur.",
       "relatedCocktailId": "peach-whiskey-sour"
+    },
+    {
+      "id": "bar-whiskey-sour",
+      "name": "Whiskey Sour (Sour Mix)",
+      "notes": "Bottled sour mix instead of lemon and sugar.",
+      "relatedCocktailId": "bar-whiskey-sour"
     }
   ],
   "relatedCocktailIds": [
@@ -127,7 +140,8 @@
     "daiquiri",
     "manhattan",
     "gold-rush",
-    "peach-whiskey-sour"
+    "peach-whiskey-sour",
+    "bar-whiskey-sour"
   ],
   "seasonality": [
     "year-round"

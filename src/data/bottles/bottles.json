@@ -951,5 +951,61 @@
       "citrus"
     ],
     "notes": "Availability varies; editable inventory item."
+  },
+  {
+    "id": "creme-de-cacao",
+    "brand": "House",
+    "productName": "Crème de Cacao",
+    "ingredientIds": [
+      "creme_de_cacao"
+    ],
+    "category": "liqueur",
+    "subcategory": "chocolate",
+    "tags": [
+      "chocolate"
+    ]
+  },
+  {
+    "id": "blue-curacao",
+    "brand": "House",
+    "productName": "Blue Curaçao",
+    "ingredientIds": [
+      "blue_curacao"
+    ],
+    "category": "liqueur",
+    "subcategory": "orange",
+    "tags": [
+      "orange",
+      "blue"
+    ]
+  },
+  {
+    "id": "creme-de-noyaux",
+    "brand": "House",
+    "productName": "Crème de Noyaux",
+    "ingredientIds": [
+      "creme_de_noyaux"
+    ],
+    "category": "liqueur",
+    "subcategory": "almond",
+    "tags": [
+      "almond",
+      "pink"
+    ]
+  },
+  {
+    "id": "sweet-and-sour-mix",
+    "brand": "House",
+    "productName": "Sweet and Sour Mix",
+    "ingredientIds": [
+      "sour_mix"
+    ],
+    "category": "mixer",
+    "subcategory": "citrus",
+    "tags": [
+      "citrus",
+      "mixer"
+    ],
+    "notes": "Bar shortcut for lemon or lime plus sugar. Prefer fresh citrus when you have it."
   }
 ]

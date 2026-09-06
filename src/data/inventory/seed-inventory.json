@@ -1141,5 +1141,59 @@
       "expansion"
     ],
     "notes": "Not currently stocked."
+  },
+  {
+    "id": "inv-creme-de-cacao",
+    "bottleId": "creme-de-cacao",
+    "status": "in_stock",
+    "brand": "House",
+    "productName": "Crème de Cacao",
+    "preferredForMixing": true,
+    "purchaseDate": "2026-09-06",
+    "tags": [
+      "chocolate"
+    ],
+    "notes": "Purchased 2026-09-06."
+  },
+  {
+    "id": "inv-blue-curacao",
+    "bottleId": "blue-curacao",
+    "status": "in_stock",
+    "brand": "House",
+    "productName": "Blue Curaçao",
+    "preferredForMixing": true,
+    "purchaseDate": "2026-09-06",
+    "tags": [
+      "orange",
+      "blue"
+    ],
+    "notes": "Purchased 2026-09-06."
+  },
+  {
+    "id": "inv-creme-de-noyaux",
+    "bottleId": "creme-de-noyaux",
+    "status": "in_stock",
+    "brand": "House",
+    "productName": "Crème de Noyaux",
+    "preferredForMixing": true,
+    "purchaseDate": "2026-09-06",
+    "tags": [
+      "almond"
+    ],
+    "notes": "Purchased 2026-09-06."
+  },
+  {
+    "id": "inv-sweet-and-sour-mix",
+    "bottleId": "sweet-and-sour-mix",
+    "status": "in_stock",
+    "brand": "House",
+    "productName": "Sweet and Sour Mix",
+    "preferredForMixing": true,
+    "purchaseDate": "2026-09-06",
+    "tags": [
+      "citrus",
+      "mixer"
+    ],
+    "notes": "Purchased 2026-09-06. Use for bar-style sours; fresh lemon or lime plus simple is still better when fruit is on hand."
   }
 ]

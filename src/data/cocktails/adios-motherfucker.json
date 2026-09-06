@@ -3,8 +3,8 @@
   "slug": "adios-motherfucker",
   "name": "Adios Motherfucker",
   "aliases": [],
-  "description": "Long Island cousin with blue curacao energy—house version uses cola + citrus color cues.",
-  "whyItWorks": "Five-spirit base like Long Island; cola/citrus finish when blue curaçao is unavailable.",
+  "description": "The real AMF: vodka, gin, rum, tequila, and blue curaçao shaken with sour mix and lengthened with soda.",
+  "whyItWorks": "Five-spirit Long Island structure; blue curaçao supplies the orange liqueur and the color the house cola version was faking.",
   "classifications": [
     "modern",
     "highball"
@@ -13,7 +13,7 @@
   "flavorProfiles": [
     "strong",
     "citrus",
-    "cola"
+    "orange"
   ],
   "difficulty": "easy",
   "preparationTime": 4,
@@ -50,61 +50,94 @@
       "scaleMode": "linear"
     },
     {
-      "ingredientId": "triple_sec",
+      "ingredientId": "blue_curacao",
       "amount": 0.5,
       "unit": "oz",
       "scaleMode": "linear"
     },
     {
-      "ingredientId": "lemon_juice",
-      "amount": 0.75,
+      "ingredientId": "sour_mix",
+      "amount": 1.5,
       "unit": "oz",
       "scaleMode": "linear"
     },
     {
-      "ingredientId": "simple_syrup",
-      "amount": 0.25,
-      "unit": "oz",
-      "scaleMode": "linear"
-    },
-    {
-      "ingredientId": "cola",
-      "amount": 2,
-      "unit": "oz",
+      "ingredientId": "club_soda",
+      "amount": null,
+      "unit": "top",
       "scaleMode": "top"
     }
   ],
   "steps": [
-    "Shake spirits, lemon, and syrup with ice.",
+    "Shake the spirits, blue curaçao, and sour mix with ice.",
     "Strain into an ice-filled tall glass.",
-    "Top with cola; garnish."
+    "Top with club soda and garnish."
   ],
   "techniqueNotes": [
-    "Classic uses blue curaçao; this house version stays honest without it."
+    "This is the version the house cola build was standing in for before blue curaçao arrived.",
+    "A splash of cola instead of soda makes a bluer Long Island if you want that look."
   ],
   "recommendedBottles": [
     {
       "bottleId": "titos",
       "rank": 1,
-      "rationale": "A strong match from your bar."
+      "rationale": "Neutral vodka in the five-spirit base."
     },
     {
-      "bottleId": "koskenkorva-apple",
+      "bottleId": "malfy-originale",
       "rank": 2,
-      "rationale": "Also excellent from your shelf."
+      "rationale": "Clean gin under the mix."
     },
     {
-      "bottleId": "koskenkorva-blueberry",
+      "bottleId": "havana-club-3",
       "rank": 3,
-      "rationale": "Also excellent from your shelf."
+      "rationale": "White rum backbone."
+    },
+    {
+      "bottleId": "kirkland-cristalino",
+      "rank": 4,
+      "rationale": "Tequila component."
+    },
+    {
+      "bottleId": "blue-curacao",
+      "rank": 5,
+      "rationale": "The bottle that makes this an AMF instead of a Long Island."
+    },
+    {
+      "bottleId": "sweet-and-sour-mix",
+      "rank": 6,
+      "rationale": "Bar citrus and sugar in one pour."
     }
   ],
-  "substitutions": [],
-  "variations": [],
+  "substitutions": [
+    {
+      "ingredientId": "sour_mix",
+      "alternatives": [
+        "lemon_juice"
+      ],
+      "notes": "Fresh version: 0.75 oz lemon juice and 0.5 oz simple syrup."
+    },
+    {
+      "ingredientId": "club_soda",
+      "alternatives": [
+        "cola"
+      ],
+      "notes": "Cola is the house Long Island finish if you want it darker."
+    }
+  ],
+  "variations": [
+    {
+      "id": "long-island-iced-tea",
+      "name": "Long Island Iced Tea",
+      "notes": "Orange liqueur plus cola instead of blue curaçao and soda.",
+      "relatedCocktailId": "long-island-iced-tea"
+    }
+  ],
   "relatedCocktailIds": [
     "long-island-iced-tea",
     "long-beach-iced-tea",
-    "texas-tea"
+    "texas-tea",
+    "blue-lagoon"
   ],
   "seasonality": [
     "year-round"
@@ -113,7 +146,8 @@
     "vodka",
     "strong",
     "party",
-    "popular"
+    "popular",
+    "blue"
   ],
   "featuredBottleImages": []
 }

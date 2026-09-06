@@ -1,0 +1,102 @@
+{
+  "id": "barbara",
+  "slug": "barbara",
+  "name": "Barbara",
+  "aliases": [
+    "Vodka Alexander"
+  ],
+  "description": "The vodka Alexander—cacao and cream with a clean spirit base.",
+  "history": "A mid-century Alexander variation that swaps brandy or gin for vodka. Same dessert structure, lighter aroma.",
+  "origin": "United States",
+  "whyItWorks": "Neutral vodka lets chocolate and cream lead. Baileys covers the cream when dairy is out.",
+  "classifications": [
+    "classic",
+    "dessert"
+  ],
+  "cocktailFamily": "Alexander",
+  "flavorProfiles": [
+    "chocolate",
+    "creamy",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Fresh nutmeg"
+  ],
+  "illustrationKey": "barbara",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "creme_de_cacao",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "baileys",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Baileys (cream stand-in)"
+    }
+  ],
+  "steps": [
+    "Shake vodka, crème de cacao, and Baileys with ice.",
+    "Fine-strain into a chilled coupe.",
+    "Grate nutmeg on top."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "Neutral vodka for a dessert Alexander."
+    },
+    {
+      "bottleId": "creme-de-cacao",
+      "rank": 2,
+      "rationale": "Chocolate body."
+    },
+    {
+      "bottleId": "baileys",
+      "rank": 3,
+      "rationale": "Cream and sweetness."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "baileys",
+      "alternatives": [
+        "heavy_cream"
+      ],
+      "notes": "Use cream for a lighter, less sweet Barbara."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "alexander",
+    "bourbon-alexander",
+    "chocolate-martini",
+    "grasshopper"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "dessert",
+    "vodka",
+    "chocolate",
+    "classic",
+    "ready-from-new-stock"
+  ]
+}

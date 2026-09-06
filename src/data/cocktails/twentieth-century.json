@@ -1,0 +1,115 @@
+{
+  "id": "twentieth-century",
+  "slug": "twentieth-century",
+  "name": "Twentieth Century",
+  "aliases": [
+    "20th Century"
+  ],
+  "description": "Gin, dry vermouth, crème de cacao, and lemon—a bright, surprising classic from the 1930s.",
+  "history": "Created by British bartender C.A. Tuck and published in 1937, named for the 20th Century Limited train. The original uses Lillet Blanc; dry vermouth is the house stand-in.",
+  "origin": "United Kingdom",
+  "whyItWorks": "Lemon keeps chocolate from reading as dessert; gin botanicals and vermouth stop the cacao from turning the drink into candy.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "citrus",
+    "chocolate",
+    "botanical"
+  ],
+  "difficulty": "medium",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "twentieth-century",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "dry_vermouth",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Dry vermouth (Lillet stand-in)"
+    },
+    {
+      "ingredientId": "creme_de_cacao",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake gin, dry vermouth, crème de cacao, and lemon with ice.",
+    "Fine-strain into a chilled coupe.",
+    "Express a lemon twist."
+  ],
+  "techniqueNotes": [
+    "If you later add Lillet Blanc, use it in place of dry vermouth for the original recipe.",
+    "White cacao keeps the drink pale; dark cacao tastes similar but looks brown."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "Citrus-forward gin that can stand up to cacao."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Softer floral gin for a gentler version."
+    },
+    {
+      "bottleId": "dry-vermouth",
+      "rank": 3,
+      "rationale": "Lillet stand-in from the current shelf."
+    },
+    {
+      "bottleId": "creme-de-cacao",
+      "rank": 4,
+      "rationale": "The unexpected chocolate note."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "lemon_juice",
+      "alternatives": [
+        "sour_mix"
+      ],
+      "notes": "Sour mix works in a pinch; use 0.75 oz and skip any extra sugar."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "alexander",
+    "white-lady",
+    "chocolate-martini"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "classic",
+    "gin",
+    "chocolate",
+    "citrus",
+    "ready-from-new-stock"
+  ]
+}

@@ -1170,7 +1170,9 @@
     "category": "liqueur",
     "subcategory": "chocolate liqueur",
     "aliases": [
-      "white crème de cacao"
+      "white crème de cacao",
+      "dark crème de cacao",
+      "chocolate liqueur"
     ],
     "tags": [
       "chocolate"
@@ -1315,6 +1317,55 @@
     "aliases": [],
     "tags": [
       "herb"
+    ]
+  },
+  {
+    "id": "blue_curacao",
+    "name": "Blue curaçao",
+    "category": "liqueur",
+    "subcategory": "orange liqueur",
+    "aliases": [
+      "blue curaçao",
+      "blue curacao",
+      "curaçao"
+    ],
+    "tags": [
+      "orange",
+      "blue",
+      "citrus"
+    ]
+  },
+  {
+    "id": "creme_de_noyaux",
+    "name": "Crème de noyaux",
+    "category": "liqueur",
+    "subcategory": "almond liqueur",
+    "aliases": [
+      "crème de noyeaux",
+      "noyaux",
+      "almond liqueur"
+    ],
+    "tags": [
+      "almond",
+      "cherry-pit",
+      "pink"
+    ]
+  },
+  {
+    "id": "sour_mix",
+    "name": "Sweet and sour mix",
+    "category": "mixer",
+    "subcategory": "citrus mix",
+    "aliases": [
+      "sour mix",
+      "sweet & sour",
+      "bar mix",
+      "lemon sour"
+    ],
+    "tags": [
+      "citrus",
+      "sweet",
+      "mixer"
     ]
   }
 ]

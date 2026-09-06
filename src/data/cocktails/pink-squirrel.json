@@ -1,0 +1,103 @@
+{
+  "id": "pink-squirrel",
+  "slug": "pink-squirrel",
+  "name": "Pink Squirrel",
+  "aliases": [],
+  "description": "Crème de noyaux, crème de cacao, and cream—the Milwaukee dessert classic, built with Baileys tonight.",
+  "history": "Credited to Bryant’s Cocktail Lounge in Milwaukee in the 1940s. The original is equal parts crème de noyaux, white crème de cacao, and cream. Noyaux is almond-and-stone-fruit, not cherry syrup.",
+  "origin": "Milwaukee",
+  "whyItWorks": "Noyaux’s almond-cherry-pit note is the pink half; cacao is the chocolate half; cream (or Baileys) binds them into a grasshopper cousin.",
+  "classifications": [
+    "classic",
+    "dessert"
+  ],
+  "cocktailFamily": "Dessert",
+  "flavorProfiles": [
+    "almond",
+    "chocolate",
+    "creamy"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Fresh nutmeg"
+  ],
+  "illustrationKey": "pink-squirrel",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "creme_de_noyaux",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "creme_de_cacao",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "baileys",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Baileys (cream stand-in)"
+    }
+  ],
+  "steps": [
+    "Shake crème de noyaux, crème de cacao, and Baileys hard with ice.",
+    "Fine-strain into a chilled coupe.",
+    "Grate nutmeg over the top."
+  ],
+  "techniqueNotes": [
+    "If you later stock heavy cream, use 1 oz cream instead of Baileys for the original."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "creme-de-noyaux",
+      "rank": 1,
+      "rationale": "The almond-pink bottle the drink is named around."
+    },
+    {
+      "bottleId": "creme-de-cacao",
+      "rank": 2,
+      "rationale": "Chocolate partner."
+    },
+    {
+      "bottleId": "baileys",
+      "rank": 3,
+      "rationale": "Cream stand-in from the current bar."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "baileys",
+      "alternatives": [
+        "heavy_cream"
+      ],
+      "notes": "Fresh cream is traditional and a little less sweet."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "grasshopper",
+    "alexander",
+    "almond-joy",
+    "bourbon-alexander"
+  ],
+  "seasonality": [
+    "year-round",
+    "winter"
+  ],
+  "tags": [
+    "dessert",
+    "almond",
+    "chocolate",
+    "classic",
+    "ready-from-new-stock"
+  ]
+}

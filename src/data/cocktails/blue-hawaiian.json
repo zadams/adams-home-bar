@@ -1,0 +1,106 @@
+{
+  "id": "blue-hawaiian",
+  "slug": "blue-hawaiian",
+  "name": "Blue Hawaiian",
+  "aliases": [],
+  "description": "Rum, blue curaçao, pineapple, and cream of coconut—the turquoise colada Harry Yee built in Waikiki.",
+  "history": "Harry Yee at the Hilton Hawaiian Village created the Blue Hawaiian in 1957 after a curaçao salesman asked for a drink that showed the liqueur’s color. It is the coconut colada cousin of the Blue Hawaii.",
+  "origin": "Honolulu",
+  "whyItWorks": "Coconut fat and pineapple acid need rum underneath; blue curaçao supplies orange sweetness and the color the drink is named for.",
+  "classifications": [
+    "classic",
+    "tiki"
+  ],
+  "cocktailFamily": "Colada",
+  "flavorProfiles": [
+    "tropical",
+    "coconut",
+    "citrus"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Hurricane or tall glass",
+  "ice": "Crushed or blended",
+  "garnish": [
+    "Pineapple wedge",
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "blue-hawaiian",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "white_rum",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "blue_curacao",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "pineapple_juice",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cream_of_coconut",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake rum, blue curaçao, pineapple, and cream of coconut hard with ice, or blend with crushed ice.",
+    "Pour into a tall glass.",
+    "Garnish with pineapple and a cherry."
+  ],
+  "techniqueNotes": [
+    "Toasted coconut rum can replace part of the white rum if you want extra coconut."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-3",
+      "rank": 1,
+      "rationale": "Clean rum under coconut and pineapple."
+    },
+    {
+      "bottleId": "blue-curacao",
+      "rank": 2,
+      "rationale": "Color and orange sweetness."
+    },
+    {
+      "bottleId": "toasted-coconut-rum",
+      "rank": 3,
+      "rationale": "Optional extra coconut in place of some white rum."
+    },
+    {
+      "bottleId": "cream-of-coconut",
+      "rank": 4,
+      "rationale": "The colada texture."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "pina-colada",
+    "blue-hawaii",
+    "swimming-pool",
+    "toasted-coconut-colada-rocks"
+  ],
+  "seasonality": [
+    "summer",
+    "year-round"
+  ],
+  "tags": [
+    "tiki",
+    "rum",
+    "tropical",
+    "classic",
+    "ready-from-new-stock"
+  ]
+}

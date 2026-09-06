@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedFrom": "cocktail-index.json + popular-classics batch (2026-08-10)",
-  "cocktailCount": 437,
+  "generatedFrom": "cocktail-index.json + popular-classics batch (2026-08-10); 2026-09-06 supply expansion",
+  "cocktailCount": 481,
   "cocktails": [
     {
       "id": "adios-motherfucker",
@@ -16,27 +16,26 @@
       "flavorProfiles": [
         "strong",
         "citrus",
-        "cola"
+        "orange"
       ],
       "ingredientIds": [
         "vodka",
         "gin",
         "white_rum",
         "blanco_tequila",
-        "triple_sec",
-        "lemon_juice",
-        "simple_syrup",
-        "cola"
+        "blue_curacao",
+        "sour_mix",
+        "club_soda"
       ],
       "artDirection": {
-        "template": "highball",
-        "glass": "collins",
+        "template": "long-island",
+        "glass": "highball",
         "sourceGlassware": "Highball or collins",
-        "ice": "clear cubes",
-        "garnish": "lemon wedge",
+        "ice": "Cubed ice",
+        "garnish": "Lemon wedge",
         "liquidPalette": {
-          "name": "deep-cola",
-          "hex": "#432B20"
+          "name": "electric-blue",
+          "hex": "#1F6B9A"
         },
         "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
         "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
@@ -164,6 +163,46 @@
           "master": "cocktails/masters/alexander.png",
           "runtime": "cocktails/webp/alexander.webp",
           "thumbnail": "cocktails/thumbs/alexander.webp"
+        }
+      }
+    },
+    {
+      "id": "almond-joy",
+      "slug": "almond-joy",
+      "name": "Almond Joy",
+      "illustrationKey": "almond-joy",
+      "cocktailFamily": "Dessert",
+      "classifications": [
+        "modern",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "coconut",
+        "chocolate",
+        "almond"
+      ],
+      "ingredientIds": [
+        "coconut_rum",
+        "creme_de_cacao",
+        "creme_de_noyaux"
+      ],
+      "artDirection": {
+        "template": "dessert",
+        "glass": "coupe",
+        "sourceGlassware": "Rocks or coupe",
+        "ice": "Shaken; up or over ice",
+        "garnish": "none",
+        "liquidPalette": {
+          "name": "almond-rose",
+          "hex": "#C45B78"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/almond-joy.png",
+          "runtime": "cocktails/webp/almond-joy.webp",
+          "thumbnail": "cocktails/thumbs/almond-joy.webp"
         }
       }
     },
@@ -2440,22 +2479,23 @@
       ],
       "flavorProfiles": [
         "banana",
-        "creamy",
-        "sweet"
+        "chocolate",
+        "creamy"
       ],
       "ingredientIds": [
         "creme_de_banane",
+        "creme_de_cacao",
         "baileys"
       ],
       "artDirection": {
         "template": "dessert",
         "glass": "coupe",
         "sourceGlassware": "Coupe",
-        "ice": "none",
+        "ice": "Shaken; up",
         "garnish": "none",
         "liquidPalette": {
-          "name": "ivory-cream",
-          "hex": "#E1D4BD"
+          "name": "cafe-cream",
+          "hex": "#A88162"
         },
         "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
         "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
@@ -2464,6 +2504,46 @@
           "master": "cocktails/masters/banshee.png",
           "runtime": "cocktails/webp/banshee.webp",
           "thumbnail": "cocktails/thumbs/banshee.webp"
+        }
+      }
+    },
+    {
+      "id": "barbara",
+      "slug": "barbara",
+      "name": "Barbara",
+      "illustrationKey": "barbara",
+      "cocktailFamily": "Alexander",
+      "classifications": [
+        "classic",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "chocolate",
+        "creamy",
+        "sweet"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "creme_de_cacao",
+        "baileys"
+      ],
+      "artDirection": {
+        "template": "alexander",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe",
+        "ice": "Shaken; up",
+        "garnish": "Fresh nutmeg",
+        "liquidPalette": {
+          "name": "cafe-cream",
+          "hex": "#A88162"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/barbara.png",
+          "runtime": "cocktails/webp/barbara.webp",
+          "thumbnail": "cocktails/thumbs/barbara.webp"
         }
       }
     },
@@ -3026,6 +3106,210 @@
           "master": "cocktails/masters/bloody-mary.png",
           "runtime": "cocktails/webp/bloody-mary.webp",
           "thumbnail": "cocktails/thumbs/bloody-mary.webp"
+        }
+      }
+    },
+    {
+      "id": "blue-hawaii",
+      "slug": "blue-hawaii",
+      "name": "Blue Hawaii",
+      "illustrationKey": "blue-hawaii",
+      "cocktailFamily": "Tiki",
+      "classifications": [
+        "classic",
+        "tiki"
+      ],
+      "flavorProfiles": [
+        "tropical",
+        "citrus",
+        "pineapple"
+      ],
+      "ingredientIds": [
+        "white_rum",
+        "vodka",
+        "blue_curacao",
+        "pineapple_juice",
+        "sour_mix"
+      ],
+      "artDirection": {
+        "template": "tiki",
+        "glass": "hurricane",
+        "sourceGlassware": "Hurricane or tall glass",
+        "ice": "Cubed or crushed ice",
+        "garnish": "Pineapple wedge and Cocktail cherry",
+        "liquidPalette": {
+          "name": "electric-blue",
+          "hex": "#1F6B9A"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/blue-hawaii.png",
+          "runtime": "cocktails/webp/blue-hawaii.webp",
+          "thumbnail": "cocktails/thumbs/blue-hawaii.webp"
+        }
+      }
+    },
+    {
+      "id": "blue-hawaiian",
+      "slug": "blue-hawaiian",
+      "name": "Blue Hawaiian",
+      "illustrationKey": "blue-hawaiian",
+      "cocktailFamily": "Colada",
+      "classifications": [
+        "classic",
+        "tiki"
+      ],
+      "flavorProfiles": [
+        "tropical",
+        "coconut",
+        "citrus"
+      ],
+      "ingredientIds": [
+        "white_rum",
+        "blue_curacao",
+        "pineapple_juice",
+        "cream_of_coconut"
+      ],
+      "artDirection": {
+        "template": "colada",
+        "glass": "hurricane",
+        "sourceGlassware": "Hurricane or tall glass",
+        "ice": "Crushed or blended",
+        "garnish": "Pineapple wedge and Cocktail cherry",
+        "liquidPalette": {
+          "name": "electric-blue",
+          "hex": "#1F6B9A"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/blue-hawaiian.png",
+          "runtime": "cocktails/webp/blue-hawaiian.webp",
+          "thumbnail": "cocktails/thumbs/blue-hawaiian.webp"
+        }
+      }
+    },
+    {
+      "id": "blue-kamikaze",
+      "slug": "blue-kamikaze",
+      "name": "Blue Kamikaze",
+      "illustrationKey": "blue-kamikaze",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "modern",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "citrus",
+        "orange",
+        "sharp"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "blue_curacao",
+        "sour_mix"
+      ],
+      "artDirection": {
+        "template": "sour",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe or shot",
+        "ice": "Shaken; up",
+        "garnish": "Lime wheel",
+        "liquidPalette": {
+          "name": "electric-blue",
+          "hex": "#1F6B9A"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/blue-kamikaze.png",
+          "runtime": "cocktails/webp/blue-kamikaze.webp",
+          "thumbnail": "cocktails/thumbs/blue-kamikaze.webp"
+        }
+      }
+    },
+    {
+      "id": "blue-lagoon",
+      "slug": "blue-lagoon",
+      "name": "Blue Lagoon",
+      "illustrationKey": "blue-lagoon",
+      "cocktailFamily": "Highball",
+      "classifications": [
+        "classic",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "citrus",
+        "orange",
+        "refreshing"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "blue_curacao",
+        "sour_mix",
+        "club_soda"
+      ],
+      "artDirection": {
+        "template": "highball",
+        "glass": "highball",
+        "sourceGlassware": "Highball",
+        "ice": "Cubed ice",
+        "garnish": "Lemon wheel and Cocktail cherry",
+        "liquidPalette": {
+          "name": "electric-blue",
+          "hex": "#1F6B9A"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/blue-lagoon.png",
+          "runtime": "cocktails/webp/blue-lagoon.webp",
+          "thumbnail": "cocktails/thumbs/blue-lagoon.webp"
+        }
+      }
+    },
+    {
+      "id": "blue-margarita",
+      "slug": "blue-margarita",
+      "name": "Blue Margarita",
+      "illustrationKey": "blue-margarita",
+      "cocktailFamily": "Margarita",
+      "classifications": [
+        "modern",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "agave",
+        "citrus",
+        "orange"
+      ],
+      "ingredientIds": [
+        "blanco_tequila",
+        "blue_curacao",
+        "sour_mix"
+      ],
+      "artDirection": {
+        "template": "margarita",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe or rocks glass",
+        "ice": "Shaken; up or over ice",
+        "garnish": "Lime wheel and Optional salt rim",
+        "liquidPalette": {
+          "name": "electric-blue",
+          "hex": "#1F6B9A"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/blue-margarita.png",
+          "runtime": "cocktails/webp/blue-margarita.webp",
+          "thumbnail": "cocktails/thumbs/blue-margarita.webp"
         }
       }
     },
@@ -3618,6 +3902,46 @@
           "master": "cocktails/masters/bourbon-cola.png",
           "runtime": "cocktails/webp/bourbon-cola.webp",
           "thumbnail": "cocktails/thumbs/bourbon-cola.webp"
+        }
+      }
+    },
+    {
+      "id": "bourbon-alexander",
+      "slug": "bourbon-alexander",
+      "name": "Bourbon Alexander",
+      "illustrationKey": "bourbon-alexander",
+      "cocktailFamily": "Alexander",
+      "classifications": [
+        "modern",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "chocolate",
+        "oak",
+        "creamy"
+      ],
+      "ingredientIds": [
+        "bourbon",
+        "creme_de_cacao",
+        "baileys"
+      ],
+      "artDirection": {
+        "template": "alexander",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe",
+        "ice": "Shaken; up",
+        "garnish": "Fresh nutmeg",
+        "liquidPalette": {
+          "name": "cafe-cream",
+          "hex": "#A88162"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/bourbon-alexander.png",
+          "runtime": "cocktails/webp/bourbon-alexander.webp",
+          "thumbnail": "cocktails/thumbs/bourbon-alexander.webp"
         }
       }
     },
@@ -5018,6 +5342,86 @@
           "master": "cocktails/masters/cherry-sour.png",
           "runtime": "cocktails/webp/cherry-sour.webp",
           "thumbnail": "cocktails/thumbs/cherry-sour.webp"
+        }
+      }
+    },
+    {
+      "id": "chocolate-martini",
+      "slug": "chocolate-martini",
+      "name": "Chocolate Martini",
+      "illustrationKey": "chocolate-martini",
+      "cocktailFamily": "Martini",
+      "classifications": [
+        "modern",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "chocolate",
+        "sweet",
+        "orange"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "creme_de_cacao",
+        "cointreau"
+      ],
+      "artDirection": {
+        "template": "martini",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe",
+        "ice": "Shaken; up",
+        "garnish": "Chocolate shavings or orange twist",
+        "liquidPalette": {
+          "name": "cafe-cream",
+          "hex": "#A88162"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/chocolate-martini.png",
+          "runtime": "cocktails/webp/chocolate-martini.webp",
+          "thumbnail": "cocktails/thumbs/chocolate-martini.webp"
+        }
+      }
+    },
+    {
+      "id": "chocolate-old-fashioned",
+      "slug": "chocolate-old-fashioned",
+      "name": "Chocolate Old Fashioned",
+      "illustrationKey": "chocolate-old-fashioned",
+      "cocktailFamily": "Old Fashioned",
+      "classifications": [
+        "modern",
+        "spirit-forward"
+      ],
+      "flavorProfiles": [
+        "chocolate",
+        "oak",
+        "bittersweet"
+      ],
+      "ingredientIds": [
+        "bourbon",
+        "creme_de_cacao",
+        "cocoa_bitters"
+      ],
+      "artDirection": {
+        "template": "old-fashioned",
+        "glass": "double-old-fashioned",
+        "sourceGlassware": "Rocks glass",
+        "ice": "Large cube",
+        "garnish": "Orange twist",
+        "liquidPalette": {
+          "name": "cafe-cream",
+          "hex": "#A88162"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/chocolate-old-fashioned.png",
+          "runtime": "cocktails/webp/chocolate-old-fashioned.webp",
+          "thumbnail": "cocktails/thumbs/chocolate-old-fashioned.webp"
         }
       }
     },
@@ -8657,6 +9061,46 @@
       }
     },
     {
+      "id": "grasshopper",
+      "slug": "grasshopper",
+      "name": "Grasshopper",
+      "illustrationKey": "grasshopper",
+      "cocktailFamily": "Dessert",
+      "classifications": [
+        "classic",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "mint",
+        "chocolate",
+        "creamy"
+      ],
+      "ingredientIds": [
+        "peppermint_liqueur",
+        "creme_de_cacao",
+        "baileys"
+      ],
+      "artDirection": {
+        "template": "dessert",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe",
+        "ice": "Shaken; up",
+        "garnish": "Fresh mint or grated chocolate",
+        "liquidPalette": {
+          "name": "mint-cream",
+          "hex": "#7BA68A"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/grasshopper.png",
+          "runtime": "cocktails/webp/grasshopper.webp",
+          "thumbnail": "cocktails/thumbs/grasshopper.webp"
+        }
+      }
+    },
+    {
       "id": "greenpoint",
       "slug": "greenpoint",
       "name": "Greenpoint",
@@ -10827,6 +11271,46 @@
       }
     },
     {
+      "id": "bar-margarita",
+      "slug": "bar-margarita",
+      "name": "Margarita (Sour Mix)",
+      "illustrationKey": "bar-margarita",
+      "cocktailFamily": "Margarita",
+      "classifications": [
+        "modern",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "agave",
+        "citrus",
+        "orange"
+      ],
+      "ingredientIds": [
+        "blanco_tequila",
+        "cointreau",
+        "sour_mix"
+      ],
+      "artDirection": {
+        "template": "margarita",
+        "glass": "double-old-fashioned",
+        "sourceGlassware": "Rocks glass",
+        "ice": "Shaken; over ice",
+        "garnish": "Lime wheel and Optional salt rim",
+        "liquidPalette": {
+          "name": "electric-blue",
+          "hex": "#1F6B9A"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/bar-margarita.png",
+          "runtime": "cocktails/webp/bar-margarita.webp",
+          "thumbnail": "cocktails/thumbs/bar-margarita.webp"
+        }
+      }
+    },
+    {
       "id": "margarita-on-the-rocks",
       "slug": "margarita-on-the-rocks",
       "name": "Margarita on the Rocks",
@@ -11716,6 +12200,86 @@
           "master": "cocktails/masters/new-york-sour.png",
           "runtime": "cocktails/webp/new-york-sour.webp",
           "thumbnail": "cocktails/thumbs/new-york-sour.webp"
+        }
+      }
+    },
+    {
+      "id": "noyaux-old-fashioned",
+      "slug": "noyaux-old-fashioned",
+      "name": "Noyaux Old Fashioned",
+      "illustrationKey": "noyaux-old-fashioned",
+      "cocktailFamily": "Old Fashioned",
+      "classifications": [
+        "modern",
+        "spirit-forward"
+      ],
+      "flavorProfiles": [
+        "almond",
+        "oak",
+        "bittersweet"
+      ],
+      "ingredientIds": [
+        "bourbon",
+        "creme_de_noyaux",
+        "angostura_bitters"
+      ],
+      "artDirection": {
+        "template": "old-fashioned",
+        "glass": "double-old-fashioned",
+        "sourceGlassware": "Rocks glass",
+        "ice": "Large cube",
+        "garnish": "Orange twist and Cocktail cherry",
+        "liquidPalette": {
+          "name": "almond-rose",
+          "hex": "#C45B78"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/noyaux-old-fashioned.png",
+          "runtime": "cocktails/webp/noyaux-old-fashioned.webp",
+          "thumbnail": "cocktails/thumbs/noyaux-old-fashioned.webp"
+        }
+      }
+    },
+    {
+      "id": "noyaux-rose",
+      "slug": "noyaux-rose",
+      "name": "Noyaux Rose",
+      "illustrationKey": "noyaux-rose",
+      "cocktailFamily": "Martini",
+      "classifications": [
+        "modern",
+        "aperitif"
+      ],
+      "flavorProfiles": [
+        "almond",
+        "botanical",
+        "dry"
+      ],
+      "ingredientIds": [
+        "gin",
+        "dry_vermouth",
+        "creme_de_noyaux"
+      ],
+      "artDirection": {
+        "template": "martini",
+        "glass": "nick-and-nora",
+        "sourceGlassware": "Nick & Nora",
+        "ice": "Stirred; up",
+        "garnish": "Lemon twist",
+        "liquidPalette": {
+          "name": "almond-rose",
+          "hex": "#C45B78"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/noyaux-rose.png",
+          "runtime": "cocktails/webp/noyaux-rose.webp",
+          "thumbnail": "cocktails/thumbs/noyaux-rose.webp"
         }
       }
     },
@@ -13083,6 +13647,46 @@
           "master": "cocktails/masters/pink-gin.png",
           "runtime": "cocktails/webp/pink-gin.webp",
           "thumbnail": "cocktails/thumbs/pink-gin.webp"
+        }
+      }
+    },
+    {
+      "id": "pink-squirrel",
+      "slug": "pink-squirrel",
+      "name": "Pink Squirrel",
+      "illustrationKey": "pink-squirrel",
+      "cocktailFamily": "Dessert",
+      "classifications": [
+        "classic",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "almond",
+        "chocolate",
+        "creamy"
+      ],
+      "ingredientIds": [
+        "creme_de_noyaux",
+        "creme_de_cacao",
+        "baileys"
+      ],
+      "artDirection": {
+        "template": "dessert",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe",
+        "ice": "Shaken; up",
+        "garnish": "Fresh nutmeg",
+        "liquidPalette": {
+          "name": "almond-rose",
+          "hex": "#C45B78"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/pink-squirrel.png",
+          "runtime": "cocktails/webp/pink-squirrel.webp",
+          "thumbnail": "cocktails/thumbs/pink-squirrel.webp"
         }
       }
     },
@@ -16150,6 +16754,48 @@
       }
     },
     {
+      "id": "swimming-pool",
+      "slug": "swimming-pool",
+      "name": "Swimming Pool",
+      "illustrationKey": "swimming-pool",
+      "cocktailFamily": "Colada",
+      "classifications": [
+        "modern",
+        "tiki"
+      ],
+      "flavorProfiles": [
+        "tropical",
+        "coconut",
+        "citrus"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "white_rum",
+        "blue_curacao",
+        "pineapple_juice",
+        "cream_of_coconut"
+      ],
+      "artDirection": {
+        "template": "colada",
+        "glass": "hurricane",
+        "sourceGlassware": "Hurricane or tall glass",
+        "ice": "Crushed or blended",
+        "garnish": "Pineapple wedge",
+        "liquidPalette": {
+          "name": "electric-blue",
+          "hex": "#1F6B9A"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/swimming-pool.png",
+          "runtime": "cocktails/webp/swimming-pool.webp",
+          "thumbnail": "cocktails/thumbs/swimming-pool.webp"
+        }
+      }
+    },
+    {
       "id": "blanco_tequila-negroni",
       "slug": "blanco_tequila-negroni",
       "name": "Tegroni",
@@ -16912,6 +17558,47 @@
           "master": "cocktails/masters/trinidad-sour.png",
           "runtime": "cocktails/webp/trinidad-sour.webp",
           "thumbnail": "cocktails/thumbs/trinidad-sour.webp"
+        }
+      }
+    },
+    {
+      "id": "twentieth-century",
+      "slug": "twentieth-century",
+      "name": "Twentieth Century",
+      "illustrationKey": "twentieth-century",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "classic",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "citrus",
+        "chocolate",
+        "botanical"
+      ],
+      "ingredientIds": [
+        "gin",
+        "dry_vermouth",
+        "creme_de_cacao",
+        "lemon_juice"
+      ],
+      "artDirection": {
+        "template": "sour",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe",
+        "ice": "Shaken; up",
+        "garnish": "Lemon twist",
+        "liquidPalette": {
+          "name": "cafe-cream",
+          "hex": "#A88162"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/twentieth-century.png",
+          "runtime": "cocktails/webp/twentieth-century.webp",
+          "thumbnail": "cocktails/thumbs/twentieth-century.webp"
         }
       }
     },
@@ -17949,6 +18636,45 @@
           "master": "cocktails/masters/whiskey-sour.png",
           "runtime": "cocktails/webp/whiskey-sour.webp",
           "thumbnail": "cocktails/thumbs/whiskey-sour.webp"
+        }
+      }
+    },
+    {
+      "id": "bar-whiskey-sour",
+      "slug": "bar-whiskey-sour",
+      "name": "Whiskey Sour (Sour Mix)",
+      "illustrationKey": "bar-whiskey-sour",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "modern",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "citrus",
+        "oak",
+        "sweet"
+      ],
+      "ingredientIds": [
+        "bourbon",
+        "sour_mix"
+      ],
+      "artDirection": {
+        "template": "sour",
+        "glass": "double-old-fashioned",
+        "sourceGlassware": "Rocks glass",
+        "ice": "Shaken; over ice",
+        "garnish": "Lemon wheel and Cocktail cherry",
+        "liquidPalette": {
+          "name": "pale-citrus",
+          "hex": "#D7D39A"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/bar-whiskey-sour.png",
+          "runtime": "cocktails/webp/bar-whiskey-sour.webp",
+          "thumbnail": "cocktails/thumbs/bar-whiskey-sour.webp"
         }
       }
     },

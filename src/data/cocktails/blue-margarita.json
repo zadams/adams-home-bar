@@ -1,0 +1,102 @@
+{
+  "id": "blue-margarita",
+  "slug": "blue-margarita",
+  "name": "Blue Margarita",
+  "aliases": [],
+  "description": "A Margarita that uses blue curaçao for the orange liqueur—same bones, different color.",
+  "history": "A late-20th-century color variation on the Margarita. Sour mix makes a bar-style version you can pour without juicing limes.",
+  "origin": "United States",
+  "whyItWorks": "Curaçao is an orange liqueur, so it can take Cointreau’s job. Sour mix supplies lime-and-sugar in one bottle; salt still helps.",
+  "classifications": [
+    "modern",
+    "sour"
+  ],
+  "cocktailFamily": "Margarita",
+  "flavorProfiles": [
+    "agave",
+    "citrus",
+    "orange"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe or rocks glass",
+  "ice": "Shaken; up or over ice",
+  "garnish": [
+    "Lime wheel",
+    "Optional salt rim"
+  ],
+  "illustrationKey": "blue-margarita",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "blue_curacao",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sour_mix",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Salt the rim if you want it.",
+    "Shake tequila, blue curaçao, and sour mix with ice.",
+    "Strain up or over fresh ice and garnish."
+  ],
+  "techniqueNotes": [
+    "For a fresher drink, use 1 oz lime juice and 0.25 oz simple instead of sour mix."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-cristalino",
+      "rank": 1,
+      "rationale": "Smooth tequila under curaçao."
+    },
+    {
+      "bottleId": "blue-curacao",
+      "rank": 2,
+      "rationale": "Orange liqueur and the blue."
+    },
+    {
+      "bottleId": "sweet-and-sour-mix",
+      "rank": 3,
+      "rationale": "Bar-style citrus and sugar."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "sour_mix",
+      "alternatives": [
+        "lime_juice"
+      ],
+      "notes": "Fresh lime plus a little simple syrup is the better Margarita."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "margarita",
+    "bar-margarita",
+    "blue-kamikaze",
+    "kamikaze"
+  ],
+  "seasonality": [
+    "summer",
+    "year-round"
+  ],
+  "tags": [
+    "tequila",
+    "margarita",
+    "citrus",
+    "ready-from-new-stock"
+  ]
+}
