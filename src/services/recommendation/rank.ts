@@ -49,6 +49,27 @@ export function cocktailsUsingBottle(
     .sort((a, b) => b.score - a.score || a.cocktail.name.localeCompare(b.cocktail.name))
 }
 
+export function selectSurprisePick(
+  list: RankedCocktail[],
+  options: {
+    excludeIds?: Iterable<string>
+    random?: () => number
+  } = {},
+): RankedCocktail | undefined {
+  const exclude = new Set(options.excludeIds ?? [])
+  const random = options.random ?? Math.random
+  const ready = list.filter((item) => item.readiness.state === 'ready')
+  const pool = ready.length > 0 ? ready : list
+  const unused = pool.filter((item) => !exclude.has(item.cocktail.id))
+  const choices = unused.length > 0 ? unused : pool
+  if (choices.length === 0) return undefined
+  const pick = choices[Math.floor(random() * choices.length)]
+  return {
+    ...pick,
+    reasons: [...pick.reasons, 'Surprise pick from your bar'],
+  }
+}
+
 export function rankCocktails(options: {
   seedInventory: InventoryItem[]
   overrides: Record<string, InventoryOverride>
@@ -56,6 +77,7 @@ export function rankCocktails(options: {
   bottleId?: string
   maxMissing?: number
   surprise?: boolean
+  excludeIds?: Iterable<string>
 }): RankedCocktail[] {
   const {
     seedInventory,
@@ -64,6 +86,7 @@ export function rankCocktails(options: {
     bottleId,
     maxMissing,
     surprise,
+    excludeIds,
   } = options
 
   let list = bottleId
@@ -93,11 +116,9 @@ export function rankCocktails(options: {
     list = list.filter((item) => item.readiness.missingCount <= maxMissing)
   }
 
-  if (surprise && list.length > 0) {
-    const ready = list.filter((i) => i.readiness.state === 'ready')
-    const pool = ready.length > 0 ? ready : list
-    const pick = pool[Math.floor(Math.random() * pool.length)]
-    return [{ ...pick, reasons: [...pick.reasons, 'Surprise pick from your bar'] }]
+  if (surprise) {
+    const pick = selectSurprisePick(list, { excludeIds })
+    return pick ? [pick] : []
   }
 
   return list.sort(
