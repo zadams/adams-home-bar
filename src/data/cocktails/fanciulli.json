@@ -1,0 +1,85 @@
+{
+  "id": "fanciulli",
+  "slug": "fanciulli",
+  "name": "Fanciulli",
+  "aliases": [],
+  "description": "A Manhattan with Fernet-Branca in place of some vermouth. Missing only fernet.",
+  "history": "An early-20th-century New York Manhattan variation. The name is usually tied to a racing journalist; the drink is rye, sweet vermouth, and fernet.",
+  "origin": "New York",
+  "whyItWorks": "Fernet’s menthol-bitter snap cuts a sweet Manhattan. A half-ounce is plenty.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Manhattan",
+  "flavorProfiles": [
+    "bitter",
+    "minty",
+    "oak"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Nick & Nora",
+  "ice": "Stirred; up",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "fanciulli",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "rye",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "fernet_branca",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Stir rye, vermouth, and fernet with ice.",
+    "Strain into a chilled glass.",
+    "Express a lemon twist."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "sazerac-rye",
+      "rank": 1,
+      "rationale": "Spicy rye for a bitter Manhattan."
+    },
+    {
+      "bottleId": "sweet-vermouth",
+      "rank": 2,
+      "rationale": "Sweet vermouth is stocked."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "manhattan",
+    "hanky-panky",
+    "toronto-classic",
+    "toronto"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "classic",
+    "rye",
+    "fernet",
+    "inventory-gap"
+  ]
+}

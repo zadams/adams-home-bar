@@ -1,0 +1,97 @@
+{
+  "id": "cloister",
+  "slug": "cloister",
+  "name": "Cloister",
+  "aliases": [],
+  "description": "Gin, green Chartreuse, grapefruit, and lemon—a pale monastic sour. Missing Chartreuse.",
+  "history": "A 1970s sour from the same Chartreuse-and-citrus family as the Last Word, usually served up.",
+  "origin": "United States",
+  "whyItWorks": "Grapefruit and lemon give Chartreuse somewhere to land; gin botanicals keep it from tasting like a liqueur sour.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "herbal",
+    "citrus",
+    "grapefruit"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Grapefruit twist"
+  ],
+  "illustrationKey": "cloister",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "green_chartreuse",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grapefruit_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake all ingredients with ice.",
+    "Fine-strain into a chilled coupe.",
+    "Express grapefruit oil."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "hendricks",
+      "rank": 1,
+      "rationale": "Soft gin under Chartreuse and grapefruit."
+    },
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 2,
+      "rationale": "More citrus if you want it drier."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "last-word",
+    "chartreuse-swizzle",
+    "white-lady",
+    "bijou"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "classic",
+    "gin",
+    "herbal",
+    "inventory-gap"
+  ]
+}

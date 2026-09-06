@@ -1,0 +1,81 @@
+{
+  "id": "bocce-ball",
+  "slug": "bocce-ball",
+  "name": "Bocce Ball",
+  "aliases": [],
+  "description": "Amaretto and orange juice over ice—a two-ingredient highball missing amaretto.",
+  "history": "An Italian-American bar highball, sometimes lengthened with soda. Close to a screwdriver with almond liqueur.",
+  "origin": "United States",
+  "whyItWorks": "Orange juice and amaretto share stone-fruit sweetness; soda, if you add it, keeps the drink from going sticky.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "almond",
+    "orange",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "light",
+  "glassware": "Highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Orange wheel"
+  ],
+  "illustrationKey": "bocce-ball",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "amaretto",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Build amaretto and orange juice over ice.",
+    "Top with soda if you want it longer.",
+    "Garnish with orange."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "fever-tree-soda",
+      "rank": 1,
+      "rationale": "Optional soda lengthener, already stocked."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "amaretto-sour",
+    "godfather",
+    "godmother",
+    "screwdriver"
+  ],
+  "seasonality": [
+    "summer",
+    "year-round"
+  ],
+  "tags": [
+    "amaretto",
+    "highball",
+    "inventory-gap"
+  ]
+}

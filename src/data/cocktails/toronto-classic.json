@@ -1,0 +1,100 @@
+{
+  "id": "toronto-classic",
+  "slug": "toronto-classic",
+  "name": "Toronto",
+  "aliases": [
+    "Classic Toronto"
+  ],
+  "description": "Rye, Fernet-Branca, sugar, and bitters—the real Toronto. Missing only fernet.",
+  "history": "A Canadian Old Fashioned variation using Fernet instead of, or in addition to, a plain bitter. The house book currently fakes fernet with Campari.",
+  "origin": "Canada",
+  "whyItWorks": "Fernet is the drink. Sugar and rye keep the menthol-bitter from taking over.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Old Fashioned",
+  "flavorProfiles": [
+    "bitter",
+    "minty",
+    "oak"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Coupe or rocks",
+  "ice": "Stirred",
+  "garnish": [
+    "Orange twist"
+  ],
+  "illustrationKey": "toronto-classic",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "rye",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "fernet_branca",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Stir rye, fernet, syrup, and bitters with ice.",
+    "Strain up or over a large cube.",
+    "Express orange oil."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "sazerac-rye",
+      "rank": 1,
+      "rationale": "The rye is ready."
+    },
+    {
+      "bottleId": "angostura-aromatic",
+      "rank": 2,
+      "rationale": "Bitters from the shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [
+    {
+      "id": "toronto",
+      "name": "Toronto (House)",
+      "notes": "Campari stand-in—ready now.",
+      "relatedCocktailId": "toronto"
+    }
+  ],
+  "relatedCocktailIds": [
+    "toronto",
+    "fanciulli",
+    "old-fashioned",
+    "hanky-panky"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "classic",
+    "rye",
+    "fernet",
+    "inventory-gap"
+  ]
+}

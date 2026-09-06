@@ -1,0 +1,82 @@
+{
+  "id": "poinsettia",
+  "slug": "poinsettia",
+  "name": "Poinsettia",
+  "aliases": [],
+  "description": "Cointreau, cranberry, and sparkling wine—the Christmas highball, now that cranberry is on the bar.",
+  "history": "A late-20th-century holiday sparkler. Keep the Cointreau modest so it stays a wine drink, not a liqueur cocktail.",
+  "origin": "United States",
+  "whyItWorks": "Cranberry acidity and orange liqueur sit under bubbles the way they do in a Cosmo, just longer and lighter.",
+  "classifications": [
+    "classic",
+    "sparkling"
+  ],
+  "cocktailFamily": "Sparkling",
+  "flavorProfiles": [
+    "berry",
+    "orange",
+    "sparkling"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "light",
+  "glassware": "Champagne flute",
+  "ice": "None; chilled",
+  "garnish": [
+    "Orange twist"
+  ],
+  "illustrationKey": "poinsettia",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "cointreau",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cranberry_juice",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "prosecco",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Add Cointreau and cranberry to a chilled flute.",
+    "Top with prosecco or other dry sparkling wine.",
+    "Express an orange twist."
+  ],
+  "techniqueNotes": [
+    "Prosecco is marked unknown—confirm a bottle is open before you pour a round."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "cointreau",
+      "rank": 1,
+      "rationale": "Orange liqueur already on the shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "cosmopolitan",
+    "french-75",
+    "bay-breeze",
+    "aperol-spritz"
+  ],
+  "seasonality": [
+    "winter",
+    "year-round"
+  ],
+  "tags": [
+    "cranberry",
+    "sparkling",
+    "holiday"
+  ]
+}

@@ -75,7 +75,10 @@
   ],
   "substitutions": [],
   "variations": [],
-  "relatedCocktailIds": [],
+  "relatedCocktailIds": [
+    "hotel-nacional-classic",
+    "paradise"
+  ],
   "seasonality": [
     "year-round"
   ],

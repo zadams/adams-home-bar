@@ -70,7 +70,10 @@
   "variations": [],
   "relatedCocktailIds": [
     "gimlet",
-    "negroni"
+    "negroni",
+    "aviation",
+    "chartreuse-swizzle",
+    "cloister"
   ],
   "seasonality": [
     "year-round"

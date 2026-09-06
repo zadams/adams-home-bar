@@ -51,11 +51,46 @@
     "Fine-strain into a chilled coupe.",
     "Grate nutmeg over the surface."
   ],
-  "techniqueNotes": [],
+  "techniqueNotes": [
+    "Cognac and cream are still out. Make a Bourbon Alexander or Barbara until they are restocked."
+  ],
   "recommendedBottles": [],
-  "substitutions": [],
-  "variations": [],
-  "relatedCocktailIds": [],
+  "substitutions": [
+    {
+      "ingredientId": "cognac",
+      "alternatives": [
+        "bourbon"
+      ],
+      "notes": "No cognac on the shelf—use the Bourbon Alexander when you want this drink tonight."
+    },
+    {
+      "ingredientId": "heavy_cream",
+      "alternatives": [
+        "baileys"
+      ],
+      "notes": "Baileys covers cream and adds sweetness."
+    }
+  ],
+  "variations": [
+    {
+      "id": "bourbon-alexander",
+      "name": "Bourbon Alexander",
+      "notes": "House version with bourbon and Baileys.",
+      "relatedCocktailId": "bourbon-alexander"
+    },
+    {
+      "id": "barbara",
+      "name": "Barbara",
+      "notes": "Vodka Alexander.",
+      "relatedCocktailId": "barbara"
+    }
+  ],
+  "relatedCocktailIds": [
+    "bourbon-alexander",
+    "barbara",
+    "grasshopper",
+    "pink-squirrel"
+  ],
   "seasonality": [
     "year-round"
   ],

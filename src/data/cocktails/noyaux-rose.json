@@ -1,0 +1,96 @@
+{
+  "id": "noyaux-rose",
+  "slug": "noyaux-rose",
+  "name": "Noyaux Rose",
+  "aliases": [
+    "Rose"
+  ],
+  "description": "Gin, dry vermouth, and crème de noyaux—a pale pink aperitif in the Rose-cocktail family.",
+  "history": "Several drinks have been called Rose. This house version follows the gin–vermouth–stone-fruit pattern, using crème de noyaux in place of kirsch or raspberry.",
+  "origin": "House adaptation",
+  "whyItWorks": "Dry vermouth keeps almond sweetness in the aperitif range; gin botanicals stop noyaux from tasting like candy.",
+  "classifications": [
+    "modern",
+    "aperitif"
+  ],
+  "cocktailFamily": "Martini",
+  "flavorProfiles": [
+    "almond",
+    "botanical",
+    "dry"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "strong",
+  "glassware": "Nick & Nora",
+  "ice": "Stirred; up",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "noyaux-rose",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "dry_vermouth",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "creme_de_noyaux",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Stir gin, dry vermouth, and crème de noyaux with ice until cold.",
+    "Strain into a chilled Nick & Nora or coupe.",
+    "Express a lemon twist."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "malfy-originale",
+      "rank": 1,
+      "rationale": "Clean gin that leaves room for almond."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Softer floral gin beside noyaux."
+    },
+    {
+      "bottleId": "dry-vermouth",
+      "rank": 3,
+      "rationale": "The dry half of the Rose."
+    },
+    {
+      "bottleId": "creme-de-noyaux",
+      "rank": 4,
+      "rationale": "Pink color and almond aroma."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "martini",
+    "pink-squirrel",
+    "noyaux-old-fashioned"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "aperitif",
+    "almond",
+    "ready-from-new-stock"
+  ]
+}

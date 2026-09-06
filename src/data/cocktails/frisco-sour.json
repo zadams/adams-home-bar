@@ -1,0 +1,85 @@
+{
+  "id": "frisco-sour",
+  "slug": "frisco-sour",
+  "name": "Frisco Sour",
+  "aliases": [],
+  "description": "Rye, Bénédictine, and lemon—a spicy sour waiting on one herbal liqueur.",
+  "history": "A pre-Prohibition rye sour sweetened with Bénédictine instead of plain sugar. Close to the Monte Carlo, with lemon.",
+  "origin": "United States",
+  "whyItWorks": "Bénédictine’s honey-herb sweetness is the sugar; lemon and rye keep it a sour, not a digestif.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "herbal",
+    "citrus",
+    "spicy"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe or rocks",
+  "ice": "Shaken; up or over ice",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "frisco-sour",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "rye",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "benedictine",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake rye, Bénédictine, and lemon with ice.",
+    "Strain up or over fresh ice.",
+    "Express a lemon twist."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "sazerac-rye",
+      "rank": 1,
+      "rationale": "Spicy rye for a herbal sour."
+    },
+    {
+      "bottleId": "elijah-craig-rye",
+      "rank": 2,
+      "rationale": "Backup rye from the same shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "monte-carlo",
+    "bobby-burns",
+    "whiskey-sour",
+    "singapore-sling"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "classic",
+    "rye",
+    "herbal",
+    "inventory-gap"
+  ]
+}

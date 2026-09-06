@@ -1,0 +1,101 @@
+{
+  "id": "hotel-nacional-classic",
+  "slug": "hotel-nacional-classic",
+  "name": "Hotel Nacional",
+  "aliases": [
+    "Hotel Nacional Special"
+  ],
+  "description": "Rum, apricot, pineapple, and lime—the Havana classic. Missing only apricot liqueur.",
+  "history": "Created at the Hotel Nacional de Cuba in the 1930s, usually credited to Wil P. Taylor. The house book currently uses peach liqueur as a stand-in.",
+  "origin": "Havana",
+  "creator": "Wil P. Taylor",
+  "whyItWorks": "Apricot deepens pineapple and lime the way peach cannot quite do; rum keeps it a daiquiri, not punch.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Daiquiri",
+  "flavorProfiles": [
+    "apricot",
+    "pineapple",
+    "citrus"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Lime wheel"
+  ],
+  "illustrationKey": "hotel-nacional-classic",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gold_rum",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "apricot_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "pineapple_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake rum, apricot, pineapple, and lime with ice.",
+    "Fine-strain into a chilled coupe.",
+    "Garnish with lime."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-especial",
+      "rank": 1,
+      "rationale": "Gold rum for the Havana profile."
+    },
+    {
+      "bottleId": "havana-club-3",
+      "rank": 2,
+      "rationale": "Lighter rum if you want it closer to a daiquiri."
+    }
+  ],
+  "substitutions": [],
+  "variations": [
+    {
+      "id": "hotel-nacional",
+      "name": "Hotel Nacional (House)",
+      "notes": "Peach liqueur stand-in—ready now.",
+      "relatedCocktailId": "hotel-nacional"
+    }
+  ],
+  "relatedCocktailIds": [
+    "hotel-nacional",
+    "paradise",
+    "daiquiri",
+    "angel-face"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "classic",
+    "rum",
+    "apricot",
+    "inventory-gap"
+  ]
+}

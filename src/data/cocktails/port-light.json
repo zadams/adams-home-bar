@@ -1,0 +1,83 @@
+{
+  "id": "port-light",
+  "slug": "port-light",
+  "name": "Port Light",
+  "aliases": [],
+  "description": "Scotch, lemon, and orgeat—a tiki sour that uses the whiskey already on the shelf.",
+  "history": "A mid-century tiki sour, usually credited to Don the Beachcomber’s later menus and then to Trader Vic’s. Scotch stands in for rum; orgeat is the sweetener.",
+  "origin": "United States",
+  "whyItWorks": "Orgeat softens Scotch smoke the way it softens rum; lemon keeps the drink a sour instead of a dessert.",
+  "classifications": [
+    "classic",
+    "tiki",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "almond",
+    "citrus",
+    "smoke"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe or tiki",
+  "ice": "Shaken; up or crushed",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "port-light",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "scotch",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orgeat",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake Scotch, lemon, and orgeat hard with ice.",
+    "Fine-strain into a chilled coupe, or dump over crushed ice.",
+    "Express a lemon twist."
+  ],
+  "techniqueNotes": [
+    "Macallan 12 is polite here; a peatier Scotch will read as smoke and almond."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "macallan-12",
+      "rank": 1,
+      "rationale": "Soft Speyside character under orgeat."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "army-navy",
+    "mai-tai",
+    "scotch-lemon-sour",
+    "trinidad-sour"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "scotch",
+    "tiki",
+    "orgeat",
+    "sour"
+  ]
+}

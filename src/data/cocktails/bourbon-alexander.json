@@ -1,0 +1,108 @@
+{
+  "id": "bourbon-alexander",
+  "slug": "bourbon-alexander",
+  "name": "Bourbon Alexander",
+  "aliases": [
+    "House Alexander"
+  ],
+  "description": "An Alexander you can make tonight: bourbon, crème de cacao, and Baileys in place of cognac and cream.",
+  "history": "The Alexander family starts as a gin or brandy cream drink from the early 20th century. This house version keeps the chocolate-and-cream shape and uses the whiskey already on the bar.",
+  "origin": "House adaptation",
+  "whyItWorks": "Bourbon’s vanilla and oak sit naturally under chocolate; Irish cream supplies the dairy texture the classic gets from heavy cream.",
+  "classifications": [
+    "modern",
+    "dessert"
+  ],
+  "cocktailFamily": "Alexander",
+  "flavorProfiles": [
+    "chocolate",
+    "oak",
+    "creamy"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Fresh nutmeg"
+  ],
+  "illustrationKey": "bourbon-alexander",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "creme_de_cacao",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "baileys",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake bourbon, crème de cacao, and Baileys hard with ice.",
+    "Fine-strain into a chilled coupe.",
+    "Grate nutmeg over the surface."
+  ],
+  "techniqueNotes": [
+    "Eagle Rare or Penelope Architect stay polite under chocolate; a cask-strength pour will dominate."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "eagle-rare",
+      "rank": 1,
+      "rationale": "Softer fruit and vanilla under cacao."
+    },
+    {
+      "bottleId": "penelope-architect",
+      "rank": 2,
+      "rationale": "Polished oak for a dessert Old Fashioned energy."
+    },
+    {
+      "bottleId": "creme-de-cacao",
+      "rank": 3,
+      "rationale": "Equal-parts chocolate."
+    },
+    {
+      "bottleId": "baileys",
+      "rank": 4,
+      "rationale": "Cream stand-in from the shelf."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "bourbon",
+      "alternatives": [
+        "cognac",
+        "rye"
+      ],
+      "notes": "Cognac is the Brandy Alexander; rye is drier and spicier."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "alexander",
+    "barbara",
+    "grasshopper",
+    "chocolate-old-fashioned"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "dessert",
+    "whiskey",
+    "chocolate",
+    "ready-from-new-stock"
+  ]
+}

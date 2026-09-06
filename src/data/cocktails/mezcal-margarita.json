@@ -1,0 +1,87 @@
+{
+  "id": "mezcal-margarita",
+  "slug": "mezcal-margarita",
+  "name": "Mezcal Margarita",
+  "aliases": [],
+  "description": "Mezcal, orange liqueur, and lime—the Margarita with smoke. Missing only mezcal.",
+  "history": "A contemporary agave sour. Same bones as a Margarita; mezcal replaces or splits the tequila.",
+  "origin": "Mexico / United States",
+  "whyItWorks": "Lime and Cointreau do the same job they do in a Margarita; smoke is the only new note.",
+  "classifications": [
+    "modern",
+    "sour"
+  ],
+  "cocktailFamily": "Margarita",
+  "flavorProfiles": [
+    "smoky",
+    "citrus",
+    "agave"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe or rocks glass",
+  "ice": "Shaken; up or over ice",
+  "garnish": [
+    "Lime wheel",
+    "Optional salt rim"
+  ],
+  "illustrationKey": "mezcal-margarita",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "mezcal",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cointreau",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Salt the rim if you want it.",
+    "Shake mezcal, Cointreau, and lime with ice.",
+    "Strain up or over fresh ice."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "cointreau",
+      "rank": 1,
+      "rationale": "Orange liqueur is ready."
+    },
+    {
+      "bottleId": "kirkland-cristalino",
+      "rank": 2,
+      "rationale": "Split 1 oz mezcal / 1 oz tequila if you want it milder later."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "margarita",
+    "division-bell",
+    "mezcal-negroni",
+    "tommys-margarita"
+  ],
+  "seasonality": [
+    "summer",
+    "year-round"
+  ],
+  "tags": [
+    "modern",
+    "mezcal",
+    "margarita",
+    "inventory-gap"
+  ]
+}

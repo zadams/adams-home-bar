@@ -1,0 +1,103 @@
+{
+  "id": "blue-lagoon",
+  "slug": "blue-lagoon",
+  "name": "Blue Lagoon",
+  "aliases": [],
+  "description": "Vodka, blue curaçao, and sweet-and-sour lengthened with soda—bright, cold, and unapologetically blue.",
+  "history": "Usually credited to Andy MacElhone at Harry’s New York Bar in Paris in the 1960s or 1970s, as a vodka-and-curaçao lemonade.",
+  "origin": "Paris",
+  "whyItWorks": "Sour mix plays the lemonade role; soda keeps the orange liqueur from becoming sticky. Vodka stays out of the way.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "citrus",
+    "orange",
+    "refreshing"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "light",
+  "glassware": "Highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lemon wheel",
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "blue-lagoon",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "blue_curacao",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sour_mix",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Shake vodka, blue curaçao, and sour mix with ice.",
+    "Strain into an ice-filled highball.",
+    "Top with club soda and garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "Neutral vodka."
+    },
+    {
+      "bottleId": "blue-curacao",
+      "rank": 2,
+      "rationale": "Color and orange."
+    },
+    {
+      "bottleId": "sweet-and-sour-mix",
+      "rank": 3,
+      "rationale": "The lemonade stand-in."
+    },
+    {
+      "bottleId": "fever-tree-soda",
+      "rank": 4,
+      "rationale": "Keeps the drink long and cold."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "blue-hawaii",
+    "blue-kamikaze",
+    "adios-motherfucker"
+  ],
+  "seasonality": [
+    "summer",
+    "year-round"
+  ],
+  "tags": [
+    "vodka",
+    "highball",
+    "citrus",
+    "classic",
+    "ready-from-new-stock"
+  ]
+}

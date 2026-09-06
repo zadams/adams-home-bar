@@ -1,0 +1,91 @@
+{
+  "id": "blue-moon",
+  "slug": "blue-moon",
+  "name": "Blue Moon",
+  "aliases": [],
+  "description": "Gin, crème de violette, and lemon—Aviation’s simpler cousin. Same missing bottle.",
+  "history": "A pre-Prohibition gin sour colored with violet liqueur. Recipes vary; this is the three-ingredient version.",
+  "origin": "United States",
+  "whyItWorks": "Without maraschino the violette has to do more work, so the pour stays small and lemon stays bright.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "floral",
+    "citrus",
+    "botanical"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "blue-moon",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "creme_de_violette",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake gin, violette, lemon, and optional syrup with ice.",
+    "Fine-strain into a chilled coupe.",
+    "Express a lemon twist."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "malfy-originale",
+      "rank": 1,
+      "rationale": "Clean gin that leaves room for violet."
+    },
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 2,
+      "rationale": "More citrus if the violette reads sweet."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "aviation",
+    "southside",
+    "white-lady"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "classic",
+    "gin",
+    "floral",
+    "inventory-gap"
+  ]
+}

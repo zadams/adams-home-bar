@@ -1,0 +1,87 @@
+{
+  "id": "paradise",
+  "slug": "paradise",
+  "name": "Paradise",
+  "aliases": [],
+  "description": "Gin, apricot liqueur, and orange juice—Harry Craddock’s equal-parts sour. Missing apricot.",
+  "history": "Published in the 1930 Savoy Cocktail Book. The original is equal parts; modern pours often lean on gin.",
+  "origin": "London",
+  "year": 1930,
+  "creator": "Harry Craddock",
+  "whyItWorks": "Apricot sits between gin botanicals and orange juice; without it you just have a gin screwdriver.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "apricot",
+    "orange",
+    "botanical"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Orange twist"
+  ],
+  "illustrationKey": "paradise",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "apricot_liqueur",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake gin, apricot, and orange juice with ice.",
+    "Fine-strain into a chilled coupe.",
+    "Express an orange twist."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "malfy-originale",
+      "rank": 1,
+      "rationale": "Clean gin for a fruit-forward sour."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Softer floral gin beside apricot."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "angel-face",
+    "hotel-nacional",
+    "hotel-nacional-classic",
+    "bees-knees"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "classic",
+    "gin",
+    "apricot",
+    "inventory-gap"
+  ]
+}

@@ -114,6 +114,26 @@
     "name": "Crème de banane",
     "credit": "TheCocktailDB"
   },
+  "creme_de_cacao": {
+    "src": "/images/ingredients/photos/creme_de_cacao.png",
+    "name": "Crème de cacao",
+    "credit": "TheCocktailDB"
+  },
+  "blue_curacao": {
+    "src": "/images/ingredients/photos/blue_curacao.png",
+    "name": "Blue curaçao",
+    "credit": "TheCocktailDB"
+  },
+  "creme_de_noyaux": {
+    "src": "/images/ingredients/photos/creme_de_noyaux.png",
+    "name": "Crème de noyaux",
+    "credit": "TheCocktailDB"
+  },
+  "sour_mix": {
+    "src": "/images/ingredients/photos/sour_mix.png",
+    "name": "Sweet and sour mix",
+    "credit": "TheCocktailDB"
+  },
   "falernum": {
     "src": "/images/ingredients/photos/falernum.png",
     "name": "Falernum",

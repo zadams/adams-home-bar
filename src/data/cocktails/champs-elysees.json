@@ -1,0 +1,95 @@
+{
+  "id": "champs-elysees",
+  "slug": "champs-elysees",
+  "name": "Champs-Élysées",
+  "aliases": [
+    "Champs Elysees"
+  ],
+  "description": "Cognac, green Chartreuse, lemon, and bitters—two bottles short of a French sour.",
+  "history": "A Savoy-era brandy sour with Chartreuse in place of some orange liqueur. Needs both cognac and green Chartreuse.",
+  "origin": "London / Paris",
+  "whyItWorks": "Chartreuse plays sugar and herb; lemon keeps cognac from tasting heavy; bitters finish it like a Crusta.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sidecar",
+  "flavorProfiles": [
+    "herbal",
+    "brandy",
+    "citrus"
+  ],
+  "difficulty": "medium",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "champs-elysees",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "cognac",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "green_chartreuse",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "optional": true
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 1,
+      "unit": "dash",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Shake cognac, Chartreuse, lemon, optional syrup, and bitters with ice.",
+    "Fine-strain into a chilled coupe.",
+    "Express a lemon twist."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "angostura-aromatic",
+      "rank": 1,
+      "rationale": "Bitters are ready; the two missing bottles do the rest."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "sidecar",
+    "brandy-crusta",
+    "last-word",
+    "chartreuse-swizzle"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "classic",
+    "cognac",
+    "chartreuse",
+    "inventory-gap"
+  ]
+}

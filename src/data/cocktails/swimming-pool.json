@@ -1,0 +1,107 @@
+{
+  "id": "swimming-pool",
+  "slug": "swimming-pool",
+  "name": "Swimming Pool",
+  "aliases": [],
+  "description": "Vodka, rum, blue curaçao, pineapple, and coconut—a disco-era colada that looks like pool water.",
+  "history": "A German nightclub drink from the early 1980s, close to a Blue Hawaiian with vodka in the mix. Serve tall and cold.",
+  "origin": "Germany",
+  "whyItWorks": "Vodka thins the rum-and-coconut mix so the drink stays light; pineapple acid and curaçao keep it from tasting like sunscreen.",
+  "classifications": [
+    "modern",
+    "tiki"
+  ],
+  "cocktailFamily": "Colada",
+  "flavorProfiles": [
+    "tropical",
+    "coconut",
+    "citrus"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Hurricane or tall glass",
+  "ice": "Crushed or blended",
+  "garnish": [
+    "Pineapple wedge"
+  ],
+  "illustrationKey": "swimming-pool",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "white_rum",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "blue_curacao",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "pineapple_juice",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cream_of_coconut",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake or blend everything with ice.",
+    "Pour tall and garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "Vodka keeps the colada from getting heavy."
+    },
+    {
+      "bottleId": "havana-club-3",
+      "rank": 2,
+      "rationale": "A little rum for cane character."
+    },
+    {
+      "bottleId": "blue-curacao",
+      "rank": 3,
+      "rationale": "Pool-water color."
+    },
+    {
+      "bottleId": "cream-of-coconut",
+      "rank": 4,
+      "rationale": "Colada texture."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "blue-hawaiian",
+    "pina-colada",
+    "blue-hawaii"
+  ],
+  "seasonality": [
+    "summer",
+    "year-round"
+  ],
+  "tags": [
+    "tiki",
+    "vodka",
+    "rum",
+    "tropical",
+    "ready-from-new-stock"
+  ]
+}

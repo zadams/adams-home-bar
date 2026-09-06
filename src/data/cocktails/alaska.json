@@ -1,0 +1,85 @@
+{
+  "id": "alaska",
+  "slug": "alaska",
+  "name": "Alaska",
+  "aliases": [],
+  "description": "Gin and yellow Chartreuse with orange bitters—a stirred classic missing yellow Chartreuse.",
+  "history": "A Savoy-era Martini variation. Yellow Chartreuse is sweeter and less aggressive than green; the drink should stay pale and cold.",
+  "origin": "United States / London",
+  "whyItWorks": "Chartreuse plays the vermouth role with more honey and herb; orange bitters tie gin juniper to the liqueur.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Martini",
+  "flavorProfiles": [
+    "herbal",
+    "botanical",
+    "honeyed"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "strong",
+  "glassware": "Nick & Nora",
+  "ice": "Stirred; up",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "alaska",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "yellow_chartreuse",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_bitters",
+      "amount": 1,
+      "unit": "dash",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Stir gin, yellow Chartreuse, and bitters with ice.",
+    "Strain into a chilled glass.",
+    "Express a lemon twist."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "Juniper-citrus gin beside Chartreuse."
+    },
+    {
+      "bottleId": "fee-brothers-orange",
+      "rank": 2,
+      "rationale": "Orange bitters already stocked."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "greenpoint",
+    "bijou",
+    "martini",
+    "last-word"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "classic",
+    "gin",
+    "herbal",
+    "inventory-gap"
+  ]
+}
