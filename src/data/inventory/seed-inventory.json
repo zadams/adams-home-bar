@@ -978,12 +978,13 @@
   {
     "id": "inv-orgeat",
     "ingredientId": "orgeat",
-    "status": "out",
+    "status": "in_stock",
     "productName": "Orgeat",
     "tags": [
-      "expansion"
+      "syrup",
+      "pantry"
     ],
-    "notes": "Not currently stocked."
+    "notes": "Stocked — unlocks Mai Tai and Trinidad Sour."
   },
   {
     "id": "inv-cognac",
@@ -1091,35 +1092,35 @@
   {
     "id": "inv-cranberry_juice",
     "ingredientId": "cranberry_juice",
-    "status": "out",
+    "status": "in_stock",
     "productName": "Cranberry juice",
     "tags": [
       "juice",
       "pantry"
     ],
-    "notes": "Not currently stocked."
+    "notes": "Stocked — unlocks the Cosmopolitan, Sea Breeze, Woo Woo, Madras and Cape Codder."
   },
   {
     "id": "inv-coffee_liqueur",
-    "ingredientId": "coffee_liqueur",
+    "bottleId": "kahlua",
     "status": "out",
-    "productName": "Coffee liqueur (Kahlúa-style)",
+    "brand": "Kahlúa",
+    "productName": "Original Coffee Liqueur",
+    "preferredForMixing": true,
     "tags": [
-      "liqueur",
-      "expansion"
+      "coffee-liqueur"
     ],
-    "notes": "Not currently stocked."
+    "notes": "On the shopping list — unlocks Espresso Martini, White/Black Russian, Mudslide, B-52, Revolver."
   },
   {
     "id": "inv-heavy_cream",
     "ingredientId": "heavy_cream",
-    "status": "out",
-    "productName": "Heavy cream",
+    "status": "in_stock",
+    "productName": "Half-and-half",
     "tags": [
-      "dairy",
-      "fresh"
+      "dairy"
     ],
-    "notes": "Not currently stocked."
+    "notes": "Half-and-half (~11% fat), not heavy cream (~36%). Fine in a White Russian; too thin to hold aeration in a Grasshopper or Alexander."
   },
   {
     "id": "inv-hot_water",
@@ -1141,5 +1142,27 @@
       "expansion"
     ],
     "notes": "Not currently stocked."
+  },
+  {
+    "id": "inv-jameson",
+    "bottleId": "jameson",
+    "status": "in_stock",
+    "brand": "Jameson",
+    "productName": "Irish Whiskey",
+    "preferredForMixing": true,
+    "tags": [
+      "irish-whiskey",
+      "blended"
+    ]
+  },
+  {
+    "id": "inv-creme_de_cacao",
+    "ingredientId": "creme_de_cacao",
+    "status": "in_stock",
+    "productName": "White crème de cacao",
+    "tags": [
+      "liqueur"
+    ],
+    "notes": "White only — dark turns the Twentieth Century muddy."
   }
 ]

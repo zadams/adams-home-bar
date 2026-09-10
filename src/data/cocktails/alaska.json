@@ -1,0 +1,98 @@
+{
+  "aliases": [],
+  "history": "In the Savoy Cocktail Book, with Harry Craddock noting it was \"not, as would be imagined, a much-passed drink in Alaska.\"",
+  "origin": "United Kingdom",
+  "whyItWorks": "Yellow Chartreuse plays the sweet vermouth role—honey and saffron instead of grape—so the gin stays bright.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Martini",
+  "flavorProfiles": [
+    "herbal",
+    "honey",
+    "juniper"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "spirit-forward",
+  "glassware": "Coupe",
+  "ice": "Chilled, no ice",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "alaska",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "yellow_chartreuse",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "lemon",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Lemon twist",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Stir gin, Chartreuse and bitters with ice until well chilled.",
+    "Strain into a chilled coupe.",
+    "Express a lemon twist over the surface and drop it in."
+  ],
+  "techniqueNotes": [
+    "Yellow Chartreuse is 40% ABV and sweet—this drinks softer than it is."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "malfy-originale",
+      "rank": 1,
+      "rationale": "Clean juniper lets the Chartreuse lead."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "yellow_chartreuse",
+      "alternatives": [
+        "benedictine"
+      ],
+      "notes": "Bénédictine is sweeter and less herbal; cut to half an ounce."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "martini",
+    "bijou",
+    "last-word"
+  ],
+  "seasonality": [
+    "autumn",
+    "winter"
+  ],
+  "tags": [
+    "gin",
+    "chartreuse",
+    "stirred"
+  ],
+  "id": "alaska",
+  "slug": "alaska",
+  "name": "Alaska",
+  "description": "Gin and yellow Chartreuse, stirred—honeyed, herbal, and deceptively strong.",
+  "year": 1930
+}

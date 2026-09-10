@@ -1,0 +1,91 @@
+{
+  "aliases": [],
+  "history": "The daily drink of Martinique and Guadeloupe. The custom is chacun prépare sa propre mort—each prepares their own death—so the bottle goes on the table and the guest builds it.",
+  "origin": "Martinique",
+  "whyItWorks": "Agricole is pressed from fresh cane juice, not molasses; it tastes grassy and raw, and this build exists to show that off rather than cover it.",
+  "classifications": [
+    "classic"
+  ],
+  "cocktailFamily": "Punch",
+  "flavorProfiles": [
+    "grassy",
+    "lime",
+    "cane"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Old fashioned",
+  "ice": "None, or one large cube",
+  "garnish": [
+    "Lime disc"
+  ],
+  "illustrationKey": "ti-punch",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "agricole_rum",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Rhum agricole blanc"
+    },
+    {
+      "ingredientId": "cane_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "fixed",
+      "label": "Lime disc, peel and all"
+    }
+  ],
+  "steps": [
+    "Cut a coin-sized disc from the side of a lime, taking peel and a little flesh.",
+    "Muddle it gently with the cane syrup in the glass—press, do not pulverize.",
+    "Add the rhum and stir. Serve at room temperature, or over a single cube."
+  ],
+  "techniqueNotes": [
+    "Serving it neat is the tradition; a single large cube is the common concession.",
+    "Do not use lime juice. The oil in the peel is most of the point."
+  ],
+  "recommendedBottles": [],
+  "substitutions": [
+    {
+      "ingredientId": "cane_syrup",
+      "alternatives": [
+        "simple_syrup"
+      ],
+      "notes": "Cane syrup is thicker and more molasses-forward; simple works at ⅓ oz."
+    },
+    {
+      "ingredientId": "agricole_rum",
+      "alternatives": [
+        "white_rum"
+      ],
+      "notes": "A molasses rum makes a decent drink and a bad Ti’ Punch."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "daiquiri",
+    "caipirinha",
+    "canchanchara"
+  ],
+  "seasonality": [
+    "summer"
+  ],
+  "tags": [
+    "rum",
+    "agricole",
+    "build"
+  ],
+  "id": "ti-punch",
+  "slug": "ti-punch",
+  "name": "Ti' Punch",
+  "description": "Rhum agricole, cane syrup, a disc of lime. No ice, no shaking, no apology."
+}

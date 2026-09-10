@@ -1,0 +1,95 @@
+{
+  "aliases": [],
+  "history": "Credited to Tujague’s in New Orleans, where it won a 1918 cocktail competition in New York. It became a supper-club fixture and then a punchline; it is better than its reputation.",
+  "origin": "United States",
+  "whyItWorks": "Equal parts is the whole trick: neither liqueur wins, and the cream rounds both into something closer to ice cream than a cocktail.",
+  "classifications": [
+    "classic",
+    "dessert"
+  ],
+  "cocktailFamily": "Cream",
+  "flavorProfiles": [
+    "mint",
+    "chocolate",
+    "cream"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "light",
+  "glassware": "Coupe",
+  "ice": "Chilled, no ice",
+  "garnish": [
+    "Grated nutmeg",
+    "Mint sprig"
+  ],
+  "illustrationKey": "grasshopper",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "peppermint_liqueur",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Crème de menthe"
+    },
+    {
+      "ingredientId": "creme_de_cacao",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "White crème de cacao"
+    },
+    {
+      "ingredientId": "heavy_cream",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "mint",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Mint sprig",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake all three hard with ice—harder and longer than a sour, to aerate the cream.",
+    "Double-strain into a chilled coupe.",
+    "Grate nutmeg over the top and add a mint sprig."
+  ],
+  "techniqueNotes": [
+    "Green crème de menthe is traditional and gives the color; white makes a paler, less garish drink.",
+    "Half-and-half thins it out. Use real heavy cream."
+  ],
+  "recommendedBottles": [],
+  "substitutions": [
+    {
+      "ingredientId": "heavy_cream",
+      "alternatives": [
+        "baileys"
+      ],
+      "notes": "A splash of Irish cream in place of dairy makes a richer, sweeter version."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "alexander",
+    "after-dinner-mint",
+    "banshee"
+  ],
+  "seasonality": [
+    "winter"
+  ],
+  "tags": [
+    "dessert",
+    "cream",
+    "mint"
+  ],
+  "id": "grasshopper",
+  "slug": "grasshopper",
+  "name": "Grasshopper",
+  "description": "Mint, chocolate and cream in equal thirds—New Orleans dessert in a coupe.",
+  "year": 1918
+}
