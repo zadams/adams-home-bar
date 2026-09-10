@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T04:29:56.682Z",
-  "count": 463,
+  "generatedAt": "2026-09-10T04:35:27.387Z",
+  "count": 523,
   "cocktails": [
     {
       "id": "adios-motherfucker",
@@ -101,6 +101,65 @@
       ]
     },
     {
+      "id": "alabama-slammer",
+      "slug": "alabama-slammer",
+      "name": "Alabama Slammer",
+      "file": "alabama-slammer.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "classic"
+      ],
+      "flavorProfiles": [
+        "berry",
+        "almond",
+        "orange"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "alabama-slammer",
+      "tags": [
+        "shot"
+      ],
+      "ingredientIds": [
+        "sloe_gin",
+        "southern_comfort",
+        "amaretto",
+        "orange_juice"
+      ]
+    },
+    {
+      "id": "alaska",
+      "slug": "alaska",
+      "name": "Alaska",
+      "file": "alaska.json",
+      "cocktailFamily": "Martini",
+      "classifications": [
+        "classic",
+        "spirit-forward"
+      ],
+      "flavorProfiles": [
+        "herbal",
+        "honey",
+        "juniper"
+      ],
+      "difficulty": "easy",
+      "strength": "spirit-forward",
+      "glassware": "Coupe",
+      "illustrationKey": "alaska",
+      "tags": [
+        "gin",
+        "chartreuse",
+        "stirred"
+      ],
+      "ingredientIds": [
+        "gin",
+        "yellow_chartreuse",
+        "orange_bitters"
+      ]
+    },
+    {
       "id": "alexander",
       "slug": "alexander",
       "name": "Alexander",
@@ -128,6 +187,38 @@
         "cognac",
         "creme_de_cacao",
         "heavy_cream"
+      ]
+    },
+    {
+      "id": "alien-brain-hemorrhage",
+      "slug": "alien-brain-hemorrhage",
+      "name": "Alien Brain Hemorrhage",
+      "file": "alien-brain-hemorrhage.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "modern",
+        "variation"
+      ],
+      "flavorProfiles": [
+        "peach",
+        "orange",
+        "cream"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "alien-brain-hemorrhage",
+      "tags": [
+        "shot",
+        "layered",
+        "halloween"
+      ],
+      "ingredientIds": [
+        "peach_liqueur",
+        "blue_curacao",
+        "baileys",
+        "grenadine"
       ]
     },
     {
@@ -1410,6 +1501,37 @@
       ]
     },
     {
+      "id": "aviation",
+      "slug": "aviation",
+      "name": "Aviation",
+      "file": "aviation.json",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "classic",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "floral",
+        "cherry",
+        "citrus"
+      ],
+      "difficulty": "medium",
+      "strength": "strong",
+      "glassware": "Coupe",
+      "illustrationKey": "aviation",
+      "tags": [
+        "gin",
+        "floral",
+        "pre-prohibition"
+      ],
+      "ingredientIds": [
+        "gin",
+        "maraschino",
+        "creme_de_violette",
+        "lemon_juice"
+      ]
+    },
+    {
       "id": "b-52",
       "slug": "b-52",
       "name": "B-52",
@@ -1440,6 +1562,35 @@
         "coffee_liqueur",
         "baileys",
         "grand_marnier"
+      ]
+    },
+    {
+      "id": "baby-guinness",
+      "slug": "baby-guinness",
+      "name": "Baby Guinness",
+      "file": "baby-guinness.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "coffee",
+        "cream",
+        "chocolate"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "baby-guinness",
+      "tags": [
+        "shot",
+        "layered",
+        "dessert"
+      ],
+      "ingredientIds": [
+        "coffee_liqueur",
+        "baileys"
       ]
     },
     {
@@ -1888,6 +2039,35 @@
       ]
     },
     {
+      "id": "bazooka-joe",
+      "slug": "bazooka-joe",
+      "name": "Bazooka Joe",
+      "file": "bazooka-joe.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "banana",
+        "orange",
+        "cream"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "bazooka-joe",
+      "tags": [
+        "shot",
+        "layered"
+      ],
+      "ingredientIds": [
+        "creme_de_banane",
+        "blue_curacao",
+        "baileys"
+      ]
+    },
+    {
       "id": "becherovka-tonic",
       "slug": "becherovka-tonic",
       "name": "Becherovka and Tonic",
@@ -2063,6 +2243,34 @@
         "vodka",
         "lemon_juice",
         "honey_syrup"
+      ]
+    },
+    {
+      "id": "beer-and-a-shot",
+      "slug": "beer-and-a-shot",
+      "name": "Beer and a Shot",
+      "file": "beer-and-a-shot.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "classic"
+      ],
+      "flavorProfiles": [
+        "oak",
+        "malt",
+        "grain"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot + beer glass",
+      "illustrationKey": "beer-and-a-shot",
+      "tags": [
+        "shot",
+        "beer"
+      ],
+      "ingredientIds": [
+        "bourbon",
+        "lager_beer"
       ]
     },
     {
@@ -2282,6 +2490,64 @@
         "worcestershire_sauce",
         "hot_sauce",
         "salt"
+      ]
+    },
+    {
+      "id": "blow-job",
+      "slug": "blow-job",
+      "name": "Blow Job",
+      "file": "blow-job.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "butterscotch",
+        "cream"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "blow-job",
+      "tags": [
+        "shot",
+        "layered",
+        "dessert"
+      ],
+      "ingredientIds": [
+        "butterscotch_schnapps",
+        "baileys",
+        "whipped_cream"
+      ]
+    },
+    {
+      "id": "blue-kamikaze",
+      "slug": "blue-kamikaze",
+      "name": "Blue Kamikaze",
+      "file": "blue-kamikaze.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "variation"
+      ],
+      "flavorProfiles": [
+        "citrus",
+        "orange",
+        "tart"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "blue-kamikaze",
+      "tags": [
+        "shot",
+        "vodka"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "blue_curacao",
+        "lime_juice"
       ]
     },
     {
@@ -3131,6 +3397,36 @@
       ]
     },
     {
+      "id": "brain-hemorrhage",
+      "slug": "brain-hemorrhage",
+      "name": "Brain Hemorrhage",
+      "file": "brain-hemorrhage.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "modern"
+      ],
+      "flavorProfiles": [
+        "peach",
+        "cream",
+        "sweet"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "brain-hemorrhage",
+      "tags": [
+        "shot",
+        "layered",
+        "halloween"
+      ],
+      "ingredientIds": [
+        "peach_liqueur",
+        "baileys",
+        "grenadine"
+      ]
+    },
+    {
       "id": "brandy-crusta",
       "slug": "brandy-crusta",
       "name": "Brandy Crusta",
@@ -3195,6 +3491,37 @@
       ]
     },
     {
+      "id": "brooklyn",
+      "slug": "brooklyn",
+      "name": "Brooklyn",
+      "file": "brooklyn.json",
+      "cocktailFamily": "Manhattan",
+      "classifications": [
+        "classic",
+        "spirit-forward"
+      ],
+      "flavorProfiles": [
+        "bitter",
+        "cherry",
+        "rye spice"
+      ],
+      "difficulty": "easy",
+      "strength": "spirit-forward",
+      "glassware": "Coupe",
+      "illustrationKey": "brooklyn",
+      "tags": [
+        "rye",
+        "amaro",
+        "stirred"
+      ],
+      "ingredientIds": [
+        "rye",
+        "dry_vermouth",
+        "maraschino",
+        "amaro_averna"
+      ]
+    },
+    {
       "id": "brown-derby",
       "slug": "brown-derby",
       "name": "Brown Derby",
@@ -3255,6 +3582,35 @@
       ]
     },
     {
+      "id": "bubble-gum-shot",
+      "slug": "bubble-gum-shot",
+      "name": "Bubble Gum Shot",
+      "file": "bubble-gum-shot.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "banana",
+        "peach",
+        "cream"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "bubble-gum-shot",
+      "tags": [
+        "shot",
+        "dessert"
+      ],
+      "ingredientIds": [
+        "creme_de_banane",
+        "peach_liqueur",
+        "heavy_cream"
+      ]
+    },
+    {
       "id": "bucks-fizz",
       "slug": "bucks-fizz",
       "name": "Buck's Fizz",
@@ -3282,6 +3638,35 @@
       "ingredientIds": [
         "prosecco",
         "orange_juice"
+      ]
+    },
+    {
+      "id": "buttery-nipple",
+      "slug": "buttery-nipple",
+      "name": "Buttery Nipple",
+      "file": "buttery-nipple.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "butterscotch",
+        "cream",
+        "vanilla"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "buttery-nipple",
+      "tags": [
+        "shot",
+        "layered",
+        "dessert"
+      ],
+      "ingredientIds": [
+        "butterscotch_schnapps",
+        "baileys"
       ]
     },
     {
@@ -3646,6 +4031,33 @@
       ]
     },
     {
+      "id": "cement-mixer",
+      "slug": "cement-mixer",
+      "name": "Cement Mixer",
+      "file": "cement-mixer.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot"
+      ],
+      "flavorProfiles": [
+        "cream",
+        "citrus",
+        "sour"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "cement-mixer",
+      "tags": [
+        "shot",
+        "novelty"
+      ],
+      "ingredientIds": [
+        "baileys",
+        "lime_juice"
+      ]
+    },
+    {
       "id": "champagne-cocktail",
       "slug": "champagne-cocktail",
       "name": "Champagne Cocktail",
@@ -3706,6 +4118,32 @@
         "simple_syrup",
         "mint",
         "prosecco"
+      ]
+    },
+    {
+      "id": "chartreuse-shot",
+      "slug": "chartreuse-shot",
+      "name": "Chartreuse Shot",
+      "file": "chartreuse-shot.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot"
+      ],
+      "flavorProfiles": [
+        "herbal",
+        "honey",
+        "heat"
+      ],
+      "difficulty": "easy",
+      "strength": "spirit-forward",
+      "glassware": "Shot glass",
+      "illustrationKey": "chartreuse-shot",
+      "tags": [
+        "shot",
+        "chartreuse"
+      ],
+      "ingredientIds": [
+        "green_chartreuse"
       ]
     },
     {
@@ -3800,6 +4238,95 @@
         "cherry_liqueur",
         "lemon_juice",
         "simple_syrup"
+      ]
+    },
+    {
+      "id": "chocolate-cake-shot",
+      "slug": "chocolate-cake-shot",
+      "name": "Chocolate Cake Shot",
+      "file": "chocolate-cake-shot.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "dessert",
+        "modern"
+      ],
+      "flavorProfiles": [
+        "citrus",
+        "nutty",
+        "sweet"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "chocolate-cake-shot",
+      "tags": [
+        "shot",
+        "dessert"
+      ],
+      "ingredientIds": [
+        "lemon_vodka",
+        "amaretto",
+        "lemon"
+      ]
+    },
+    {
+      "id": "chrysanthemum",
+      "slug": "chrysanthemum",
+      "name": "Chrysanthemum",
+      "file": "chrysanthemum.json",
+      "cocktailFamily": "Aperitif",
+      "classifications": [
+        "classic",
+        "aperitivo"
+      ],
+      "flavorProfiles": [
+        "herbal",
+        "honey",
+        "anise"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Coupe",
+      "illustrationKey": "chrysanthemum",
+      "tags": [
+        "low-abv",
+        "aperitif",
+        "vermouth"
+      ],
+      "ingredientIds": [
+        "dry_vermouth",
+        "benedictine",
+        "absinthe"
+      ]
+    },
+    {
+      "id": "cinnamon-toast-crunch",
+      "slug": "cinnamon-toast-crunch",
+      "name": "Cinnamon Toast Crunch",
+      "file": "cinnamon-toast-crunch.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "dessert",
+        "modern"
+      ],
+      "flavorProfiles": [
+        "cinnamon",
+        "cream",
+        "vanilla"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "cinnamon-toast-crunch",
+      "tags": [
+        "shot",
+        "dessert"
+      ],
+      "ingredientIds": [
+        "rumchata",
+        "cinnamon_whisky"
       ]
     },
     {
@@ -4590,6 +5117,37 @@
       ]
     },
     {
+      "id": "cynar-spritz",
+      "slug": "cynar-spritz",
+      "name": "Cynar Spritz",
+      "file": "cynar-spritz.json",
+      "cocktailFamily": "Spritz",
+      "classifications": [
+        "aperitivo",
+        "sparkling",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "bitter",
+        "vegetal",
+        "citrus"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Wine glass",
+      "illustrationKey": "cynar-spritz",
+      "tags": [
+        "aperitivo",
+        "spritz",
+        "amaro"
+      ],
+      "ingredientIds": [
+        "cynar",
+        "prosecco",
+        "club_soda"
+      ]
+    },
+    {
       "id": "daiquiri",
       "slug": "daiquiri",
       "name": "Daiquiri",
@@ -4647,6 +5205,36 @@
       "ingredientIds": [
         "gold_rum",
         "ginger_beer"
+      ]
+    },
+    {
+      "id": "dirty-girl-scout",
+      "slug": "dirty-girl-scout",
+      "name": "Dirty Girl Scout",
+      "file": "dirty-girl-scout.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "mint",
+        "coffee",
+        "cream"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "dirty-girl-scout",
+      "tags": [
+        "shot",
+        "dessert"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "coffee_liqueur",
+        "peppermint_liqueur",
+        "heavy_cream"
       ]
     },
     {
@@ -4804,6 +5392,35 @@
       ]
     },
     {
+      "id": "duck-fart",
+      "slug": "duck-fart",
+      "name": "Duck Fart",
+      "file": "duck-fart.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "coffee",
+        "cream",
+        "oak"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "duck-fart",
+      "tags": [
+        "shot",
+        "layered"
+      ],
+      "ingredientIds": [
+        "coffee_liqueur",
+        "baileys",
+        "bourbon"
+      ]
+    },
+    {
       "id": "el-presidente",
       "slug": "el-presidente",
       "name": "El Presidente",
@@ -4830,6 +5447,36 @@
         "white_rum",
         "dry_vermouth",
         "cointreau"
+      ]
+    },
+    {
+      "id": "emerald",
+      "slug": "emerald",
+      "name": "Emerald",
+      "file": "emerald.json",
+      "cocktailFamily": "Manhattan",
+      "classifications": [
+        "classic",
+        "spirit-forward",
+        "variation"
+      ],
+      "flavorProfiles": [
+        "malt",
+        "vermouth",
+        "baking spice"
+      ],
+      "difficulty": "easy",
+      "strength": "spirit-forward",
+      "glassware": "Coupe",
+      "illustrationKey": "emerald",
+      "tags": [
+        "irish-whiskey",
+        "manhattan-family"
+      ],
+      "ingredientIds": [
+        "irish_whiskey",
+        "sweet_vermouth",
+        "angostura_bitters"
       ]
     },
     {
@@ -5216,6 +5863,90 @@
         "green_chartreuse",
         "maraschino",
         "lemon_juice"
+      ]
+    },
+    {
+      "id": "fireball-shot",
+      "slug": "fireball-shot",
+      "name": "Fireball Shot",
+      "file": "fireball-shot.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "modern"
+      ],
+      "flavorProfiles": [
+        "cinnamon",
+        "sweet",
+        "heat"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "fireball-shot",
+      "tags": [
+        "shot"
+      ],
+      "ingredientIds": [
+        "cinnamon_whisky"
+      ]
+    },
+    {
+      "id": "flatliner",
+      "slug": "flatliner",
+      "name": "Flatliner",
+      "file": "flatliner.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot"
+      ],
+      "flavorProfiles": [
+        "anise",
+        "spicy",
+        "agave"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "flatliner",
+      "tags": [
+        "shot",
+        "spicy",
+        "layered"
+      ],
+      "ingredientIds": [
+        "blanco_tequila",
+        "hot_sauce",
+        "sambuca"
+      ]
+    },
+    {
+      "id": "four-horsemen",
+      "slug": "four-horsemen",
+      "name": "Four Horsemen",
+      "file": "four-horsemen.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot"
+      ],
+      "flavorProfiles": [
+        "oak",
+        "smoke",
+        "spice"
+      ],
+      "difficulty": "easy",
+      "strength": "spirit-forward",
+      "glassware": "Shot glass",
+      "illustrationKey": "four-horsemen",
+      "tags": [
+        "shot",
+        "whiskey"
+      ],
+      "ingredientIds": [
+        "bourbon",
+        "rye",
+        "scotch",
+        "irish_whiskey"
       ]
     },
     {
@@ -6546,6 +7277,65 @@
       ]
     },
     {
+      "id": "grasshopper",
+      "slug": "grasshopper",
+      "name": "Grasshopper",
+      "file": "grasshopper.json",
+      "cocktailFamily": "Cream",
+      "classifications": [
+        "classic",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "mint",
+        "chocolate",
+        "cream"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Coupe",
+      "illustrationKey": "grasshopper",
+      "tags": [
+        "dessert",
+        "cream",
+        "mint"
+      ],
+      "ingredientIds": [
+        "peppermint_liqueur",
+        "creme_de_cacao",
+        "heavy_cream"
+      ]
+    },
+    {
+      "id": "green-tea-shot",
+      "slug": "green-tea-shot",
+      "name": "Green Tea Shot",
+      "file": "green-tea-shot.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot"
+      ],
+      "flavorProfiles": [
+        "peach",
+        "citrus",
+        "sweet"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "green-tea-shot",
+      "tags": [
+        "shot",
+        "whiskey"
+      ],
+      "ingredientIds": [
+        "irish_whiskey",
+        "peach_liqueur",
+        "sour_mix",
+        "lemon_lime_soda"
+      ]
+    },
+    {
       "id": "greenpoint",
       "slug": "greenpoint",
       "name": "Greenpoint",
@@ -7243,6 +8033,38 @@
       ]
     },
     {
+      "id": "improved-holland-gin-cocktail",
+      "slug": "improved-holland-gin-cocktail",
+      "name": "Improved Holland Gin Cocktail",
+      "file": "improved-holland-gin-cocktail.json",
+      "cocktailFamily": "Old Fashioned",
+      "classifications": [
+        "classic",
+        "spirit-forward"
+      ],
+      "flavorProfiles": [
+        "malt",
+        "anise",
+        "cherry"
+      ],
+      "difficulty": "medium",
+      "strength": "spirit-forward",
+      "glassware": "Old fashioned",
+      "illustrationKey": "improved-holland-gin-cocktail",
+      "tags": [
+        "genever",
+        "pre-prohibition",
+        "stirred"
+      ],
+      "ingredientIds": [
+        "genever",
+        "maraschino",
+        "demerara_sugar",
+        "angostura_bitters",
+        "absinthe"
+      ]
+    },
+    {
       "id": "improved-whiskey-cocktail",
       "slug": "improved-whiskey-cocktail",
       "name": "Improved Whiskey Cocktail",
@@ -7304,6 +8126,35 @@
       ]
     },
     {
+      "id": "irish-flag",
+      "slug": "irish-flag",
+      "name": "Irish Flag",
+      "file": "irish-flag.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "mint",
+        "cream",
+        "orange"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "irish-flag",
+      "tags": [
+        "shot",
+        "layered"
+      ],
+      "ingredientIds": [
+        "peppermint_liqueur",
+        "baileys",
+        "grand_marnier"
+      ]
+    },
+    {
       "id": "irish-mule",
       "slug": "irish-mule",
       "name": "Irish Mule",
@@ -7332,6 +8183,36 @@
         "bourbon",
         "lime_juice",
         "ginger_beer"
+      ]
+    },
+    {
+      "id": "irish-slammer",
+      "slug": "irish-slammer",
+      "name": "Irish Slammer",
+      "file": "irish-slammer.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "modern"
+      ],
+      "flavorProfiles": [
+        "cream",
+        "malt",
+        "coffee"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot + pint glass",
+      "illustrationKey": "irish-slammer",
+      "tags": [
+        "shot",
+        "bomb",
+        "irish"
+      ],
+      "ingredientIds": [
+        "irish_whiskey",
+        "baileys",
+        "irish_stout"
       ]
     },
     {
@@ -7396,6 +8277,35 @@
       ]
     },
     {
+      "id": "jagerbomb",
+      "slug": "jagerbomb",
+      "name": "Jägerbomb",
+      "file": "jagerbomb.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "modern"
+      ],
+      "flavorProfiles": [
+        "herbal",
+        "sweet",
+        "citrus"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot + pint glass",
+      "illustrationKey": "jagerbomb",
+      "tags": [
+        "shot",
+        "bomb",
+        "jagermeister"
+      ],
+      "ingredientIds": [
+        "jagermeister",
+        "energy_drink"
+      ]
+    },
+    {
       "id": "japanese-cocktail",
       "slug": "japanese-cocktail",
       "name": "Japanese Cocktail",
@@ -7456,6 +8366,34 @@
         "lemon_juice",
         "simple_syrup",
         "club_soda"
+      ]
+    },
+    {
+      "id": "jolly-rancher",
+      "slug": "jolly-rancher",
+      "name": "Jolly Rancher",
+      "file": "jolly-rancher.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot"
+      ],
+      "flavorProfiles": [
+        "apple",
+        "candy",
+        "tart"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "jolly-rancher",
+      "tags": [
+        "shot",
+        "vodka"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "sour_apple_schnapps",
+        "cranberry_juice"
       ]
     },
     {
@@ -7577,6 +8515,36 @@
         "bourbon",
         "lime_juice",
         "ginger_beer"
+      ]
+    },
+    {
+      "id": "kingston-negroni",
+      "slug": "kingston-negroni",
+      "name": "Kingston Negroni",
+      "file": "kingston-negroni.json",
+      "cocktailFamily": "Negroni",
+      "classifications": [
+        "modern-classic",
+        "spirit-forward"
+      ],
+      "flavorProfiles": [
+        "funky",
+        "bitter",
+        "tropical"
+      ],
+      "difficulty": "easy",
+      "strength": "spirit-forward",
+      "glassware": "Old fashioned",
+      "illustrationKey": "kingston-negroni",
+      "tags": [
+        "rum",
+        "negroni-family",
+        "modern-classic"
+      ],
+      "ingredientIds": [
+        "jamaican_rum",
+        "campari",
+        "sweet_vermouth"
       ]
     },
     {
@@ -7940,6 +8908,68 @@
       "ingredientIds": [
         "lemon_vodka",
         "tonic_water"
+      ]
+    },
+    {
+      "id": "lions-tail",
+      "slug": "lions-tail",
+      "name": "Lion's Tail",
+      "file": "lions-tail.json",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "classic",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "allspice",
+        "lime",
+        "oak"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Coupe",
+      "illustrationKey": "lions-tail",
+      "tags": [
+        "bourbon",
+        "spiced",
+        "sour"
+      ],
+      "ingredientIds": [
+        "bourbon",
+        "allspice_dram",
+        "lime_juice",
+        "simple_syrup",
+        "angostura_bitters"
+      ]
+    },
+    {
+      "id": "liquid-marijuana",
+      "slug": "liquid-marijuana",
+      "name": "Liquid Marijuana",
+      "file": "liquid-marijuana.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "tropical"
+      ],
+      "flavorProfiles": [
+        "melon",
+        "coconut",
+        "pineapple"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "liquid-marijuana",
+      "tags": [
+        "shot",
+        "tropical"
+      ],
+      "ingredientIds": [
+        "melon_liqueur",
+        "blue_curacao",
+        "coconut_rum",
+        "pineapple_juice"
       ]
     },
     {
@@ -8324,6 +9354,34 @@
       ]
     },
     {
+      "id": "melon-ball",
+      "slug": "melon-ball",
+      "name": "Melon Ball",
+      "file": "melon-ball.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot"
+      ],
+      "flavorProfiles": [
+        "melon",
+        "pineapple",
+        "sweet"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "melon-ball",
+      "tags": [
+        "shot",
+        "melon"
+      ],
+      "ingredientIds": [
+        "melon_liqueur",
+        "vodka",
+        "pineapple_juice"
+      ]
+    },
+    {
       "id": "mexican-candy-shot",
       "slug": "mexican-candy-shot",
       "name": "Mexican Candy Shot",
@@ -8696,6 +9754,36 @@
       ]
     },
     {
+      "id": "mudslide-shot",
+      "slug": "mudslide-shot",
+      "name": "Mudslide Shot",
+      "file": "mudslide-shot.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "dessert",
+        "variation"
+      ],
+      "flavorProfiles": [
+        "coffee",
+        "cream",
+        "chocolate"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "mudslide-shot",
+      "tags": [
+        "shot",
+        "dessert"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "coffee_liqueur",
+        "baileys"
+      ]
+    },
+    {
       "id": "naked-and-famous",
       "slug": "naked-and-famous",
       "name": "Naked and Famous",
@@ -8880,6 +9968,64 @@
         "lemon_juice",
         "simple_syrup",
         "red_wine"
+      ]
+    },
+    {
+      "id": "nutty-irishman",
+      "slug": "nutty-irishman",
+      "name": "Nutty Irishman",
+      "file": "nutty-irishman.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "nutty",
+        "cream",
+        "vanilla"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "nutty-irishman",
+      "tags": [
+        "shot",
+        "dessert"
+      ],
+      "ingredientIds": [
+        "baileys",
+        "amaretto"
+      ]
+    },
+    {
+      "id": "oatmeal-cookie",
+      "slug": "oatmeal-cookie",
+      "name": "Oatmeal Cookie",
+      "file": "oatmeal-cookie.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "dessert",
+        "modern"
+      ],
+      "flavorProfiles": [
+        "cinnamon",
+        "butterscotch",
+        "cream"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "oatmeal-cookie",
+      "tags": [
+        "shot",
+        "dessert"
+      ],
+      "ingredientIds": [
+        "baileys",
+        "butterscotch_schnapps",
+        "cinnamon_whisky"
       ]
     },
     {
@@ -9863,6 +11009,34 @@
       ]
     },
     {
+      "id": "pickleback",
+      "slug": "pickleback",
+      "name": "Pickleback",
+      "file": "pickleback.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "modern"
+      ],
+      "flavorProfiles": [
+        "savory",
+        "salt",
+        "malt"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Two shot glasses",
+      "illustrationKey": "pickleback",
+      "tags": [
+        "shot",
+        "savory"
+      ],
+      "ingredientIds": [
+        "irish_whiskey",
+        "pickle_brine"
+      ]
+    },
+    {
       "id": "pina-colada",
       "slug": "pina-colada",
       "name": "Piña Colada",
@@ -10018,6 +11192,33 @@
       ]
     },
     {
+      "id": "prairie-fire",
+      "slug": "prairie-fire",
+      "name": "Prairie Fire",
+      "file": "prairie-fire.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot"
+      ],
+      "flavorProfiles": [
+        "spicy",
+        "agave",
+        "savory"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "prairie-fire",
+      "tags": [
+        "shot",
+        "spicy"
+      ],
+      "ingredientIds": [
+        "blanco_tequila",
+        "hot_sauce"
+      ]
+    },
+    {
       "id": "presbyterian",
       "slug": "presbyterian",
       "name": "Presbyterian",
@@ -10080,6 +11281,35 @@
       ]
     },
     {
+      "id": "purple-hooter",
+      "slug": "purple-hooter",
+      "name": "Purple Hooter",
+      "file": "purple-hooter.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot"
+      ],
+      "flavorProfiles": [
+        "berry",
+        "citrus",
+        "tart"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "purple-hooter",
+      "tags": [
+        "shot",
+        "vodka"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "triple_sec",
+        "cranberry_juice",
+        "lime_juice"
+      ]
+    },
+    {
       "id": "queens-park-swizzle",
       "slug": "queens-park-swizzle",
       "name": "Queen's Park Swizzle",
@@ -10115,6 +11345,35 @@
       ]
     },
     {
+      "id": "quick-fuck",
+      "slug": "quick-fuck",
+      "name": "Quick Fuck",
+      "file": "quick-fuck.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "coffee",
+        "melon",
+        "cream"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "quick-fuck",
+      "tags": [
+        "shot",
+        "layered"
+      ],
+      "ingredientIds": [
+        "coffee_liqueur",
+        "melon_liqueur",
+        "baileys"
+      ]
+    },
+    {
       "id": "ranch-water",
       "slug": "ranch-water",
       "name": "Ranch Water",
@@ -10141,6 +11400,34 @@
         "blanco_tequila",
         "lime_juice",
         "club_soda"
+      ]
+    },
+    {
+      "id": "red-headed-slut",
+      "slug": "red-headed-slut",
+      "name": "Red Headed Slut",
+      "file": "red-headed-slut.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot"
+      ],
+      "flavorProfiles": [
+        "peach",
+        "cranberry",
+        "herbal"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "red-headed-slut",
+      "tags": [
+        "shot",
+        "jagermeister"
+      ],
+      "ingredientIds": [
+        "jagermeister",
+        "peach_liqueur",
+        "cranberry_juice"
       ]
     },
     {
@@ -11041,6 +12328,36 @@
       ]
     },
     {
+      "id": "scooby-snack",
+      "slug": "scooby-snack",
+      "name": "Scooby Snack",
+      "file": "scooby-snack.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "tropical"
+      ],
+      "flavorProfiles": [
+        "melon",
+        "coconut",
+        "pineapple"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "scooby-snack",
+      "tags": [
+        "shot",
+        "tropical"
+      ],
+      "ingredientIds": [
+        "melon_liqueur",
+        "coconut_rum",
+        "pineapple_juice",
+        "heavy_cream"
+      ]
+    },
+    {
       "id": "scotch-cola",
       "slug": "scotch-cola",
       "name": "Scotch & Cola",
@@ -11437,6 +12754,36 @@
       ]
     },
     {
+      "id": "screaming-orgasm",
+      "slug": "screaming-orgasm",
+      "name": "Screaming Orgasm",
+      "file": "screaming-orgasm.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "coffee",
+        "almond",
+        "cream"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "screaming-orgasm",
+      "tags": [
+        "shot",
+        "dessert"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "coffee_liqueur",
+        "baileys",
+        "amaretto"
+      ]
+    },
+    {
       "id": "screwdriver",
       "slug": "screwdriver",
       "name": "Screwdriver",
@@ -11558,6 +12905,35 @@
         "peach_liqueur",
         "orange_juice",
         "cranberry_juice"
+      ]
+    },
+    {
+      "id": "sex-on-the-beach-shot",
+      "slug": "sex-on-the-beach-shot",
+      "name": "Sex on the Beach Shot",
+      "file": "sex-on-the-beach-shot.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot"
+      ],
+      "flavorProfiles": [
+        "peach",
+        "cranberry",
+        "orange"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "sex-on-the-beach-shot",
+      "tags": [
+        "shot",
+        "vodka"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "peach_liqueur",
+        "cranberry_juice",
+        "orange_juice"
       ]
     },
     {
@@ -11716,6 +13092,33 @@
         "blanco_tequila",
         "lime_juice",
         "agave_syrup"
+      ]
+    },
+    {
+      "id": "slippery-nipple",
+      "slug": "slippery-nipple",
+      "name": "Slippery Nipple",
+      "file": "slippery-nipple.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "anise",
+        "cream"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "slippery-nipple",
+      "tags": [
+        "shot",
+        "layered"
+      ],
+      "ingredientIds": [
+        "sambuca",
+        "baileys"
       ]
     },
     {
@@ -12208,6 +13611,34 @@
       ]
     },
     {
+      "id": "springbok",
+      "slug": "springbok",
+      "name": "Springbok",
+      "file": "springbok.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "mint",
+        "cream",
+        "vanilla"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "springbok",
+      "tags": [
+        "shot",
+        "layered"
+      ],
+      "ingredientIds": [
+        "peppermint_liqueur",
+        "cream_liqueur"
+      ]
+    },
+    {
       "id": "stinger",
       "slug": "stinger",
       "name": "Stinger",
@@ -12236,6 +13667,36 @@
       "ingredientIds": [
         "bourbon",
         "peppermint_liqueur"
+      ]
+    },
+    {
+      "id": "lemon-drop-sugared",
+      "slug": "lemon-drop-sugared",
+      "name": "Sugared Lemon Drop",
+      "file": "lemon-drop-sugared.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "variation"
+      ],
+      "flavorProfiles": [
+        "citrus",
+        "sweet",
+        "tart"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "lemon-drop-sugared",
+      "tags": [
+        "shot",
+        "vodka"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "lemon_juice",
+        "simple_syrup",
+        "lemon"
       ]
     },
     {
@@ -12268,6 +13729,36 @@
         "triple_sec",
         "lime_juice",
         "grenadine"
+      ]
+    },
+    {
+      "id": "surfer-on-acid",
+      "slug": "surfer-on-acid",
+      "name": "Surfer on Acid",
+      "file": "surfer-on-acid.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "tropical"
+      ],
+      "flavorProfiles": [
+        "coconut",
+        "pineapple",
+        "herbal"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "surfer-on-acid",
+      "tags": [
+        "shot",
+        "tropical",
+        "jagermeister"
+      ],
+      "ingredientIds": [
+        "jagermeister",
+        "coconut_rum",
+        "pineapple_juice"
       ]
     },
     {
@@ -12570,6 +14061,32 @@
       ]
     },
     {
+      "id": "tequila-slammer",
+      "slug": "tequila-slammer",
+      "name": "Tequila Slammer",
+      "file": "tequila-slammer.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot"
+      ],
+      "flavorProfiles": [
+        "agave",
+        "citrus",
+        "sweet"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "tequila-slammer",
+      "tags": [
+        "shot"
+      ],
+      "ingredientIds": [
+        "blanco_tequila",
+        "lemon_lime_soda"
+      ]
+    },
+    {
       "id": "blanco_tequila-soda",
       "slug": "blanco_tequila-soda",
       "name": "Tequila Soda",
@@ -12726,6 +14243,65 @@
       ]
     },
     {
+      "id": "ti-punch",
+      "slug": "ti-punch",
+      "name": "Ti' Punch",
+      "file": "ti-punch.json",
+      "cocktailFamily": "Punch",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "grassy",
+        "lime",
+        "cane"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Old fashioned",
+      "illustrationKey": "ti-punch",
+      "tags": [
+        "rum",
+        "agricole",
+        "build"
+      ],
+      "ingredientIds": [
+        "agricole_rum",
+        "cane_syrup",
+        "lime"
+      ]
+    },
+    {
+      "id": "tipperary",
+      "slug": "tipperary",
+      "name": "Tipperary",
+      "file": "tipperary.json",
+      "cocktailFamily": "Manhattan",
+      "classifications": [
+        "classic",
+        "spirit-forward"
+      ],
+      "flavorProfiles": [
+        "herbal",
+        "malt",
+        "vermouth"
+      ],
+      "difficulty": "easy",
+      "strength": "spirit-forward",
+      "glassware": "Coupe",
+      "illustrationKey": "tipperary",
+      "tags": [
+        "irish-whiskey",
+        "chartreuse",
+        "stirred"
+      ],
+      "ingredientIds": [
+        "irish_whiskey",
+        "sweet_vermouth",
+        "green_chartreuse"
+      ]
+    },
+    {
       "id": "tom-collins",
       "slug": "tom-collins",
       "name": "Tom Collins",
@@ -12847,6 +14423,67 @@
         "orgeat",
         "lemon_juice",
         "rye"
+      ]
+    },
+    {
+      "id": "twentieth-century",
+      "slug": "twentieth-century",
+      "name": "Twentieth Century",
+      "file": "twentieth-century.json",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "classic",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "chocolate",
+        "citrus",
+        "floral"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "twentieth-century",
+      "tags": [
+        "gin",
+        "chocolate",
+        "sour"
+      ],
+      "ingredientIds": [
+        "gin",
+        "dry_vermouth",
+        "creme_de_cacao",
+        "lemon_juice"
+      ]
+    },
+    {
+      "id": "vegas-bomb",
+      "slug": "vegas-bomb",
+      "name": "Vegas Bomb",
+      "file": "vegas-bomb.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "modern"
+      ],
+      "flavorProfiles": [
+        "peach",
+        "cranberry",
+        "sweet"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot + pint glass",
+      "illustrationKey": "vegas-bomb",
+      "tags": [
+        "shot",
+        "bomb"
+      ],
+      "ingredientIds": [
+        "rye",
+        "peach_liqueur",
+        "cranberry_juice",
+        "energy_drink"
       ]
     },
     {
@@ -13356,6 +14993,34 @@
       ]
     },
     {
+      "id": "washington-apple",
+      "slug": "washington-apple",
+      "name": "Washington Apple",
+      "file": "washington-apple.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot"
+      ],
+      "flavorProfiles": [
+        "apple",
+        "cranberry",
+        "sweet"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "washington-apple",
+      "tags": [
+        "shot",
+        "whiskey"
+      ],
+      "ingredientIds": [
+        "rye",
+        "sour_apple_schnapps",
+        "cranberry_juice"
+      ]
+    },
+    {
       "id": "aquavit-wet-martini",
       "slug": "aquavit-wet-martini",
       "name": "Wet Aquavit Martini",
@@ -13624,6 +15289,36 @@
         "bourbon",
         "lemon_juice",
         "simple_syrup"
+      ]
+    },
+    {
+      "id": "white-gummy-bear",
+      "slug": "white-gummy-bear",
+      "name": "White Gummy Bear",
+      "file": "white-gummy-bear.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "modern"
+      ],
+      "flavorProfiles": [
+        "peach",
+        "pineapple",
+        "candy"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "white-gummy-bear",
+      "tags": [
+        "shot",
+        "vodka"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "peach_liqueur",
+        "pineapple_juice",
+        "lemon_lime_soda"
       ]
     },
     {
@@ -13984,6 +15679,36 @@
       ]
     },
     {
+      "id": "white-tea-shot",
+      "slug": "white-tea-shot",
+      "name": "White Tea Shot",
+      "file": "white-tea-shot.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "variation"
+      ],
+      "flavorProfiles": [
+        "peach",
+        "citrus",
+        "sweet"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "white-tea-shot",
+      "tags": [
+        "shot",
+        "vodka"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "peach_liqueur",
+        "sour_mix",
+        "lemon_lime_soda"
+      ]
+    },
+    {
       "id": "woo-woo",
       "slug": "woo-woo",
       "name": "Woo Woo",
@@ -14007,6 +15732,34 @@
         "peach",
         "cranberry",
         "party"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "peach_liqueur",
+        "cranberry_juice"
+      ]
+    },
+    {
+      "id": "woo-woo-shot",
+      "slug": "woo-woo-shot",
+      "name": "Woo Woo Shot",
+      "file": "woo-woo-shot.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot"
+      ],
+      "flavorProfiles": [
+        "peach",
+        "cranberry",
+        "sweet"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "woo-woo-shot",
+      "tags": [
+        "shot",
+        "vodka"
       ],
       "ingredientIds": [
         "vodka",
