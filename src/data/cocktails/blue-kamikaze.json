@@ -1,0 +1,68 @@
+{
+  "aliases": [],
+  "history": "A direct color variation on the Kamikaze that outlived it in some markets.",
+  "origin": "United States",
+  "whyItWorks": "Blue curaçao is a triple sec with dye, so the drink is the same. It just photographs better.",
+  "classifications": [
+    "shot",
+    "variation"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "citrus",
+    "orange",
+    "tart"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "blue-kamikaze",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "blue_curacao",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake all three hard with ice.",
+    "Strain into a chilled shot glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "kamikaze-shot",
+    "purple-hooter"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "vodka"
+  ],
+  "id": "blue-kamikaze",
+  "slug": "blue-kamikaze",
+  "name": "Blue Kamikaze",
+  "description": "A Kamikaze with blue curaçao standing in for the triple sec."
+}

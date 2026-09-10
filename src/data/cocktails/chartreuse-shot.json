@@ -1,0 +1,57 @@
+{
+  "aliases": [],
+  "history": "The bartender’s handshake in much of the industry — offered to another bartender as a greeting.",
+  "origin": "France",
+  "whyItWorks": "130 botanicals at 55% ABV. It needs nothing added and tolerates nothing added.",
+  "classifications": [
+    "shot"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "herbal",
+    "honey",
+    "heat"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "spirit-forward",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "chartreuse-shot",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "green_chartreuse",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Store the bottle cold.",
+    "Pour into a chilled shot glass and serve neat."
+  ],
+  "techniqueNotes": [
+    "Traditionally offered, not ordered."
+  ],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "fireball-shot",
+    "last-word"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "chartreuse"
+  ],
+  "id": "chartreuse-shot",
+  "slug": "chartreuse-shot",
+  "name": "Chartreuse Shot",
+  "description": "Green Chartreuse, cold, on its own."
+}

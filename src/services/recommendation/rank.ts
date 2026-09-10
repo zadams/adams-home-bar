@@ -1,4 +1,4 @@
-import { bottles, cocktails } from '../../data'
+import { bottles, drinks } from '../../data'
 import { assessReadiness, readinessSortKey } from '../recommendation/readiness'
 import type { Cocktail, ReadinessState } from '../../types/cocktail'
 import type { InventoryItem } from '../../types/inventory'
@@ -21,7 +21,7 @@ export function cocktailsUsingBottle(
   if (!bottle) return []
 
   const ingredientSet = new Set(bottle.ingredientIds)
-  return cocktails
+  return drinks
     .filter((cocktail) =>
       cocktail.ingredients.some(
         (line) => !line.optional && ingredientSet.has(line.ingredientId),
@@ -68,7 +68,7 @@ export function rankCocktails(options: {
 
   let list = bottleId
     ? cocktailsUsingBottle(bottleId, seedInventory, overrides)
-    : cocktails.map((cocktail) => {
+    : drinks.map((cocktail) => {
         const readiness = assessReadiness(cocktail, seedInventory, overrides)
         const reasons: string[] = [readiness.label]
         if (favoriteIds.has(cocktail.id)) reasons.push('On your favorites list')

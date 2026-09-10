@@ -1,0 +1,70 @@
+{
+  "aliases": [],
+  "history": "A two-ingredient after-dinner shot, traditionally Baileys and Frangelico.",
+  "origin": "United States",
+  "whyItWorks": "Nut and cream is the least complicated pairing in the dessert repertoire, and it works every time.",
+  "classifications": [
+    "shot",
+    "dessert"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "nutty",
+    "cream",
+    "vanilla"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "nutty-irishman",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "baileys",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "amaretto",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Hazelnut or almond liqueur"
+    }
+  ],
+  "steps": [
+    "Shake with ice and strain, or layer the cream over the nut liqueur."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [
+    {
+      "ingredientId": "amaretto",
+      "alternatives": [
+        "creme_de_cacao"
+      ],
+      "notes": "Frangelico is the traditional call; amaretto is the common substitute."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "screaming-orgasm",
+    "buttery-nipple"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "dessert"
+  ],
+  "id": "nutty-irishman",
+  "slug": "nutty-irishman",
+  "name": "Nutty Irishman",
+  "description": "Irish cream and hazelnut liqueur, in equal parts."
+}

@@ -1,0 +1,74 @@
+{
+  "aliases": [],
+  "history": "No chocolate anywhere in it. The lemon and sugar together produce the flavor, which is the trick.",
+  "origin": "United States",
+  "whyItWorks": "Sugared citrus plus nut liqueur genuinely reads as chocolate cake — a well-known quirk of flavor perception.",
+  "classifications": [
+    "shot",
+    "dessert",
+    "modern"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "citrus",
+    "nutty",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "chocolate-cake-shot",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "lemon_vodka",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "amaretto",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Hazelnut or almond liqueur"
+    },
+    {
+      "ingredientId": "lemon",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Sugared lemon wedge"
+    }
+  ],
+  "steps": [
+    "Shake the vodka and nut liqueur with ice and strain into a shot glass.",
+    "Coat a lemon wedge in sugar.",
+    "Take the shot, then bite the lemon immediately."
+  ],
+  "techniqueNotes": [
+    "The lemon is not optional — without it the illusion does not happen."
+  ],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "lemon-drop-shot",
+    "nutty-irishman"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "dessert"
+  ],
+  "id": "chocolate-cake-shot",
+  "slug": "chocolate-cake-shot",
+  "name": "Chocolate Cake Shot",
+  "description": "Citrus vodka and hazelnut liqueur, chased by a sugared lemon."
+}

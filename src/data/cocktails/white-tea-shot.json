@@ -1,0 +1,74 @@
+{
+  "aliases": [],
+  "history": "A direct variation that spread alongside the original.",
+  "origin": "United States",
+  "whyItWorks": "Vodka removes the only assertive element, leaving peach and citrus. It is the more dangerous of the two.",
+  "classifications": [
+    "shot",
+    "variation"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "peach",
+    "citrus",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "white-tea-shot",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peach_liqueur",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Peach schnapps"
+    },
+    {
+      "ingredientId": "sour_mix",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_lime_soda",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Shake vodka, schnapps and sour mix with ice.",
+    "Strain into a shot glass and top with lemon-lime soda."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "green-tea-shot"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "vodka"
+  ],
+  "id": "white-tea-shot",
+  "slug": "white-tea-shot",
+  "name": "White Tea Shot",
+  "description": "The Green Tea Shot built on vodka instead of whiskey."
+}

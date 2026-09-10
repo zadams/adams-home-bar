@@ -1,0 +1,72 @@
+{
+  "aliases": [],
+  "history": "A layered shot built to the Irish tricolour, usually poured around St Patrick’s Day.",
+  "origin": "United States",
+  "whyItWorks": "The three liqueurs happen to fall in the right density order, which is the only reason the drink exists.",
+  "classifications": [
+    "shot",
+    "dessert"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "mint",
+    "cream",
+    "orange"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "irish-flag",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "peppermint_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Green crème de menthe"
+    },
+    {
+      "ingredientId": "baileys",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grand_marnier",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Pour the crème de menthe into a shot glass.",
+    "Layer by pouring each ingredient slowly over the back of a bar spoon so it floats on the one below. Irish cream next, then the orange liqueur.",
+    "Serve without stirring."
+  ],
+  "techniqueNotes": [
+    "Density order is menthe, cream, then Grand Marnier. Reverse it and the layers collapse."
+  ],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "b-52",
+    "baby-guinness"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "layered"
+  ],
+  "id": "irish-flag",
+  "slug": "irish-flag",
+  "name": "Irish Flag",
+  "description": "Green, white and orange in three clean layers."
+}

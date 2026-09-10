@@ -77,5 +77,6 @@
     "shot",
     "popular"
   ],
-  "featuredBottleImages": []
+  "featuredBottleImages": [],
+  "kind": "shot"
 }

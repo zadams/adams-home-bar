@@ -1,0 +1,75 @@
+{
+  "aliases": [],
+  "history": "Named for the cookie, which it tracks closely.",
+  "origin": "United States",
+  "whyItWorks": "Mint and coffee is the chocolate-mint axis; the cream supplies the biscuit.",
+  "classifications": [
+    "shot",
+    "dessert"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "mint",
+    "coffee",
+    "cream"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "dirty-girl-scout",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "coffee_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peppermint_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Green crème de menthe"
+    },
+    {
+      "ingredientId": "heavy_cream",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake all four hard with ice.",
+    "Strain into a chilled shot glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "grasshopper",
+    "after-dinner-mint"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "dessert"
+  ],
+  "id": "dirty-girl-scout",
+  "slug": "dirty-girl-scout",
+  "name": "Dirty Girl Scout",
+  "description": "Vodka, coffee liqueur, crème de menthe and cream — a Thin Mint."
+}

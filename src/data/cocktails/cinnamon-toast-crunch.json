@@ -1,0 +1,61 @@
+{
+  "aliases": [],
+  "history": "Two bottles that arrived in the 2010s and were immediately combined.",
+  "origin": "United States",
+  "whyItWorks": "RumChata is already cinnamon and cream; the whisky adds heat and proof. Nothing else is needed.",
+  "classifications": [
+    "shot",
+    "dessert",
+    "modern"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "cinnamon",
+    "cream",
+    "vanilla"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "cinnamon-toast-crunch",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "rumchata",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cinnamon_whisky",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake with ice and strain into a chilled shot glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "oatmeal-cookie"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "dessert"
+  ],
+  "id": "cinnamon-toast-crunch",
+  "slug": "cinnamon-toast-crunch",
+  "name": "Cinnamon Toast Crunch",
+  "description": "Horchata cream liqueur and cinnamon whisky, in equal parts."
+}

@@ -1,0 +1,74 @@
+{
+  "aliases": [],
+  "history": "The \"screaming\" is the vodka — the same drink without it is just an Orgasm.",
+  "origin": "United States",
+  "whyItWorks": "Four sweet elements that would cloy separately; shaking with ice and the vodka’s bite keeps it drinkable.",
+  "classifications": [
+    "shot",
+    "dessert"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "coffee",
+    "almond",
+    "cream"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "screaming-orgasm",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "coffee_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "baileys",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "amaretto",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake all four hard with ice.",
+    "Strain into a chilled shot glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "mudslide-shot",
+    "duck-fart"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "dessert"
+  ],
+  "id": "screaming-orgasm",
+  "slug": "screaming-orgasm",
+  "name": "Screaming Orgasm",
+  "description": "Vodka, coffee liqueur, Irish cream and amaretto, shaken."
+}

@@ -1,0 +1,68 @@
+{
+  "aliases": [],
+  "history": "Also called a Mexican Flag or Traffic Light for the band of red through the middle.",
+  "origin": "United States",
+  "whyItWorks": "Anise, agave and capsaicin arrive in sequence rather than together, which is what makes it survivable.",
+  "classifications": [
+    "shot"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "anise",
+    "spicy",
+    "agave"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "flatliner",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "hot_sauce",
+      "amount": 3,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "sambuca",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Pour the tequila into a shot glass.",
+    "Lay the hot sauce across the surface.",
+    "Layer by pouring each ingredient slowly over the back of a bar spoon so it floats on the one below. Sambuca on top."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "prairie-fire"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "spicy",
+    "layered"
+  ],
+  "id": "flatliner",
+  "slug": "flatliner",
+  "name": "Flatliner",
+  "description": "Tequila under sambuca, with a line of hot sauce between them."
+}

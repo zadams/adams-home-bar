@@ -1,0 +1,71 @@
+{
+  "aliases": [],
+  "history": "The name comes from the way it is traditionally taken — hands behind the back, lifted with the mouth.",
+  "origin": "United States",
+  "whyItWorks": "Mechanically it is a Buttery Nipple; the cream cap is there for the ritual more than the flavor.",
+  "classifications": [
+    "shot",
+    "dessert"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "butterscotch",
+    "cream"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "blow-job",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "butterscotch_schnapps",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "baileys",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "whipped_cream",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Whipped cream cap"
+    }
+  ],
+  "steps": [
+    "Pour the butterscotch schnapps into a shot glass.",
+    "Layer by pouring each ingredient slowly over the back of a bar spoon so it floats on the one below.",
+    "Top with a cap of whipped cream.",
+    "Serve with the tradition explained, or not."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "buttery-nipple",
+    "slippery-nipple"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "layered",
+    "dessert"
+  ],
+  "id": "blow-job",
+  "slug": "blow-job",
+  "name": "Blow Job",
+  "description": "A Buttery Nipple under whipped cream, drunk without hands."
+}

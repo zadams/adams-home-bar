@@ -1,0 +1,67 @@
+{
+  "aliases": [],
+  "history": "The shot version of the highball of the same name, both fixtures of 1980s and 1990s bars.",
+  "origin": "United States",
+  "whyItWorks": "Three ingredients, no bitterness, nothing to object to. It goes down like juice, which is the danger.",
+  "classifications": [
+    "shot"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "peach",
+    "cranberry",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "woo-woo-shot",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peach_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Peach schnapps"
+    },
+    {
+      "ingredientId": "cranberry_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake with ice and strain into a chilled shot glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "woo-woo",
+    "sex-on-the-beach-shot"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "vodka"
+  ],
+  "id": "woo-woo-shot",
+  "slug": "woo-woo-shot",
+  "name": "Woo Woo Shot",
+  "description": "Vodka, peach schnapps and cranberry."
+}

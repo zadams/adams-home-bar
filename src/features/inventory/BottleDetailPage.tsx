@@ -118,6 +118,7 @@ export function BottleDetailPage() {
                 key={cocktail.id}
                 cocktail={cocktail}
                 readiness={readiness}
+                showKindBadge
               />
             ))}
           </div>

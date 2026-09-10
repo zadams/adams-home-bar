@@ -1,0 +1,68 @@
+{
+  "aliases": [],
+  "history": "The shot form of the blended dessert drink.",
+  "origin": "United States",
+  "whyItWorks": "Equal parts, shaken cold. The vodka is there to stop it reading as dessert.",
+  "classifications": [
+    "shot",
+    "dessert",
+    "variation"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "coffee",
+    "cream",
+    "chocolate"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "mudslide-shot",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "coffee_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "baileys",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake with ice and strain into a chilled shot glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "mudslide",
+    "screaming-orgasm"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "dessert"
+  ],
+  "id": "mudslide-shot",
+  "slug": "mudslide-shot",
+  "name": "Mudslide Shot",
+  "description": "Vodka, coffee liqueur and Irish cream."
+}

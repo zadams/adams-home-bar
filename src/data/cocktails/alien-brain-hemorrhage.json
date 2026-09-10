@@ -1,0 +1,77 @@
+{
+  "aliases": [],
+  "history": "The blue layer turns the whole thing a bruised green-purple.",
+  "origin": "United States",
+  "whyItWorks": "Same curdling trick as its parent; the curaçao adds color and a little more orange sweetness.",
+  "classifications": [
+    "shot",
+    "modern",
+    "variation"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "peach",
+    "orange",
+    "cream"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "alien-brain-hemorrhage",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "peach_liqueur",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Peach schnapps"
+    },
+    {
+      "ingredientId": "blue_curacao",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "baileys",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grenadine",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Pour the peach schnapps into a shot glass and float the blue curaçao.",
+    "Drop in the Irish cream and let it curdle.",
+    "Finish with a drizzle of grenadine."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "brain-hemorrhage"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "layered",
+    "halloween"
+  ],
+  "id": "alien-brain-hemorrhage",
+  "slug": "alien-brain-hemorrhage",
+  "name": "Alien Brain Hemorrhage",
+  "description": "A Brain Hemorrhage under a blue curaçao cap."
+}

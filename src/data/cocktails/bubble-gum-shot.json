@@ -1,0 +1,68 @@
+{
+  "aliases": [],
+  "history": "One of several shots chasing the same candy flavor by different routes.",
+  "origin": "United States",
+  "whyItWorks": "Banana and peach hit the same artificial-fruit register; the cream rounds the edges.",
+  "classifications": [
+    "shot",
+    "dessert"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "banana",
+    "peach",
+    "cream"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "bubble-gum-shot",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "creme_de_banane",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peach_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Peach schnapps"
+    },
+    {
+      "ingredientId": "heavy_cream",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake all three with ice.",
+    "Strain into a chilled shot glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "bazooka-joe"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "dessert"
+  ],
+  "id": "bubble-gum-shot",
+  "slug": "bubble-gum-shot",
+  "name": "Bubble Gum Shot",
+  "description": "Banana liqueur, peach schnapps and a splash of cream."
+}

@@ -1,0 +1,76 @@
+{
+  "aliases": [],
+  "history": "The bar-side ritual version, distinct from the sugar-rimmed martini.",
+  "origin": "United States",
+  "whyItWorks": "The sugared lemon resets the palate between rounds, which is why the ritual persists.",
+  "classifications": [
+    "shot",
+    "variation"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "citrus",
+    "sweet",
+    "tart"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "lemon-drop-sugared",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Sugar-coated lemon wedge"
+    }
+  ],
+  "steps": [
+    "Shake the vodka, lemon and syrup with ice.",
+    "Strain into a chilled shot glass.",
+    "Serve with a sugar-coated lemon wedge to bite afterward."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "lemon-drop-shot",
+    "chocolate-cake-shot"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "vodka"
+  ],
+  "id": "lemon-drop-sugared",
+  "slug": "lemon-drop-sugared",
+  "name": "Sugared Lemon Drop",
+  "description": "Vodka shaken with lemon, taken with a sugared lemon wedge."
+}

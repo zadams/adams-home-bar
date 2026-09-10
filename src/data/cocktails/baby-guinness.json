@@ -1,0 +1,65 @@
+{
+  "aliases": [],
+  "history": "A visual joke that became a standard: the cream head sits on the dark body exactly like a poured stout.",
+  "origin": "Ireland",
+  "whyItWorks": "No Guinness in it at all. Coffee liqueur reads as roasted malt, which is why the illusion works on the palate too.",
+  "classifications": [
+    "shot",
+    "dessert"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "coffee",
+    "cream",
+    "chocolate"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "baby-guinness",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "coffee_liqueur",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "baileys",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Pour the coffee liqueur into a shot glass.",
+    "Layer by pouring each ingredient slowly over the back of a bar spoon so it floats on the one below. Aim for a clean, level head about a quarter of the glass."
+  ],
+  "techniqueNotes": [
+    "The float is the whole point — pour it slowly or you have a muddy brown shot."
+  ],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "b-52",
+    "irish-slammer"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "layered",
+    "dessert"
+  ],
+  "id": "baby-guinness",
+  "slug": "baby-guinness",
+  "name": "Baby Guinness",
+  "description": "Coffee liqueur with Irish cream floated to look like a tiny pint."
+}

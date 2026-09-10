@@ -1,0 +1,68 @@
+{
+  "aliases": [],
+  "history": "A 1980s layered shot, ordered by name and rarely by anything else.",
+  "origin": "United States",
+  "whyItWorks": "Coffee under melon under cream — the density order happens to line up, which is why it is layered at all.",
+  "classifications": [
+    "shot",
+    "dessert"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "coffee",
+    "melon",
+    "cream"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "quick-fuck",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "coffee_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "melon_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "baileys",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Pour the coffee liqueur into a shot glass.",
+    "Layer by pouring each ingredient slowly over the back of a bar spoon so it floats on the one below. Melon liqueur, then Irish cream."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "b-52",
+    "baby-guinness"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "layered"
+  ],
+  "id": "quick-fuck",
+  "slug": "quick-fuck",
+  "name": "Quick Fuck",
+  "description": "Coffee liqueur, melon liqueur and Irish cream, layered."
+}

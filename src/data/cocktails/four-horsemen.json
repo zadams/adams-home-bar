@@ -1,0 +1,75 @@
+{
+  "aliases": [],
+  "history": "Named for the Four Horsemen of the Apocalypse, and named honestly.",
+  "origin": "United States",
+  "whyItWorks": "There is no balancing logic here. It is four brown spirits at full proof, and it drinks like it.",
+  "classifications": [
+    "shot"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "oak",
+    "smoke",
+    "spice"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "spirit-forward",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "four-horsemen",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "rye",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "scotch",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "irish_whiskey",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Combine all four in a shot glass.",
+    "Serve at room temperature or briefly stirred with ice and strained."
+  ],
+  "techniqueNotes": [
+    "Traditionally Jack Daniel’s, Jim Beam, Johnnie Walker and José Cuervo — substitute the tequila for the Irish if you want the literal version."
+  ],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "three-wise-men",
+    "boilermaker"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "whiskey"
+  ],
+  "id": "four-horsemen",
+  "slug": "four-horsemen",
+  "name": "Four Horsemen",
+  "description": "Four whiskeys in one glass, one from each of the famous Jacks and Jims."
+}

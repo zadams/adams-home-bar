@@ -1,0 +1,72 @@
+{
+  "aliases": [],
+  "history": "A 1970s Southern bar staple, served both as a tall drink and a shot.",
+  "origin": "United States",
+  "whyItWorks": "Three sweet liqueurs against orange juice — the amaretto is what keeps it from reading as pure candy.",
+  "classifications": [
+    "shot",
+    "classic"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "berry",
+    "almond",
+    "orange"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "alabama-slammer",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "sloe_gin",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "southern_comfort",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "amaretto",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake all four with ice.",
+    "Strain into a chilled shot glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "screaming-orgasm"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot"
+  ],
+  "id": "alabama-slammer",
+  "slug": "alabama-slammer",
+  "name": "Alabama Slammer",
+  "description": "Sloe gin, Southern Comfort, amaretto and orange juice."
+}

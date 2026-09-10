@@ -1,0 +1,74 @@
+{
+  "aliases": [],
+  "history": "A shot-glass rendering of the beach-bar classic.",
+  "origin": "United States",
+  "whyItWorks": "Cranberry and orange together read as fruit punch; the peach schnapps supplies the sweetness the juices lack.",
+  "classifications": [
+    "shot"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "peach",
+    "cranberry",
+    "orange"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "sex-on-the-beach-shot",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peach_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Peach schnapps"
+    },
+    {
+      "ingredientId": "cranberry_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake everything with ice.",
+    "Strain into a chilled shot glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "sex-on-the-beach",
+    "woo-woo-shot"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "vodka"
+  ],
+  "id": "sex-on-the-beach-shot",
+  "slug": "sex-on-the-beach-shot",
+  "name": "Sex on the Beach Shot",
+  "description": "The highball compressed into one glass."
+}

@@ -1,0 +1,74 @@
+{
+  "aliases": [],
+  "history": "Named for its murky green color. A fixture of Florida and Caribbean beach bars.",
+  "origin": "United States",
+  "whyItWorks": "Blue curaçao over melon green produces the color; coconut and pineapple do the actual flavor work.",
+  "classifications": [
+    "shot",
+    "tropical"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "melon",
+    "coconut",
+    "pineapple"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "liquid-marijuana",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "melon_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "blue_curacao",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "coconut_rum",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "pineapple_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake everything with ice.",
+    "Strain into a chilled shot glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "scooby-snack",
+    "melon-ball"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "tropical"
+  ],
+  "id": "liquid-marijuana",
+  "slug": "liquid-marijuana",
+  "name": "Liquid Marijuana",
+  "description": "Melon liqueur, blue curaçao, coconut rum and pineapple."
+}

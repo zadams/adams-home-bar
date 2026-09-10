@@ -1,0 +1,63 @@
+{
+  "aliases": [],
+  "history": "A prank shot. The drinker is not usually told what happens next.",
+  "origin": "United States",
+  "whyItWorks": "Lime acid curdles the cream on contact with saliva, producing a texture the name describes accurately.",
+  "classifications": [
+    "shot"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "cream",
+    "citrus",
+    "sour"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "cement-mixer",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "baileys",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Pour the Irish cream into a shot glass.",
+    "Add the lime juice but do not stir.",
+    "Instruct the drinker to hold it in the mouth and swirl before swallowing."
+  ],
+  "techniqueNotes": [
+    "Genuinely unpleasant. Serve it to someone who has agreed to it."
+  ],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "brain-hemorrhage"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "novelty"
+  ],
+  "id": "cement-mixer",
+  "slug": "cement-mixer",
+  "name": "Cement Mixer",
+  "description": "Irish cream and lime juice, curdled in the mouth on purpose."
+}

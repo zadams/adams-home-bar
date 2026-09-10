@@ -1316,5 +1316,219 @@
     "tags": [
       "herb"
     ]
+  },
+  {
+    "id": "jagermeister",
+    "name": "Jägermeister",
+    "category": "liqueur",
+    "subcategory": "herbal liqueur",
+    "aliases": [
+      "Jager",
+      "Jaeger"
+    ],
+    "tags": [
+      "herbal",
+      "digestif",
+      "shot"
+    ]
+  },
+  {
+    "id": "cinnamon_whisky",
+    "name": "Cinnamon whisky",
+    "category": "liqueur",
+    "subcategory": "flavored whiskey",
+    "aliases": [
+      "Fireball"
+    ],
+    "tags": [
+      "cinnamon",
+      "shot"
+    ]
+  },
+  {
+    "id": "melon_liqueur",
+    "name": "Melon liqueur",
+    "category": "liqueur",
+    "subcategory": "fruit liqueur",
+    "aliases": [
+      "Midori"
+    ],
+    "tags": [
+      "melon",
+      "shot"
+    ]
+  },
+  {
+    "id": "butterscotch_schnapps",
+    "name": "Butterscotch schnapps",
+    "category": "liqueur",
+    "subcategory": "schnapps",
+    "aliases": [
+      "Buttershots"
+    ],
+    "tags": [
+      "butterscotch",
+      "shot"
+    ]
+  },
+  {
+    "id": "sour_apple_schnapps",
+    "name": "Sour apple schnapps",
+    "category": "liqueur",
+    "subcategory": "schnapps",
+    "aliases": [
+      "Apple Pucker"
+    ],
+    "tags": [
+      "apple",
+      "shot"
+    ]
+  },
+  {
+    "id": "blue_curacao",
+    "name": "Blue curaçao",
+    "category": "liqueur",
+    "subcategory": "orange liqueur",
+    "aliases": [],
+    "tags": [
+      "orange",
+      "blue",
+      "shot"
+    ]
+  },
+  {
+    "id": "southern_comfort",
+    "name": "Southern Comfort",
+    "category": "liqueur",
+    "subcategory": "whiskey liqueur",
+    "aliases": [
+      "SoCo"
+    ],
+    "tags": [
+      "peach",
+      "shot"
+    ]
+  },
+  {
+    "id": "sloe_gin",
+    "name": "Sloe gin",
+    "category": "liqueur",
+    "subcategory": "fruit liqueur",
+    "aliases": [],
+    "tags": [
+      "berry",
+      "shot"
+    ]
+  },
+  {
+    "id": "rumchata",
+    "name": "Horchata cream liqueur",
+    "category": "liqueur",
+    "subcategory": "cream",
+    "aliases": [
+      "RumChata"
+    ],
+    "tags": [
+      "cinnamon",
+      "cream",
+      "shot"
+    ]
+  },
+  {
+    "id": "sambuca",
+    "name": "Sambuca",
+    "category": "liqueur",
+    "subcategory": "anise liqueur",
+    "aliases": [],
+    "tags": [
+      "anise",
+      "shot"
+    ]
+  },
+  {
+    "id": "energy_drink",
+    "name": "Energy drink",
+    "category": "mixer",
+    "subcategory": "soft drink",
+    "aliases": [
+      "Red Bull"
+    ],
+    "tags": [
+      "shot",
+      "bomb"
+    ]
+  },
+  {
+    "id": "lager_beer",
+    "name": "Lager beer",
+    "category": "mixer",
+    "subcategory": "beer",
+    "aliases": [],
+    "tags": [
+      "beer",
+      "shot"
+    ]
+  },
+  {
+    "id": "irish_stout",
+    "name": "Irish stout",
+    "category": "mixer",
+    "subcategory": "beer",
+    "aliases": [
+      "Guinness"
+    ],
+    "tags": [
+      "beer",
+      "shot"
+    ]
+  },
+  {
+    "id": "sour_mix",
+    "name": "Sweet-and-sour mix",
+    "category": "syrup",
+    "subcategory": "mix",
+    "aliases": [
+      "sour mix"
+    ],
+    "tags": [
+      "citrus",
+      "shot"
+    ]
+  },
+  {
+    "id": "lemon_lime_soda",
+    "name": "Lemon-lime soda",
+    "category": "mixer",
+    "subcategory": "soft drink",
+    "aliases": [
+      "Sprite",
+      "7UP"
+    ],
+    "tags": [
+      "citrus",
+      "shot"
+    ]
+  },
+  {
+    "id": "pickle_brine",
+    "name": "Pickle brine",
+    "category": "pantry",
+    "subcategory": "brine",
+    "aliases": [],
+    "tags": [
+      "savory",
+      "shot"
+    ]
+  },
+  {
+    "id": "whipped_cream",
+    "name": "Whipped cream",
+    "category": "garnish",
+    "subcategory": "dairy",
+    "aliases": [],
+    "tags": [
+      "cream",
+      "shot"
+    ]
   }
 ]

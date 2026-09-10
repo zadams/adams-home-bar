@@ -1,0 +1,69 @@
+{
+  "aliases": [],
+  "history": "A 1990s shot that does the unlikely job of making Jägermeister taste tropical.",
+  "origin": "United States",
+  "whyItWorks": "Coconut and pineapple cover the amaro’s bitterness and leave only its spice, which reads as a warm baking note.",
+  "classifications": [
+    "shot",
+    "tropical"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "coconut",
+    "pineapple",
+    "herbal"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "surfer-on-acid",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "jagermeister",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "coconut_rum",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "pineapple_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake all three with ice.",
+    "Strain into a chilled shot glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "red-headed-slut",
+    "scooby-snack"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "tropical",
+    "jagermeister"
+  ],
+  "id": "surfer-on-acid",
+  "slug": "surfer-on-acid",
+  "name": "Surfer on Acid",
+  "description": "Jägermeister, coconut rum and pineapple."
+}

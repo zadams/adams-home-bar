@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { cocktailById } from '../../data'
+import { cocktailById, drinkPath } from '../../data'
 import { journeyStages } from '../../data/journey'
 import { assessReadiness } from '../../services/recommendation/readiness'
 import { seedInventory } from '../../data'
@@ -53,7 +53,7 @@ export function JourneyPage() {
                 return (
                   <li key={id} className="journey-item">
                     <div>
-                      <Link to={`/cocktails/${cocktail.slug}`}>{cocktail.name}</Link>
+                      <Link to={drinkPath(cocktail)}>{cocktail.name}</Link>
                       <div className="inventory-row__notes">
                         <span className={readinessClass(readiness.state)}>
                           {readiness.label}

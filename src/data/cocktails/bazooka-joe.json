@@ -1,0 +1,67 @@
+{
+  "aliases": [],
+  "history": "Named for the bubble gum; the resemblance is real if not flattering.",
+  "origin": "United States",
+  "whyItWorks": "Banana liqueur and blue curaçao together produce the specific artificial sweetness of pink bubble gum.",
+  "classifications": [
+    "shot",
+    "dessert"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "banana",
+    "orange",
+    "cream"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "bazooka-joe",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "creme_de_banane",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "blue_curacao",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "baileys",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Pour the banana liqueur, then float the blue curaçao.",
+    "Layer by pouring each ingredient slowly over the back of a bar spoon so it floats on the one below. Irish cream on top."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "bubble-gum-shot"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "layered"
+  ],
+  "id": "bazooka-joe",
+  "slug": "bazooka-joe",
+  "name": "Bazooka Joe",
+  "description": "Banana, blue curaçao and Irish cream — bubble gum, allegedly."
+}

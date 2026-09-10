@@ -1,0 +1,62 @@
+{
+  "aliases": [],
+  "history": "Also called a Muppet or a Slammer depending on the country. The banging is not optional.",
+  "origin": "United States",
+  "whyItWorks": "Striking the glass releases the carbonation all at once, so it arrives as foam rather than liquid.",
+  "classifications": [
+    "shot"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "agave",
+    "citrus",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "tequila-slammer",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_lime_soda",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Pour the tequila into a sturdy shot glass and top with soda.",
+    "Cover the top with your hand, slam it once on the bar, and drink while it foams."
+  ],
+  "techniqueNotes": [
+    "Use a thick-based glass. This breaks thin ones."
+  ],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "prairie-fire",
+    "four-horsemen"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot"
+  ],
+  "id": "tequila-slammer",
+  "slug": "tequila-slammer",
+  "name": "Tequila Slammer",
+  "description": "Tequila and lemon-lime soda, slammed to make it foam."
+}

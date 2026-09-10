@@ -1,0 +1,64 @@
+{
+  "aliases": [],
+  "history": "A South African bar standard, poured in green and gold for the national rugby side.",
+  "origin": "South Africa",
+  "whyItWorks": "Mint and cream, with the layering doing the flag work.",
+  "classifications": [
+    "shot",
+    "dessert"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "mint",
+    "cream",
+    "vanilla"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "springbok",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "peppermint_liqueur",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Green crème de menthe"
+    },
+    {
+      "ingredientId": "cream_liqueur",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Amarula or cream liqueur"
+    }
+  ],
+  "steps": [
+    "Pour the crème de menthe into a shot glass.",
+    "Layer by pouring each ingredient slowly over the back of a bar spoon so it floats on the one below."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "irish-flag",
+    "after-dinner-mint"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "layered"
+  ],
+  "id": "springbok",
+  "slug": "springbok",
+  "name": "Springbok",
+  "description": "Crème de menthe under cream liqueur — the colors of the South African jersey."
+}
