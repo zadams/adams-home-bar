@@ -22,7 +22,9 @@ const manifest = JSON.parse(
 
 const webpDir = path.join(root, 'public/images/cocktails/webp')
 const thumbsDir = path.join(root, 'public/images/cocktails/thumbs')
-const mastersDir = path.join(root, 'public/images/cocktails/masters')
+// Masters are archival source art, not web assets: keeping them out of
+// public/ stops Vite copying ~1GB of PNGs into every build.
+const mastersDir = path.join(root, 'artwork/masters')
 const tmpDir = path.join(root, 'tmp/illustration-gen')
 
 for (const dir of [webpDir, thumbsDir, mastersDir, tmpDir]) {

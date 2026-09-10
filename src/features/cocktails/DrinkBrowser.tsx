@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { cocktails, drinks, ingredientById, isShot, seedInventory, shots } from '../../data'
 import {
   assessReadiness,
@@ -22,11 +22,19 @@ interface DrinkBrowserProps {
   crossKindLabel: string
 }
 
+/**
+ * Search text for a drink, built once and reused. Rebuilding this for all 523
+ * drinks on every keystroke was a measurable share of the typing cost.
+ */
+const haystackCache = new Map<string, string>()
+
 function searchHaystack(drink: Cocktail): string {
+  const cached = haystackCache.get(drink.id)
+  if (cached !== undefined) return cached
   const ingredientNames = drink.ingredients
     .map((ing) => ingredientById.get(ing.ingredientId)?.name ?? ing.ingredientId)
     .join(' ')
-  return [
+  const text = [
     drink.name,
     drink.description,
     drink.cocktailFamily,
@@ -38,7 +46,15 @@ function searchHaystack(drink: Cocktail): string {
   ]
     .join(' ')
     .toLowerCase()
+  haystackCache.set(drink.id, text)
+  return text
 }
+
+/**
+ * Cards rendered before the "Show more" button. The full catalog is far too
+ * much DOM to mount at once — 468 cocktail cards locks up the renderer.
+ */
+const PAGE_SIZE = 60
 
 export function DrinkBrowser({
   kind,
@@ -54,6 +70,7 @@ export function DrinkBrowser({
   )
   const [sort, setSort] = useState<SortMode>('readiness')
   const [searchEverything, setSearchEverything] = useState(false)
+  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE)
 
   const scoped = kind === 'shot' ? shots : cocktails
   const q = query.trim().toLowerCase()
@@ -63,16 +80,23 @@ export function DrinkBrowser({
   const searchingAcrossKinds = searchEverything && q.length > 0
   const pool = searchingAcrossKinds ? drinks : scoped
 
-  const items = useMemo(() => {
-    return pool
-      .map((cocktail) => ({
+  // Readiness depends only on inventory, so it is computed once per pool
+  // change rather than on every keystroke.
+  const withReadiness = useMemo(
+    () =>
+      pool.map((cocktail) => ({
         cocktail,
         readiness: assessReadiness(
           cocktail,
           seedInventory,
           userData.inventoryOverrides,
         ),
-      }))
+      })),
+    [pool, userData.inventoryOverrides],
+  )
+
+  const items = useMemo(() => {
+    return withReadiness
       .filter(({ cocktail, readiness }) => {
         if (readinessFilter !== 'all' && readiness.state !== readinessFilter) {
           return false
@@ -92,7 +116,15 @@ export function DrinkBrowser({
           readinessSortKey(a.readiness.state) - readinessSortKey(b.readiness.state)
         return byReady || a.cocktail.name.localeCompare(b.cocktail.name)
       })
-  }, [pool, q, readinessFilter, sort, userData.inventoryOverrides])
+  }, [withReadiness, q, readinessFilter, sort])
+
+  // Any change to the result set starts the list over at the first page.
+  useEffect(() => {
+    setVisibleCount(PAGE_SIZE)
+  }, [q, readinessFilter, sort, searchEverything, kind])
+
+  const shown = items.slice(0, visibleCount)
+  const remaining = items.length - shown.length
 
   const offKind = items.filter(
     ({ cocktail }) => (isShot(cocktail) ? 'shot' : 'cocktail') !== kind,
@@ -150,7 +182,8 @@ export function DrinkBrowser({
       </div>
 
       <p className="browse-count">
-        Showing {items.length} of {pool.length}
+        Showing {shown.length} of {items.length}
+        {items.length !== pool.length ? ` (filtered from ${pool.length})` : ''}
         {searchingAcrossKinds && offKind > 0
           ? ` · ${offKind} from outside ${title}`
           : ''}
@@ -164,7 +197,7 @@ export function DrinkBrowser({
         </p>
       ) : (
         <div className="cocktail-grid">
-          {items.map(({ cocktail, readiness }) => (
+          {shown.map(({ cocktail, readiness }) => (
             <CocktailCard
               key={cocktail.id}
               cocktail={cocktail}
@@ -173,6 +206,17 @@ export function DrinkBrowser({
             />
           ))}
         </div>
+      )}
+
+      {remaining > 0 && (
+        <button
+          type="button"
+          className="btn browse-more"
+          onClick={() => setVisibleCount((n) => n + PAGE_SIZE)}
+        >
+          Show {Math.min(remaining, PAGE_SIZE)} more
+          <span className="browse-more__rest">{remaining} remaining</span>
+        </button>
       )}
     </div>
   )

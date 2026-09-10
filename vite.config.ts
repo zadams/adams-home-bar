@@ -17,6 +17,8 @@ export default defineConfig({
         'offline.html',
         'icons/*.png',
         'images/**/*',
+        '!images/cocktails/masters/**',
+        '!images/cocktails/review-photoreal/**',
       ],
       manifest: {
         name: 'The Adams Home Bar',
@@ -52,6 +54,12 @@ export default defineConfig({
       },
       workbox: {
         globPatterns: ['**/*.{js,css,html,ico,svg,png,jpg,jpeg,webp,json,woff2}'],
+        // Belt and braces: archival art must never reach the precache manifest,
+        // which is what turned a 114 MB build into a 1 GB first-visit download.
+        globIgnores: [
+          '**/images/cocktails/masters/**',
+          '**/images/cocktails/review-photoreal/**',
+        ],
         navigateFallback: 'index.html',
         navigateFallbackDenylist: [/^\/api/],
         // Cocktail + ingredient photo set is large; keep offline cache roomy.
