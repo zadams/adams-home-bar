@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "generatedFrom": "cocktail-index.json + popular-classics batch (2026-08-10)",
-  "cocktailCount": 437,
+  "cocktailCount": 476,
   "cocktails": [
     {
       "id": "adios-motherfucker",
@@ -18549,6 +18549,534 @@
           "master": "cocktails/masters/zombie-house.png",
           "runtime": "cocktails/webp/zombie-house.webp",
           "thumbnail": "cocktails/thumbs/zombie-house.webp"
+        }
+      }
+    },
+    {
+      "id": "aviation",
+      "slug": "aviation",
+      "name": "Aviation",
+      "illustrationKey": "aviation",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "classic",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "floral",
+        "cherry",
+        "citrus"
+      ],
+      "ingredientIds": [
+        "gin",
+        "maraschino",
+        "creme_de_violette",
+        "lemon_juice"
+      ],
+      "artDirection": {
+        "template": "sour",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe",
+        "ice": "Shaken; up",
+        "garnish": "single brandied cherry resting at the base",
+        "liquidPalette": {
+          "name": "pale-violet",
+          "hex": "#B9A7C4"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/aviation.png",
+          "runtime": "cocktails/webp/aviation.webp",
+          "thumbnail": "cocktails/thumbs/aviation.webp"
+        }
+      }
+    },
+    {
+      "id": "alaska",
+      "slug": "alaska",
+      "name": "Alaska",
+      "illustrationKey": "alaska",
+      "cocktailFamily": "Martini",
+      "classifications": [
+        "classic",
+        "spirit-forward"
+      ],
+      "flavorProfiles": [
+        "herbal",
+        "honey",
+        "juniper"
+      ],
+      "ingredientIds": [
+        "gin",
+        "yellow_chartreuse",
+        "orange_bitters"
+      ],
+      "artDirection": {
+        "template": "stemmed-spirit-forward",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe",
+        "ice": "no ice in the finished drink",
+        "garnish": "expressed lemon peel",
+        "liquidPalette": {
+          "name": "golden-yellow",
+          "hex": "#D7A62A"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/alaska.png",
+          "runtime": "cocktails/webp/alaska.webp",
+          "thumbnail": "cocktails/thumbs/alaska.webp"
+        }
+      }
+    },
+    {
+      "id": "brooklyn",
+      "slug": "brooklyn",
+      "name": "Brooklyn",
+      "illustrationKey": "brooklyn",
+      "cocktailFamily": "Manhattan",
+      "classifications": [
+        "classic",
+        "spirit-forward"
+      ],
+      "flavorProfiles": [
+        "bitter",
+        "cherry",
+        "rye spice"
+      ],
+      "ingredientIds": [
+        "rye",
+        "dry_vermouth",
+        "maraschino",
+        "amaro_averna"
+      ],
+      "artDirection": {
+        "template": "stemmed-spirit-forward",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe",
+        "ice": "no ice in the finished drink",
+        "garnish": "single brandied cherry",
+        "liquidPalette": {
+          "name": "warm-amber",
+          "hex": "#A86939"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/brooklyn.png",
+          "runtime": "cocktails/webp/brooklyn.webp",
+          "thumbnail": "cocktails/thumbs/brooklyn.webp"
+        }
+      }
+    },
+    {
+      "id": "twentieth-century",
+      "slug": "twentieth-century",
+      "name": "Twentieth Century",
+      "illustrationKey": "twentieth-century",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "classic",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "chocolate",
+        "citrus",
+        "floral"
+      ],
+      "ingredientIds": [
+        "gin",
+        "dry_vermouth",
+        "creme_de_cacao",
+        "lemon_juice"
+      ],
+      "artDirection": {
+        "template": "sour",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe",
+        "ice": "Shaken; up",
+        "garnish": "expressed lemon peel",
+        "liquidPalette": {
+          "name": "ivory-cream",
+          "hex": "#E1D4BD"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/twentieth-century.png",
+          "runtime": "cocktails/webp/twentieth-century.webp",
+          "thumbnail": "cocktails/thumbs/twentieth-century.webp"
+        }
+      }
+    },
+    {
+      "id": "grasshopper",
+      "slug": "grasshopper",
+      "name": "Grasshopper",
+      "illustrationKey": "grasshopper",
+      "cocktailFamily": "Cream",
+      "classifications": [
+        "classic",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "mint",
+        "chocolate",
+        "cream"
+      ],
+      "ingredientIds": [
+        "peppermint_liqueur",
+        "creme_de_cacao",
+        "heavy_cream"
+      ],
+      "artDirection": {
+        "template": "dessert",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe",
+        "ice": "Shaken; up",
+        "garnish": "fine grating of fresh nutmeg across the surface",
+        "liquidPalette": {
+          "name": "mint-cream",
+          "hex": "#9FC9A8"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/grasshopper.png",
+          "runtime": "cocktails/webp/grasshopper.webp",
+          "thumbnail": "cocktails/thumbs/grasshopper.webp"
+        }
+      }
+    },
+    {
+      "id": "tipperary",
+      "slug": "tipperary",
+      "name": "Tipperary",
+      "illustrationKey": "tipperary",
+      "cocktailFamily": "Manhattan",
+      "classifications": [
+        "classic",
+        "spirit-forward"
+      ],
+      "flavorProfiles": [
+        "herbal",
+        "malt",
+        "vermouth"
+      ],
+      "ingredientIds": [
+        "irish_whiskey",
+        "sweet_vermouth",
+        "green_chartreuse"
+      ],
+      "artDirection": {
+        "template": "stemmed-spirit-forward",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe",
+        "ice": "no ice in the finished drink",
+        "garnish": "expressed orange peel",
+        "liquidPalette": {
+          "name": "herbal-gold",
+          "hex": "#9A8B45"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/tipperary.png",
+          "runtime": "cocktails/webp/tipperary.webp",
+          "thumbnail": "cocktails/thumbs/tipperary.webp"
+        }
+      }
+    },
+    {
+      "id": "emerald",
+      "slug": "emerald",
+      "name": "Emerald",
+      "illustrationKey": "emerald",
+      "cocktailFamily": "Manhattan",
+      "classifications": [
+        "classic",
+        "spirit-forward",
+        "variation"
+      ],
+      "flavorProfiles": [
+        "malt",
+        "vermouth",
+        "baking spice"
+      ],
+      "ingredientIds": [
+        "irish_whiskey",
+        "sweet_vermouth",
+        "angostura_bitters"
+      ],
+      "artDirection": {
+        "template": "manhattan",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe",
+        "ice": "no ice in the finished drink",
+        "garnish": "single brandied cherry",
+        "liquidPalette": {
+          "name": "warm-amber",
+          "hex": "#B06932"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/emerald.png",
+          "runtime": "cocktails/webp/emerald.webp",
+          "thumbnail": "cocktails/thumbs/emerald.webp"
+        }
+      }
+    },
+    {
+      "id": "ti-punch",
+      "slug": "ti-punch",
+      "name": "Ti' Punch",
+      "illustrationKey": "ti-punch",
+      "cocktailFamily": "Punch",
+      "classifications": [
+        "classic"
+      ],
+      "flavorProfiles": [
+        "grassy",
+        "lime",
+        "cane"
+      ],
+      "ingredientIds": [
+        "agricole_rum",
+        "cane_syrup",
+        "lime"
+      ],
+      "artDirection": {
+        "template": "rocks-spirit-forward",
+        "glass": "rocks",
+        "sourceGlassware": "Old fashioned",
+        "ice": "none",
+        "garnish": "thick lime disc with peel, dropped in",
+        "liquidPalette": {
+          "name": "pale-citrus",
+          "hex": "#D7D39A"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/ti-punch.png",
+          "runtime": "cocktails/webp/ti-punch.webp",
+          "thumbnail": "cocktails/thumbs/ti-punch.webp"
+        }
+      }
+    },
+    {
+      "id": "cynar-spritz",
+      "slug": "cynar-spritz",
+      "name": "Cynar Spritz",
+      "illustrationKey": "cynar-spritz",
+      "cocktailFamily": "Spritz",
+      "classifications": [
+        "aperitivo",
+        "sparkling",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "bitter",
+        "vegetal",
+        "citrus"
+      ],
+      "ingredientIds": [
+        "cynar",
+        "prosecco",
+        "club_soda"
+      ],
+      "artDirection": {
+        "template": "spritz",
+        "glass": "wine",
+        "sourceGlassware": "Wine glass",
+        "ice": "large clear cubes",
+        "garnish": "orange slice",
+        "liquidPalette": {
+          "name": "mahogany",
+          "hex": "#783F28"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/cynar-spritz.png",
+          "runtime": "cocktails/webp/cynar-spritz.webp",
+          "thumbnail": "cocktails/thumbs/cynar-spritz.webp"
+        }
+      }
+    },
+    {
+      "id": "lions-tail",
+      "slug": "lions-tail",
+      "name": "Lion's Tail",
+      "illustrationKey": "lions-tail",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "classic",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "allspice",
+        "lime",
+        "oak"
+      ],
+      "ingredientIds": [
+        "bourbon",
+        "allspice_dram",
+        "lime_juice",
+        "simple_syrup",
+        "angostura_bitters"
+      ],
+      "artDirection": {
+        "template": "sour",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe",
+        "ice": "Shaken; up",
+        "garnish": "expressed lime peel",
+        "liquidPalette": {
+          "name": "warm-amber",
+          "hex": "#B06932"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/lions-tail.png",
+          "runtime": "cocktails/webp/lions-tail.webp",
+          "thumbnail": "cocktails/thumbs/lions-tail.webp"
+        }
+      }
+    },
+    {
+      "id": "improved-holland-gin-cocktail",
+      "slug": "improved-holland-gin-cocktail",
+      "name": "Improved Holland Gin Cocktail",
+      "illustrationKey": "improved-holland-gin-cocktail",
+      "cocktailFamily": "Old Fashioned",
+      "classifications": [
+        "classic",
+        "spirit-forward"
+      ],
+      "flavorProfiles": [
+        "malt",
+        "anise",
+        "cherry"
+      ],
+      "ingredientIds": [
+        "genever",
+        "maraschino",
+        "demerara_sugar",
+        "angostura_bitters",
+        "absinthe"
+      ],
+      "artDirection": {
+        "template": "rocks-spirit-forward",
+        "glass": "double-old-fashioned",
+        "sourceGlassware": "Old fashioned",
+        "ice": "one large crystal-clear cube",
+        "garnish": "expressed lemon peel",
+        "liquidPalette": {
+          "name": "warm-amber",
+          "hex": "#A86939"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/improved-holland-gin-cocktail.png",
+          "runtime": "cocktails/webp/improved-holland-gin-cocktail.webp",
+          "thumbnail": "cocktails/thumbs/improved-holland-gin-cocktail.webp"
+        }
+      }
+    },
+    {
+      "id": "kingston-negroni",
+      "slug": "kingston-negroni",
+      "name": "Kingston Negroni",
+      "illustrationKey": "kingston-negroni",
+      "cocktailFamily": "Negroni",
+      "classifications": [
+        "modern-classic",
+        "spirit-forward"
+      ],
+      "flavorProfiles": [
+        "funky",
+        "bitter",
+        "tropical"
+      ],
+      "ingredientIds": [
+        "jamaican_rum",
+        "campari",
+        "sweet_vermouth"
+      ],
+      "artDirection": {
+        "template": "rocks-spirit-forward",
+        "glass": "double-old-fashioned",
+        "sourceGlassware": "Old fashioned",
+        "ice": "one large crystal-clear cube",
+        "garnish": "expressed orange peel",
+        "liquidPalette": {
+          "name": "ruby-garnet",
+          "hex": "#7D1827"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/kingston-negroni.png",
+          "runtime": "cocktails/webp/kingston-negroni.webp",
+          "thumbnail": "cocktails/thumbs/kingston-negroni.webp"
+        }
+      }
+    },
+    {
+      "id": "chrysanthemum",
+      "slug": "chrysanthemum",
+      "name": "Chrysanthemum",
+      "illustrationKey": "chrysanthemum",
+      "cocktailFamily": "Aperitif",
+      "classifications": [
+        "classic",
+        "aperitivo"
+      ],
+      "flavorProfiles": [
+        "herbal",
+        "honey",
+        "anise"
+      ],
+      "ingredientIds": [
+        "dry_vermouth",
+        "benedictine",
+        "absinthe"
+      ],
+      "artDirection": {
+        "template": "stemmed-spirit-forward",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe",
+        "ice": "no ice in the finished drink",
+        "garnish": "expressed orange peel",
+        "liquidPalette": {
+          "name": "herbal-gold",
+          "hex": "#9A8B45"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/chrysanthemum.png",
+          "runtime": "cocktails/webp/chrysanthemum.webp",
+          "thumbnail": "cocktails/thumbs/chrysanthemum.webp"
         }
       }
     }
