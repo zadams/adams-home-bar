@@ -1,5 +1,5 @@
 import { useMemo, useState } from 'react'
-import { drinks, getIngredientName, isShot } from '../data'
+import { drinks, isShot } from '../data'
 import {
   kitCanMake,
   kitEntries,
@@ -148,22 +148,6 @@ export function PartyPage() {
           />
         ))}
       </div>
-
-      <section className="party-left-home">
-        <h2 className="section-title">Left at home on purpose</h2>
-        <ul className="party-omissions">
-          {partyKit.deliberatelyLeftHome.map((o) => (
-            <li key={o.ingredientId}>
-              <b>{getIngredientName(o.ingredientId)}</b>
-              <span>{o.cost}</span>
-            </li>
-          ))}
-        </ul>
-        <p className="party-note">
-          Worth knowing before someone orders one — these are in the home bar but
-          not in the bag.
-        </p>
-      </section>
     </div>
   )
 }

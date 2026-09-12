@@ -7,12 +7,6 @@ export interface KitEntry {
   label: string
 }
 
-export interface KitOmission {
-  ingredientId: string
-  /** What leaving it behind costs, in drinks. */
-  cost: string
-}
-
 /**
  * A travel bar: the subset of the home bar going somewhere. Readiness for a kit
  * is deliberately *not* the same question as readiness at home — the whole point
@@ -26,7 +20,6 @@ export interface Kit {
   bottles: KitEntry[]
   pantry: KitEntry[]
   mixers: KitEntry[]
-  deliberatelyLeftHome: KitOmission[]
 }
 
 export const partyKit = partyKitJson as Kit

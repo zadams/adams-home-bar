@@ -27,9 +27,6 @@ describe('party kit', () => {
     for (const entry of kitEntries(partyKit)) {
       expect(ingredientById.has(entry.ingredientId), entry.ingredientId).toBe(true)
     }
-    for (const o of partyKit.deliberatelyLeftHome) {
-      expect(ingredientById.has(o.ingredientId), o.ingredientId).toBe(true)
-    }
   })
 
   it('does not list anything twice', () => {
@@ -37,18 +34,18 @@ describe('party kit', () => {
     expect(new Set(ids).size).toBe(ids.length)
   })
 
-  it('never claims a drink needing something left at home', () => {
-    const inventory = kitInventory(partyKit)
-    const omitted = new Set(partyKit.deliberatelyLeftHome.map((o) => o.ingredientId))
-    const ready = drinks.filter(
-      (d) => assessReadiness(d, inventory).state === 'ready',
-    )
-    for (const drink of ready) {
-      const required = drink.ingredients
-        .filter((l) => !l.optional)
-        .map((l) => l.ingredientId)
-      for (const id of required) {
-        expect(omitted.has(id), `${drink.id} needs omitted ${id}`).toBe(false)
+  it('never claims a drink needing something not in the bag', () => {
+    // Named ingredients the bar has at home but is not carrying. The kit view
+    // must never claim a drink that needs one, however the matcher evolves.
+    const notCarried = ['campari', 'aperol', 'prosecco', 'maraschino', 'grenadine']
+    const carried = kitIngredientIds(partyKit)
+    for (const id of notCarried) {
+      expect(ingredientById.has(id), id).toBe(true)
+      expect(carried.has(id), id).toBe(false)
+    }
+    for (const drink of drinks.filter((d) => kitCanMake(d, carried))) {
+      for (const line of drink.ingredients.filter((l) => !l.optional)) {
+        expect(carried.has(line.ingredientId), `${drink.id} needs ${line.ingredientId}`).toBe(true)
       }
     }
   })

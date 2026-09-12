@@ -830,26 +830,3 @@
   font-weight: 500;
 }
 
-.party-left-home { margin-top: var(--space-6); }
-
-.party-omissions {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: grid;
-  gap: 1px;
-}
-
-.party-omissions li {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.2rem 0.75rem;
-  align-items: baseline;
-  background: rgba(184, 149, 108, 0.06);
-  padding: 0.6rem 0.85rem;
-}
-
-.party-omissions b { color: var(--color-cream); font-weight: 500; }
-.party-omissions span { color: var(--color-text-muted); font-size: 0.875rem; }
-
-.party-note { color: var(--color-text-muted); font-size: 0.875rem; margin-top: var(--space-3); }
