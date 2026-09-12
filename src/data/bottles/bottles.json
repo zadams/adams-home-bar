@@ -1034,5 +1034,32 @@
       "mixer"
     ],
     "notes": "Bar shortcut for lemon or lime plus sugar. Prefer fresh citrus when you have it."
+  },
+  {
+    "id": "bacardi-superior",
+    "brand": "Bacardi",
+    "productName": "Superior White Rum",
+    "ingredientIds": [
+      "white_rum"
+    ],
+    "category": "spirit",
+    "subcategory": "rum",
+    "tags": [
+      "rum",
+      "white"
+    ]
+  },
+  {
+    "id": "kirkland-vodka",
+    "brand": "Kirkland Signature",
+    "productName": "American Vodka",
+    "ingredientIds": [
+      "vodka"
+    ],
+    "category": "spirit",
+    "subcategory": "vodka",
+    "tags": [
+      "vodka"
+    ]
   }
 ]

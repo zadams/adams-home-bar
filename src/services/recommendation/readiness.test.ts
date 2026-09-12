@@ -48,7 +48,14 @@ describe('readiness engine', () => {
   })
 
   it('treats unknown fresh juice as available but flagged', () => {
-    const result = assessReadiness(cocktail('daiquiri'), seedInventory)
+    // Built explicitly rather than leaning on the seed: lime juice is stocked
+    // now, and this is a test of the engine, not of what is in the bar today.
+    const inventory: InventoryItem[] = seedInventory.map((item) =>
+      item.ingredientId === 'lime_juice'
+        ? { ...item, status: 'unknown' as const }
+        : item,
+    )
+    const result = assessReadiness(cocktail('daiquiri'), inventory)
     expect(result.state).toBe('ready')
     expect(result.confirmFresh.some((c) => c.ingredientId === 'lime_juice')).toBe(
       true,
@@ -120,7 +127,6 @@ describe('readiness engine', () => {
     const almost = [
       ['sidecar', 'cognac'],
       ['aviation', 'creme_de_violette'],
-      ['brave-bull', 'coffee_liqueur'],
       ['chartreuse-swizzle', 'green_chartreuse'],
       ['mezcal-negroni', 'mezcal'],
       ['fanciulli', 'fernet_branca'],
@@ -133,6 +139,11 @@ describe('readiness engine', () => {
         missing: [missing],
       })
     }
+
+    // Brave Bull left this list when Kahlua was stocked for the class party.
+    expect(assessReadiness(cocktail('brave-bull'), seedInventory).state).toBe(
+      'ready',
+    )
 
     const champs = assessReadiness(cocktail('champs-elysees'), seedInventory)
     expect(champs.state).toBe('nearly')

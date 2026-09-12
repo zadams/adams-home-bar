@@ -811,32 +811,32 @@
   {
     "id": "inv-lemon",
     "ingredientId": "lemon",
-    "status": "unknown",
+    "status": "in_stock",
     "productName": "Lemons",
     "tags": [
       "fresh"
     ],
-    "notes": "Fresh item — confirm availability before mixing."
+    "notes": "Stocked."
   },
   {
     "id": "inv-lime",
     "ingredientId": "lime",
-    "status": "unknown",
+    "status": "in_stock",
     "productName": "Limes",
     "tags": [
       "fresh"
     ],
-    "notes": "Fresh item — confirm availability before mixing."
+    "notes": "Stocked."
   },
   {
     "id": "inv-orange",
     "ingredientId": "orange",
-    "status": "unknown",
+    "status": "in_stock",
     "productName": "Oranges",
     "tags": [
       "fresh"
     ],
-    "notes": "Fresh item — confirm availability before mixing."
+    "notes": "Stocked."
   },
   {
     "id": "inv-grapefruit",
@@ -851,12 +851,12 @@
   {
     "id": "inv-mint",
     "ingredientId": "mint",
-    "status": "unknown",
+    "status": "in_stock",
     "productName": "Mint",
     "tags": [
       "fresh"
     ],
-    "notes": "Fresh item — confirm availability before mixing."
+    "notes": "Two bunches for the party — Mojito, Julep, Southside, smashes."
   },
   {
     "id": "inv-cocktail_cherry",
@@ -919,12 +919,12 @@
   {
     "id": "inv-lime_juice",
     "ingredientId": "lime_juice",
-    "status": "unknown",
+    "status": "in_stock",
     "productName": "Fresh lime juice",
     "tags": [
       "fresh"
     ],
-    "notes": "Fresh item — confirm availability before mixing."
+    "notes": "Fresh, plus whole limes."
   },
   {
     "id": "inv-egg_white",
@@ -1049,23 +1049,23 @@
   {
     "id": "inv-cola",
     "ingredientId": "cola",
-    "status": "unknown",
+    "status": "in_stock",
     "productName": "Cola",
     "tags": [
       "expansion"
     ],
-    "notes": "Confirm before mixing."
+    "notes": "Stocked."
   },
   {
     "id": "inv-orange_juice",
     "ingredientId": "orange_juice",
-    "status": "unknown",
+    "status": "in_stock",
     "productName": "Fresh orange juice",
     "tags": [
       "fresh",
       "juice"
     ],
-    "notes": "Confirm before mixing."
+    "notes": "Stocked."
   },
   {
     "id": "inv-grapefruit_juice",
@@ -1103,14 +1103,14 @@
   {
     "id": "inv-coffee_liqueur",
     "bottleId": "kahlua",
-    "status": "out",
+    "status": "in_stock",
     "brand": "Kahlúa",
     "productName": "Original Coffee Liqueur",
     "preferredForMixing": true,
     "tags": [
       "coffee-liqueur"
     ],
-    "notes": "On the shopping list — unlocks Espresso Martini, White/Black Russian, Mudslide, B-52, Revolver."
+    "notes": "Bought for the class party."
   },
   {
     "id": "inv-heavy_cream",
@@ -1218,5 +1218,38 @@
       "mixer"
     ],
     "notes": "Purchased 2026-09-06. Use for bar-style sours; fresh lemon or lime plus simple is still better when fruit is on hand."
+  },
+  {
+    "id": "inv-lemon_lime_soda",
+    "ingredientId": "lemon_lime_soda",
+    "status": "in_stock",
+    "productName": "Sprite",
+    "tags": [
+      "mixer"
+    ],
+    "notes": "Tequila Slammer and the tea shots."
+  },
+  {
+    "id": "inv-bacardi-superior",
+    "bottleId": "bacardi-superior",
+    "status": "in_stock",
+    "brand": "Bacardi",
+    "productName": "Superior White Rum",
+    "preferredForMixing": true,
+    "tags": [
+      "rum",
+      "white"
+    ]
+  },
+  {
+    "id": "inv-kirkland-vodka",
+    "bottleId": "kirkland-vodka",
+    "status": "in_stock",
+    "brand": "Kirkland Signature",
+    "productName": "American Vodka",
+    "preferredForMixing": true,
+    "tags": [
+      "vodka"
+    ]
   }
 ]
