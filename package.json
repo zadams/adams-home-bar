@@ -21,6 +21,7 @@
     "illustrations:validate": "node scripts/illustration/validate-assets.mjs",
     "ingredients:validate": "node scripts/illustration/validate-ingredient-photos.mjs",
     "art:validate": "npm run illustrations:validate && npm run ingredients:validate",
+    "illustrations:thumbnails": "node scripts/illustration/generate-thumbnails.mjs",
     "illustrations:sync-registry": "node scripts/illustration/sync-registry.mjs"
   },
   "dependencies": {

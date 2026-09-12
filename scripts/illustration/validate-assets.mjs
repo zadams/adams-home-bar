@@ -95,6 +95,20 @@ const unregistered = expectedKeys
   .filter((key) => hasWebp(key) && !registry[key])
   .sort()
 
+/**
+ * Cards render with preferThumb, so a key with full-size art and no thumbnail
+ * still showed a placeholder. Nothing checked for that, and 33 drinks sat in
+ * exactly that state.
+ */
+const thumbsDir = path.join(cocktailsImageRoot, 'thumbs')
+const hasThumb = (key) => {
+  const p = path.join(thumbsDir, `${key}.webp`)
+  return fs.existsSync(p) && fs.statSync(p).size > 500
+}
+const missingThumbs = expectedKeys
+  .filter((key) => hasWebp(key) && !hasThumb(key) && !isPending(key))
+  .sort()
+
 console.log(`Expected:            ${expectedKeys.length}`)
 console.log(`Found:               ${found}`)
 console.log(`Missing:             ${missing.length}`)
@@ -104,6 +118,7 @@ console.log(`Pending art:         ${pendingEntries.length}`)
 console.log(`Broken registry src: ${brokenSrc.length}`)
 console.log(`Stale entries:       ${staleEntries.length}`)
 console.log(`Unregistered art:    ${unregistered.length}`)
+console.log(`Missing thumbnails:  ${missingThumbs.length}`)
 
 if (missing.length) {
   console.log('\nNO EDITORIAL WEBP:')
@@ -144,8 +159,21 @@ if (unregistered.length) {
   for (const key of unregistered) console.log(`- ${key}`)
 }
 
+if (missingThumbs.length) {
+  console.log('\nFULL-SIZE ART BUT NO THUMBNAIL (cards fall back to full size):')
+  console.log('  npm run illustrations:thumbnails')
+  for (const key of missingThumbs.slice(0, 40)) console.log(`- thumbs/${key}.webp`)
+  if (missingThumbs.length > 40) {
+    console.log(`… and ${missingThumbs.length - 40} more`)
+  }
+}
+
 const failures =
-  missing.length + brokenSrc.length + staleEntries.length + unregistered.length
+  missing.length +
+  brokenSrc.length +
+  staleEntries.length +
+  unregistered.length +
+  missingThumbs.length
 
 if (failures === 0) {
   console.log(

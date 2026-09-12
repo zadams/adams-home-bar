@@ -47,6 +47,9 @@ export function CocktailIllustration({
   const resolved = resolveIllustration(illustrationKey)
   const [failed, setFailed] = useState(false)
   const [useFallback, setUseFallback] = useState(false)
+  // A card asks for the thumbnail first. If that one file is missing, the
+  // full-size art is still there and should be used rather than a placeholder.
+  const [thumbFailed, setThumbFailed] = useState(false)
   const palette = getPlaceholderPalette(
     illustrationKey,
     resolved.artDirection?.liquidPalette?.hex,
@@ -57,7 +60,7 @@ export function CocktailIllustration({
   const uid = illustrationKey.replace(/[^a-z0-9-]/gi, '')
 
   const primarySrc = preferThumb
-    ? resolved.thumbSrc ?? resolved.src
+    ? (thumbFailed ? resolved.src : (resolved.thumbSrc ?? resolved.src))
     : resolved.src
   const rawSrc =
     useFallback && resolved.fallbackSrc ? resolved.fallbackSrc : primarySrc
@@ -101,6 +104,16 @@ export function CocktailIllustration({
             loading="lazy"
             decoding="async"
             onError={() => {
+              if (
+                preferThumb &&
+                !thumbFailed &&
+                resolved.src &&
+                resolved.thumbSrc &&
+                resolved.thumbSrc !== resolved.src
+              ) {
+                setThumbFailed(true)
+                return
+              }
               if (!useFallback && fallbackSrc && fallbackSrc !== imageSrc) {
                 setUseFallback(true)
                 return
