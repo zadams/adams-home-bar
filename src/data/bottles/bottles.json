@@ -1061,5 +1061,33 @@
     "tags": [
       "vodka"
     ]
+  },
+  {
+    "id": "fireball",
+    "brand": "Fireball",
+    "productName": "Cinnamon Whisky",
+    "ingredientIds": [
+      "cinnamon_whisky"
+    ],
+    "category": "liqueur",
+    "subcategory": "flavored whiskey",
+    "tags": [
+      "cinnamon",
+      "shot"
+    ]
+  },
+  {
+    "id": "de-kuyper-melon",
+    "brand": "De Kuyper",
+    "productName": "Melon Liqueur",
+    "ingredientIds": [
+      "melon_liqueur"
+    ],
+    "category": "liqueur",
+    "subcategory": "fruit liqueur",
+    "tags": [
+      "melon",
+      "shot"
+    ]
   }
 ]

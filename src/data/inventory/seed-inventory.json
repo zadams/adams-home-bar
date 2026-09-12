@@ -909,12 +909,12 @@
   {
     "id": "inv-lemon_juice",
     "ingredientId": "lemon_juice",
-    "status": "unknown",
+    "status": "in_stock",
     "productName": "Fresh lemon juice",
     "tags": [
       "fresh"
     ],
-    "notes": "Fresh item — confirm availability before mixing."
+    "notes": "Squeezed from the lemons on hand."
   },
   {
     "id": "inv-lime_juice",
@@ -1250,6 +1250,30 @@
     "preferredForMixing": true,
     "tags": [
       "vodka"
+    ]
+  },
+  {
+    "id": "inv-fireball",
+    "bottleId": "fireball",
+    "status": "in_stock",
+    "brand": "Fireball",
+    "productName": "Cinnamon Whisky",
+    "preferredForMixing": true,
+    "tags": [
+      "cinnamon",
+      "shot"
+    ]
+  },
+  {
+    "id": "inv-de-kuyper-melon",
+    "bottleId": "de-kuyper-melon",
+    "status": "in_stock",
+    "brand": "De Kuyper",
+    "productName": "Melon Liqueur",
+    "preferredForMixing": true,
+    "tags": [
+      "melon",
+      "shot"
     ]
   }
 ]
