@@ -19,6 +19,8 @@
     "illustrations:generate-hero": "node scripts/illustration/generate-assets.mjs --hero",
     "illustrations:generate-all": "node scripts/illustration/generate-assets.mjs --all",
     "illustrations:validate": "node scripts/illustration/validate-assets.mjs",
+    "ingredients:validate": "node scripts/illustration/validate-ingredient-photos.mjs",
+    "art:validate": "npm run illustrations:validate && npm run ingredients:validate",
     "illustrations:sync-registry": "node scripts/illustration/sync-registry.mjs"
   },
   "dependencies": {
