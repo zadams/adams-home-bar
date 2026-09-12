@@ -1,0 +1,80 @@
+{
+  "id": "sombrero",
+  "slug": "sombrero",
+  "name": "Sombrero",
+  "aliases": [
+    "Kahlúa and Cream"
+  ],
+  "description": "Coffee liqueur and cream—two pantry items away from a dessert pour.",
+  "history": "A bar-simple coffee-and-cream drink; the name is older American restaurant-menu language for Kahlúa and cream.",
+  "origin": "United States",
+  "whyItWorks": "Cream softens coffee bitterness. Baileys can stand in for cream if you only buy the coffee liqueur.",
+  "classifications": [
+    "classic",
+    "dessert"
+  ],
+  "cocktailFamily": "Dessert",
+  "flavorProfiles": [
+    "coffee",
+    "creamy",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "light",
+  "glassware": "Rocks glass",
+  "ice": "Cubed ice",
+  "garnish": [],
+  "illustrationKey": "sombrero",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "coffee_liqueur",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "heavy_cream",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Build coffee liqueur over ice.",
+    "Float or stir in cream."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "baileys",
+      "rank": 1,
+      "rationale": "Use as the cream half if you stock coffee liqueur first."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "heavy_cream",
+      "alternatives": [
+        "baileys"
+      ],
+      "notes": "Baileys covers cream and adds sweetness if dairy stays out."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "white-russian",
+    "black-russian",
+    "brave-bull",
+    "mudslide"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "coffee",
+    "dessert",
+    "inventory-gap"
+  ]
+}

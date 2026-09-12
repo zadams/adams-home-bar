@@ -5,9 +5,11 @@ import { assessReadiness, readinessSortKey } from '../services/recommendation/re
 import { useUserData } from '../features/persistence/UserDataContext'
 import { CocktailCard } from '../features/cocktails/CocktailCard'
 import { journeyStages } from '../data/journey'
+import { useSurpriseMe } from '../features/recommendations/useSurpriseMe'
 
 export function HomePage() {
   const { userData } = useUserData()
+  const surpriseMe = useSurpriseMe()
 
   const ranked = useMemo(() => {
     // Readiness counts cover the whole catalog, shots included.
@@ -75,9 +77,9 @@ export function HomePage() {
           <Link className="btn btn--amber" to="/make">
             Make Something Now
           </Link>
-          <Link className="btn btn--ghost" to="/make?mode=surprise">
+          <button type="button" className="btn btn--ghost" onClick={() => surpriseMe()}>
             Surprise Me
-          </Link>
+          </button>
           <Link className="btn btn--ghost" to="/journey">
             Cocktail Journey
           </Link>

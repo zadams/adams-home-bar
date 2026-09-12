@@ -54,11 +54,19 @@
     }
   ],
   "substitutions": [],
-  "variations": [],
+  "variations": [
+    {
+      "id": "grasshopper",
+      "name": "Grasshopper",
+      "notes": "Add crème de cacao for the classic mint-chocolate cream drink.",
+      "relatedCocktailId": "grasshopper"
+    }
+  ],
   "relatedCocktailIds": [
     "peppermint-patty",
     "baileys-peppermint",
-    "stinger"
+    "stinger",
+    "grasshopper"
   ],
   "seasonality": [
     "year-round"

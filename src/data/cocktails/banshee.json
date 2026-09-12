@@ -3,16 +3,16 @@
   "slug": "banshee",
   "name": "Banshee",
   "aliases": [],
-  "description": "Crème de banane and Baileys—cream-free house Banshee.",
-  "whyItWorks": "Banana and Irish cream already drink dessert-complete.",
+  "description": "Crème de banane, crème de cacao, and Baileys—the mid-century Banshee, now with the chocolate the classic wants.",
+  "whyItWorks": "Banana and chocolate are the original pair; Irish cream stands in for heavy cream.",
   "classifications": [
     "dessert"
   ],
   "cocktailFamily": "Dessert",
   "flavorProfiles": [
     "banana",
-    "creamy",
-    "sweet"
+    "chocolate",
+    "creamy"
   ],
   "difficulty": "easy",
   "preparationTime": 4,
@@ -29,10 +29,17 @@
       "scaleMode": "linear"
     },
     {
-      "ingredientId": "baileys",
+      "ingredientId": "creme_de_cacao",
       "amount": 1,
       "unit": "oz",
       "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "baileys",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Baileys (cream stand-in)"
     },
     {
       "ingredientId": "vodka",
@@ -40,38 +47,44 @@
       "unit": "oz",
       "scaleMode": "linear",
       "optional": true
-    },
-    {
-      "ingredientId": "heavy_cream",
-      "amount": 1,
-      "unit": "oz",
-      "scaleMode": "linear",
-      "optional": true
     }
   ],
   "steps": [
-    "Shake banana liqueur and Baileys (plus optional vodka/cream).",
-    "Strain into a coupe."
+    "Shake crème de banane, crème de cacao, and Baileys (plus optional vodka) with ice.",
+    "Strain into a chilled coupe."
   ],
   "techniqueNotes": [],
   "recommendedBottles": [
     {
       "bottleId": "creme-de-banane",
       "rank": 1,
-      "rationale": "A strong match from your bar."
+      "rationale": "Banana half of the classic."
+    },
+    {
+      "bottleId": "creme-de-cacao",
+      "rank": 2,
+      "rationale": "The chocolate the house Banshee was missing."
+    },
+    {
+      "bottleId": "baileys",
+      "rank": 3,
+      "rationale": "Cream stand-in."
     }
   ],
   "substitutions": [],
   "variations": [],
   "relatedCocktailIds": [
     "banana-baileys",
-    "baileys-martini"
+    "baileys-martini",
+    "pink-squirrel",
+    "almond-joy"
   ],
   "seasonality": [
     "year-round"
   ],
   "tags": [
     "banana",
+    "chocolate",
     "baileys",
     "dessert",
     "popular"

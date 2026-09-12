@@ -1,0 +1,85 @@
+{
+  "id": "mezcal-negroni",
+  "slug": "mezcal-negroni",
+  "name": "Mezcal Negroni",
+  "aliases": [],
+  "description": "Mezcal, Campari, and sweet vermouth—the Negroni with smoke. Missing only mezcal.",
+  "history": "A 21st-century Negroni variation. Same equal-parts structure; mezcal replaces gin.",
+  "origin": "International",
+  "whyItWorks": "Smoke and Campari bitterness lock together; sweet vermouth keeps the drink from turning into an ashtray.",
+  "classifications": [
+    "modern",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Negroni",
+  "flavorProfiles": [
+    "smoky",
+    "bitter",
+    "herbal"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "strong",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange twist"
+  ],
+  "illustrationKey": "mezcal-negroni",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "mezcal",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "campari",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Stir equal parts with ice.",
+    "Strain over a large cube.",
+    "Express an orange twist."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "campari",
+      "rank": 1,
+      "rationale": "Campari is already on the bar."
+    },
+    {
+      "bottleId": "sweet-vermouth",
+      "rank": 2,
+      "rationale": "Sweet vermouth from the shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "negroni",
+    "division-bell",
+    "mezcal-margarita",
+    "oaxaca-old-fashioned"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "modern",
+    "mezcal",
+    "bitter",
+    "inventory-gap"
+  ]
+}

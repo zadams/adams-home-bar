@@ -1,11 +1,11 @@
 import { describe, expect, it } from 'vitest'
 import { assessReadiness } from './readiness'
-import { cocktails, seedInventory } from '../../data'
+import { drinks, seedInventory } from '../../data'
 import type { Cocktail } from '../../types/cocktail'
 import type { InventoryItem } from '../../types/inventory'
 
 function cocktail(id: string): Cocktail {
-  const found = cocktails.find((c) => c.id === id)
+  const found = drinks.find((c) => c.id === id)
   if (!found) throw new Error(`Missing cocktail ${id}`)
   return found
 }
@@ -61,6 +61,85 @@ describe('readiness engine', () => {
     expect(result.missingOptional.some((m) => m.ingredientId === 'absinthe')).toBe(
       true,
     )
+  })
+
+  it('marks new-stock classics ready once cacao, curaçao, noyaux, and sour mix are seeded', () => {
+    const unlocked = [
+      'grasshopper',
+      'bourbon-alexander',
+      'barbara',
+      'chocolate-martini',
+      'chocolate-old-fashioned',
+      'twentieth-century',
+      'pink-squirrel',
+      'blue-hawaiian',
+      'blue-hawaii',
+      'blue-lagoon',
+      'blue-margarita',
+      'blue-kamikaze',
+      'swimming-pool',
+      'noyaux-rose',
+      'almond-joy',
+      'noyaux-old-fashioned',
+      'bar-whiskey-sour',
+      'bar-margarita',
+      'adios-motherfucker',
+      'banshee',
+      'army-navy',
+      'bay-breeze',
+      'mai-tai',
+      'trinidad-sour',
+      'cosmopolitan',
+      'cape-codder',
+      'sea-breeze',
+      'port-light',
+      'poinsettia',
+      'cranberry-margarita',
+    ]
+    for (const id of unlocked) {
+      const result = assessReadiness(cocktail(id), seedInventory)
+      expect({ id, state: result.state, missing: result.missingRequired.map((m) => m.ingredientId) }).toEqual({
+        id,
+        state: 'ready',
+        missing: [],
+      })
+    }
+  })
+
+  it('leaves the Alexander short of cognac alone once cacao and cream are stocked', () => {
+    // Dairy is stocked now, so cognac is the only gap and the state improves
+    // from 'nearly' (two missing) to 'almost' (one).
+    const result = assessReadiness(cocktail('alexander'), seedInventory)
+    expect(result.state).toBe('almost')
+    expect(result.missingRequired.map((m) => m.ingredientId).sort()).toEqual([
+      'cognac',
+    ])
+  })
+
+  it('marks gap classics almost or nearly ready from seed inventory', () => {
+    const almost = [
+      ['sidecar', 'cognac'],
+      ['aviation', 'creme_de_violette'],
+      ['brave-bull', 'coffee_liqueur'],
+      ['chartreuse-swizzle', 'green_chartreuse'],
+      ['mezcal-negroni', 'mezcal'],
+      ['fanciulli', 'fernet_branca'],
+    ] as const
+    for (const [id, missing] of almost) {
+      const result = assessReadiness(cocktail(id), seedInventory)
+      expect({ id, state: result.state, missing: result.missingRequired.map((m) => m.ingredientId) }).toEqual({
+        id,
+        state: 'almost',
+        missing: [missing],
+      })
+    }
+
+    const champs = assessReadiness(cocktail('champs-elysees'), seedInventory)
+    expect(champs.state).toBe('nearly')
+    expect(champs.missingRequired.map((m) => m.ingredientId).sort()).toEqual([
+      'cognac',
+      'green_chartreuse',
+    ])
   })
 
   it('marks Paloma almost ready when grapefruit soda is out', () => {

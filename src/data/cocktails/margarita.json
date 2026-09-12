@@ -105,6 +105,13 @@
         "grand_marnier"
       ],
       "notes": "Grand Marnier makes a richer, cognac-tinged Margarita."
+    },
+    {
+      "ingredientId": "lime_juice",
+      "alternatives": [
+        "sour_mix"
+      ],
+      "notes": "Sweet-and-sour mix is a bar shortcut. Use about 1.5 oz sour mix and skip the simple syrup so the drink does not go cloying."
     }
   ],
   "variations": [
@@ -119,6 +126,18 @@
       "name": "Coconut Margarita",
       "notes": "Add cream of coconut.",
       "relatedCocktailId": "coconut-margarita"
+    },
+    {
+      "id": "bar-margarita",
+      "name": "Margarita (Sour Mix)",
+      "notes": "Bottled sour mix instead of fresh lime.",
+      "relatedCocktailId": "bar-margarita"
+    },
+    {
+      "id": "blue-margarita",
+      "name": "Blue Margarita",
+      "notes": "Blue curaçao in place of Cointreau.",
+      "relatedCocktailId": "blue-margarita"
     }
   ],
   "relatedCocktailIds": [
@@ -126,7 +145,11 @@
     "daiquiri",
     "whiskey-sour",
     "tommys-margarita",
-    "coconut-margarita"
+    "coconut-margarita",
+    "bar-margarita",
+    "blue-margarita",
+    "mezcal-margarita",
+    "cranberry-margarita"
   ],
   "seasonality": [
     "year-round",

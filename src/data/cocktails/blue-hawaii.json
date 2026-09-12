@@ -1,0 +1,119 @@
+{
+  "id": "blue-hawaii",
+  "slug": "blue-hawaii",
+  "name": "Blue Hawaii",
+  "aliases": [],
+  "description": "Rum, vodka, blue curaçao, pineapple, and sour mix—Harry Yee’s other 1957 turquoise highball, without coconut.",
+  "history": "Also created by Harry Yee in Waikiki in 1957. Often confused with the Blue Hawaiian; this one is a sour-and-pineapple highball, not a colada.",
+  "origin": "Honolulu",
+  "whyItWorks": "Sour mix and pineapple keep the curaçao from tasting like orange candy; rum and vodka split the base so the drink stays light and long.",
+  "classifications": [
+    "classic",
+    "tiki"
+  ],
+  "cocktailFamily": "Tiki",
+  "flavorProfiles": [
+    "tropical",
+    "citrus",
+    "pineapple"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Hurricane or tall glass",
+  "ice": "Cubed or crushed ice",
+  "garnish": [
+    "Pineapple wedge",
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "blue-hawaii",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "white_rum",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "vodka",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "blue_curacao",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "pineapple_juice",
+      "amount": 3,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sour_mix",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake rum, vodka, blue curaçao, pineapple, and sour mix with ice.",
+    "Strain into a tall glass over fresh ice.",
+    "Garnish with pineapple and a cherry."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-3",
+      "rank": 1,
+      "rationale": "White rum half of the split base."
+    },
+    {
+      "bottleId": "titos",
+      "rank": 2,
+      "rationale": "Neutral vodka half."
+    },
+    {
+      "bottleId": "blue-curacao",
+      "rank": 3,
+      "rationale": "The turquoise and the orange."
+    },
+    {
+      "bottleId": "sweet-and-sour-mix",
+      "rank": 4,
+      "rationale": "The citrus the original called for."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "sour_mix",
+      "alternatives": [
+        "lemon_juice"
+      ],
+      "notes": "If using fresh lemon, add 0.75 oz lemon and 0.25 oz simple syrup."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "blue-hawaiian",
+    "blue-lagoon",
+    "pina-colada",
+    "swimming-pool"
+  ],
+  "seasonality": [
+    "summer",
+    "year-round"
+  ],
+  "tags": [
+    "tiki",
+    "rum",
+    "vodka",
+    "tropical",
+    "classic",
+    "ready-from-new-stock"
+  ]
+}

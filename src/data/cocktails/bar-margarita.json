@@ -1,0 +1,113 @@
+{
+  "id": "bar-margarita",
+  "slug": "bar-margarita",
+  "name": "Margarita (Sour Mix)",
+  "aliases": [
+    "Bar Margarita"
+  ],
+  "description": "Tequila, orange liqueur, and sweet-and-sour mix—the party Margarita when limes are not on the counter.",
+  "history": "The sour-mix Margarita is how a lot of American bars actually pour the drink. Use Cointreau for a single cocktail; Finest Call triple sec is fine for a pitcher.",
+  "origin": "United States",
+  "whyItWorks": "Sour mix replaces lime and sugar. Orange liqueur still matters—without it you just have tequila and mixer.",
+  "classifications": [
+    "modern",
+    "sour"
+  ],
+  "cocktailFamily": "Margarita",
+  "flavorProfiles": [
+    "agave",
+    "citrus",
+    "orange"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Shaken; over ice",
+  "garnish": [
+    "Lime wheel",
+    "Optional salt rim"
+  ],
+  "illustrationKey": "bar-margarita",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cointreau",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Cointreau or triple sec"
+    },
+    {
+      "ingredientId": "sour_mix",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Salt the rim if you want it.",
+    "Shake tequila, orange liqueur, and sour mix with ice.",
+    "Strain over fresh ice and garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-cristalino",
+      "rank": 1,
+      "rationale": "Everyday tequila for a mixer Margarita."
+    },
+    {
+      "bottleId": "cointreau",
+      "rank": 2,
+      "rationale": "Preferred orange liqueur for one drink."
+    },
+    {
+      "bottleId": "finest-call-triple-sec",
+      "rank": 3,
+      "rationale": "Batching option."
+    },
+    {
+      "bottleId": "sweet-and-sour-mix",
+      "rank": 4,
+      "rationale": "Lime-and-sugar shortcut."
+    }
+  ],
+  "substitutions": [],
+  "variations": [
+    {
+      "id": "margarita",
+      "name": "Margarita",
+      "notes": "Fresh lime is the better drink.",
+      "relatedCocktailId": "margarita"
+    },
+    {
+      "id": "blue-margarita",
+      "name": "Blue Margarita",
+      "notes": "Swap the orange liqueur for blue curaçao.",
+      "relatedCocktailId": "blue-margarita"
+    }
+  ],
+  "relatedCocktailIds": [
+    "margarita",
+    "blue-margarita",
+    "bar-whiskey-sour",
+    "tommys-margarita"
+  ],
+  "seasonality": [
+    "summer",
+    "year-round"
+  ],
+  "tags": [
+    "tequila",
+    "margarita",
+    "bar",
+    "ready-from-new-stock"
+  ]
+}

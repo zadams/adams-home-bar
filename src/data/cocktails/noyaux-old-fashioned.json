@@ -1,0 +1,91 @@
+{
+  "id": "noyaux-old-fashioned",
+  "slug": "noyaux-old-fashioned",
+  "name": "Noyaux Old Fashioned",
+  "aliases": [],
+  "description": "Bourbon Old Fashioned sweetened with crème de noyaux instead of sugar.",
+  "history": "A house spirit-forward use for the new almond bottle. A barspoon is enough—noyaux is sweet and aromatic.",
+  "origin": "House adaptation",
+  "whyItWorks": "Almond and cherry-pit notes sit next to bourbon the way amaretto does, but with a pink tint and less pastry sweetness.",
+  "classifications": [
+    "modern",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Old Fashioned",
+  "flavorProfiles": [
+    "almond",
+    "oak",
+    "bittersweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange twist",
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "noyaux-old-fashioned",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "creme_de_noyaux",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Stir bourbon, crème de noyaux, and bitters with ice.",
+    "Strain over a large cube.",
+    "Garnish with orange and a cherry."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "eagle-rare",
+      "rank": 1,
+      "rationale": "Fruit-forward bourbon beside almond."
+    },
+    {
+      "bottleId": "russells-reserve-10",
+      "rank": 2,
+      "rationale": "Drier oak if the noyaux reads sweet."
+    },
+    {
+      "bottleId": "creme-de-noyaux",
+      "rank": 3,
+      "rationale": "A barspoon-plus of almond sweetness."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "old-fashioned",
+    "chocolate-old-fashioned",
+    "banana-old-fashioned",
+    "noyaux-rose"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "whiskey",
+    "almond",
+    "spirit-forward",
+    "ready-from-new-stock"
+  ]
+}

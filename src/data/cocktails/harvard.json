@@ -1,0 +1,85 @@
+{
+  "id": "harvard",
+  "slug": "harvard",
+  "name": "Harvard",
+  "aliases": [],
+  "description": "A Manhattan built on cognac instead of rye—sweet vermouth and bitters, one bottle short.",
+  "history": "A late-19th-century Ivy League cocktail, the brandy counterpart to the Manhattan / Metropolitan family.",
+  "origin": "United States",
+  "whyItWorks": "Sweet vermouth and cognac share grape and spice; bitters keep it from becoming a cordial.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Manhattan",
+  "flavorProfiles": [
+    "brandy",
+    "bittersweet",
+    "aromatic"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Nick & Nora",
+  "ice": "Stirred; up",
+  "garnish": [
+    "Lemon twist",
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "harvard",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "cognac",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Stir cognac, sweet vermouth, and bitters with ice.",
+    "Strain into a chilled glass.",
+    "Garnish with lemon and a cherry."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "sweet-vermouth",
+      "rank": 1,
+      "rationale": "The vermouth half is already stocked."
+    },
+    {
+      "bottleId": "angostura-aromatic",
+      "rank": 2,
+      "rationale": "Aromatic bitters from the shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "manhattan",
+    "brandy-old-fashioned",
+    "sidecar"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "classic",
+    "cognac",
+    "spirit-forward",
+    "inventory-gap"
+  ]
+}

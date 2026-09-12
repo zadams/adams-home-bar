@@ -1,0 +1,74 @@
+{
+  "id": "french-connection-classic",
+  "slug": "french-connection-classic",
+  "name": "French Connection (Classic)",
+  "aliases": [
+    "French Connection"
+  ],
+  "description": "Equal parts cognac and amaretto—the real digestif. Two bottles short.",
+  "history": "A two-ingredient after-dinner drink named for the 1971 film. The house book currently uses bourbon and Grand Marnier.",
+  "origin": "United States",
+  "whyItWorks": "Cognac and amaretto share almond, vanilla, and grape; no citrus, no dilution beyond ice.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Dessert",
+  "flavorProfiles": [
+    "almond",
+    "brandy",
+    "rich"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "strong",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [],
+  "illustrationKey": "french-connection-classic",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "cognac",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "amaretto",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Build cognac and amaretto over a large cube.",
+    "Stir briefly."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [
+    {
+      "id": "french-connection",
+      "name": "French Connection (House)",
+      "notes": "Bourbon and Grand Marnier—ready now.",
+      "relatedCocktailId": "french-connection"
+    }
+  ],
+  "relatedCocktailIds": [
+    "french-connection",
+    "godfather",
+    "sidecar",
+    "amaretto-sour"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "classic",
+    "cognac",
+    "amaretto",
+    "inventory-gap"
+  ]
+}

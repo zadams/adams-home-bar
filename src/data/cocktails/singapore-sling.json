@@ -1,0 +1,137 @@
+{
+  "id": "singapore-sling",
+  "slug": "singapore-sling",
+  "name": "Singapore Sling",
+  "aliases": [
+    "Raffles Singapore Sling"
+  ],
+  "description": "Gin, cherry, Bénédictine, pineapple, and lime—the tall Raffles sling. Missing only Bénédictine.",
+  "history": "Associated with the Long Bar at Raffles Hotel, Singapore, in the early 20th century. The house book already has a Bénédictine-free version; this is the fuller pineapple sling.",
+  "origin": "Singapore",
+  "whyItWorks": "Bénédictine is the herbal hinge between cherry, gin, and pineapple. Without it the drink is still pleasant; with it, it is a Sling.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Sling",
+  "flavorProfiles": [
+    "cherry",
+    "pineapple",
+    "herbal"
+  ],
+  "difficulty": "medium",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Highball glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Pineapple wedge",
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "singapore-sling",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cherry_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cointreau",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "benedictine",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "pineapple_juice",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grenadine",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 1,
+      "unit": "dash",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": null,
+      "unit": "top",
+      "scaleMode": "top",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake everything except soda with ice.",
+    "Strain into a tall glass over fresh ice.",
+    "Top with a splash of soda if you want it longer; garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "Gin that can stand up to pineapple."
+    },
+    {
+      "bottleId": "bozkov-griotte",
+      "rank": 2,
+      "rationale": "Cherry liqueur already on the bar."
+    },
+    {
+      "bottleId": "cointreau",
+      "rank": 3,
+      "rationale": "Orange liqueur from the shelf."
+    }
+  ],
+  "substitutions": [],
+  "variations": [
+    {
+      "id": "singapore-sling-house",
+      "name": "Singapore Sling (House)",
+      "notes": "Ready now without Bénédictine.",
+      "relatedCocktailId": "singapore-sling-house"
+    }
+  ],
+  "relatedCocktailIds": [
+    "singapore-sling-house",
+    "frisco-sour",
+    "tom-collins"
+  ],
+  "seasonality": [
+    "summer",
+    "year-round"
+  ],
+  "tags": [
+    "classic",
+    "gin",
+    "tropical",
+    "inventory-gap"
+  ]
+}

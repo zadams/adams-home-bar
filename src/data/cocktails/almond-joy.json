@@ -1,0 +1,87 @@
+{
+  "id": "almond-joy",
+  "slug": "almond-joy",
+  "name": "Almond Joy",
+  "aliases": [],
+  "description": "Coconut rum, crème de cacao, and crème de noyaux—the candy bar as a short dessert drink.",
+  "history": "A house candy-bar riff using toasted coconut rum plus the new cacao and noyaux bottles. Not a historic classic; it drinks like an Almond Joy.",
+  "origin": "House adaptation",
+  "whyItWorks": "Coconut, chocolate, and almond are the candy’s three notes. Keep the pour short so it stays a digestif, not a milkshake.",
+  "classifications": [
+    "modern",
+    "dessert"
+  ],
+  "cocktailFamily": "Dessert",
+  "flavorProfiles": [
+    "coconut",
+    "chocolate",
+    "almond"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks or coupe",
+  "ice": "Shaken; up or over ice",
+  "garnish": [],
+  "illustrationKey": "almond-joy",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "coconut_rum",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "creme_de_cacao",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "creme_de_noyaux",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake coconut rum, crème de cacao, and crème de noyaux with ice.",
+    "Strain into a rocks glass over ice, or up into a coupe."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "toasted-coconut-rum",
+      "rank": 1,
+      "rationale": "The coconut half of the candy bar."
+    },
+    {
+      "bottleId": "creme-de-cacao",
+      "rank": 2,
+      "rationale": "Chocolate."
+    },
+    {
+      "bottleId": "creme-de-noyaux",
+      "rank": 3,
+      "rationale": "Almond."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "pink-squirrel",
+    "toasted-coconut-colada-rocks",
+    "banshee"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "dessert",
+    "coconut",
+    "chocolate",
+    "almond",
+    "ready-from-new-stock"
+  ]
+}

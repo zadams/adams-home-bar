@@ -1,0 +1,89 @@
+{
+  "id": "chartreuse-swizzle",
+  "slug": "chartreuse-swizzle",
+  "name": "Chartreuse Swizzle",
+  "aliases": [],
+  "description": "Green Chartreuse, pineapple, lime, and falernum—crushed-ice tiki. Missing only Chartreuse.",
+  "history": "A modern tiki classic from Marcovaldo Dionysos (San Francisco, 2003). Falernum and pineapple are already on this bar.",
+  "origin": "San Francisco",
+  "year": 2003,
+  "creator": "Marcovaldo Dionysos",
+  "whyItWorks": "Chartreuse’s herbal heat needs pineapple and lime the way rum does; falernum adds clove and lime-leaf spice.",
+  "classifications": [
+    "modern-classic",
+    "tiki"
+  ],
+  "cocktailFamily": "Swizzle",
+  "flavorProfiles": [
+    "herbal",
+    "pineapple",
+    "spice"
+  ],
+  "difficulty": "medium",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Collins or tiki",
+  "ice": "Crushed ice",
+  "garnish": [
+    "Mint sprig"
+  ],
+  "illustrationKey": "chartreuse-swizzle",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "green_chartreuse",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "pineapple_juice",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "falernum",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Add everything to a tall glass with crushed ice.",
+    "Swizzle until the glass frosts.",
+    "Cap with more crushed ice and mint."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "bitter-truth-falernum",
+      "rank": 1,
+      "rationale": "Falernum is already stocked."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "last-word",
+    "queens-park-swizzle",
+    "rum-swizzle",
+    "cloister"
+  ],
+  "seasonality": [
+    "summer",
+    "year-round"
+  ],
+  "tags": [
+    "modern-classic",
+    "tiki",
+    "chartreuse",
+    "inventory-gap"
+  ]
+}

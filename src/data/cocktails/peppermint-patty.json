@@ -54,7 +54,9 @@
   ],
   "substitutions": [],
   "variations": [],
-  "relatedCocktailIds": [],
+  "relatedCocktailIds": [
+    "grasshopper"
+  ],
   "seasonality": [
     "year-round"
   ],

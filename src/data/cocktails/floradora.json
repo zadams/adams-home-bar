@@ -1,0 +1,120 @@
+{
+  "aliases": [],
+  "history": "Named for the Broadway musical that opened in 1900, and served at the Waldorf-Astoria to its chorus. One of the earliest raspberry-and-ginger highballs on an American list.",
+  "origin": "United States",
+  "whyItWorks": "Raspberry is soft and ginger is sharp; lime sits between them and stops the fruit reading as syrup.",
+  "classifications": [
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Buck",
+  "flavorProfiles": [
+    "raspberry",
+    "ginger",
+    "lime"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Collins",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Raspberry",
+    "Lime wheel"
+  ],
+  "illustrationKey": "floradora",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "raspberry",
+      "amount": 6,
+      "unit": "piece",
+      "scaleMode": "fixed",
+      "label": "Fresh raspberries"
+    },
+    {
+      "ingredientId": "ginger_beer",
+      "amount": 3,
+      "unit": "oz",
+      "scaleMode": "top"
+    },
+    {
+      "ingredientId": "raspberry",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Raspberry",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Muddle the raspberries with the lime and syrup in the shaker.",
+    "Add the gin and ice and shake.",
+    "Double-strain into an ice-filled collins glass.",
+    "Top with ginger beer and stir once from the bottom."
+  ],
+  "techniqueNotes": [
+    "The period recipe uses raspberry syrup; muddling fresh fruit gives a cleaner, less sweet drink.",
+    "Double-strain or you will be drinking seeds."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "malfy-originale",
+      "rank": 1,
+      "rationale": "Holds its own against the ginger."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "raspberry",
+      "alternatives": [
+        "raspberry_syrup"
+      ],
+      "notes": "¾ oz raspberry syrup in place of the fruit — the original build."
+    },
+    {
+      "ingredientId": "ginger_beer",
+      "alternatives": [
+        "club_soda"
+      ],
+      "notes": "Ginger ale or soda makes it lighter and much less spicy."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "clover-club",
+    "gin-gin-mule",
+    "southside"
+  ],
+  "seasonality": [
+    "summer"
+  ],
+  "tags": [
+    "gin",
+    "raspberry",
+    "highball"
+  ],
+  "id": "floradora",
+  "slug": "floradora",
+  "name": "Floradora",
+  "description": "Gin, lime and muddled raspberries, lengthened with ginger beer.",
+  "year": 1900
+}

@@ -71,7 +71,10 @@
   "variations": [],
   "relatedCocktailIds": [
     "margarita",
-    "vodka-gimlet"
+    "vodka-gimlet",
+    "poinsettia",
+    "cranberry-margarita",
+    "bay-breeze"
   ],
   "seasonality": [
     "year-round"

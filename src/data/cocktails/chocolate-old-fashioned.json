@@ -1,0 +1,104 @@
+{
+  "id": "chocolate-old-fashioned",
+  "slug": "chocolate-old-fashioned",
+  "name": "Chocolate Old Fashioned",
+  "aliases": [],
+  "description": "Bourbon Old Fashioned sweetened with crème de cacao and finished with cocoa bitters.",
+  "history": "A house dessert Old Fashioned using the new cacao bottle and the Angostura cocoa bitters already on the shelf.",
+  "origin": "House adaptation",
+  "whyItWorks": "A small cacao dose replaces some sugar; cocoa bitters echo the chocolate without turning the drink into a dessert shot.",
+  "classifications": [
+    "modern",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Old Fashioned",
+  "flavorProfiles": [
+    "chocolate",
+    "oak",
+    "bittersweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange twist"
+  ],
+  "illustrationKey": "chocolate-old-fashioned",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "creme_de_cacao",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cocoa_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 1,
+      "unit": "dash",
+      "scaleMode": "fixed",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Stir bourbon, crème de cacao, and bitters with ice until cold.",
+    "Strain over a large cube.",
+    "Express an orange twist over the drink."
+  ],
+  "techniqueNotes": [
+    "If the cacao is very sweet, drop to a barspoon and add a dash more bitters."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "russells-reserve-10",
+      "rank": 1,
+      "rationale": "Balanced oak that can take chocolate."
+    },
+    {
+      "bottleId": "woodford-reserve",
+      "rank": 2,
+      "rationale": "Familiar spice beside cacao."
+    },
+    {
+      "bottleId": "angostura-cocoa",
+      "rank": 3,
+      "rationale": "Cocoa bitters keep the drink bitter-chocolate, not candy."
+    },
+    {
+      "bottleId": "creme-de-cacao",
+      "rank": 4,
+      "rationale": "Just enough to sweeten and scent."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "old-fashioned",
+    "banana-old-fashioned",
+    "bourbon-alexander",
+    "noyaux-old-fashioned"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "whiskey",
+    "chocolate",
+    "spirit-forward",
+    "ready-from-new-stock"
+  ]
+}

@@ -1530,5 +1530,21 @@
       "cream",
       "shot"
     ]
+  },
+  {
+    "id": "creme_de_noyaux",
+    "name": "Crème de noyaux",
+    "category": "liqueur",
+    "subcategory": "almond liqueur",
+    "aliases": [
+      "crème de noyeaux",
+      "noyaux",
+      "almond liqueur"
+    ],
+    "tags": [
+      "almond",
+      "cherry-pit",
+      "pink"
+    ]
   }
 ]

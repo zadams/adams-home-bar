@@ -15,6 +15,7 @@ import { CocktailIllustration } from '../../components/CocktailIllustration'
 import { readinessClass } from '../../utils/illustrations'
 import { assetUrl } from '../../utils/assetUrl'
 import { useUserData } from '../persistence/UserDataContext'
+import { useSurpriseMe } from '../recommendations/useSurpriseMe'
 import '../../styles/recipe-spread.css'
 
 interface RecipeViewProps {
@@ -31,6 +32,7 @@ export function RecipeView({ cocktail, readiness }: RecipeViewProps) {
     addMissingToShoppingList,
     addToShoppingList,
   } = useUserData()
+  const surpriseMe = useSurpriseMe()
   const meta = userData.cocktailMeta[cocktail.id]
   const [servings, setServings] = useState(1)
   const [madeNote, setMadeNote] = useState('')
@@ -174,6 +176,13 @@ export function RecipeView({ cocktail, readiness }: RecipeViewProps) {
         )}
 
         <div className="personal-panel">
+          <button
+            type="button"
+            className="btn btn--amber"
+            onClick={() => surpriseMe(cocktail.id)}
+          >
+            Surprise me
+          </button>
           <button
             type="button"
             className={`btn ${meta?.favorite ? 'btn--amber' : 'btn--ghost'}`}

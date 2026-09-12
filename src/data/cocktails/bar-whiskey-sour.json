@@ -1,0 +1,102 @@
+{
+  "id": "bar-whiskey-sour",
+  "slug": "bar-whiskey-sour",
+  "name": "Whiskey Sour (Sour Mix)",
+  "aliases": [
+    "Bar Whiskey Sour"
+  ],
+  "description": "Bourbon and sweet-and-sour mix—the weeknight sour when you do not want to juice lemons.",
+  "history": "American bars have used bottled sour mix in whiskey sours since the mid-20th century. Fresh lemon plus simple syrup is still the better drink; this is the honest shortcut.",
+  "origin": "United States",
+  "whyItWorks": "Sour mix already contains citrus and sugar, so the only job left is choosing a bourbon that can stand up to it.",
+  "classifications": [
+    "modern",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "citrus",
+    "oak",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Shaken; over ice",
+  "garnish": [
+    "Lemon wheel",
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "bar-whiskey-sour",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sour_mix",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 1,
+      "unit": "dash",
+      "scaleMode": "fixed",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake bourbon and sour mix hard with ice.",
+    "Strain over fresh ice.",
+    "Garnish with lemon and a cherry; add a dash of bitters if you like."
+  ],
+  "techniqueNotes": [
+    "If the mix is very sweet, cut it to 1 oz and add a squeeze of lemon."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "russells-reserve-10",
+      "rank": 1,
+      "rationale": "Holds up to bottled citrus."
+    },
+    {
+      "bottleId": "eagle-rare",
+      "rank": 2,
+      "rationale": "Softer fruit if the mix is sharp."
+    },
+    {
+      "bottleId": "sweet-and-sour-mix",
+      "rank": 3,
+      "rationale": "The shortcut this recipe exists for."
+    }
+  ],
+  "substitutions": [],
+  "variations": [
+    {
+      "id": "whiskey-sour",
+      "name": "Whiskey Sour",
+      "notes": "Fresh lemon and simple syrup—the preferred version.",
+      "relatedCocktailId": "whiskey-sour"
+    }
+  ],
+  "relatedCocktailIds": [
+    "whiskey-sour",
+    "bar-margarita",
+    "gold-rush"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "whiskey",
+    "sour",
+    "bar",
+    "ready-from-new-stock"
+  ]
+}
