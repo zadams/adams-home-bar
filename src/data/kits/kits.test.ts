@@ -37,7 +37,7 @@ describe('party kit', () => {
   it('never claims a drink needing something not in the bag', () => {
     // Named ingredients the bar has at home but is not carrying. The kit view
     // must never claim a drink that needs one, however the matcher evolves.
-    const notCarried = ['campari', 'aperol', 'prosecco', 'maraschino']
+    const notCarried = ['campari', 'aperol', 'prosecco', 'maraschino', 'sweet_vermouth', 'mint']
     const carried = kitIngredientIds(partyKit)
     for (const id of notCarried) {
       expect(ingredientById.has(id), id).toBe(true)
@@ -66,17 +66,19 @@ describe('party kit', () => {
         .filter((d) => assessReadiness(d, inventory).state === 'ready')
         .map((d) => d.id),
     )
+    // Mojito and Bourbon Manhattan left this list when mint and sweet vermouth
+    // came out of the bag; Cosmopolitan and Long Island stand in their place.
     for (const id of [
       'old-fashioned',
       'margarita',
       'daiquiri',
-      'mojito',
       'whiskey-sour',
       'martini',
       'gin-and-tonic',
       'moscow-mule',
       'espresso-martini',
-      'bourbon-sweet-manhattan',
+      'cosmopolitan',
+      'long-island-iced-tea',
     ]) {
       expect(readyIds.has(id), id).toBe(true)
     }
