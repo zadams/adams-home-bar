@@ -1,0 +1,69 @@
+{
+  "aliases": [],
+  "history": "A 2010s bar-call shot that genuinely does taste like the cookie.",
+  "origin": "United States",
+  "whyItWorks": "Cinnamon supplies the spice, butterscotch the brown sugar, cream the dough. The mimicry is uncanny.",
+  "classifications": [
+    "shot",
+    "dessert",
+    "modern"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "cinnamon",
+    "butterscotch",
+    "cream"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "oatmeal-cookie",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "baileys",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "butterscotch_schnapps",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cinnamon_whisky",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake all three with ice.",
+    "Strain into a chilled shot glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "cinnamon-toast-crunch",
+    "buttery-nipple"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "dessert"
+  ],
+  "id": "oatmeal-cookie",
+  "slug": "oatmeal-cookie",
+  "name": "Oatmeal Cookie",
+  "description": "Irish cream, butterscotch and cinnamon whisky."
+}

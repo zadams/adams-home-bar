@@ -1,6 +1,6 @@
 import { useMemo } from 'react'
 import { Link } from 'react-router-dom'
-import { cocktailById, cocktails, seedInventory } from '../data'
+import { cocktailById, drinks, seedInventory } from '../data'
 import { assessReadiness, readinessSortKey } from '../services/recommendation/readiness'
 import { useUserData } from '../features/persistence/UserDataContext'
 import { CocktailCard } from '../features/cocktails/CocktailCard'
@@ -12,7 +12,8 @@ export function HomePage() {
   const surpriseMe = useSurpriseMe()
 
   const ranked = useMemo(() => {
-    return cocktails
+    // Readiness counts cover the whole catalog, shots included.
+    return drinks
       .map((cocktail) => ({
         cocktail,
         readiness: assessReadiness(
@@ -114,6 +115,7 @@ export function HomePage() {
               key={cocktail.id}
               cocktail={cocktail}
               readiness={readiness}
+              showKindBadge
             />
           ))}
         </div>
@@ -131,6 +133,7 @@ export function HomePage() {
                 key={cocktail.id}
                 cocktail={cocktail}
                 readiness={readiness}
+                showKindBadge
               />
             ))}
           </div>
@@ -160,6 +163,7 @@ export function HomePage() {
                 key={cocktail.id}
                 cocktail={cocktail}
                 readiness={readiness}
+                showKindBadge
               />
             ))}
           </div>
@@ -175,6 +179,7 @@ export function HomePage() {
                 key={cocktail.id}
                 cocktail={cocktail}
                 readiness={readiness}
+                showKindBadge
               />
             ))}
           </div>
@@ -193,6 +198,7 @@ export function HomePage() {
                 key={cocktail.id}
                 cocktail={cocktail}
                 readiness={readiness}
+                showKindBadge
               />
             ))}
           </div>

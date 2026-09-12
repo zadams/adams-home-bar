@@ -1,0 +1,75 @@
+{
+  "aliases": [],
+  "history": "A 2010s bar-call shot named for the candy it tastes like.",
+  "origin": "United States",
+  "whyItWorks": "Pineapple and peach together produce a specific artificial-fruit flavor that is unmistakably gummy bear.",
+  "classifications": [
+    "shot",
+    "modern"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "peach",
+    "pineapple",
+    "candy"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "white-gummy-bear",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peach_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Peach schnapps"
+    },
+    {
+      "ingredientId": "pineapple_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_lime_soda",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Shake vodka, schnapps and pineapple with ice.",
+    "Strain into a shot glass and top with soda."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "jolly-rancher",
+    "green-tea-shot"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "vodka"
+  ],
+  "id": "white-gummy-bear",
+  "slug": "white-gummy-bear",
+  "name": "White Gummy Bear",
+  "description": "Vodka, peach schnapps, pineapple and a splash of soda."
+}

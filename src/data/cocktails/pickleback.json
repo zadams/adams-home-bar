@@ -1,0 +1,65 @@
+{
+  "aliases": [],
+  "history": "Popularized at the Bushwick Country Club in Brooklyn around 2006, though bar-and-brine chasers are much older.",
+  "origin": "United States",
+  "whyItWorks": "The brine’s salt and vinegar cancel the whiskey’s burn almost completely. The second shot is the whole mechanism.",
+  "classifications": [
+    "shot",
+    "modern"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "savory",
+    "salt",
+    "malt"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Two shot glasses",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "pickleback",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "irish_whiskey",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "pickle_brine",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Dill pickle brine"
+    }
+  ],
+  "steps": [
+    "Pour the whiskey into one shot glass and the brine into another.",
+    "Drink the whiskey, then the brine immediately after."
+  ],
+  "techniqueNotes": [
+    "Dill brine, not sweet. Straight from the jar, cold."
+  ],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "prairie-fire",
+    "boilermaker"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "savory"
+  ],
+  "id": "pickleback",
+  "slug": "pickleback",
+  "name": "Pickleback",
+  "description": "A shot of Irish whiskey, chased by a shot of pickle brine."
+}

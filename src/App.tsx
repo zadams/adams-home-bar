@@ -9,6 +9,9 @@ const HomePage = lazy(() =>
 const CocktailsPage = lazy(() =>
   import('./pages/CocktailsPage').then((m) => ({ default: m.CocktailsPage })),
 )
+const ShotsPage = lazy(() =>
+  import('./pages/ShotsPage').then((m) => ({ default: m.ShotsPage })),
+)
 const CocktailDetailPage = lazy(() =>
   import('./pages/CocktailDetailPage').then((m) => ({
     default: m.CocktailDetailPage,
@@ -73,6 +76,8 @@ export default function App() {
               <Route index element={<HomePage />} />
               <Route path="cocktails" element={<CocktailsPage />} />
               <Route path="cocktails/:slug" element={<CocktailDetailPage />} />
+              <Route path="shots" element={<ShotsPage />} />
+              <Route path="shots/:slug" element={<CocktailDetailPage />} />
               <Route path="bar" element={<InventoryPage />} />
               <Route path="bar/:bottleId" element={<BottleDetailPage />} />
               <Route path="make" element={<MakeSomethingPage />} />

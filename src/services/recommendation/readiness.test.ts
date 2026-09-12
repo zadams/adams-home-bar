@@ -1,11 +1,11 @@
 import { describe, expect, it } from 'vitest'
 import { assessReadiness } from './readiness'
-import { cocktails, seedInventory } from '../../data'
+import { drinks, seedInventory } from '../../data'
 import type { Cocktail } from '../../types/cocktail'
 import type { InventoryItem } from '../../types/inventory'
 
 function cocktail(id: string): Cocktail {
-  const found = cocktails.find((c) => c.id === id)
+  const found = drinks.find((c) => c.id === id)
   if (!found) throw new Error(`Missing cocktail ${id}`)
   return found
 }
@@ -106,12 +106,13 @@ describe('readiness engine', () => {
     }
   })
 
-  it('marks the cognac Alexander nearly ready after cacao is stocked', () => {
+  it('leaves the Alexander short of cognac alone once cacao and cream are stocked', () => {
+    // Dairy is stocked now, so cognac is the only gap and the state improves
+    // from 'nearly' (two missing) to 'almost' (one).
     const result = assessReadiness(cocktail('alexander'), seedInventory)
-    expect(result.state).toBe('nearly')
+    expect(result.state).toBe('almost')
     expect(result.missingRequired.map((m) => m.ingredientId).sort()).toEqual([
       'cognac',
-      'heavy_cream',
     ])
   })
 

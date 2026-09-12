@@ -1,4 +1,4 @@
-import { cocktails, ingredientById } from '../../data'
+import { drinks, ingredientById } from '../../data'
 import { assessReadiness } from '../recommendation/readiness'
 import type { InventoryItem } from '../../types/inventory'
 import type { InventoryOverride, ShoppingListItem } from '../../types/persistence'
@@ -64,7 +64,7 @@ export function unlockCountForIngredients(
   }
 
   let unlocked = 0
-  for (const cocktail of cocktails) {
+  for (const cocktail of drinks) {
     const before = assessReadiness(cocktail, seedInventory, overrides)
     const after = assessReadiness(cocktail, simulated, forcedOverrides)
     if (before.state !== 'ready' && after.state === 'ready') unlocked += 1

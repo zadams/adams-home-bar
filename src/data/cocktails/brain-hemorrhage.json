@@ -1,0 +1,71 @@
+{
+  "aliases": [],
+  "history": "A Halloween bar staple. The curdling is deliberate and is the entire visual effect.",
+  "origin": "United States",
+  "whyItWorks": "The acid in the schnapps breaks the cream on contact, which produces the lumpy \"brain\" — unappetizing by design.",
+  "classifications": [
+    "shot",
+    "modern"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "peach",
+    "cream",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "brain-hemorrhage",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "peach_liqueur",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Peach schnapps"
+    },
+    {
+      "ingredientId": "baileys",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grenadine",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Pour the peach schnapps into a shot glass.",
+    "Slowly drop in the Irish cream — it will curdle and clump. That is correct.",
+    "Drizzle grenadine through the middle."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "alien-brain-hemorrhage",
+    "slippery-nipple"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "layered",
+    "halloween"
+  ],
+  "id": "brain-hemorrhage",
+  "slug": "brain-hemorrhage",
+  "name": "Brain Hemorrhage",
+  "description": "Peach schnapps with curdled Irish cream and a thread of grenadine."
+}

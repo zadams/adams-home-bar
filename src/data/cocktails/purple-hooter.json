@@ -1,0 +1,73 @@
+{
+  "aliases": [],
+  "history": "A 1990s bar standard; the purple comes from cranberry against the orange liqueur.",
+  "origin": "United States",
+  "whyItWorks": "The lime turns what would be a sweet cordial shot into something that actually finishes clean.",
+  "classifications": [
+    "shot"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "berry",
+    "citrus",
+    "tart"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "purple-hooter",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "triple_sec",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cranberry_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake all four hard with ice.",
+    "Strain into a chilled shot glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "kamikaze-shot",
+    "woo-woo-shot"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "vodka"
+  ],
+  "id": "purple-hooter",
+  "slug": "purple-hooter",
+  "name": "Purple Hooter",
+  "description": "Vodka, orange liqueur and cranberry, shaken sharp with lime."
+}

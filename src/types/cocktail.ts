@@ -6,6 +6,7 @@ export type Unit =
   | 'dashes'
   | 'drop'
   | 'tsp'
+  | 'pinch'
   | 'tbsp'
   | 'cup'
   | 'piece'
@@ -13,6 +14,8 @@ export type Unit =
   | 'rinse'
   | 'to_taste'
   | 'top'
+
+export type DrinkKind = 'cocktail' | 'shot'
 
 export type Difficulty = 'easy' | 'medium' | 'advanced'
 export type Strength = 'light' | 'medium' | 'strong' | 'spirit-forward'
@@ -69,6 +72,12 @@ export interface Cocktail {
   garnish: string[]
   illustrationKey: string
   featuredBottleImages?: string[]
+  /**
+   * What kind of drink this is. Absent means 'cocktail' — the field is only
+   * written on records that are not, so the 468 cocktail files stay untouched.
+   * Read it through drinkKind() rather than testing the raw field.
+   */
+  kind?: DrinkKind
   ingredients: CocktailIngredient[]
   steps: string[]
   techniqueNotes: string[]

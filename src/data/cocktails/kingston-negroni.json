@@ -1,0 +1,101 @@
+{
+  "aliases": [],
+  "history": "Joaquín Simó created it at Death & Co in New York around 2010, calling for Smith & Cross navy-strength Jamaican rum. It has since become the standard rum Negroni.",
+  "origin": "United States",
+  "whyItWorks": "Jamaican pot-still rum has the same aggressive character Campari does. Neither backs down, and the sweet vermouth keeps them from tearing each other apart.",
+  "classifications": [
+    "modern-classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Negroni",
+  "flavorProfiles": [
+    "funky",
+    "bitter",
+    "tropical"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "spirit-forward",
+  "glassware": "Old fashioned",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange twist"
+  ],
+  "illustrationKey": "kingston-negroni",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "jamaican_rum",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Jamaican pot-still rum"
+    },
+    {
+      "ingredientId": "campari",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Orange twist",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Stir all three with ice until well chilled.",
+    "Strain over a large cube in an old fashioned glass.",
+    "Express an orange twist over the surface and drop it in."
+  ],
+  "techniqueNotes": [
+    "Smith & Cross is 57% ABV—this is a stronger drink than a gin Negroni by a wide margin.",
+    "A softer Jamaican rum (Appleton Signature) makes a pleasant drink but loses the hogo that justifies the swap."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "campari",
+      "rank": 1,
+      "rationale": "The non-negotiable half."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "jamaican_rum",
+      "alternatives": [
+        "overproof_rum",
+        "gold_rum"
+      ],
+      "notes": "Overproof gets the strength but not the funk; gold rum makes a mild Rum Negroni."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "negroni",
+    "boulevardier",
+    "rum-negroni"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rum",
+    "negroni-family",
+    "modern-classic"
+  ],
+  "id": "kingston-negroni",
+  "slug": "kingston-negroni",
+  "name": "Kingston Negroni",
+  "description": "A Negroni built on funky Jamaican rum instead of gin—overripe banana and hogo against the Campari.",
+  "year": 2010,
+  "creator": "Joaquín Simó"
+}

@@ -1,0 +1,55 @@
+{
+  "aliases": [],
+  "history": "The single best-selling shot in American bars through the 2010s, taken neat and very cold.",
+  "origin": "United States",
+  "whyItWorks": "Sweet enough to need no mixer and spiced enough to hide its proof, which explains its reach.",
+  "classifications": [
+    "shot",
+    "modern"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "cinnamon",
+    "sweet",
+    "heat"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "fireball-shot",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "cinnamon_whisky",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Keep the bottle in the freezer.",
+    "Pour into a chilled shot glass and serve immediately."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "cinnamon-toast-crunch",
+    "oatmeal-cookie"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot"
+  ],
+  "id": "fireball-shot",
+  "slug": "fireball-shot",
+  "name": "Fireball Shot",
+  "description": "Cinnamon whisky, cold, on its own."
+}

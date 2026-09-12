@@ -1,6 +1,6 @@
 import { useMemo } from 'react'
 import { Link } from 'react-router-dom'
-import { cocktails, seedInventory } from '../../data'
+import { drinks, seedInventory } from '../../data'
 import { assessReadiness } from '../../services/recommendation/readiness'
 import { useUserData } from '../persistence/UserDataContext'
 import { CocktailCard } from '../cocktails/CocktailCard'
@@ -9,7 +9,8 @@ export function FavoritesPage() {
   const { userData } = useUserData()
 
   const favorites = useMemo(() => {
-    return cocktails
+    // Spans every drink: a favorited shot belongs here too.
+    return drinks
       .filter((c) => userData.cocktailMeta[c.id]?.favorite)
       .map((cocktail) => ({
         cocktail,
@@ -47,6 +48,7 @@ export function FavoritesPage() {
               key={cocktail.id}
               cocktail={cocktail}
               readiness={readiness}
+              showKindBadge
             />
           ))}
         </div>

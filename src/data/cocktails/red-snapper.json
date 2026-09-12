@@ -1,0 +1,137 @@
+{
+  "aliases": [],
+  "history": "Fernand Petiot brought his Paris bloody mary to the King Cole Bar at the St. Regis in New York in 1934 and rebuilt it on gin. The hotel still serves it under this name.",
+  "origin": "United States",
+  "whyItWorks": "Gin gives the tomato something to argue with. Juniper and celery are a natural pair, which is why this drinks more like a savoury cocktail than a brunch staple.",
+  "classifications": [
+    "classic",
+    "brunch"
+  ],
+  "cocktailFamily": "Bloody Mary",
+  "flavorProfiles": [
+    "savory",
+    "tomato",
+    "juniper"
+  ],
+  "difficulty": "medium",
+  "preparationTime": 5,
+  "strength": "medium",
+  "glassware": "Highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lemon wedge",
+    "Celery stalk"
+  ],
+  "illustrationKey": "red-snapper",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "tomato_juice",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "worcestershire_sauce",
+      "amount": 4,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "hot_sauce",
+      "amount": 3,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "celery_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "salt",
+      "amount": 1,
+      "unit": "pinch",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "lemon",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Lemon wedge",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Build everything in a shaker with ice.",
+    "Roll it — pour between two tins three or four times. Do not shake, or the tomato goes frothy.",
+    "Strain into an ice-filled highball.",
+    "Garnish with a lemon wedge and a celery stalk."
+  ],
+  "techniqueNotes": [
+    "Rolling, not shaking, is the whole technique. A shaken bloody is aerated and thin.",
+    "Celery bitters are a modern addition and not in Petiot’s build, but they do the job celery salt was doing."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "Savoury and botanical — made for this drink."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 2,
+      "rationale": "Cleaner, lets the tomato lead."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "celery_bitters",
+      "alternatives": [
+        "angostura_bitters"
+      ],
+      "notes": "Celery salt on the rim covers the same ground."
+    },
+    {
+      "ingredientId": "gin",
+      "alternatives": [
+        "vodka"
+      ],
+      "notes": "Vodka gives you a Bloody Mary."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "bloody-mary",
+    "gin-and-tonic",
+    "salty-dog"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "savory",
+    "brunch"
+  ],
+  "id": "red-snapper",
+  "slug": "red-snapper",
+  "name": "Red Snapper",
+  "description": "The gin Bloody Mary — sharper, drier and more aromatic than the vodka version.",
+  "year": 1934,
+  "creator": "Fernand Petiot"
+}

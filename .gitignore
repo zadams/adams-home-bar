@@ -14,8 +14,8 @@ dist-ssr
 
 # Illustration pipeline outputs
 docs/illustration-system/generated-prompts
-public/images/cocktails/masters/*
-!public/images/cocktails/masters/.gitkeep
+artwork/masters/*
+!artwork/masters/.gitkeep
 tmp/
 adams-home-bar-illustration-system.zip
 

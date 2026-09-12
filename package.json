@@ -12,6 +12,7 @@
     "test:watch": "vitest",
     "index:cocktails": "node scripts/generate-cocktail-index.mjs",
     "illustrations:prompts": "node scripts/illustration/generate-prompt-files.mjs",
+    "illustrations:sync-manifest": "node scripts/illustration/sync-manifest.mjs",
     "illustrations:generate": "node scripts/illustration/generate-assets.mjs",
     "illustrations:generate-hero": "node scripts/illustration/generate-assets.mjs --hero",
     "illustrations:generate-all": "node scripts/illustration/generate-assets.mjs --all",

@@ -1,0 +1,99 @@
+{
+  "aliases": [],
+  "history": "From Hugo Ensslin’s 1916 Recipes for Mixed Drinks, originally in equal parts. Modern specs pull the Chartreuse back so the whiskey survives.",
+  "origin": "United States",
+  "whyItWorks": "Chartreuse’s 130 herbs would flatten most whiskeys; Irish is soft and grassy enough to meet it rather than fight it.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Manhattan",
+  "flavorProfiles": [
+    "herbal",
+    "malt",
+    "vermouth"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "spirit-forward",
+  "glassware": "Coupe",
+  "ice": "Chilled, no ice",
+  "garnish": [
+    "Orange twist"
+  ],
+  "illustrationKey": "tipperary",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "irish_whiskey",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "green_chartreuse",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Orange twist",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Stir all three with ice until well chilled.",
+    "Strain into a chilled coupe.",
+    "Express an orange twist and drop it in."
+  ],
+  "techniqueNotes": [
+    "The original 1:1:1 is a Chartreuse drink with whiskey in it. Start here and move toward equal parts if the room wants it."
+  ],
+  "recommendedBottles": [],
+  "substitutions": [
+    {
+      "ingredientId": "green_chartreuse",
+      "alternatives": [
+        "yellow_chartreuse"
+      ],
+      "notes": "Yellow is gentler and sweeter—use ¾ oz."
+    },
+    {
+      "ingredientId": "irish_whiskey",
+      "alternatives": [
+        "bourbon"
+      ],
+      "notes": "Bourbon works but the sweetness stacks; pull the vermouth to ½ oz."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "manhattan",
+    "bijou",
+    "last-word"
+  ],
+  "seasonality": [
+    "autumn",
+    "winter"
+  ],
+  "tags": [
+    "irish-whiskey",
+    "chartreuse",
+    "stirred"
+  ],
+  "id": "tipperary",
+  "slug": "tipperary",
+  "name": "Tipperary",
+  "description": "Irish whiskey, sweet vermouth and green Chartreuse—an Irish Manhattan with a herbal streak.",
+  "year": 1916
+}

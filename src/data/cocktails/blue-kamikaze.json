@@ -1,32 +1,27 @@
 {
-  "id": "blue-kamikaze",
-  "slug": "blue-kamikaze",
-  "name": "Blue Kamikaze",
   "aliases": [],
-  "description": "Vodka, blue curaçao, and sour mix—the Kamikaze in color.",
-  "history": "A bar-menu color swap on the 1970s Kamikaze (vodka, orange liqueur, lime). Sour mix stands in for fresh lime.",
+  "history": "A direct color variation on the Kamikaze that outlived it in some markets.",
   "origin": "United States",
-  "whyItWorks": "Equal-parts sour structure: spirit, orange liqueur, citrus. Blue curaçao is the orange liqueur.",
+  "whyItWorks": "Blue curaçao is a triple sec with dye, so the drink is the same. It just photographs better.",
   "classifications": [
-    "modern",
-    "sour"
+    "shot",
+    "variation"
   ],
-  "cocktailFamily": "Sour",
+  "cocktailFamily": "Shot",
   "flavorProfiles": [
     "citrus",
     "orange",
-    "sharp"
+    "tart"
   ],
   "difficulty": "easy",
-  "preparationTime": 4,
-  "strength": "medium",
-  "glassware": "Coupe or shot",
-  "ice": "Shaken; up",
-  "garnish": [
-    "Lime wheel"
-  ],
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
   "illustrationKey": "blue-kamikaze",
   "featuredBottleImages": [],
+  "kind": "shot",
   "ingredients": [
     {
       "ingredientId": "vodka",
@@ -36,53 +31,38 @@
     },
     {
       "ingredientId": "blue_curacao",
-      "amount": 1,
+      "amount": 0.5,
       "unit": "oz",
       "scaleMode": "linear"
     },
     {
-      "ingredientId": "sour_mix",
-      "amount": 1,
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
       "unit": "oz",
       "scaleMode": "linear"
     }
   ],
   "steps": [
-    "Shake equal parts with ice.",
-    "Strain into a chilled coupe, or serve as a short shot."
+    "Shake all three hard with ice.",
+    "Strain into a chilled shot glass."
   ],
   "techniqueNotes": [],
-  "recommendedBottles": [
-    {
-      "bottleId": "titos",
-      "rank": 1,
-      "rationale": "Neutral vodka."
-    },
-    {
-      "bottleId": "blue-curacao",
-      "rank": 2,
-      "rationale": "Orange liqueur and color."
-    },
-    {
-      "bottleId": "sweet-and-sour-mix",
-      "rank": 3,
-      "rationale": "Lime-and-sugar in one pour."
-    }
-  ],
+  "recommendedBottles": [],
   "substitutions": [],
   "variations": [],
   "relatedCocktailIds": [
-    "kamikaze",
-    "blue-lagoon",
-    "blue-margarita"
+    "kamikaze-shot",
+    "purple-hooter"
   ],
   "seasonality": [
     "year-round"
   ],
   "tags": [
-    "vodka",
-    "sour",
-    "equal-parts",
-    "ready-from-new-stock"
-  ]
+    "shot",
+    "vodka"
+  ],
+  "id": "blue-kamikaze",
+  "slug": "blue-kamikaze",
+  "name": "Blue Kamikaze",
+  "description": "A Kamikaze with blue curaçao standing in for the triple sec."
 }

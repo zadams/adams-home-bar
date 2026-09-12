@@ -1,0 +1,66 @@
+{
+  "aliases": [],
+  "history": "Named for the hard candy it imitates, and it imitates it closely.",
+  "origin": "United States",
+  "whyItWorks": "Sour apple plus cranberry lands almost exactly on green-apple candy. That is the entire design brief.",
+  "classifications": [
+    "shot"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "apple",
+    "candy",
+    "tart"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "jolly-rancher",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sour_apple_schnapps",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cranberry_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake with ice and strain into a chilled shot glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "washington-apple",
+    "white-gummy-bear"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "vodka"
+  ],
+  "id": "jolly-rancher",
+  "slug": "jolly-rancher",
+  "name": "Jolly Rancher",
+  "description": "Vodka, sour apple schnapps and cranberry — candy, more or less exactly."
+}

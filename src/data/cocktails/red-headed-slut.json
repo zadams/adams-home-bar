@@ -1,0 +1,68 @@
+{
+  "aliases": [],
+  "history": "A 1990s bar-call shot, ordered by name across a crowded room and rarely by anything else.",
+  "origin": "United States",
+  "whyItWorks": "Peach and cranberry mask Jägermeister’s bitterness almost completely — this is the gateway Jäger shot.",
+  "classifications": [
+    "shot"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "peach",
+    "cranberry",
+    "herbal"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "red-headed-slut",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "jagermeister",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peach_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Peach schnapps"
+    },
+    {
+      "ingredientId": "cranberry_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake all three with ice.",
+    "Strain into a chilled shot glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "woo-woo-shot",
+    "surfer-on-acid"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "jagermeister"
+  ],
+  "id": "red-headed-slut",
+  "slug": "red-headed-slut",
+  "name": "Red Headed Slut",
+  "description": "Jägermeister, peach schnapps and cranberry."
+}

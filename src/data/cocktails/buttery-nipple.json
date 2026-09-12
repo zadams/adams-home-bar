@@ -1,0 +1,66 @@
+{
+  "aliases": [],
+  "history": "A 1990s layered shot, and the base for several others.",
+  "origin": "United States",
+  "whyItWorks": "Butterscotch is sweet enough to need the cream’s fat to round it off; layering keeps them distinct until you drink.",
+  "classifications": [
+    "shot",
+    "dessert"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "butterscotch",
+    "cream",
+    "vanilla"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "buttery-nipple",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "butterscotch_schnapps",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "baileys",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Pour the butterscotch schnapps into a shot glass.",
+    "Layer by pouring each ingredient slowly over the back of a bar spoon so it floats on the one below.",
+    "Serve immediately, unstirred."
+  ],
+  "techniqueNotes": [
+    "Pour the cream slowly enough that it sits rather than sinks."
+  ],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "blow-job",
+    "oatmeal-cookie"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "layered",
+    "dessert"
+  ],
+  "id": "buttery-nipple",
+  "slug": "buttery-nipple",
+  "name": "Buttery Nipple",
+  "description": "Butterscotch schnapps with Irish cream floated on top."
+}

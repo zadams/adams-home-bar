@@ -1,29 +1,23 @@
 {
-  "id": "twentieth-century",
-  "slug": "twentieth-century",
-  "name": "Twentieth Century",
-  "aliases": [
-    "20th Century"
-  ],
-  "description": "Gin, dry vermouth, crème de cacao, and lemon—a bright, surprising classic from the 1930s.",
-  "history": "Created by British bartender C.A. Tuck and published in 1937, named for the 20th Century Limited train. The original uses Lillet Blanc; dry vermouth is the house stand-in.",
+  "aliases": [],
+  "history": "Named for the Twentieth Century Limited, the express train between New York and Chicago. Printed by C.A. Tuck in 1937.",
   "origin": "United Kingdom",
-  "whyItWorks": "Lemon keeps chocolate from reading as dessert; gin botanicals and vermouth stop the cacao from turning the drink into candy.",
+  "whyItWorks": "Cacao and lemon shouldn’t work. They do because the aperitif wine bridges them—the drink reads as chocolate-orange, not dessert.",
   "classifications": [
     "classic",
     "sour"
   ],
   "cocktailFamily": "Sour",
   "flavorProfiles": [
-    "citrus",
     "chocolate",
-    "botanical"
+    "citrus",
+    "floral"
   ],
   "difficulty": "medium",
   "preparationTime": 4,
   "strength": "medium",
   "glassware": "Coupe",
-  "ice": "Shaken; up",
+  "ice": "Chilled, no ice",
   "garnish": [
     "Lemon twist"
   ],
@@ -41,75 +35,73 @@
       "amount": 0.75,
       "unit": "oz",
       "scaleMode": "linear",
-      "label": "Dry vermouth (Lillet stand-in)"
+      "label": "Lillet Blanc or blanc vermouth"
     },
     {
       "ingredientId": "creme_de_cacao",
       "amount": 0.75,
       "unit": "oz",
-      "scaleMode": "linear"
+      "scaleMode": "linear",
+      "label": "White crème de cacao"
     },
     {
       "ingredientId": "lemon_juice",
       "amount": 0.75,
       "unit": "oz",
       "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Lemon twist",
+      "optional": true
     }
   ],
   "steps": [
-    "Shake gin, dry vermouth, crème de cacao, and lemon with ice.",
-    "Fine-strain into a chilled coupe.",
-    "Express a lemon twist."
+    "Shake all liquid ingredients hard with ice.",
+    "Double-strain into a chilled coupe.",
+    "Express a lemon twist over the top."
   ],
   "techniqueNotes": [
-    "If you later add Lillet Blanc, use it in place of dry vermouth for the original recipe.",
-    "White cacao keeps the drink pale; dark cacao tastes similar but looks brown."
+    "White crème de cacao only—the dark version turns it muddy and sweet.",
+    "Lillet Blanc is the modern call; a blanc vermouth is closer to the original Kina Lillet than dry vermouth, so trim the cacao if using dry."
   ],
   "recommendedBottles": [
     {
-      "bottleId": "drumshanbo-gunpowder",
+      "bottleId": "malfy-originale",
       "rank": 1,
-      "rationale": "Citrus-forward gin that can stand up to cacao."
-    },
-    {
-      "bottleId": "hendricks",
-      "rank": 2,
-      "rationale": "Softer floral gin for a gentler version."
-    },
-    {
-      "bottleId": "dry-vermouth",
-      "rank": 3,
-      "rationale": "Lillet stand-in from the current shelf."
-    },
-    {
-      "bottleId": "creme-de-cacao",
-      "rank": 4,
-      "rationale": "The unexpected chocolate note."
+      "rationale": "Citrus gin doubles down on the lemon."
     }
   ],
   "substitutions": [
     {
-      "ingredientId": "lemon_juice",
+      "ingredientId": "dry_vermouth",
       "alternatives": [
-        "sour_mix"
+        "sweet_vermouth"
       ],
-      "notes": "Sour mix works in a pinch; use 0.75 oz and skip any extra sugar."
+      "notes": "Blanc vermouth is the better match; dry works but drinks sharper."
     }
   ],
   "variations": [],
   "relatedCocktailIds": [
-    "alexander",
     "white-lady",
-    "chocolate-martini"
+    "corpse-reviver-no-2",
+    "alexander"
   ],
   "seasonality": [
-    "year-round"
+    "winter",
+    "spring"
   ],
   "tags": [
-    "classic",
     "gin",
     "chocolate",
-    "citrus",
-    "ready-from-new-stock"
-  ]
+    "sour"
+  ],
+  "id": "twentieth-century",
+  "slug": "twentieth-century",
+  "name": "Twentieth Century",
+  "description": "Gin, lemon and white crème de cacao—a chocolate sour that somehow tastes like citrus.",
+  "year": 1937
 }

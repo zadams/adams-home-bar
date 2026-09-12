@@ -1,6 +1,12 @@
 import { useMemo } from 'react'
 import { Link } from 'react-router-dom'
-import { bottleById, cocktailById, cocktails } from '../../data'
+import {
+  bottleById,
+  cocktailById,
+  drinkPath,
+  drinkPathById,
+  drinks,
+} from '../../data'
 import { useUserData } from '../persistence/UserDataContext'
 
 export function DrinkHistoryPage() {
@@ -25,7 +31,7 @@ export function DrinkHistoryPage() {
 
   const untried = useMemo(() => {
     const made = new Set(userData.history.map((h) => h.cocktailId))
-    return cocktails.filter((c) => !made.has(c.id)).slice(0, 12)
+    return drinks.filter((c) => !made.has(c.id)).slice(0, 12)
   }, [userData.history])
 
   const bottleUsage = useMemo(() => {
@@ -66,7 +72,7 @@ export function DrinkHistoryPage() {
                 <li key={entry.id} className="history-row">
                   <div>
                     {cocktail ? (
-                      <Link to={`/cocktails/${cocktail.slug}`}>
+                      <Link to={drinkPath(cocktail)}>
                         {cocktail.name}
                       </Link>
                     ) : (
@@ -110,7 +116,7 @@ export function DrinkHistoryPage() {
           <ul className="history-list">
             {mostMade.map(([id, count]) => (
               <li key={id} className="history-row">
-                <Link to={`/cocktails/${cocktailById.get(id)?.slug ?? id}`}>
+                <Link to={drinkPathById(id)}>
                   {cocktailById.get(id)?.name ?? id}
                 </Link>
                 <span>{count}×</span>
@@ -128,7 +134,7 @@ export function DrinkHistoryPage() {
           <ul className="history-list">
             {highestRated.map(([id, meta]) => (
               <li key={id} className="history-row">
-                <Link to={`/cocktails/${cocktailById.get(id)?.slug ?? id}`}>
+                <Link to={drinkPathById(id)}>
                   {cocktailById.get(id)?.name ?? id}
                 </Link>
                 <span>{meta.rating}★</span>
@@ -167,7 +173,7 @@ export function DrinkHistoryPage() {
         </h2>
         <div className="related-links">
           {untried.map((c) => (
-            <Link key={c.id} to={`/cocktails/${c.slug}`}>
+            <Link key={c.id} to={drinkPath(c)}>
               {c.name}
             </Link>
           ))}

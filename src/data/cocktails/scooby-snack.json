@@ -1,0 +1,74 @@
+{
+  "aliases": [],
+  "history": "A beach-bar shot that appears on almost every coastal drink list under one name or another.",
+  "origin": "United States",
+  "whyItWorks": "Coconut and melon on a pineapple base is piña colada logic; the cream makes it opaque and soft.",
+  "classifications": [
+    "shot",
+    "tropical"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "melon",
+    "coconut",
+    "pineapple"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "scooby-snack",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "melon_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "coconut_rum",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "pineapple_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "heavy_cream",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake all four hard with ice.",
+    "Strain into a chilled shot glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "melon-ball",
+    "surfer-on-acid"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "tropical"
+  ],
+  "id": "scooby-snack",
+  "slug": "scooby-snack",
+  "name": "Scooby Snack",
+  "description": "Melon liqueur, coconut rum, pineapple and cream."
+}

@@ -119,7 +119,11 @@ export function MakeSomethingPage() {
       <div className="cocktail-grid">
         {ranked.map(({ cocktail, readiness, reasons }) => (
           <div key={cocktail.id} className="ranked-card">
-            <CocktailCard cocktail={cocktail} readiness={readiness} />
+            <CocktailCard
+              cocktail={cocktail}
+              readiness={readiness}
+              showKindBadge
+            />
             <ul className="ranked-card__reasons">
               {reasons.map((reason) => (
                 <li key={reason}>{reason}</li>

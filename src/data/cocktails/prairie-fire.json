@@ -1,0 +1,63 @@
+{
+  "aliases": [],
+  "history": "A dare more than a drink, and a long-standing bar-bet standard.",
+  "origin": "United States",
+  "whyItWorks": "Capsaicin against agave. The tequila carries the heat straight to the back of the throat, which is the intent.",
+  "classifications": [
+    "shot"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "spicy",
+    "agave",
+    "savory"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "prairie-fire",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "hot_sauce",
+      "amount": 6,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Pour the tequila into a shot glass.",
+    "Add the hot sauce and do not stir."
+  ],
+  "techniqueNotes": [
+    "Scale the hot sauce to the drinker, not the recipe."
+  ],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "mexican-candy-shot",
+    "flatliner"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "spicy"
+  ],
+  "id": "prairie-fire",
+  "slug": "prairie-fire",
+  "name": "Prairie Fire",
+  "description": "Tequila and hot sauce. Nothing else."
+}

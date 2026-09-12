@@ -3,7 +3,13 @@ import { Link } from 'react-router-dom'
 import type { Cocktail } from '../../types/cocktail'
 import type { ReadinessResult } from '../../services/recommendation/readiness'
 import { scaleCocktailIngredients } from '../../services/scaling/servings'
-import { bottleById, cocktailById, getIngredientName } from '../../data'
+import {
+  bottleById,
+  cocktailById,
+  drinkPath,
+  getIngredientName,
+  isShot,
+} from '../../data'
 import ingredientImages from '../../data/illustrations/ingredients.json'
 import { CocktailIllustration } from '../../components/CocktailIllustration'
 import { readinessClass } from '../../utils/illustrations'
@@ -51,8 +57,11 @@ export function RecipeView({ cocktail, readiness }: RecipeViewProps) {
   return (
     <article className="recipe-spread">
       <div className="recipe-spread__left">
-        <Link to="/cocktails" className="recipe-spread__back">
-          ← All cocktails
+        <Link
+          to={isShot(cocktail) ? '/shots' : '/cocktails'}
+          className="recipe-spread__back"
+        >
+          {isShot(cocktail) ? '← All shots' : '← All cocktails'}
         </Link>
 
         <CocktailIllustration
@@ -421,7 +430,7 @@ export function RecipeView({ cocktail, readiness }: RecipeViewProps) {
                   return (
                     <li key={variation.id}>
                       {linked ? (
-                        <Link to={`/cocktails/${linked.slug}`}>
+                        <Link to={drinkPath(linked)}>
                           {variation.name}
                         </Link>
                       ) : (
@@ -442,7 +451,7 @@ export function RecipeView({ cocktail, readiness }: RecipeViewProps) {
                   const related = cocktailById.get(id)
                   if (!related) return null
                   return (
-                    <Link key={id} to={`/cocktails/${related.slug}`}>
+                    <Link key={id} to={drinkPath(related)}>
                       {related.name}
                     </Link>
                   )

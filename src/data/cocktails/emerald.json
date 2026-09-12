@@ -1,0 +1,91 @@
+{
+  "aliases": [],
+  "history": "A straight substitution on the Manhattan template that predates most branded \"Irish Manhattans\" on modern menus.",
+  "origin": "United States",
+  "whyItWorks": "Irish whiskey’s lighter grain lets the vermouth show more fruit than a rye Manhattan ever does.",
+  "classifications": [
+    "classic",
+    "spirit-forward",
+    "variation"
+  ],
+  "cocktailFamily": "Manhattan",
+  "flavorProfiles": [
+    "malt",
+    "vermouth",
+    "baking spice"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "spirit-forward",
+  "glassware": "Coupe",
+  "ice": "Chilled, no ice",
+  "garnish": [
+    "Brandied cherry"
+  ],
+  "illustrationKey": "emerald",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "irish_whiskey",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "cocktail_cherry",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Stir with ice until well chilled.",
+    "Strain into a chilled coupe.",
+    "Garnish with a cherry."
+  ],
+  "techniqueNotes": [
+    "A 2:1 build. Irish whiskey is softer than rye, so resist stretching the vermouth further."
+  ],
+  "recommendedBottles": [],
+  "substitutions": [
+    {
+      "ingredientId": "irish_whiskey",
+      "alternatives": [
+        "bourbon",
+        "rye"
+      ],
+      "notes": "Then you have made a Manhattan."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "manhattan",
+    "tipperary",
+    "rob-roy"
+  ],
+  "seasonality": [
+    "autumn",
+    "winter"
+  ],
+  "tags": [
+    "irish-whiskey",
+    "manhattan-family"
+  ],
+  "id": "emerald",
+  "slug": "emerald",
+  "name": "Emerald",
+  "description": "The Irish Manhattan: Irish whiskey, sweet vermouth, Angostura."
+}

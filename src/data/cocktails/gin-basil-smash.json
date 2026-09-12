@@ -1,0 +1,113 @@
+{
+  "aliases": [],
+  "history": "Created by Jörg Meyer at Le Lion in Hamburg in 2008. He posted it as the \"Gin Pesto\" and it spread through European bars within a year — one of the few genuinely modern drinks to reach classic status.",
+  "origin": "Germany",
+  "whyItWorks": "Basil is bruised, not pulverised. Shaken hard with lemon it gives up its oils without the bitterness that comes from tearing the leaf.",
+  "classifications": [
+    "modern-classic",
+    "sour",
+    "smash"
+  ],
+  "cocktailFamily": "Smash",
+  "flavorProfiles": [
+    "basil",
+    "citrus",
+    "juniper"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Basil top"
+  ],
+  "illustrationKey": "gin-basil-smash",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "basil",
+      "amount": 10,
+      "unit": "piece",
+      "scaleMode": "fixed",
+      "label": "Basil leaves"
+    },
+    {
+      "ingredientId": "basil",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Basil top",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Put the basil leaves in the shaker with the lemon and syrup.",
+    "Muddle briefly — press the leaves, do not shred them.",
+    "Add the gin and ice, shake hard and short.",
+    "Double-strain over fresh cubed ice and crown with a basil top."
+  ],
+  "techniqueNotes": [
+    "Over-muddling turns it bitter and grey. Three or four presses is enough.",
+    "Serve it fast — the green fades within a few minutes."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "malfy-originale",
+      "rank": 1,
+      "rationale": "Citrus-forward and clean behind the basil."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
+      "rationale": "Softer and more floral; a gentler smash."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "basil",
+      "alternatives": [
+        "mint"
+      ],
+      "notes": "Mint gives you a Southside, not a Basil Smash."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "southside",
+    "whiskey-smash",
+    "gimlet"
+  ],
+  "seasonality": [
+    "summer"
+  ],
+  "tags": [
+    "gin",
+    "basil",
+    "modern-classic"
+  ],
+  "id": "gin-basil-smash",
+  "slug": "gin-basil-smash",
+  "name": "Gin Basil Smash",
+  "description": "Gin, lemon and a whole handful of basil, shaken until it turns grass-green.",
+  "year": 2008,
+  "creator": "Jörg Meyer"
+}

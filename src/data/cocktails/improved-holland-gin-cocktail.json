@@ -1,0 +1,116 @@
+{
+  "aliases": [],
+  "history": "From Jerry Thomas’s 1876 Bar-Tender’s Guide. \"Improved\" meant the addition of maraschino and absinthe to the basic spirit-sugar-bitters formula.",
+  "origin": "United States",
+  "whyItWorks": "Genever is malt-wine based, so it takes an Old Fashioned build the way rye does—the maraschino and absinthe sit on top of grain, not juniper.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Old Fashioned",
+  "flavorProfiles": [
+    "malt",
+    "anise",
+    "cherry"
+  ],
+  "difficulty": "medium",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Old fashioned",
+  "ice": "Large cube",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "improved-holland-gin-cocktail",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "genever",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "maraschino",
+      "amount": 1,
+      "unit": "tsp",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "demerara_sugar",
+      "amount": 0.5,
+      "unit": "tsp",
+      "scaleMode": "linear",
+      "label": "Demerara syrup"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "absinthe",
+      "amount": null,
+      "unit": "rinse",
+      "label": "Absinthe rinse",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "lemon",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Lemon twist",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Rinse a chilled old fashioned glass with absinthe and discard the excess.",
+    "Stir genever, maraschino, syrup and bitters with ice until well chilled.",
+    "Strain over a large cube into the rinsed glass.",
+    "Express a lemon twist over the surface."
+  ],
+  "techniqueNotes": [
+    "Oude genever, not jonge—the young style is closer to vodka and gives you nothing to work with.",
+    "The absinthe is a rinse, not an ingredient. Pour it out."
+  ],
+  "recommendedBottles": [],
+  "substitutions": [
+    {
+      "ingredientId": "genever",
+      "alternatives": [
+        "gin",
+        "rye"
+      ],
+      "notes": "Rye is the closer match in weight; gin turns it into a Martinez cousin."
+    },
+    {
+      "ingredientId": "absinthe",
+      "alternatives": [
+        "peychauds_bitters"
+      ],
+      "notes": "No true substitute for the rinse—omit rather than fake it."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "old-fashioned",
+    "martinez",
+    "sazerac"
+  ],
+  "seasonality": [
+    "autumn",
+    "winter"
+  ],
+  "tags": [
+    "genever",
+    "pre-prohibition",
+    "stirred"
+  ],
+  "id": "improved-holland-gin-cocktail",
+  "slug": "improved-holland-gin-cocktail",
+  "name": "Improved Holland Gin Cocktail",
+  "description": "Jerry Thomas’s template applied to genever—malty, faintly funky, and closer to whiskey than to gin.",
+  "year": 1876
+}

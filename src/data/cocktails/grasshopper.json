@@ -1,29 +1,26 @@
 {
-  "id": "grasshopper",
-  "slug": "grasshopper",
-  "name": "Grasshopper",
   "aliases": [],
-  "description": "Mint, chocolate, and cream in equal parts—the after-dinner classic, built here with peppermint liqueur and Baileys.",
-  "history": "Usually credited to Tujague’s in New Orleans and popularized as a mid-century dessert cocktail. The classic is equal parts green crème de menthe, white crème de cacao, and cream.",
-  "origin": "New Orleans",
-  "whyItWorks": "Mint cools chocolate sweetness; cream (or Irish cream) turns the pair into a drinkable after-dinner mint.",
+  "history": "Credited to Tujague’s in New Orleans, where it won a 1918 cocktail competition in New York. It became a supper-club fixture and then a punchline; it is better than its reputation.",
+  "origin": "United States",
+  "whyItWorks": "Equal parts is the whole trick: neither liqueur wins, and the cream rounds both into something closer to ice cream than a cocktail.",
   "classifications": [
     "classic",
     "dessert"
   ],
-  "cocktailFamily": "Dessert",
+  "cocktailFamily": "Cream",
   "flavorProfiles": [
     "mint",
     "chocolate",
-    "creamy"
+    "cream"
   ],
   "difficulty": "easy",
-  "preparationTime": 4,
-  "strength": "medium",
+  "preparationTime": 3,
+  "strength": "light",
   "glassware": "Coupe",
-  "ice": "Shaken; up",
+  "ice": "Chilled, no ice",
   "garnish": [
-    "Fresh mint or grated chocolate"
+    "Grated nutmeg",
+    "Mint sprig"
   ],
   "illustrationKey": "grasshopper",
   "featuredBottleImages": [],
@@ -32,86 +29,67 @@
       "ingredientId": "peppermint_liqueur",
       "amount": 1,
       "unit": "oz",
-      "scaleMode": "linear"
+      "scaleMode": "linear",
+      "label": "Crème de menthe"
     },
     {
       "ingredientId": "creme_de_cacao",
       "amount": 1,
       "unit": "oz",
+      "scaleMode": "linear",
+      "label": "White crème de cacao"
+    },
+    {
+      "ingredientId": "heavy_cream",
+      "amount": 1,
+      "unit": "oz",
       "scaleMode": "linear"
     },
     {
-      "ingredientId": "baileys",
+      "ingredientId": "mint",
       "amount": 1,
-      "unit": "oz",
-      "scaleMode": "linear",
-      "label": "Baileys (cream stand-in)"
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Mint sprig",
+      "optional": true
     }
   ],
   "steps": [
-    "Shake peppermint liqueur, crème de cacao, and Baileys hard with ice.",
-    "Fine-strain into a chilled coupe.",
-    "Garnish with mint or a little grated chocolate if you have it."
+    "Shake all three hard with ice—harder and longer than a sour, to aerate the cream.",
+    "Double-strain into a chilled coupe.",
+    "Grate nutmeg over the top and add a mint sprig."
   ],
   "techniqueNotes": [
-    "Berliner Luft or Božkov peppermint stands in for green crème de menthe—expect a cooler, less herbal mint.",
-    "If you buy heavy cream later, shake 1 oz cream instead of Baileys for the textbook version."
+    "Green crème de menthe is traditional and gives the color; white makes a paler, less garish drink.",
+    "Half-and-half thins it out. Use real heavy cream."
   ],
-  "recommendedBottles": [
-    {
-      "bottleId": "berliner-luft",
-      "rank": 1,
-      "rationale": "Cool peppermint in place of crème de menthe."
-    },
-    {
-      "bottleId": "creme-de-cacao",
-      "rank": 2,
-      "rationale": "The chocolate half of the classic."
-    },
-    {
-      "bottleId": "baileys",
-      "rank": 3,
-      "rationale": "Cream and sweetness when dairy is out."
-    },
-    {
-      "bottleId": "bozkov-peppermint",
-      "rank": 4,
-      "rationale": "Backup mint liqueur from the same shelf."
-    }
-  ],
+  "recommendedBottles": [],
   "substitutions": [
     {
-      "ingredientId": "baileys",
+      "ingredientId": "heavy_cream",
       "alternatives": [
-        "heavy_cream"
+        "baileys"
       ],
-      "notes": "Fresh cream is the original; Baileys makes a richer, sweeter house version."
+      "notes": "A splash of Irish cream in place of dairy makes a richer, sweeter version."
     }
   ],
-  "variations": [
-    {
-      "id": "after-dinner-mint",
-      "name": "After Dinner Mint",
-      "notes": "Skip the cacao and keep Baileys with peppermint.",
-      "relatedCocktailId": "after-dinner-mint"
-    }
-  ],
+  "variations": [],
   "relatedCocktailIds": [
-    "after-dinner-mint",
-    "peppermint-patty",
     "alexander",
-    "bourbon-alexander",
-    "pink-squirrel"
+    "after-dinner-mint",
+    "banshee"
   ],
   "seasonality": [
-    "year-round",
     "winter"
   ],
   "tags": [
     "dessert",
-    "mint",
-    "chocolate",
-    "classic",
-    "ready-from-new-stock"
-  ]
+    "cream",
+    "mint"
+  ],
+  "id": "grasshopper",
+  "slug": "grasshopper",
+  "name": "Grasshopper",
+  "description": "Mint, chocolate and cream in equal thirds—New Orleans dessert in a coupe.",
+  "year": 1918
 }

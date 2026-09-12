@@ -1,0 +1,68 @@
+{
+  "aliases": [],
+  "history": "A late-1990s bar standard, almost always built with Crown Royal.",
+  "origin": "United States",
+  "whyItWorks": "Sour apple gives it the candy-green flavor; cranberry keeps it from being cloying.",
+  "classifications": [
+    "shot"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "apple",
+    "cranberry",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "washington-apple",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "rye",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Canadian or rye whisky"
+    },
+    {
+      "ingredientId": "sour_apple_schnapps",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cranberry_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake all three with ice.",
+    "Strain into a chilled shot glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "jolly-rancher",
+    "vegas-bomb"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "whiskey"
+  ],
+  "id": "washington-apple",
+  "slug": "washington-apple",
+  "name": "Washington Apple",
+  "description": "Whiskey, sour apple schnapps and cranberry."
+}

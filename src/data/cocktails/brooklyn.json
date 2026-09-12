@@ -1,0 +1,117 @@
+{
+  "aliases": [],
+  "history": "Jacob Grohusko printed it in 1908. It calls for Amer Picon, which has not been legally imported to the US in decades—every modern Brooklyn is an approximation.",
+  "origin": "United States",
+  "whyItWorks": "Dry vermouth keeps it lean where a Manhattan is round; the amaro supplies the bitter orange spine that holds the rye up.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Manhattan",
+  "flavorProfiles": [
+    "bitter",
+    "cherry",
+    "rye spice"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "spirit-forward",
+  "glassware": "Coupe",
+  "ice": "Chilled, no ice",
+  "garnish": [
+    "Brandied cherry"
+  ],
+  "illustrationKey": "brooklyn",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "rye",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "dry_vermouth",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "maraschino",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "amaro_averna",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Averna (for Amer Picon)"
+    },
+    {
+      "ingredientId": "cocktail_cherry",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Stir everything with ice until well chilled.",
+    "Strain into a chilled coupe.",
+    "Garnish with a brandied cherry."
+  ],
+  "techniqueNotes": [
+    "Amer Picon is the historical call. Averna, Ramazzotti or a bar-made Picon substitute all work; say which you used."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "sazerac-rye",
+      "rank": 1,
+      "rationale": "Peppery enough to stand up to the amaro."
+    },
+    {
+      "bottleId": "elijah-craig-rye",
+      "rank": 2,
+      "rationale": "Rounder, if you want the maraschino forward."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "amaro_averna",
+      "alternatives": [
+        "amaro_nonino",
+        "cynar"
+      ],
+      "notes": "Any bitter orange amaro. Cynar takes it savory."
+    },
+    {
+      "ingredientId": "rye",
+      "alternatives": [
+        "bourbon"
+      ],
+      "notes": "Bourbon makes it sweeter and blunter—closer to a Manhattan."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "manhattan",
+    "red-hook",
+    "little-italy"
+  ],
+  "seasonality": [
+    "autumn",
+    "winter"
+  ],
+  "tags": [
+    "rye",
+    "amaro",
+    "stirred"
+  ],
+  "id": "brooklyn",
+  "slug": "brooklyn",
+  "name": "Brooklyn",
+  "description": "Manhattan's overlooked sibling: rye and dry vermouth, with maraschino and bitter amaro doing the sweetening.",
+  "year": 1908
+}

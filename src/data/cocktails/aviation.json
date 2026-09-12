@@ -1,14 +1,8 @@
 {
-  "id": "aviation",
-  "slug": "aviation",
-  "name": "Aviation",
   "aliases": [],
-  "description": "Gin, lemon, maraschino, and crème de violette—the pale-sky sour. Missing only violette.",
-  "history": "Hugo Ensslin’s 1916 recipe from the Hotel Wallick in New York. Crème de violette disappeared from American bars for decades; without it the drink is just a gin–maraschino sour.",
-  "origin": "New York",
-  "year": 1916,
-  "creator": "Hugo Ensslin",
-  "whyItWorks": "Maraschino and lemon make a crisp sour; a small violette dose adds floral color without perfume overload.",
+  "history": "Hugo Ensslin printed it in 1916. When crème de violette left the US market, decades of bartenders served it without—and the drink lost its name-sake sky color.",
+  "origin": "United States",
+  "whyItWorks": "Maraschino brings funk and sweetness, violette brings perfume; the lemon keeps both from turning candied.",
   "classifications": [
     "classic",
     "sour"
@@ -16,16 +10,16 @@
   "cocktailFamily": "Sour",
   "flavorProfiles": [
     "floral",
-    "citrus",
-    "botanical"
+    "cherry",
+    "citrus"
   ],
   "difficulty": "medium",
   "preparationTime": 4,
-  "strength": "medium",
+  "strength": "strong",
   "glassware": "Coupe",
-  "ice": "Shaken; up",
+  "ice": "Chilled, no ice",
   "garnish": [
-    "Brandied cherry or lemon twist"
+    "Brandied cherry"
   ],
   "illustrationKey": "aviation",
   "featuredBottleImages": [],
@@ -33,12 +27,6 @@
     {
       "ingredientId": "gin",
       "amount": 2,
-      "unit": "oz",
-      "scaleMode": "linear"
-    },
-    {
-      "ingredientId": "lemon_juice",
-      "amount": 0.75,
       "unit": "oz",
       "scaleMode": "linear"
     },
@@ -53,48 +41,70 @@
       "amount": 0.25,
       "unit": "oz",
       "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cocktail_cherry",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Brandied cherry",
+      "optional": true
     }
   ],
   "steps": [
-    "Shake gin, lemon, maraschino, and violette hard with ice.",
-    "Fine-strain into a chilled coupe.",
-    "Garnish with a cherry or lemon twist."
+    "Shake all liquid ingredients hard with ice.",
+    "Double-strain into a chilled coupe.",
+    "Drop in the cherry."
   ],
   "techniqueNotes": [
-    "Keep violette to a quarter ounce or the drink turns gray-purple and soapy."
+    "Violette is a seasoning, not a base—past a quarter ounce it turns to soap.",
+    "Measure the maraschino carefully; Luxardo is far sweeter than it tastes."
   ],
   "recommendedBottles": [
     {
-      "bottleId": "drumshanbo-gunpowder",
-      "rank": 1,
-      "rationale": "Citrus-forward gin under floral liqueur."
-    },
-    {
-      "bottleId": "luxardo-maraschino",
-      "rank": 2,
-      "rationale": "The maraschino is already on the bar."
-    },
-    {
       "bottleId": "hendricks",
-      "rank": 3,
-      "rationale": "Softer floral gin if you want more violet echo."
+      "rank": 1,
+      "rationale": "Floral gin that meets the violette head-on."
+    },
+    {
+      "bottleId": "malfy-originale",
+      "rank": 2,
+      "rationale": "Citrus-forward and cleaner if you want the lemon louder."
     }
   ],
-  "substitutions": [],
+  "substitutions": [
+    {
+      "ingredientId": "creme_de_violette",
+      "alternatives": [
+        "creme_de_cacao"
+      ],
+      "notes": "No true substitute. Omitting it gives you a Fancy Free-adjacent drink—honest, but not an Aviation."
+    }
+  ],
   "variations": [],
   "relatedCocktailIds": [
     "last-word",
-    "white-lady",
-    "corpse-reviver-no-2",
-    "blue-moon"
+    "martinez",
+    "white-lady"
   ],
   "seasonality": [
-    "year-round"
+    "spring",
+    "summer"
   ],
   "tags": [
-    "classic",
     "gin",
     "floral",
-    "inventory-gap"
-  ]
+    "pre-prohibition"
+  ],
+  "id": "aviation",
+  "slug": "aviation",
+  "name": "Aviation",
+  "description": "Gin, maraschino and a violet whisper—the pale-blue sour that vanished with its own liqueur.",
+  "year": 1916
 }

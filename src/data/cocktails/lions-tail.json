@@ -1,0 +1,116 @@
+{
+  "aliases": [],
+  "history": "From the Café Royal Cocktail Book, 1937. The name refers to twisting the lion’s tail: doing something dangerous, in this case drinking bourbon at a British hotel bar.",
+  "origin": "United Kingdom",
+  "whyItWorks": "Allspice dram is baking spice in liquid form; against lime rather than lemon it stays sharp instead of turning into mulled cider.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "allspice",
+    "lime",
+    "oak"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "strong",
+  "glassware": "Coupe",
+  "ice": "Chilled, no ice",
+  "garnish": [
+    "Lime twist"
+  ],
+  "illustrationKey": "lions-tail",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "allspice_dram",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "lime",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Lime twist",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake all liquid ingredients with ice.",
+    "Double-strain into a chilled coupe.",
+    "Express a lime twist over the top."
+  ],
+  "techniqueNotes": [
+    "Allspice dram is potent—half an ounce is the ceiling before it takes over.",
+    "Lime, not lemon. Lemon makes it taste like a hot toddy served cold."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "woodford-reserve",
+      "rank": 1,
+      "rationale": "Enough oak to carry the spice."
+    },
+    {
+      "bottleId": "eagle-rare",
+      "rank": 2,
+      "rationale": "Softer fruit if the dram is aggressive."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "allspice_dram",
+      "alternatives": [
+        "falernum"
+      ],
+      "notes": "Falernum is sweeter and lighter; use ¾ oz and drop the simple syrup."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "whiskey-sour",
+    "gold-rush",
+    "corn-n-oil"
+  ],
+  "seasonality": [
+    "autumn",
+    "winter"
+  ],
+  "tags": [
+    "bourbon",
+    "spiced",
+    "sour"
+  ],
+  "id": "lions-tail",
+  "slug": "lions-tail",
+  "name": "Lion's Tail",
+  "description": "Bourbon, allspice dram and lime—a spiced whiskey sour from the tail end of the cocktail age.",
+  "year": 1937
+}

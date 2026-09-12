@@ -1,0 +1,66 @@
+{
+  "aliases": [],
+  "history": "A 1980s standard that rode the Midori boom.",
+  "origin": "United States",
+  "whyItWorks": "Pineapple stops the melon liqueur from being one-note sweet, and the vodka keeps it from being a soft drink.",
+  "classifications": [
+    "shot"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "melon",
+    "pineapple",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "melon-ball",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "melon_liqueur",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "vodka",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "pineapple_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake with ice and strain into a chilled shot glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "scooby-snack",
+    "liquid-marijuana"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "melon"
+  ],
+  "id": "melon-ball",
+  "slug": "melon-ball",
+  "name": "Melon Ball",
+  "description": "Melon liqueur, vodka and pineapple."
+}

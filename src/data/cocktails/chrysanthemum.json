@@ -1,0 +1,106 @@
+{
+  "aliases": [],
+  "history": "From the Savoy Cocktail Book, 1930, attributed to the Hotel Europe in Amsterdam.",
+  "origin": "Netherlands",
+  "whyItWorks": "Vermouth-forward and barely 18% ABV, but the Bénédictine’s honey and the absinthe’s anise give it a length that most low-proof drinks lack.",
+  "classifications": [
+    "classic",
+    "aperitivo"
+  ],
+  "cocktailFamily": "Aperitif",
+  "flavorProfiles": [
+    "herbal",
+    "honey",
+    "anise"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "light",
+  "glassware": "Coupe",
+  "ice": "Chilled, no ice",
+  "garnish": [
+    "Orange twist"
+  ],
+  "illustrationKey": "chrysanthemum",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "dry_vermouth",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "benedictine",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "absinthe",
+      "amount": 3,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Orange twist",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Stir vermouth, Bénédictine and absinthe with ice until well chilled.",
+    "Strain into a chilled coupe.",
+    "Express an orange twist over the top and drop it in."
+  ],
+  "techniqueNotes": [
+    "Use fresh vermouth. In a drink this vermouth-heavy, an open bottle that has been out a month is the whole flavor.",
+    "Three dashes of absinthe, not a rinse—it is a seasoning here."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "dry-vermouth",
+      "rank": 1,
+      "rationale": "Whatever is freshest; this drink hides nothing."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "benedictine",
+      "alternatives": [
+        "yellow_chartreuse"
+      ],
+      "notes": "Chartreuse is drier and more herbal—cut to ½ oz."
+    },
+    {
+      "ingredientId": "absinthe",
+      "alternatives": [
+        "peychauds_bitters"
+      ],
+      "notes": "Not the same, but keeps the drink balanced if absinthe is out."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "bamboo",
+    "martini",
+    "vieux-carre"
+  ],
+  "seasonality": [
+    "spring",
+    "summer"
+  ],
+  "tags": [
+    "low-abv",
+    "aperitif",
+    "vermouth"
+  ],
+  "id": "chrysanthemum",
+  "slug": "chrysanthemum",
+  "name": "Chrysanthemum",
+  "description": "Dry vermouth and Bénédictine with an absinthe lift—a low-proof aperitif that eats like a much bigger drink.",
+  "year": 1930
+}

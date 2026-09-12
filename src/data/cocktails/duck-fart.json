@@ -1,0 +1,69 @@
+{
+  "aliases": [],
+  "history": "From the Peanut Farm bar in Anchorage, Alaska, in the 1980s. The name is local and has stuck.",
+  "origin": "United States",
+  "whyItWorks": "It is a layered B-52 with whiskey standing in for the orange liqueur — heavier, less sweet, more of a nightcap.",
+  "classifications": [
+    "shot",
+    "dessert"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "coffee",
+    "cream",
+    "oak"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "duck-fart",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "coffee_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "baileys",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "bourbon",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Canadian or bourbon whiskey"
+    }
+  ],
+  "steps": [
+    "Pour the coffee liqueur into a shot glass.",
+    "Layer by pouring each ingredient slowly over the back of a bar spoon so it floats on the one below. Irish cream, then the whiskey on top."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "b-52",
+    "baby-guinness"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "layered"
+  ],
+  "id": "duck-fart",
+  "slug": "duck-fart",
+  "name": "Duck Fart",
+  "description": "Coffee liqueur, Irish cream and whiskey, layered."
+}

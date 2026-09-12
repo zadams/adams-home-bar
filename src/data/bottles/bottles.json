@@ -953,6 +953,33 @@
     "notes": "Availability varies; editable inventory item."
   },
   {
+    "id": "jameson",
+    "brand": "Jameson",
+    "productName": "Irish Whiskey",
+    "ingredientIds": [
+      "irish_whiskey"
+    ],
+    "category": "spirit",
+    "subcategory": "irish-whiskey",
+    "tags": [
+      "irish-whiskey",
+      "blended"
+    ]
+  },
+  {
+    "id": "kahlua",
+    "brand": "Kahlúa",
+    "productName": "Original Coffee Liqueur",
+    "ingredientIds": [
+      "coffee_liqueur"
+    ],
+    "category": "liqueur",
+    "subcategory": "coffee-liqueur",
+    "tags": [
+      "coffee-liqueur"
+    ]
+  },
+  {
     "id": "creme-de-cacao",
     "brand": "House",
     "productName": "Crème de Cacao",
