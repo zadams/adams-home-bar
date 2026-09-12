@@ -1,0 +1,72 @@
+{
+  "aliases": [],
+  "history": "The bar-trick version. Widely ordered and widely done badly.",
+  "origin": "United States",
+  "whyItWorks": "The flame caramelises the overproof rum and nothing else; the flavour is the same Dr Pepper trick underneath.",
+  "classifications": [
+    "shot"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "almond",
+    "cola",
+    "caramel"
+  ],
+  "difficulty": "advanced",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot + pint glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "flaming-dr-pepper",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "amaretto",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "overproof_rum",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Overproof float"
+    },
+    {
+      "ingredientId": "lager_beer",
+      "amount": 6,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Half-fill a glass with beer and set it down clear of anything flammable.",
+    "Fill a shot glass with amaretto and float the overproof rum on top.",
+    "Light the float, then drop the shot into the beer — the beer extinguishes it on contact.",
+    "Drink only once the flame is out."
+  ],
+  "techniqueNotes": [
+    "Fire safety is the whole technique here: no overhanging hair or sleeves, no spirit bottles within reach, and a damp cloth on the bar.",
+    "Never move or hand over a lit glass, and never relight one.",
+    "The drop extinguishes it. If the flame survives the drop, cover the glass and start again."
+  ],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "bomb",
+    "flaming"
+  ],
+  "id": "flaming-dr-pepper",
+  "slug": "flaming-dr-pepper",
+  "name": "Flaming Dr Pepper",
+  "description": "A Dr Pepper Shot with an overproof float, lit and dropped."
+}

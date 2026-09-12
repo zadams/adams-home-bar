@@ -1,0 +1,66 @@
+{
+  "aliases": [],
+  "history": "A three-layer variation on the Buttery Nipple that puts the amaro in the middle.",
+  "origin": "United States",
+  "whyItWorks": "Butterscotch and cream bracket the Jägermeister so its bitterness reads as spice.",
+  "classifications": [
+    "shot",
+    "dessert"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "butterscotch",
+    "herbal",
+    "cream"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "buttery-jager-ripple",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "butterscotch_schnapps",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "jagermeister",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "baileys",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Pour the butterscotch into a shot glass.",
+    "Layer by pouring slowly over the back of a bar spoon so each sits on the one below. Jägermeister next, then the cream."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "layered",
+    "jagermeister"
+  ],
+  "id": "buttery-jager-ripple",
+  "slug": "buttery-jager-ripple",
+  "name": "Buttery Jäger Ripple",
+  "description": "Butterscotch, Jägermeister and Irish cream, layered."
+}

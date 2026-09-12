@@ -1,0 +1,59 @@
+{
+  "aliases": [],
+  "history": "A British nightclub shot of the 2000s, named for the sweet it tastes like.",
+  "origin": "United Kingdom",
+  "whyItWorks": "Curaçao is orange; the energy drink is citrus-sweet. Together they land squarely on the candy.",
+  "classifications": [
+    "shot",
+    "modern"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "orange",
+    "candy",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot + pint glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "skittle-bomb",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "blue_curacao",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "energy_drink",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Half-fill a glass with energy drink.",
+    "Drop in a shot of blue curaçao and drink immediately."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "bomb"
+  ],
+  "id": "skittle-bomb",
+  "slug": "skittle-bomb",
+  "name": "Skittle Bomb",
+  "description": "Blue curaçao dropped into energy drink."
+}

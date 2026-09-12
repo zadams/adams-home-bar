@@ -1,0 +1,71 @@
+{
+  "aliases": [],
+  "history": "A bar call more often ordered for the name than the recipe, which is a decent tropical sour underneath.",
+  "origin": "United States",
+  "whyItWorks": "Coconut and peach against citrus is Painkiller logic; the curaçao is there for the colour.",
+  "classifications": [
+    "shot",
+    "tropical"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "coconut",
+    "peach",
+    "citrus"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "blue-balls",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "blue_curacao",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "coconut_rum",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peach_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Peach schnapps"
+    },
+    {
+      "ingredientId": "sour_mix",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake all four with ice.",
+    "Strain into a chilled shot glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot"
+  ],
+  "id": "blue-balls",
+  "slug": "blue-balls",
+  "name": "Blue Balls",
+  "description": "Blue curaçao, coconut rum, peach schnapps and sour."
+}

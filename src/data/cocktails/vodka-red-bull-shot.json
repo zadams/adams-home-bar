@@ -1,0 +1,58 @@
+{
+  "aliases": [],
+  "history": "Ubiquitous from the 2000s onward, and the reason most bars keep energy drink behind the bar at all.",
+  "origin": "United States",
+  "whyItWorks": "Nothing is balanced here. It is caffeine and vodka, and it is ordered for what it does rather than how it tastes.",
+  "classifications": [
+    "shot",
+    "modern"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "citrus",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "vodka-red-bull-shot",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "energy_drink",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Pour chilled vodka into a shot glass.",
+    "Top with energy drink and drink immediately."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "bomb"
+  ],
+  "id": "vodka-red-bull-shot",
+  "slug": "vodka-red-bull-shot",
+  "name": "Vodka and Energy Drink Shot",
+  "description": "The highball in one glass, for people in a hurry."
+}

@@ -1,0 +1,59 @@
+{
+  "aliases": [],
+  "history": "A British bar shot named for the sweet, traditionally built on blackberry brandy.",
+  "origin": "United Kingdom",
+  "whyItWorks": "Anise and dark fruit is the liquorice-allsort axis — polarising, and beloved by the people who like it.",
+  "classifications": [
+    "shot"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "anise",
+    "cherry",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "jelly-bean",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "sambuca",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cherry_liqueur",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Cherry or blackberry liqueur"
+    }
+  ],
+  "steps": [
+    "Pour the cherry liqueur into a shot glass.",
+    "Layer by pouring slowly over the back of a bar spoon so each sits on the one below. Float the sambuca."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "layered"
+  ],
+  "id": "jelly-bean",
+  "slug": "jelly-bean",
+  "name": "Jelly Bean",
+  "description": "Anise and cherry, layered."
+}

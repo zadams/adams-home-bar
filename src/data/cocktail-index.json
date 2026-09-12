@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-12T04:20:04.328Z",
-  "count": 565,
+  "generatedAt": "2026-09-12T05:38:59.570Z",
+  "count": 589,
   "cocktails": [
     {
       "id": "adios-motherfucker",
@@ -645,6 +645,35 @@
       ]
     },
     {
+      "id": "angels-tit",
+      "slug": "angels-tit",
+      "name": "Angel’s Tit",
+      "file": "angels-tit.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "dessert",
+        "classic"
+      ],
+      "flavorProfiles": [
+        "cherry",
+        "cream",
+        "nutty"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "angels-tit",
+      "tags": [
+        "shot",
+        "layered"
+      ],
+      "ingredientIds": [
+        "maraschino",
+        "heavy_cream"
+      ]
+    },
+    {
       "id": "aperol-soda",
       "slug": "aperol-soda",
       "name": "Aperol & Soda",
@@ -820,6 +849,34 @@
         "aperol",
         "prosecco",
         "club_soda"
+      ]
+    },
+    {
+      "id": "apple-pie-shot",
+      "slug": "apple-pie-shot",
+      "name": "Apple Pie Shot",
+      "file": "apple-pie-shot.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "dessert",
+        "modern"
+      ],
+      "flavorProfiles": [
+        "apple",
+        "cinnamon",
+        "cream"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "apple-pie-shot",
+      "tags": [
+        "shot"
+      ],
+      "ingredientIds": [
+        "rumchata",
+        "sour_apple_schnapps"
       ]
     },
     {
@@ -2650,6 +2707,35 @@
       ]
     },
     {
+      "id": "blue-balls",
+      "slug": "blue-balls",
+      "name": "Blue Balls",
+      "file": "blue-balls.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "tropical"
+      ],
+      "flavorProfiles": [
+        "coconut",
+        "peach",
+        "citrus"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "blue-balls",
+      "tags": [
+        "shot"
+      ],
+      "ingredientIds": [
+        "blue_curacao",
+        "coconut_rum",
+        "peach_liqueur",
+        "sour_mix"
+      ]
+    },
+    {
       "id": "blue-hawaii",
       "slug": "blue-hawaii",
       "name": "Blue Hawaii",
@@ -4049,6 +4135,36 @@
       "ingredientIds": [
         "prosecco",
         "orange_juice"
+      ]
+    },
+    {
+      "id": "buttery-jager-ripple",
+      "slug": "buttery-jager-ripple",
+      "name": "Buttery Jäger Ripple",
+      "file": "buttery-jager-ripple.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "butterscotch",
+        "herbal",
+        "cream"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "buttery-jager-ripple",
+      "tags": [
+        "shot",
+        "layered",
+        "jagermeister"
+      ],
+      "ingredientIds": [
+        "butterscotch_schnapps",
+        "jagermeister",
+        "baileys"
       ]
     },
     {
@@ -5901,6 +6017,34 @@
       ]
     },
     {
+      "id": "dr-pepper-shot",
+      "slug": "dr-pepper-shot",
+      "name": "Dr Pepper Shot",
+      "file": "dr-pepper-shot.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot"
+      ],
+      "flavorProfiles": [
+        "almond",
+        "cola",
+        "malt"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot + pint glass",
+      "illustrationKey": "dr-pepper-shot",
+      "tags": [
+        "shot",
+        "bomb",
+        "beer"
+      ],
+      "ingredientIds": [
+        "amaretto",
+        "lager_beer"
+      ]
+    },
+    {
       "id": "bourbon-dry-manhattan",
       "slug": "bourbon-dry-manhattan",
       "name": "Dry Bourbon Manhattan",
@@ -6525,6 +6669,35 @@
       ]
     },
     {
+      "id": "flaming-dr-pepper",
+      "slug": "flaming-dr-pepper",
+      "name": "Flaming Dr Pepper",
+      "file": "flaming-dr-pepper.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot"
+      ],
+      "flavorProfiles": [
+        "almond",
+        "cola",
+        "caramel"
+      ],
+      "difficulty": "advanced",
+      "strength": "strong",
+      "glassware": "Shot + pint glass",
+      "illustrationKey": "flaming-dr-pepper",
+      "tags": [
+        "shot",
+        "bomb",
+        "flaming"
+      ],
+      "ingredientIds": [
+        "amaretto",
+        "overproof_rum",
+        "lager_beer"
+      ]
+    },
+    {
       "id": "flatliner",
       "slug": "flatliner",
       "name": "Flatliner",
@@ -6915,6 +7088,32 @@
         "orange",
         "simple",
         "popular"
+      ],
+      "ingredientIds": [
+        "peach_liqueur",
+        "orange_juice"
+      ]
+    },
+    {
+      "id": "fuzzy-navel-shot",
+      "slug": "fuzzy-navel-shot",
+      "name": "Fuzzy Navel Shot",
+      "file": "fuzzy-navel-shot.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "variation"
+      ],
+      "flavorProfiles": [
+        "peach",
+        "orange"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "fuzzy-navel-shot",
+      "tags": [
+        "shot"
       ],
       "ingredientIds": [
         "peach_liqueur",
@@ -8035,6 +8234,34 @@
       ]
     },
     {
+      "id": "grape-crush",
+      "slug": "grape-crush",
+      "name": "Grape Crush",
+      "file": "grape-crush.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "modern"
+      ],
+      "flavorProfiles": [
+        "grape",
+        "berry",
+        "citrus"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "grape-crush",
+      "tags": [
+        "shot"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "blue_curacao",
+        "cranberry_juice"
+      ]
+    },
+    {
       "id": "grasshopper",
       "slug": "grasshopper",
       "name": "Grasshopper",
@@ -8182,6 +8409,35 @@
         "hot_water",
         "lemon_juice",
         "simple_syrup"
+      ]
+    },
+    {
+      "id": "hand-grenade",
+      "slug": "hand-grenade",
+      "name": "Hand Grenade",
+      "file": "hand-grenade.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot"
+      ],
+      "flavorProfiles": [
+        "melon",
+        "citrus",
+        "strong"
+      ],
+      "difficulty": "easy",
+      "strength": "spirit-forward",
+      "glassware": "Shot glass",
+      "illustrationKey": "hand-grenade",
+      "tags": [
+        "shot"
+      ],
+      "ingredientIds": [
+        "melon_liqueur",
+        "vodka",
+        "gin",
+        "white_rum",
+        "sour_mix"
       ]
     },
     {
@@ -9157,6 +9413,33 @@
       ]
     },
     {
+      "id": "jelly-bean",
+      "slug": "jelly-bean",
+      "name": "Jelly Bean",
+      "file": "jelly-bean.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot"
+      ],
+      "flavorProfiles": [
+        "anise",
+        "cherry",
+        "sweet"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "jelly-bean",
+      "tags": [
+        "shot",
+        "layered"
+      ],
+      "ingredientIds": [
+        "sambuca",
+        "cherry_liqueur"
+      ]
+    },
+    {
       "id": "john-collins",
       "slug": "john-collins",
       "name": "John Collins",
@@ -9895,6 +10178,36 @@
         "lemon_juice",
         "simple_syrup",
         "cola"
+      ]
+    },
+    {
+      "id": "lunchbox",
+      "slug": "lunchbox",
+      "name": "Lunchbox",
+      "file": "lunchbox.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "modern"
+      ],
+      "flavorProfiles": [
+        "almond",
+        "orange",
+        "malt"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot + pint glass",
+      "illustrationKey": "lunchbox",
+      "tags": [
+        "shot",
+        "bomb",
+        "beer"
+      ],
+      "ingredientIds": [
+        "amaretto",
+        "orange_juice",
+        "lager_beer"
       ]
     },
     {
@@ -11772,6 +12085,35 @@
       ]
     },
     {
+      "id": "peanut-butter-and-jelly",
+      "slug": "peanut-butter-and-jelly",
+      "name": "Peanut Butter and Jelly",
+      "file": "peanut-butter-and-jelly.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "dessert",
+        "modern"
+      ],
+      "flavorProfiles": [
+        "nutty",
+        "raspberry",
+        "cream"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "peanut-butter-and-jelly",
+      "tags": [
+        "shot"
+      ],
+      "ingredientIds": [
+        "amaretto",
+        "raspberry_syrup",
+        "heavy_cream"
+      ]
+    },
+    {
       "id": "penicillin",
       "slug": "penicillin",
       "name": "Penicillin",
@@ -12070,6 +12412,35 @@
         "white_rum",
         "cream_of_coconut",
         "pineapple_juice"
+      ]
+    },
+    {
+      "id": "pineapple-upside-down-cake",
+      "slug": "pineapple-upside-down-cake",
+      "name": "Pineapple Upside Down Cake",
+      "file": "pineapple-upside-down-cake.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "dessert",
+        "modern"
+      ],
+      "flavorProfiles": [
+        "pineapple",
+        "cherry",
+        "sweet"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "pineapple-upside-down-cake",
+      "tags": [
+        "shot"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "pineapple_juice",
+        "grenadine"
       ]
     },
     {
@@ -12749,6 +13120,34 @@
       ]
     },
     {
+      "id": "root-beer-shot",
+      "slug": "root-beer-shot",
+      "name": "Root Beer Shot",
+      "file": "root-beer-shot.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "cola",
+        "coffee",
+        "cream"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "root-beer-shot",
+      "tags": [
+        "shot"
+      ],
+      "ingredientIds": [
+        "coffee_liqueur",
+        "cola",
+        "heavy_cream"
+      ]
+    },
+    {
       "id": "rosita",
       "slug": "rosita",
       "name": "Rosita",
@@ -12964,6 +13363,34 @@
         "lime_juice",
         "falernum",
         "angostura_bitters"
+      ]
+    },
+    {
+      "id": "russian-quaalude",
+      "slug": "russian-quaalude",
+      "name": "Russian Quaalude",
+      "file": "russian-quaalude.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "almond",
+        "cream",
+        "vanilla"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "russian-quaalude",
+      "tags": [
+        "shot"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "baileys",
+        "amaretto"
       ]
     },
     {
@@ -14072,6 +14499,37 @@
       ]
     },
     {
+      "id": "sex-with-an-alligator",
+      "slug": "sex-with-an-alligator",
+      "name": "Sex with an Alligator",
+      "file": "sex-with-an-alligator.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "tropical"
+      ],
+      "flavorProfiles": [
+        "melon",
+        "coconut",
+        "herbal"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "sex-with-an-alligator",
+      "tags": [
+        "shot",
+        "layered",
+        "jagermeister"
+      ],
+      "ingredientIds": [
+        "melon_liqueur",
+        "coconut_rum",
+        "pineapple_juice",
+        "jagermeister"
+      ]
+    },
+    {
       "id": "sherry-cobbler",
       "slug": "sherry-cobbler",
       "name": "Sherry Cobbler",
@@ -14161,6 +14619,31 @@
         "cognac",
         "cointreau",
         "lemon_juice"
+      ]
+    },
+    {
+      "id": "silk-panties",
+      "slug": "silk-panties",
+      "name": "Silk Panties",
+      "file": "silk-panties.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot"
+      ],
+      "flavorProfiles": [
+        "peach",
+        "sweet"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "silk-panties",
+      "tags": [
+        "shot"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "peach_liqueur"
       ]
     },
     {
@@ -14297,6 +14780,34 @@
       ]
     },
     {
+      "id": "skittle-bomb",
+      "slug": "skittle-bomb",
+      "name": "Skittle Bomb",
+      "file": "skittle-bomb.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "modern"
+      ],
+      "flavorProfiles": [
+        "orange",
+        "candy",
+        "sweet"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot + pint glass",
+      "illustrationKey": "skittle-bomb",
+      "tags": [
+        "shot",
+        "bomb"
+      ],
+      "ingredientIds": [
+        "blue_curacao",
+        "energy_drink"
+      ]
+    },
+    {
       "id": "slippery-nipple",
       "slug": "slippery-nipple",
       "name": "Slippery Nipple",
@@ -14321,6 +14832,32 @@
       "ingredientIds": [
         "sambuca",
         "baileys"
+      ]
+    },
+    {
+      "id": "snowshoe",
+      "slug": "snowshoe",
+      "name": "Snowshoe",
+      "file": "snowshoe.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot"
+      ],
+      "flavorProfiles": [
+        "mint",
+        "oak",
+        "heat"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "snowshoe",
+      "tags": [
+        "shot"
+      ],
+      "ingredientIds": [
+        "bourbon",
+        "peppermint_liqueur"
       ]
     },
     {
@@ -14867,6 +15404,35 @@
       "ingredientIds": [
         "peppermint_liqueur",
         "cream_liqueur"
+      ]
+    },
+    {
+      "id": "starburst-shot",
+      "slug": "starburst-shot",
+      "name": "Starburst Shot",
+      "file": "starburst-shot.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "modern"
+      ],
+      "flavorProfiles": [
+        "peach",
+        "candy",
+        "tart"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "starburst-shot",
+      "tags": [
+        "shot"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "peach_liqueur",
+        "sour_mix",
+        "grenadine"
       ]
     },
     {
@@ -15567,6 +16133,34 @@
       ]
     },
     {
+      "id": "toasted-almond",
+      "slug": "toasted-almond",
+      "name": "Toasted Almond",
+      "file": "toasted-almond.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "almond",
+        "coffee",
+        "cream"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "toasted-almond",
+      "tags": [
+        "shot"
+      ],
+      "ingredientIds": [
+        "amaretto",
+        "coffee_liqueur",
+        "heavy_cream"
+      ]
+    },
+    {
       "id": "tom-collins",
       "slug": "tom-collins",
       "name": "Tom Collins",
@@ -15875,6 +16469,33 @@
       "ingredientIds": [
         "vodka",
         "tonic_water"
+      ]
+    },
+    {
+      "id": "vodka-red-bull-shot",
+      "slug": "vodka-red-bull-shot",
+      "name": "Vodka and Energy Drink Shot",
+      "file": "vodka-red-bull-shot.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot",
+        "modern"
+      ],
+      "flavorProfiles": [
+        "citrus",
+        "sweet"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "vodka-red-bull-shot",
+      "tags": [
+        "shot",
+        "bomb"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "energy_drink"
       ]
     },
     {
@@ -16315,6 +16936,34 @@
         "rye",
         "sour_apple_schnapps",
         "cranberry_juice"
+      ]
+    },
+    {
+      "id": "water-moccasin",
+      "slug": "water-moccasin",
+      "name": "Water Moccasin",
+      "file": "water-moccasin.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot"
+      ],
+      "flavorProfiles": [
+        "peach",
+        "herbal",
+        "tart"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "water-moccasin",
+      "tags": [
+        "shot",
+        "jagermeister"
+      ],
+      "ingredientIds": [
+        "peach_liqueur",
+        "jagermeister",
+        "sour_mix"
       ]
     },
     {
@@ -17124,6 +17773,33 @@
         "triple_sec",
         "creme_de_banane",
         "lime_juice"
+      ]
+    },
+    {
+      "id": "zipperhead",
+      "slug": "zipperhead",
+      "name": "Zipperhead",
+      "file": "zipperhead.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot"
+      ],
+      "flavorProfiles": [
+        "orange",
+        "citrus",
+        "sparkling"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Shot glass",
+      "illustrationKey": "zipperhead",
+      "tags": [
+        "shot"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "blue_curacao",
+        "club_soda"
       ]
     },
     {

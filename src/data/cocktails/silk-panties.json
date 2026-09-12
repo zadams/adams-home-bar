@@ -1,0 +1,56 @@
+{
+  "aliases": [],
+  "history": "A 1990s bar call, sometimes stretched with a splash of cranberry.",
+  "origin": "United States",
+  "whyItWorks": "There is nothing to balance — it is a sweet shot and it is meant to be.",
+  "classifications": [
+    "shot"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "peach",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "silk-panties",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peach_liqueur",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Peach schnapps"
+    }
+  ],
+  "steps": [
+    "Shake with ice and strain into a chilled shot glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot"
+  ],
+  "id": "silk-panties",
+  "slug": "silk-panties",
+  "name": "Silk Panties",
+  "description": "Vodka and peach schnapps. Two ingredients, no apology."
+}

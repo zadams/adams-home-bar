@@ -1,0 +1,68 @@
+{
+  "aliases": [],
+  "history": "A pousse-café from the 1930s, printed in the Savoy under this name and softened to Angel’s Delight elsewhere.",
+  "origin": "United States",
+  "whyItWorks": "Maraschino is intensely sweet and faintly nutty; unsweetened cream is the only thing that makes it sippable.",
+  "classifications": [
+    "shot",
+    "dessert",
+    "classic"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "cherry",
+    "cream",
+    "nutty"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "angels-tit",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "maraschino",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "heavy_cream",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cocktail_cherry",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Pour the maraschino into a shot glass.",
+    "Layer by pouring slowly over the back of a bar spoon so each sits on the one below. Float the cream.",
+    "Top with a cherry."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "layered"
+  ],
+  "id": "angels-tit",
+  "slug": "angels-tit",
+  "name": "Angel’s Tit",
+  "description": "Maraschino liqueur under a float of cream, with a cherry on top."
+}

@@ -1,0 +1,77 @@
+{
+  "aliases": [],
+  "history": "A Bourbon Street shot, named for the New Orleans drink it echoes.",
+  "origin": "United States",
+  "whyItWorks": "Four spirits hidden behind melon and sour. It drinks far lighter than it is, which is the whole complaint.",
+  "classifications": [
+    "shot"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "melon",
+    "citrus",
+    "strong"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "spirit-forward",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "hand-grenade",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "melon_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "vodka",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "gin",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "white_rum",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sour_mix",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake everything hard with ice.",
+    "Strain into a chilled shot glass."
+  ],
+  "techniqueNotes": [
+    "Four spirits at a quarter ounce each still totals an ounce. Count it as a double."
+  ],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot"
+  ],
+  "id": "hand-grenade",
+  "slug": "hand-grenade",
+  "name": "Hand Grenade",
+  "description": "Melon, three white spirits and sour — the shot form of a Long Island."
+}

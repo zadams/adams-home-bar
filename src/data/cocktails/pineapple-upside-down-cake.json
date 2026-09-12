@@ -1,0 +1,72 @@
+{
+  "aliases": [],
+  "history": "A dessert shot that became a standard bar call in the 2010s.",
+  "origin": "United States",
+  "whyItWorks": "Grenadine sinks and reads as the caramelised cherry; pineapple and vanilla vodka do the rest.",
+  "classifications": [
+    "shot",
+    "dessert",
+    "modern"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "pineapple",
+    "cherry",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "pineapple-upside-down-cake",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "pineapple_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grenadine",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "cocktail_cherry",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake the vodka and pineapple with ice and strain into a shot glass.",
+    "Drop the grenadine in and let it sink."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot"
+  ],
+  "id": "pineapple-upside-down-cake",
+  "slug": "pineapple-upside-down-cake",
+  "name": "Pineapple Upside Down Cake",
+  "description": "Vodka, pineapple and a grenadine bottom."
+}

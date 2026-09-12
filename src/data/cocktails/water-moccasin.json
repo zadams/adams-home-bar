@@ -1,0 +1,65 @@
+{
+  "aliases": [],
+  "history": "A southern US bar call, sometimes built with bourbon in place of the schnapps.",
+  "origin": "United States",
+  "whyItWorks": "Sour mix does the work the cranberry does in a Red Headed Slut — it cuts the amaro without adding sugar.",
+  "classifications": [
+    "shot"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "peach",
+    "herbal",
+    "tart"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "water-moccasin",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "peach_liqueur",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Peach schnapps"
+    },
+    {
+      "ingredientId": "jagermeister",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sour_mix",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake all three with ice.",
+    "Strain into a chilled shot glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "jagermeister"
+  ],
+  "id": "water-moccasin",
+  "slug": "water-moccasin",
+  "name": "Water Moccasin",
+  "description": "Peach schnapps, Jägermeister and sour."
+}

@@ -1,0 +1,56 @@
+{
+  "aliases": [],
+  "history": "A ski-lodge shot from the American west, taken at the bottom of the run rather than the top.",
+  "origin": "United States",
+  "whyItWorks": "Peppermint numbs the whiskey’s burn, which is the entire reason it is drunk outdoors in the cold.",
+  "classifications": [
+    "shot"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "mint",
+    "oak",
+    "heat"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "snowshoe",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peppermint_liqueur",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Stir with ice and strain into a chilled shot glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot"
+  ],
+  "id": "snowshoe",
+  "slug": "snowshoe",
+  "name": "Snowshoe",
+  "description": "Bourbon and peppermint, cold."
+}

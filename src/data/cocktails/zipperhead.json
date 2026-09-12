@@ -1,0 +1,63 @@
+{
+  "aliases": [],
+  "history": "A Chicago bar-call shot, traditionally taken without hands through a straw.",
+  "origin": "United States",
+  "whyItWorks": "The soda lifts it — it is the only shot on this list with carbonation doing real work.",
+  "classifications": [
+    "shot"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "orange",
+    "citrus",
+    "sparkling"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "zipperhead",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "blue_curacao",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build the vodka and curaçao over ice in a shot glass or small rocks glass.",
+    "Top with soda and serve with a short straw."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot"
+  ],
+  "id": "zipperhead",
+  "slug": "zipperhead",
+  "name": "Zipperhead",
+  "description": "Vodka, blue curaçao and soda, drunk through a straw."
+}

@@ -1,0 +1,71 @@
+{
+  "aliases": [],
+  "history": "Named for the chew, and it gets impressively close.",
+  "origin": "United States",
+  "whyItWorks": "Sour mix keeps the grenadine from turning it into syrup — without the acid it collapses.",
+  "classifications": [
+    "shot",
+    "modern"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "peach",
+    "candy",
+    "tart"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "starburst-shot",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peach_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Peach schnapps"
+    },
+    {
+      "ingredientId": "sour_mix",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grenadine",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Shake the vodka, schnapps and sour mix with ice.",
+    "Strain into a shot glass and drizzle the grenadine through it."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot"
+  ],
+  "id": "starburst-shot",
+  "slug": "starburst-shot",
+  "name": "Starburst Shot",
+  "description": "Vodka, peach, sour and a thread of grenadine."
+}

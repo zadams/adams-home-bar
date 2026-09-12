@@ -1,0 +1,57 @@
+{
+  "aliases": [],
+  "history": "The highball compressed. One of the first drinks most bartenders learn.",
+  "origin": "United States",
+  "whyItWorks": "Two ingredients in equal parts; the only way to get it wrong is warm juice.",
+  "classifications": [
+    "shot",
+    "variation"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "peach",
+    "orange"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "fuzzy-navel-shot",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "peach_liqueur",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Peach schnapps"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake with ice and strain into a chilled shot glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot"
+  ],
+  "id": "fuzzy-navel-shot",
+  "slug": "fuzzy-navel-shot",
+  "name": "Fuzzy Navel Shot",
+  "description": "Peach schnapps and orange juice, in a shot glass."
+}

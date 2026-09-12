@@ -1,0 +1,66 @@
+{
+  "aliases": [],
+  "history": "A modern bar-call shot named for exactly what it tastes like.",
+  "origin": "United States",
+  "whyItWorks": "Hazelnut against raspberry is the sandwich in liquid form; the proportions matter more than the brands.",
+  "classifications": [
+    "shot",
+    "dessert",
+    "modern"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "nutty",
+    "raspberry",
+    "cream"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "peanut-butter-and-jelly",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "amaretto",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Hazelnut or almond liqueur"
+    },
+    {
+      "ingredientId": "raspberry_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "heavy_cream",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake all three hard with ice.",
+    "Strain into a chilled shot glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot"
+  ],
+  "id": "peanut-butter-and-jelly",
+  "slug": "peanut-butter-and-jelly",
+  "name": "Peanut Butter and Jelly",
+  "description": "Nut liqueur and raspberry, shaken cold."
+}

@@ -1,0 +1,58 @@
+{
+  "aliases": [],
+  "history": "A 2010s shot that arrived with RumChata and has barely changed since.",
+  "origin": "United States",
+  "whyItWorks": "The cinnamon in the horchata is doing the pastry; the apple schnapps is doing the filling.",
+  "classifications": [
+    "shot",
+    "dessert",
+    "modern"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "apple",
+    "cinnamon",
+    "cream"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "strong",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "apple-pie-shot",
+  "featuredBottleImages": [],
+  "kind": "shot",
+  "ingredients": [
+    {
+      "ingredientId": "rumchata",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sour_apple_schnapps",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake with ice and strain into a chilled shot glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot"
+  ],
+  "id": "apple-pie-shot",
+  "slug": "apple-pie-shot",
+  "name": "Apple Pie Shot",
+  "description": "Horchata cream liqueur and sour apple schnapps."
+}
