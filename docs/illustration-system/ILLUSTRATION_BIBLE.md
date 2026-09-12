@@ -1,4 +1,4 @@
-# The Adams Home Bar Illustration Bible
+# Home Bar Illustration Bible
 
 **Version 1.0**  
 **Scope:** 322 cocktail illustrations  
@@ -6,7 +6,7 @@
 
 ## 1. Purpose
 
-This document is the visual constitution for every cocktail illustration in The Adams Home Bar. Every asset should look as though it was commissioned from one illustrator for one premium publication.
+This document is the visual constitution for every cocktail illustration in Home Bar. Every asset should look as though it was commissioned from one illustrator for one premium publication.
 
 The source index contains 322 cocktails, each with a stable `illustrationKey`. The generated manifest preserves those keys as output filenames.
 

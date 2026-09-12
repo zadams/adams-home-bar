@@ -1,4 +1,4 @@
-# Adams Home Bar Illustration System
+# Home Bar Illustration System
 
 This package converts the cocktail index into a production-ready illustration workflow for all **322** drinks.
 

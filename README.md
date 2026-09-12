@@ -1,4 +1,4 @@
-# The Adams Home Bar
+# Home Bar
 
 A Personal Cocktail Manual for the Spirits You Own.
 

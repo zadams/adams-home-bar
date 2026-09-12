@@ -64,7 +64,7 @@ export function HomePage() {
     <div>
       <header className="home-hero">
         <div>
-          <h1 className="home-hero__brand">The Adams Home Bar</h1>
+          <h1 className="home-hero__brand">Home Bar</h1>
           <p className="home-hero__sub">
             A Personal Cocktail Manual for the Spirits You Own
           </p>

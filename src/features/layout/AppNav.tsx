@@ -19,7 +19,7 @@ export function AppNav() {
     <nav className="app-nav" aria-label="Main">
       <div className="app-nav__brand">
         <NavLink to="/" className="app-nav__brand-name" end>
-          The Adams Home Bar
+          Home Bar
         </NavLink>
         <p className="app-nav__brand-sub">
           A Personal Cocktail Manual for the Spirits You Own

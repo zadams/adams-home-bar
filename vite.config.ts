@@ -21,8 +21,8 @@ export default defineConfig({
         '!images/cocktails/review-photoreal/**',
       ],
       manifest: {
-        name: 'The Adams Home Bar',
-        short_name: 'Adams Bar',
+        name: 'Home Bar',
+        short_name: 'Home Bar',
         description: 'A Personal Cocktail Manual for the Spirits You Own',
         theme_color: '#1a2e24',
         background_color: '#1a1510',

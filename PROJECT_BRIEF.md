@@ -1,8 +1,8 @@
-# The Adams Home Bar
+# Home Bar
 
 ## A Personal Cocktail Manual for the Spirits You Own
 
-Build a polished, installable Progressive Web App called **“The Adams Home Bar”**, with the subtitle **“A Personal Cocktail Manual for the Spirits You Own.”**
+Build a polished, installable Progressive Web App called **“Home Bar”**, with the subtitle **“A Personal Cocktail Manual for the Spirits You Own.”**
 
 The app is a personalized cocktail book and home-bar inventory manager designed primarily for an 11-inch iPad Air used horizontally beside a home bar. It should feel like a premium cocktail book combined with a practical bar-management tool—not a generic admin dashboard.
 

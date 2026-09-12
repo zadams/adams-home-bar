@@ -1,4 +1,4 @@
-# The Adams Home Bar — static hosting
+# Home Bar — static hosting
 
 ## GitHub Pages (recommended)
 

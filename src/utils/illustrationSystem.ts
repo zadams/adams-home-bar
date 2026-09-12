@@ -74,7 +74,7 @@ export function resolveIllustration(
       thumbSrc: entry.src?.includes('/thumbs/') ? entry.src : thumbSrc,
       fallbackSrc: entry.fallbackSrc,
       aspectRatio: entry.aspectRatio ?? '1 / 1',
-      credit: entry.credit ?? 'Adams Home Bar editorial illustration',
+      credit: entry.credit ?? 'Home Bar editorial illustration',
       artDirection: art?.artDirection,
     }
   }
