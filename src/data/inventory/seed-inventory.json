@@ -841,12 +841,12 @@
   {
     "id": "inv-grapefruit",
     "ingredientId": "grapefruit",
-    "status": "unknown",
+    "status": "in_stock",
     "productName": "Grapefruit",
     "tags": [
       "fresh"
     ],
-    "notes": "Fresh item — confirm availability before mixing."
+    "notes": "Stocked."
   },
   {
     "id": "inv-mint",
@@ -1029,12 +1029,12 @@
   {
     "id": "inv-prosecco",
     "ingredientId": "prosecco",
-    "status": "unknown",
+    "status": "in_stock",
     "productName": "Prosecco / sparkling wine",
     "tags": [
       "expansion"
     ],
-    "notes": "Confirm before mixing."
+    "notes": "Stocked."
   },
   {
     "id": "inv-honey_syrup",
@@ -1070,13 +1070,13 @@
   {
     "id": "inv-grapefruit_juice",
     "ingredientId": "grapefruit_juice",
-    "status": "unknown",
+    "status": "in_stock",
     "productName": "Fresh grapefruit juice",
     "tags": [
       "fresh",
       "juice"
     ],
-    "notes": "Confirm before mixing."
+    "notes": "Squeezed fresh or bottled."
   },
   {
     "id": "inv-grenadine",
