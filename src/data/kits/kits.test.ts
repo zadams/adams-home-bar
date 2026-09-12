@@ -37,7 +37,7 @@ describe('party kit', () => {
   it('never claims a drink needing something not in the bag', () => {
     // Named ingredients the bar has at home but is not carrying. The kit view
     // must never claim a drink that needs one, however the matcher evolves.
-    const notCarried = ['campari', 'aperol', 'prosecco', 'maraschino', 'grenadine']
+    const notCarried = ['campari', 'aperol', 'prosecco', 'maraschino']
     const carried = kitIngredientIds(partyKit)
     for (const id of notCarried) {
       expect(ingredientById.has(id), id).toBe(true)

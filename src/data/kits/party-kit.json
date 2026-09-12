@@ -101,6 +101,10 @@
     {
       "ingredientId": "cocktail_cherry",
       "label": "Maraschino cherries"
+    },
+    {
+      "ingredientId": "grenadine",
+      "label": "Grenadine"
     }
   ],
   "mixers": [
