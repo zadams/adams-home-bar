@@ -29,6 +29,13 @@ describe('party kit', () => {
     }
   })
 
+  it('does not display an ingredient it is not carrying', () => {
+    const shown = kitEntries(partyKit).map((e) => e.ingredientId)
+    for (const id of ['sweet_vermouth', 'mint', 'cream_of_coconut']) {
+      expect(shown, id).not.toContain(id)
+    }
+  })
+
   it('does not list anything twice', () => {
     const ids = kitEntries(partyKit).map((e) => e.ingredientId)
     expect(new Set(ids).size).toBe(ids.length)
@@ -37,7 +44,16 @@ describe('party kit', () => {
   it('never claims a drink needing something not in the bag', () => {
     // Named ingredients the bar has at home but is not carrying. The kit view
     // must never claim a drink that needs one, however the matcher evolves.
-    const notCarried = ['campari', 'aperol', 'prosecco', 'maraschino', 'sweet_vermouth', 'mint']
+    const notCarried = [
+      'campari',
+      'aperol',
+      'prosecco',
+      'maraschino',
+      // Left at home: the kit must neither list these nor claim their drinks.
+      'sweet_vermouth',
+      'mint',
+      'cream_of_coconut',
+    ]
     const carried = kitIngredientIds(partyKit)
     for (const id of notCarried) {
       expect(ingredientById.has(id), id).toBe(true)
