@@ -1,0 +1,55 @@
+{
+  "id": "bartending-class-party",
+  "name": "Bartending Class Party",
+  "subtitle": "The bar going in the bag",
+  "description": "Fifteen bottles, a dash bottle, and the mixers and fruit to go with them. Everything here is packed or being bought on the way — nothing else in the home bar counts.",
+  "bottles": [
+    { "ingredientId": "vodka", "label": "Kirkland vodka" },
+    { "ingredientId": "gin", "label": "Malfy gin" },
+    { "ingredientId": "bourbon", "label": "Kirkland small-batch bourbon" },
+    { "ingredientId": "irish_whiskey", "label": "Jameson" },
+    { "ingredientId": "blanco_tequila", "label": "Kirkland tequila blanca" },
+    { "ingredientId": "white_rum", "label": "Bacardi Superior" },
+    { "ingredientId": "coconut_rum", "label": "Toasted coconut rum" },
+    { "ingredientId": "cointreau", "label": "Cointreau" },
+    { "ingredientId": "triple_sec", "label": "Cointreau (covers triple sec)" },
+    { "ingredientId": "dry_vermouth", "label": "Extra dry vermouth" },
+    { "ingredientId": "sweet_vermouth", "label": "Sweet vermouth" },
+    { "ingredientId": "coffee_liqueur", "label": "Kahlúa" },
+    { "ingredientId": "baileys", "label": "Baileys Original" },
+    { "ingredientId": "creme_de_cacao", "label": "White crème de cacao" },
+    { "ingredientId": "creme_de_noyaux", "label": "Crème de noyaux" },
+    { "ingredientId": "peach_liqueur", "label": "Peach schnapps" },
+    { "ingredientId": "angostura_bitters", "label": "Angostura" }
+  ],
+  "pantry": [
+    { "ingredientId": "simple_syrup", "label": "Simple syrup" },
+    { "ingredientId": "agave_syrup", "label": "Agave syrup" },
+    { "ingredientId": "sour_mix", "label": "Sweet-and-sour mix" },
+    { "ingredientId": "cream_of_coconut", "label": "Cream of coconut" },
+    { "ingredientId": "demerara_sugar", "label": "Demerara cubes" },
+    { "ingredientId": "mint", "label": "Fresh mint" },
+    { "ingredientId": "cocktail_cherry", "label": "Maraschino cherries" }
+  ],
+  "mixers": [
+    { "ingredientId": "tonic_water", "label": "Tonic" },
+    { "ingredientId": "club_soda", "label": "Club soda" },
+    { "ingredientId": "ginger_beer", "label": "Ginger beer" },
+    { "ingredientId": "cola", "label": "Coca-Cola" },
+    { "ingredientId": "lemon_lime_soda", "label": "Sprite" },
+    { "ingredientId": "orange_juice", "label": "Orange juice" },
+    { "ingredientId": "cranberry_juice", "label": "Cranberry juice" },
+    { "ingredientId": "lime_juice", "label": "Fresh lime juice" },
+    { "ingredientId": "lemon_juice", "label": "Fresh lemon juice" },
+    { "ingredientId": "lime", "label": "Limes" },
+    { "ingredientId": "lemon", "label": "Lemons" },
+    { "ingredientId": "orange", "label": "Oranges" }
+  ],
+  "deliberatelyLeftHome": [
+    { "ingredientId": "campari", "cost": "Negroni, Boulevardier, Americano" },
+    { "ingredientId": "aperol", "cost": "Aperol Spritz, Garibaldi" },
+    { "ingredientId": "prosecco", "cost": "French 75, Mimosa, Bellini" },
+    { "ingredientId": "maraschino", "cost": "Last Word, Hemingway Daiquiri, Martinez" },
+    { "ingredientId": "grenadine", "cost": "Tequila Sunrise, Monkey Gland" }
+  ]
+}

@@ -12,6 +12,9 @@ const CocktailsPage = lazy(() =>
 const ShotsPage = lazy(() =>
   import('./pages/ShotsPage').then((m) => ({ default: m.ShotsPage })),
 )
+const PartyPage = lazy(() =>
+  import('./pages/PartyPage').then((m) => ({ default: m.PartyPage })),
+)
 const CocktailDetailPage = lazy(() =>
   import('./pages/CocktailDetailPage').then((m) => ({
     default: m.CocktailDetailPage,
@@ -78,6 +81,7 @@ export default function App() {
               <Route path="cocktails/:slug" element={<CocktailDetailPage />} />
               <Route path="shots" element={<ShotsPage />} />
               <Route path="shots/:slug" element={<CocktailDetailPage />} />
+              <Route path="party" element={<PartyPage />} />
               <Route path="bar" element={<InventoryPage />} />
               <Route path="bar/:bottleId" element={<BottleDetailPage />} />
               <Route path="make" element={<MakeSomethingPage />} />

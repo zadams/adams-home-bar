@@ -4,6 +4,7 @@ const links: Array<{ to: string; label: string; end?: boolean }> = [
   { to: '/', label: 'Home', end: true },
   { to: '/cocktails', label: 'Cocktails' },
   { to: '/shots', label: 'Shots' },
+  { to: '/party', label: 'Party Kit' },
   { to: '/bar', label: 'My Bar' },
   { to: '/make', label: 'Make Something' },
   { to: '/shopping', label: 'Shopping List' },
