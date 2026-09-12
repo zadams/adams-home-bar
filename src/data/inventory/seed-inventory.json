@@ -1039,12 +1039,12 @@
   {
     "id": "inv-honey_syrup",
     "ingredientId": "honey_syrup",
-    "status": "unknown",
+    "status": "in_stock",
     "productName": "Honey syrup",
     "tags": [
       "expansion"
     ],
-    "notes": "Confirm before mixing."
+    "notes": "Made to order: equal parts honey and warm water."
   },
   {
     "id": "inv-cola",
@@ -1125,12 +1125,12 @@
   {
     "id": "inv-hot_water",
     "ingredientId": "hot_water",
-    "status": "unknown",
+    "status": "in_stock",
     "productName": "Hot water",
     "tags": [
       "pantry"
     ],
-    "notes": "Household staple when brewing tea/coffee — treat as usually available."
+    "notes": "Kettle."
   },
   {
     "id": "inv-amaretto",
