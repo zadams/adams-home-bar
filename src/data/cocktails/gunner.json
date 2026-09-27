@@ -1,0 +1,86 @@
+{
+  "id": "gunner",
+  "slug": "gunner",
+  "name": "Gunner",
+  "aliases": [],
+  "description": "Ginger beer, lime and Angostura, the Hong Kong club classic. A few dashes of bitters; trace alcohol.",
+  "history": "Served at the Royal Hong Kong Yacht Club and colonial-era clubs since the 1920s, traditionally half ginger beer and half ginger ale with lime cordial.",
+  "whyItWorks": "Bitters give ginger beer the depth a spirit would; lime keeps it sharp.",
+  "classifications": [
+    "contains bitters",
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Mule",
+  "flavorProfiles": [
+    "ginger",
+    "lime",
+    "spice",
+    "effervescent"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "light",
+  "glassware": "Highball glass",
+  "ice": "Built over cubes",
+  "garnish": [
+    "Lime wedge"
+  ],
+  "illustrationKey": "gunner",
+  "featuredBottleImages": [],
+  "kind": "mocktail",
+  "ingredients": [
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 3,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "ginger_beer",
+      "amount": 5,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build lime, syrup and bitters over ice.",
+    "Top with ginger beer and stir.",
+    "Garnish."
+  ],
+  "techniqueNotes": [
+    "The original uses half ginger ale for a softer bite; all ginger beer is spicier."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "angostura-aromatic",
+      "rank": 1,
+      "rationale": "The bitters the drink is built on."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "moscow-mule",
+    "dark-n-stormy"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "mocktail",
+    "contains-bitters"
+  ]
+}

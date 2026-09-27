@@ -6,7 +6,7 @@ export function MocktailsPage() {
       kind="mocktail"
       eyebrow="Collection"
       title="Mocktails"
-      lede="Zero-proof: nothing alcoholic, not even a dash of bitters. Search by name, ingredient, or flavor."
+      lede="No spirits, liqueurs or wine. A few take dashes of bitters, marked “contains bitters”. Search by name, ingredient, or flavor."
       crossKindLabel="Search the whole catalog"
     />
   )

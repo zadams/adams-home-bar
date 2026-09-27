@@ -3390,6 +3390,48 @@
       }
     },
     {
+      "id": "bitters-and-soda",
+      "slug": "bitters-and-soda",
+      "name": "Bitters & Soda",
+      "illustrationKey": "bitters-and-soda",
+      "cocktailFamily": "Highball",
+      "classifications": [
+        "contains bitters",
+        "classic",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "bitter",
+        "spice",
+        "lime",
+        "effervescent"
+      ],
+      "ingredientIds": [
+        "angostura_bitters",
+        "lime_juice",
+        "club_soda"
+      ],
+      "artDirection": {
+        "template": "highball",
+        "glass": "highball",
+        "sourceGlassware": "Highball glass",
+        "ice": "Built over cubes",
+        "garnish": "Lime wedge",
+        "liquidPalette": {
+          "name": "deep-amber",
+          "hex": "#6A351E"
+        },
+        "composition": "single centered hero drink, three-quarter view, generous safe area, no text or labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar",
+        "lighting": "warm key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/bitters-and-soda.png",
+          "runtime": "cocktails/webp/bitters-and-soda.webp",
+          "thumbnail": "cocktails/thumbs/bitters-and-soda.webp"
+        }
+      }
+    },
+    {
       "id": "black-manhattan",
       "slug": "black-manhattan",
       "name": "Black Manhattan",
@@ -11267,6 +11309,49 @@
       }
     },
     {
+      "id": "gunner",
+      "slug": "gunner",
+      "name": "Gunner",
+      "illustrationKey": "gunner",
+      "cocktailFamily": "Mule",
+      "classifications": [
+        "contains bitters",
+        "classic",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "ginger",
+        "lime",
+        "spice",
+        "effervescent"
+      ],
+      "ingredientIds": [
+        "lime_juice",
+        "simple_syrup",
+        "angostura_bitters",
+        "ginger_beer"
+      ],
+      "artDirection": {
+        "template": "mule",
+        "glass": "highball",
+        "sourceGlassware": "Highball glass",
+        "ice": "Built over cubes",
+        "garnish": "Lime wedge",
+        "liquidPalette": {
+          "name": "warm-amber",
+          "hex": "#B06932"
+        },
+        "composition": "single centered hero drink, three-quarter view, generous safe area, no text or labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar",
+        "lighting": "warm key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/gunner.png",
+          "runtime": "cocktails/webp/gunner.webp",
+          "thumbnail": "cocktails/thumbs/gunner.webp"
+        }
+      }
+    },
+    {
       "id": "hand-grenade",
       "slug": "hand-grenade",
       "name": "Hand Grenade",
@@ -13462,6 +13547,48 @@
           "master": "cocktails/masters/lemon-vodka-tonic.png",
           "runtime": "cocktails/webp/lemon-vodka-tonic.webp",
           "thumbnail": "cocktails/thumbs/lemon-vodka-tonic.webp"
+        }
+      }
+    },
+    {
+      "id": "lemon-lime-and-bitters",
+      "slug": "lemon-lime-and-bitters",
+      "name": "Lemon, Lime & Bitters",
+      "illustrationKey": "lemon-lime-and-bitters",
+      "cocktailFamily": "Highball",
+      "classifications": [
+        "contains bitters",
+        "classic",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "lime",
+        "lemon",
+        "spice",
+        "effervescent"
+      ],
+      "ingredientIds": [
+        "lime_juice",
+        "angostura_bitters",
+        "lemon_lime_soda"
+      ],
+      "artDirection": {
+        "template": "highball",
+        "glass": "highball",
+        "sourceGlassware": "Highball glass",
+        "ice": "Built over cubes",
+        "garnish": "Lime wedge",
+        "liquidPalette": {
+          "name": "warm-amber",
+          "hex": "#B06932"
+        },
+        "composition": "single centered hero drink, three-quarter view, generous safe area, no text or labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar",
+        "lighting": "warm key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/lemon-lime-and-bitters.png",
+          "runtime": "cocktails/webp/lemon-lime-and-bitters.webp",
+          "thumbnail": "cocktails/thumbs/lemon-lime-and-bitters.webp"
         }
       }
     },

@@ -84,9 +84,8 @@ describe('shot catalog integrity', () => {
     }
   })
 
-  it('keeps every mocktail free of anything alcoholic', () => {
-    // Bitters count: a dash of Angostura is still 44.7% ABV.
-    const alcoholicCategories = new Set(['spirit', 'liqueur', 'bitter'])
+  it('keeps mocktails free of spirits, and says so when bitters are in', () => {
+    const alcoholicCategories = new Set(['spirit', 'liqueur'])
     const alcoholicMixers = new Set(['prosecco', 'red_wine', 'lager_beer', 'irish_stout'])
     expect(mocktails.length).toBeGreaterThan(10)
     for (const drink of mocktails) {
@@ -97,6 +96,13 @@ describe('shot catalog integrity', () => {
           `${drink.id} contains ${line.ingredientId}`,
         ).toBe(false)
       }
+      // Dashes of bitters are allowed but carry trace alcohol (Angostura is
+      // 44.7%), so those drinks must not call themselves non-alcoholic.
+      const hasBitters = drink.ingredients.some(
+        (line) => ingredientById.get(line.ingredientId)?.category === 'bitter',
+      )
+      expect(drink.classifications.includes('contains bitters'), drink.id).toBe(hasBitters)
+      expect(drink.classifications.includes('non-alcoholic'), drink.id).toBe(!hasBitters)
     }
   })
 
