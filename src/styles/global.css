@@ -806,6 +806,24 @@
   line-height: 1.6;
 }
 
+/* drink set chips and the active set's menu notes */
+.set-switch { margin-bottom: 1rem; overflow-x: auto; }
+
+.set-notes {
+  border: 1px solid var(--color-border);
+  padding: 0.9rem 1.1rem;
+  margin-bottom: 1.25rem;
+}
+
+.set-notes__description { margin: 0 0 0.5rem; color: var(--color-text-muted); }
+
+.set-notes__list {
+  margin: 0;
+  padding-left: 1.25rem;
+  font-size: 0.9375rem;
+  line-height: 1.6;
+}
+
 /* segmented cocktails / shots switch */
 .lens-switch { display: inline-flex; border: 1px solid var(--color-border); }
 

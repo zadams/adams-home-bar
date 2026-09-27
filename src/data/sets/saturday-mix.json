@@ -1,0 +1,31 @@
+{
+  "id": "saturday-mix",
+  "name": "Saturday Mix",
+  "description": "One from each lane, made from what is home after the party: no mint, no Baileys. Fresh citrus, juices and cream required.",
+  "drinks": [
+    {
+      "drinkId": "jungle-bird",
+      "note": "Havana Club Especial; Kraken if you want it darker."
+    },
+    {
+      "drinkId": "hemingway-daiquiri",
+      "note": "Havana Club 3 and fresh grapefruit. Shake hard."
+    },
+    {
+      "drinkId": "gold-rush",
+      "note": "Russell's 10 or Angel's Envy over a big cube."
+    },
+    {
+      "drinkId": "blood-and-sand",
+      "note": "Taste the sweet vermouth first; if it is flat or sour, skip this one."
+    },
+    {
+      "drinkId": "airmail",
+      "note": "Only if the prosecco is unopened."
+    },
+    {
+      "drinkId": "pink-squirrel",
+      "note": "Nightcap. Grate nutmeg on top."
+    }
+  ]
+}

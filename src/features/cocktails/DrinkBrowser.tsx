@@ -1,5 +1,7 @@
 import { useEffect, useMemo, useState } from 'react'
-import { cocktails, drinks, ingredientById, isShot, seedInventory, shots } from '../../data'
+import { useSearchParams } from 'react-router-dom'
+import { cocktailById, cocktails, drinks, ingredientById, isShot, seedInventory, shots } from '../../data'
+import { drinkSetById, drinkSets, setDrinks } from '../../data/sets'
 import {
   assessReadiness,
   readinessSortKey,
@@ -64,6 +66,7 @@ export function DrinkBrowser({
   crossKindLabel,
 }: DrinkBrowserProps) {
   const { userData } = useUserData()
+  const [params, setParams] = useSearchParams()
   const [query, setQuery] = useState('')
   const [readinessFilter, setReadinessFilter] = useState<'all' | ReadinessState>(
     'all',
@@ -75,10 +78,28 @@ export function DrinkBrowser({
   const scoped = kind === 'shot' ? shots : cocktails
   const q = query.trim().toLowerCase()
 
+  // Only offer sets that have something on this page.
+  const availableSets = drinkSets.filter((set) =>
+    setDrinks(set).some((d) => (isShot(d) ? 'shot' : 'cocktail') === kind),
+  )
+  const activeSet = drinkSetById.get(params.get('set') ?? '')
+
+  const chooseSet = (id: string | null) => {
+    const next = new URLSearchParams(params)
+    if (id) next.set('set', id)
+    else next.delete('set')
+    setParams(next, { replace: true })
+  }
+
   // The toggle only widens an active search; with an empty box the page always
   // browses its own kind, which is the whole point of separating them.
   const searchingAcrossKinds = searchEverything && q.length > 0
-  const pool = searchingAcrossKinds ? drinks : scoped
+  // A set is a menu, so it shows whole: shots and cocktails alike.
+  const setPool = useMemo(
+    () => (activeSet ? setDrinks(activeSet) : null),
+    [activeSet],
+  )
+  const pool = setPool ?? (searchingAcrossKinds ? drinks : scoped)
 
   // Readiness depends only on inventory, so it is computed once per pool
   // change rather than on every keystroke.
@@ -121,7 +142,7 @@ export function DrinkBrowser({
   // Any change to the result set starts the list over at the first page.
   useEffect(() => {
     setVisibleCount(PAGE_SIZE)
-  }, [q, readinessFilter, sort, searchEverything, kind])
+  }, [q, readinessFilter, sort, searchEverything, kind, activeSet])
 
   const shown = items.slice(0, visibleCount)
   const remaining = items.length - shown.length
@@ -137,6 +158,41 @@ export function DrinkBrowser({
         <h1 className="page-header__title">{title}</h1>
         <p className="page-header__lede">{lede}</p>
       </header>
+
+      {availableSets.length > 0 && (
+        <div className="set-switch">
+          <div className="lens-switch" role="group" aria-label="Drink sets">
+            {[null, ...availableSets].map((set) => {
+              const on = (activeSet?.id ?? null) === (set?.id ?? null)
+              return (
+                <button
+                  key={set?.id ?? 'all'}
+                  type="button"
+                  className={on ? 'lens-switch__btn is-on' : 'lens-switch__btn'}
+                  aria-pressed={on}
+                  onClick={() => chooseSet(set?.id ?? null)}
+                >
+                  {set ? set.name : `All ${title}`}
+                </button>
+              )
+            })}
+          </div>
+        </div>
+      )}
+
+      {activeSet && (
+        <section className="set-notes">
+          <p className="set-notes__description">{activeSet.description}</p>
+          <ol className="set-notes__list">
+            {activeSet.drinks.map((entry) => (
+              <li key={entry.drinkId}>
+                <b>{cocktailById.get(entry.drinkId)?.name ?? entry.drinkId}</b>
+                {entry.note ? ` — ${entry.note}` : ''}
+              </li>
+            ))}
+          </ol>
+        </section>
+      )}
 
       <div className="toolbar">
         <label className="search-field">
@@ -202,7 +258,7 @@ export function DrinkBrowser({
               key={cocktail.id}
               cocktail={cocktail}
               readiness={readiness}
-              showKindBadge={isShot(cocktail) && kind !== 'shot'}
+              showKindBadge={isShot(cocktail) !== (kind === 'shot')}
             />
           ))}
         </div>
