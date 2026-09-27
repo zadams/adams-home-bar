@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-12T05:38:59.570Z",
-  "count": 589,
+  "generatedAt": "2026-09-27T02:05:18.213Z",
+  "count": 606,
   "cocktails": [
     {
       "id": "adios-motherfucker",
@@ -4955,6 +4955,40 @@
       ]
     },
     {
+      "id": "cinderella",
+      "slug": "cinderella",
+      "name": "Cinderella",
+      "file": "cinderella.json",
+      "cocktailFamily": "Fizz",
+      "classifications": [
+        "non-alcoholic",
+        "classic",
+        "sour",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "orange",
+        "pineapple",
+        "citrus",
+        "effervescent"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Collins glass",
+      "illustrationKey": "cinderella",
+      "tags": [
+        "mocktail",
+        "non-alcoholic"
+      ],
+      "ingredientIds": [
+        "orange_juice",
+        "pineapple_juice",
+        "lemon_juice",
+        "grenadine",
+        "club_soda"
+      ]
+    },
+    {
       "id": "cinnamon-toast-crunch",
       "slug": "cinnamon-toast-crunch",
       "name": "Cinnamon Toast Crunch",
@@ -5713,6 +5747,36 @@
         "cointreau",
         "lime_juice",
         "cranberry_juice"
+      ]
+    },
+    {
+      "id": "cranberry-ginger-fizz",
+      "slug": "cranberry-ginger-fizz",
+      "name": "Cranberry Ginger Fizz",
+      "file": "cranberry-ginger-fizz.json",
+      "cocktailFamily": "Highball",
+      "classifications": [
+        "non-alcoholic",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "cranberry",
+        "ginger",
+        "tart",
+        "effervescent"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Highball glass",
+      "illustrationKey": "cranberry-ginger-fizz",
+      "tags": [
+        "mocktail",
+        "non-alcoholic"
+      ],
+      "ingredientIds": [
+        "cranberry_juice",
+        "lime_juice",
+        "ginger_beer"
       ]
     },
     {
@@ -8262,6 +8326,35 @@
       ]
     },
     {
+      "id": "grapefruit-tonic",
+      "slug": "grapefruit-tonic",
+      "name": "Grapefruit Tonic",
+      "file": "grapefruit-tonic.json",
+      "cocktailFamily": "Highball",
+      "classifications": [
+        "non-alcoholic",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "grapefruit",
+        "bitter",
+        "effervescent"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Highball glass",
+      "illustrationKey": "grapefruit-tonic",
+      "tags": [
+        "mocktail",
+        "non-alcoholic"
+      ],
+      "ingredientIds": [
+        "grapefruit_juice",
+        "simple_syrup",
+        "tonic_water"
+      ]
+    },
+    {
       "id": "grasshopper",
       "slug": "grasshopper",
       "name": "Grasshopper",
@@ -8558,6 +8651,36 @@
       "ingredientIds": [
         "cream_liqueur",
         "bourbon"
+      ]
+    },
+    {
+      "id": "honey-ginger-highball",
+      "slug": "honey-ginger-highball",
+      "name": "Honey Ginger Highball",
+      "file": "honey-ginger-highball.json",
+      "cocktailFamily": "Highball",
+      "classifications": [
+        "non-alcoholic",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "honey",
+        "lemon",
+        "ginger",
+        "effervescent"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Highball glass",
+      "illustrationKey": "honey-ginger-highball",
+      "tags": [
+        "mocktail",
+        "non-alcoholic"
+      ],
+      "ingredientIds": [
+        "lemon_juice",
+        "honey_syrup",
+        "ginger_beer"
       ]
     },
     {
@@ -8888,6 +9011,35 @@
       "ingredientIds": [
         "spiced_rum",
         "brown_sugar_cinnamon_syrup",
+        "hot_water"
+      ]
+    },
+    {
+      "id": "hot-honey-lemon",
+      "slug": "hot-honey-lemon",
+      "name": "Hot Honey Lemon",
+      "file": "hot-honey-lemon.json",
+      "cocktailFamily": "Hot",
+      "classifications": [
+        "non-alcoholic",
+        "hot"
+      ],
+      "flavorProfiles": [
+        "honey",
+        "lemon",
+        "warm"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Mug",
+      "illustrationKey": "hot-honey-lemon",
+      "tags": [
+        "mocktail",
+        "non-alcoholic"
+      ],
+      "ingredientIds": [
+        "lemon_juice",
+        "honey_syrup",
         "hot_water"
       ]
     },
@@ -10012,6 +10164,36 @@
       "ingredientIds": [
         "lemon_vodka",
         "tonic_water"
+      ]
+    },
+    {
+      "id": "lime-rickey",
+      "slug": "lime-rickey",
+      "name": "Lime Rickey",
+      "file": "lime-rickey.json",
+      "cocktailFamily": "Highball",
+      "classifications": [
+        "non-alcoholic",
+        "classic",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "lime",
+        "tart",
+        "effervescent"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Highball glass",
+      "illustrationKey": "lime-rickey",
+      "tags": [
+        "mocktail",
+        "non-alcoholic"
+      ],
+      "ingredientIds": [
+        "lime_juice",
+        "simple_syrup",
+        "club_soda"
       ]
     },
     {
@@ -11473,6 +11655,37 @@
       ]
     },
     {
+      "id": "orange-creamsicle-fizz",
+      "slug": "orange-creamsicle-fizz",
+      "name": "Orange Creamsicle Fizz",
+      "file": "orange-creamsicle-fizz.json",
+      "cocktailFamily": "Fizz",
+      "classifications": [
+        "non-alcoholic",
+        "dessert",
+        "fizz"
+      ],
+      "flavorProfiles": [
+        "orange",
+        "creamy",
+        "effervescent"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Collins glass",
+      "illustrationKey": "orange-creamsicle-fizz",
+      "tags": [
+        "mocktail",
+        "non-alcoholic"
+      ],
+      "ingredientIds": [
+        "orange_juice",
+        "heavy_cream",
+        "simple_syrup",
+        "club_soda"
+      ]
+    },
+    {
       "id": "orange-crush",
       "slug": "orange-crush",
       "name": "Orange Crush",
@@ -11501,6 +11714,36 @@
         "vodka",
         "cointreau",
         "orange_juice"
+      ]
+    },
+    {
+      "id": "orgeat-lemonade",
+      "slug": "orgeat-lemonade",
+      "name": "Orgeat Lemonade",
+      "file": "orgeat-lemonade.json",
+      "cocktailFamily": "Highball",
+      "classifications": [
+        "non-alcoholic",
+        "highball",
+        "tropical"
+      ],
+      "flavorProfiles": [
+        "almond",
+        "lemon",
+        "effervescent"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Collins glass",
+      "illustrationKey": "orgeat-lemonade",
+      "tags": [
+        "mocktail",
+        "non-alcoholic"
+      ],
+      "ingredientIds": [
+        "lemon_juice",
+        "orgeat",
+        "club_soda"
       ]
     },
     {
@@ -12415,6 +12658,38 @@
       ]
     },
     {
+      "id": "pineapple-cinnamon-cooler",
+      "slug": "pineapple-cinnamon-cooler",
+      "name": "Pineapple Cinnamon Cooler",
+      "file": "pineapple-cinnamon-cooler.json",
+      "cocktailFamily": "Highball",
+      "classifications": [
+        "non-alcoholic",
+        "highball",
+        "tropical"
+      ],
+      "flavorProfiles": [
+        "pineapple",
+        "cinnamon",
+        "lime",
+        "effervescent"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Collins glass",
+      "illustrationKey": "pineapple-cinnamon-cooler",
+      "tags": [
+        "mocktail",
+        "non-alcoholic"
+      ],
+      "ingredientIds": [
+        "pineapple_juice",
+        "lime_juice",
+        "brown_sugar_cinnamon_syrup",
+        "club_soda"
+      ]
+    },
+    {
       "id": "pineapple-upside-down-cake",
       "slug": "pineapple-upside-down-cake",
       "name": "Pineapple Upside Down Cake",
@@ -12496,13 +12771,12 @@
         "dessert",
         "almond",
         "chocolate",
-        "classic",
-        "ready-from-new-stock"
+        "classic"
       ],
       "ingredientIds": [
         "creme_de_noyaux",
         "creme_de_cacao",
-        "baileys"
+        "heavy_cream"
       ]
     },
     {
@@ -13203,7 +13477,8 @@
         "grenadine",
         "cola",
         "non-alcoholic",
-        "popular"
+        "popular",
+        "mocktail"
       ],
       "ingredientIds": [
         "grenadine",
@@ -14583,7 +14858,8 @@
         "grenadine",
         "non-alcoholic",
         "classic",
-        "popular"
+        "popular",
+        "mocktail"
       ],
       "ingredientIds": [
         "grenadine",
@@ -14951,6 +15227,35 @@
         "lime_juice",
         "simple_syrup",
         "mint",
+        "club_soda"
+      ]
+    },
+    {
+      "id": "sparkling-lemonade",
+      "slug": "sparkling-lemonade",
+      "name": "Sparkling Lemonade",
+      "file": "sparkling-lemonade.json",
+      "cocktailFamily": "Highball",
+      "classifications": [
+        "non-alcoholic",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "lemon",
+        "sweet",
+        "effervescent"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Collins glass",
+      "illustrationKey": "sparkling-lemonade",
+      "tags": [
+        "mocktail",
+        "non-alcoholic"
+      ],
+      "ingredientIds": [
+        "lemon_juice",
+        "simple_syrup",
         "club_soda"
       ]
     },
@@ -16441,6 +16746,219 @@
         "benedictine",
         "peychauds_bitters",
         "angostura_bitters"
+      ]
+    },
+    {
+      "id": "virgin-mary",
+      "slug": "virgin-mary",
+      "name": "Virgin Mary",
+      "file": "virgin-mary.json",
+      "cocktailFamily": "Savory",
+      "classifications": [
+        "non-alcoholic",
+        "classic",
+        "savory",
+        "brunch"
+      ],
+      "flavorProfiles": [
+        "savory",
+        "tomato",
+        "spicy"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Highball glass",
+      "illustrationKey": "virgin-mary",
+      "tags": [
+        "mocktail",
+        "non-alcoholic"
+      ],
+      "ingredientIds": [
+        "tomato_juice",
+        "lemon_juice",
+        "worcestershire_sauce",
+        "hot_sauce",
+        "salt"
+      ]
+    },
+    {
+      "id": "virgin-mojito",
+      "slug": "virgin-mojito",
+      "name": "Virgin Mojito",
+      "file": "virgin-mojito.json",
+      "cocktailFamily": "Highball",
+      "classifications": [
+        "non-alcoholic",
+        "classic",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "mint",
+        "lime",
+        "effervescent"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Highball glass",
+      "illustrationKey": "virgin-mojito",
+      "tags": [
+        "mocktail",
+        "non-alcoholic"
+      ],
+      "ingredientIds": [
+        "mint",
+        "lime_juice",
+        "simple_syrup",
+        "club_soda"
+      ]
+    },
+    {
+      "id": "virgin-mule",
+      "slug": "virgin-mule",
+      "name": "Virgin Mule",
+      "file": "virgin-mule.json",
+      "cocktailFamily": "Mule",
+      "classifications": [
+        "non-alcoholic",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "ginger",
+        "lime",
+        "spicy",
+        "effervescent"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Copper mug",
+      "illustrationKey": "virgin-mule",
+      "tags": [
+        "mocktail",
+        "non-alcoholic"
+      ],
+      "ingredientIds": [
+        "lime_juice",
+        "ginger_beer"
+      ]
+    },
+    {
+      "id": "virgin-painkiller",
+      "slug": "virgin-painkiller",
+      "name": "Virgin Painkiller",
+      "file": "virgin-painkiller.json",
+      "cocktailFamily": "Tropical",
+      "classifications": [
+        "non-alcoholic",
+        "tropical"
+      ],
+      "flavorProfiles": [
+        "pineapple",
+        "coconut",
+        "orange",
+        "spice"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Double old fashioned",
+      "illustrationKey": "virgin-painkiller",
+      "tags": [
+        "mocktail",
+        "non-alcoholic"
+      ],
+      "ingredientIds": [
+        "pineapple_juice",
+        "orange_juice",
+        "cream_of_coconut"
+      ]
+    },
+    {
+      "id": "virgin-paloma",
+      "slug": "virgin-paloma",
+      "name": "Virgin Paloma",
+      "file": "virgin-paloma.json",
+      "cocktailFamily": "Highball",
+      "classifications": [
+        "non-alcoholic",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "grapefruit",
+        "lime",
+        "salty",
+        "effervescent"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Highball glass",
+      "illustrationKey": "virgin-paloma",
+      "tags": [
+        "mocktail",
+        "non-alcoholic"
+      ],
+      "ingredientIds": [
+        "grapefruit_juice",
+        "lime_juice",
+        "agave_syrup",
+        "salt",
+        "club_soda"
+      ]
+    },
+    {
+      "id": "virgin-pina-colada",
+      "slug": "virgin-pina-colada",
+      "name": "Virgin Piña Colada",
+      "file": "virgin-pina-colada.json",
+      "cocktailFamily": "Tropical",
+      "classifications": [
+        "non-alcoholic",
+        "tropical",
+        "blended"
+      ],
+      "flavorProfiles": [
+        "pineapple",
+        "coconut",
+        "creamy"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Hurricane glass",
+      "illustrationKey": "virgin-pina-colada",
+      "tags": [
+        "mocktail",
+        "non-alcoholic"
+      ],
+      "ingredientIds": [
+        "pineapple_juice",
+        "cream_of_coconut",
+        "lime_juice"
+      ]
+    },
+    {
+      "id": "virgin-sunrise",
+      "slug": "virgin-sunrise",
+      "name": "Virgin Sunrise",
+      "file": "virgin-sunrise.json",
+      "cocktailFamily": "Highball",
+      "classifications": [
+        "non-alcoholic",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "orange",
+        "sweet",
+        "fruity"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Highball glass",
+      "illustrationKey": "virgin-sunrise",
+      "tags": [
+        "mocktail",
+        "non-alcoholic"
+      ],
+      "ingredientIds": [
+        "orange_juice",
+        "grenadine"
       ]
     },
     {

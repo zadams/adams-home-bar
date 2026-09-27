@@ -31,9 +31,16 @@ export function isShot(drink: Cocktail): boolean {
   return drinkKind(drink) === 'shot'
 }
 
+/** Where each kind lives: its route and the name its page goes by. */
+export const drinkSections: Record<DrinkKind, { path: string; title: string }> = {
+  cocktail: { path: '/cocktails', title: 'Cocktails' },
+  shot: { path: '/shots', title: 'Shots' },
+  mocktail: { path: '/mocktails', title: 'Mocktails' },
+}
+
 /** Route for a drink's detail page, so links never hardcode the wrong section. */
 export function drinkPath(drink: Cocktail): string {
-  return `/${isShot(drink) ? 'shots' : 'cocktails'}/${drink.slug}`
+  return `${drinkSections[drinkKind(drink)].path}/${drink.slug}`
 }
 
 /** Route for a drink id, falling back to the cocktails section if unknown. */
@@ -42,11 +49,20 @@ export function drinkPathById(id: string): string {
   return drink ? drinkPath(drink) : `/cocktails/${id}`
 }
 
-/** Cocktails only — shots are excluded. Use `drinks` when you mean everything. */
-export const cocktails = drinks.filter((d) => !isShot(d))
+/** Cocktails only — shots and mocktails are excluded. Use `drinks` when you mean everything. */
+export const cocktails = drinks.filter((d) => drinkKind(d) === 'cocktail')
 
 /** Shots only. */
 export const shots = drinks.filter((d) => isShot(d))
+
+/** Alcohol-free drinks only. */
+export const mocktails = drinks.filter((d) => drinkKind(d) === 'mocktail')
+
+export const drinksByKind: Record<DrinkKind, Cocktail[]> = {
+  cocktail: cocktails,
+  shot: shots,
+  mocktail: mocktails,
+}
 
 export const ingredientById = new Map(ingredients.map((i) => [i.id, i]))
 export const bottleById = new Map(bottles.map((b) => [b.id, b]))

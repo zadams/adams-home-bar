@@ -1,0 +1,69 @@
+{
+  "id": "honey-ginger-highball",
+  "slug": "honey-ginger-highball",
+  "name": "Honey Ginger Highball",
+  "aliases": [],
+  "description": "Lemon and honey syrup lengthened with ginger beer.",
+  "whyItWorks": "The honey-lemon of a Gold Rush with ginger beer standing in for the bourbon.",
+  "classifications": [
+    "non-alcoholic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "honey",
+    "lemon",
+    "ginger",
+    "effervescent"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "light",
+  "glassware": "Highball glass",
+  "ice": "Built over cubes",
+  "garnish": [
+    "Lemon wheel"
+  ],
+  "illustrationKey": "honey-ginger-highball",
+  "featuredBottleImages": [],
+  "kind": "mocktail",
+  "ingredients": [
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "honey_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "ginger_beer",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Stir lemon and honey syrup in the glass until combined.",
+    "Add ice and top with ginger beer.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "gold-rush"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "mocktail",
+    "non-alcoholic"
+  ]
+}

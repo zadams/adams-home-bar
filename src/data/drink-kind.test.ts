@@ -7,7 +7,9 @@ import {
   drinkPath,
   drinkPathById,
   drinks,
+  ingredientById,
   isShot,
+  mocktails,
   shots,
 } from './index'
 
@@ -27,7 +29,7 @@ describe('drink kind', () => {
   })
 
   it('partitions the catalog with no overlap and no loss', () => {
-    expect(cocktails.length + shots.length).toBe(drinks.length)
+    expect(cocktails.length + shots.length + mocktails.length).toBe(drinks.length)
     const shotIds = new Set(shots.map((s) => s.id))
     expect(cocktails.some((c) => shotIds.has(c.id))).toBe(false)
     expect(shots.every(isShot)).toBe(true)
@@ -80,5 +82,25 @@ describe('shot catalog integrity', () => {
         expect(cocktailById.has(id), `${drink.id} -> ${id}`).toBe(true)
       }
     }
+  })
+
+  it('keeps every mocktail free of anything alcoholic', () => {
+    // Bitters count: a dash of Angostura is still 44.7% ABV.
+    const alcoholicCategories = new Set(['spirit', 'liqueur', 'bitter'])
+    const alcoholicMixers = new Set(['prosecco', 'red_wine', 'lager_beer', 'irish_stout'])
+    expect(mocktails.length).toBeGreaterThan(10)
+    for (const drink of mocktails) {
+      for (const line of drink.ingredients) {
+        const category = ingredientById.get(line.ingredientId)?.category ?? ''
+        expect(
+          alcoholicCategories.has(category) || alcoholicMixers.has(line.ingredientId),
+          `${drink.id} contains ${line.ingredientId}`,
+        ).toBe(false)
+      }
+    }
+  })
+
+  it('routes mocktails to their own section', () => {
+    expect(drinkPath(cocktailById.get('virgin-mojito')!)).toBe('/mocktails/virgin-mojito')
   })
 })

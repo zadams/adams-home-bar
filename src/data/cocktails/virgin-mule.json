@@ -1,0 +1,64 @@
+{
+  "id": "virgin-mule",
+  "slug": "virgin-mule",
+  "name": "Virgin Mule",
+  "aliases": [],
+  "description": "Ginger beer and fresh lime over ice in a copper mug.",
+  "whyItWorks": "Good ginger beer already has the heat; lime is what makes it a drink rather than a soda.",
+  "classifications": [
+    "non-alcoholic",
+    "highball"
+  ],
+  "cocktailFamily": "Mule",
+  "flavorProfiles": [
+    "ginger",
+    "lime",
+    "spicy",
+    "effervescent"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "light",
+  "glassware": "Copper mug",
+  "ice": "Built over cubes",
+  "garnish": [
+    "Lime wedge"
+  ],
+  "illustrationKey": "virgin-mule",
+  "featuredBottleImages": [],
+  "kind": "mocktail",
+  "ingredients": [
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "ginger_beer",
+      "amount": 5,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Squeeze lime into a mug of ice.",
+    "Top with ginger beer and stir.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "moscow-mule",
+    "dark-n-stormy"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "mocktail",
+    "non-alcoholic"
+  ]
+}

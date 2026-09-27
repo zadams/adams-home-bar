@@ -7,7 +7,7 @@ export function CocktailsPage() {
       eyebrow="Collection"
       title="Cocktails"
       lede="Search by name, ingredient, flavor, or family."
-      crossKindLabel="Search shots too"
+      crossKindLabel="Search the whole catalog"
     />
   )
 }

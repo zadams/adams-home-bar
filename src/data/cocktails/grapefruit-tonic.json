@@ -1,0 +1,65 @@
+{
+  "id": "grapefruit-tonic",
+  "slug": "grapefruit-tonic",
+  "name": "Grapefruit Tonic",
+  "aliases": [],
+  "description": "Fresh grapefruit and tonic with a squeeze of lime.",
+  "whyItWorks": "Tonic’s quinine bitterness does what a spirit would: gives it grip.",
+  "classifications": [
+    "non-alcoholic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "grapefruit",
+    "bitter",
+    "effervescent"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "light",
+  "glassware": "Highball glass",
+  "ice": "Built over cubes",
+  "garnish": [
+    "Lime wedge"
+  ],
+  "illustrationKey": "grapefruit-tonic",
+  "featuredBottleImages": [],
+  "kind": "mocktail",
+  "ingredients": [
+    {
+      "ingredientId": "grapefruit_juice",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "tonic_water",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build grapefruit and syrup over ice.",
+    "Top with tonic, squeeze in the lime and stir once."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "mocktail",
+    "non-alcoholic"
+  ]
+}

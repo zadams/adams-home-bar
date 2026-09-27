@@ -26,6 +26,7 @@
     "Orange slice"
   ],
   "illustrationKey": "shirley-temple",
+  "kind": "mocktail",
   "ingredients": [
     {
       "ingredientId": "grenadine",
@@ -83,7 +84,8 @@
     "grenadine",
     "non-alcoholic",
     "classic",
-    "popular"
+    "popular",
+    "mocktail"
   ],
   "featuredBottleImages": []
 }

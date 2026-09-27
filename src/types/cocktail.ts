@@ -15,7 +15,7 @@ export type Unit =
   | 'to_taste'
   | 'top'
 
-export type DrinkKind = 'cocktail' | 'shot'
+export type DrinkKind = 'cocktail' | 'shot' | 'mocktail'
 
 export type Difficulty = 'easy' | 'medium' | 'advanced'
 export type Strength = 'light' | 'medium' | 'strong' | 'spirit-forward'

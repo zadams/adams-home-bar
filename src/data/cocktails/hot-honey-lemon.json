@@ -1,0 +1,68 @@
+{
+  "id": "hot-honey-lemon",
+  "slug": "hot-honey-lemon",
+  "name": "Hot Honey Lemon",
+  "aliases": [],
+  "description": "Honey, lemon and hot water: a toddy without the whiskey.",
+  "whyItWorks": "Warm water opens up the honey; lemon keeps it from being just sweet.",
+  "classifications": [
+    "non-alcoholic",
+    "hot"
+  ],
+  "cocktailFamily": "Hot",
+  "flavorProfiles": [
+    "honey",
+    "lemon",
+    "warm"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "light",
+  "glassware": "Mug",
+  "ice": "None; served hot",
+  "garnish": [
+    "Lemon wheel"
+  ],
+  "illustrationKey": "hot-honey-lemon",
+  "featuredBottleImages": [],
+  "kind": "mocktail",
+  "ingredients": [
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "honey_syrup",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "hot_water",
+      "amount": 5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Warm the mug with hot water, then discard.",
+    "Add lemon and honey syrup.",
+    "Top with hot water, stir and garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "hot-toddy"
+  ],
+  "seasonality": [
+    "winter"
+  ],
+  "tags": [
+    "mocktail",
+    "non-alcoholic"
+  ]
+}

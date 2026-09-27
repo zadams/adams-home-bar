@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import type { Cocktail } from '../../types/cocktail'
 import type { ReadinessResult } from '../../services/recommendation/readiness'
-import { ingredientById, isShot } from '../../data'
+import { drinkKind, drinkPath, ingredientById } from '../../data'
 import { CocktailIllustration } from '../../components/CocktailIllustration'
 import { readinessClass } from '../../utils/illustrations'
 
@@ -9,7 +9,7 @@ interface CocktailCardProps {
   cocktail: Cocktail
   readiness: ReadinessResult
   /**
-   * Show a "Shot" chip on the name. Only set when the card appears somewhere
+   * Show a "Shot" or "Mocktail" chip on the name. Only set when the card appears somewhere
    * its kind is not implied — a cross-kind search result, favorites, history.
    */
   showKindBadge?: boolean
@@ -35,11 +35,11 @@ export function CocktailCard({
   showKindBadge = false,
 }: CocktailCardProps) {
   const keySpirit = keyIngredientLabel(cocktail)
-  const shot = isShot(cocktail)
+  const kind = drinkKind(cocktail)
 
   return (
     <Link
-      to={`/${shot ? 'shots' : 'cocktails'}/${cocktail.slug}`}
+      to={drinkPath(cocktail)}
       className="cocktail-card"
     >
       <CocktailIllustration
@@ -53,8 +53,10 @@ export function CocktailCard({
       <div className="cocktail-card__body">
         <h2 className="cocktail-card__name">
           {cocktail.name}
-          {showKindBadge && shot && (
-            <span className="cocktail-card__kind">Shot</span>
+          {showKindBadge && kind !== 'cocktail' && (
+            <span className="cocktail-card__kind">
+              {kind === 'shot' ? 'Shot' : 'Mocktail'}
+            </span>
           )}
         </h2>
         <div className="cocktail-card__meta">

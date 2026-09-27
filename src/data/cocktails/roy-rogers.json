@@ -25,6 +25,7 @@
     "Cocktail cherry"
   ],
   "illustrationKey": "roy-rogers",
+  "kind": "mocktail",
   "ingredients": [
     {
       "ingredientId": "grenadine",
@@ -66,7 +67,8 @@
     "grenadine",
     "cola",
     "non-alcoholic",
-    "popular"
+    "popular",
+    "mocktail"
   ],
   "featuredBottleImages": []
 }

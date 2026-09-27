@@ -1,0 +1,70 @@
+{
+  "id": "virgin-painkiller",
+  "slug": "virgin-painkiller",
+  "name": "Virgin Painkiller",
+  "aliases": [],
+  "description": "Pineapple, orange and cream of coconut with fresh nutmeg on top.",
+  "whyItWorks": "Orange gives it an edge the colada lacks; the nutmeg is what makes it read as a Painkiller.",
+  "classifications": [
+    "non-alcoholic",
+    "tropical"
+  ],
+  "cocktailFamily": "Tropical",
+  "flavorProfiles": [
+    "pineapple",
+    "coconut",
+    "orange",
+    "spice"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "light",
+  "glassware": "Double old fashioned",
+  "ice": "Shaken; over crushed ice",
+  "garnish": [
+    "Fresh nutmeg",
+    "Orange wheel"
+  ],
+  "illustrationKey": "virgin-painkiller",
+  "featuredBottleImages": [],
+  "kind": "mocktail",
+  "ingredients": [
+    {
+      "ingredientId": "pineapple_juice",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cream_of_coconut",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake with ice.",
+    "Pour over crushed ice.",
+    "Grate nutmeg over the top."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "painkiller"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "mocktail",
+    "non-alcoholic"
+  ]
+}

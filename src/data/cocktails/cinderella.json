@@ -1,0 +1,83 @@
+{
+  "id": "cinderella",
+  "slug": "cinderella",
+  "name": "Cinderella",
+  "aliases": [],
+  "description": "Orange, pineapple and lemon shaken with a splash of grenadine and topped with soda.",
+  "history": "A soda-fountain and hotel-bar staple since the 1930s, and the standard answer when a guest wanted something shaken without the spirit.",
+  "whyItWorks": "Three juices keep it from tasting like any one of them; the lemon and soda stop it going sweet.",
+  "classifications": [
+    "non-alcoholic",
+    "classic",
+    "sour",
+    "highball"
+  ],
+  "cocktailFamily": "Fizz",
+  "flavorProfiles": [
+    "orange",
+    "pineapple",
+    "citrus",
+    "effervescent"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "light",
+  "glassware": "Collins glass",
+  "ice": "Shaken; over fresh cubes",
+  "garnish": [
+    "Orange wheel",
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "cinderella",
+  "featuredBottleImages": [],
+  "kind": "mocktail",
+  "ingredients": [
+    {
+      "ingredientId": "orange_juice",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "pineapple_juice",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grenadine",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Shake the juices and grenadine with ice.",
+    "Strain over fresh ice in a Collins glass.",
+    "Top with soda and garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "mocktail",
+    "non-alcoholic"
+  ]
+}

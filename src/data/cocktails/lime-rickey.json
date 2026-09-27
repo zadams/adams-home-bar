@@ -1,0 +1,70 @@
+{
+  "id": "lime-rickey",
+  "slug": "lime-rickey",
+  "name": "Lime Rickey",
+  "aliases": [],
+  "description": "Fresh lime, a little sugar and plenty of soda, the soda-fountain original.",
+  "history": "The Rickey was a gin drink first, in 1880s Washington; soda fountains dropped the gin and the Lime Rickey outlived it.",
+  "whyItWorks": "Barely sweet and very cold; the lime does all the work.",
+  "classifications": [
+    "non-alcoholic",
+    "classic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "lime",
+    "tart",
+    "effervescent"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "light",
+  "glassware": "Highball glass",
+  "ice": "Built over cubes",
+  "garnish": [
+    "Lime wheel"
+  ],
+  "illustrationKey": "lime-rickey",
+  "featuredBottleImages": [],
+  "kind": "mocktail",
+  "ingredients": [
+    {
+      "ingredientId": "lime_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "top"
+    }
+  ],
+  "steps": [
+    "Build lime and syrup over ice in a highball.",
+    "Top with soda and stir once.",
+    "Garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "gin-rickey"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "mocktail",
+    "non-alcoholic"
+  ]
+}

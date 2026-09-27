@@ -8,7 +8,8 @@ import {
   cocktailById,
   drinkPath,
   getIngredientName,
-  isShot,
+  drinkKind,
+  drinkSections,
 } from '../../data'
 import ingredientImages from '../../data/illustrations/ingredients.json'
 import { CocktailIllustration } from '../../components/CocktailIllustration'
@@ -54,14 +55,13 @@ export function RecipeView({ cocktail, readiness }: RecipeViewProps) {
       bottle: bottleById.get(rec.bottleId),
     }))
 
+  const section = drinkSections[drinkKind(cocktail)]
+
   return (
     <article className="recipe-spread">
       <div className="recipe-spread__left">
-        <Link
-          to={isShot(cocktail) ? '/shots' : '/cocktails'}
-          className="recipe-spread__back"
-        >
-          {isShot(cocktail) ? '← All shots' : '← All cocktails'}
+        <Link to={section.path} className="recipe-spread__back">
+          ← All {section.title.toLowerCase()}
         </Link>
 
         <CocktailIllustration

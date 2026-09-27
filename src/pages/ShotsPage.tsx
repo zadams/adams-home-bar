@@ -7,7 +7,7 @@ export function ShotsPage() {
       eyebrow="Collection"
       title="Shots"
       lede="Bar calls, bombs, layered shots and chasers. Search by name, ingredient, or flavor."
-      crossKindLabel="Search cocktails too"
+      crossKindLabel="Search the whole catalog"
     />
   )
 }

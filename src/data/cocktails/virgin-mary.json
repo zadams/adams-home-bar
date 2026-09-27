@@ -1,0 +1,82 @@
+{
+  "id": "virgin-mary",
+  "slug": "virgin-mary",
+  "name": "Virgin Mary",
+  "aliases": [],
+  "description": "Tomato juice, lemon, Worcestershire and hot sauce, seasoned to taste.",
+  "whyItWorks": "Without vodka the seasoning carries it, so season more boldly than for a Bloody Mary.",
+  "classifications": [
+    "non-alcoholic",
+    "classic",
+    "savory",
+    "brunch"
+  ],
+  "cocktailFamily": "Savory",
+  "flavorProfiles": [
+    "savory",
+    "tomato",
+    "spicy"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "light",
+  "glassware": "Highball glass",
+  "ice": "Rolled; over cubes",
+  "garnish": [
+    "Celery stalk or lemon wedge"
+  ],
+  "illustrationKey": "virgin-mary",
+  "featuredBottleImages": [],
+  "kind": "mocktail",
+  "ingredients": [
+    {
+      "ingredientId": "tomato_juice",
+      "amount": 5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "worcestershire_sauce",
+      "amount": 3,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "hot_sauce",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "salt",
+      "amount": null,
+      "unit": "to_taste",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Combine everything in a shaker with ice.",
+    "Roll between two tins rather than shaking so the tomato stays smooth.",
+    "Strain over fresh ice and garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "bloody-mary"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "mocktail",
+    "non-alcoholic"
+  ]
+}

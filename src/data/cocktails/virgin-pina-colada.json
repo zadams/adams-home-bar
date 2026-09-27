@@ -1,0 +1,72 @@
+{
+  "id": "virgin-pina-colada",
+  "slug": "virgin-pina-colada",
+  "name": "Virgin Piña Colada",
+  "aliases": [],
+  "description": "Pineapple, cream of coconut and a little lime, shaken hard or blended.",
+  "whyItWorks": "Lime is the part most versions skip; it keeps the coconut from going cloying.",
+  "classifications": [
+    "non-alcoholic",
+    "tropical",
+    "blended"
+  ],
+  "cocktailFamily": "Tropical",
+  "flavorProfiles": [
+    "pineapple",
+    "coconut",
+    "creamy"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "light",
+  "glassware": "Hurricane glass",
+  "ice": "Shaken hard over crushed ice, or blended",
+  "garnish": [
+    "Pineapple wedge",
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "virgin-pina-colada",
+  "featuredBottleImages": [],
+  "kind": "mocktail",
+  "ingredients": [
+    {
+      "ingredientId": "pineapple_juice",
+      "amount": 3,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cream_of_coconut",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake hard with ice until the tin frosts, or blend with a cup of ice.",
+    "Pour into a hurricane glass over crushed ice.",
+    "Garnish."
+  ],
+  "techniqueNotes": [
+    "Shake cream of coconut until it fully emulsifies; it sinks and separates if under-shaken."
+  ],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "pina-colada"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "mocktail",
+    "non-alcoholic"
+  ]
+}

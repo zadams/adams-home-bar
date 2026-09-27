@@ -1,0 +1,63 @@
+{
+  "id": "virgin-sunrise",
+  "slug": "virgin-sunrise",
+  "name": "Virgin Sunrise",
+  "aliases": [],
+  "description": "Orange juice with grenadine sunk to the bottom.",
+  "whyItWorks": "The grenadine sinks because it is denser than the juice; no stirring keeps the sunrise.",
+  "classifications": [
+    "non-alcoholic",
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "orange",
+    "sweet",
+    "fruity"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "light",
+  "glassware": "Highball glass",
+  "ice": "Built over cubes",
+  "garnish": [
+    "Orange wheel",
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "virgin-sunrise",
+  "featuredBottleImages": [],
+  "kind": "mocktail",
+  "ingredients": [
+    {
+      "ingredientId": "orange_juice",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grenadine",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Pour orange juice over ice.",
+    "Slowly pour grenadine down the inside of the glass so it sinks.",
+    "Garnish; do not stir."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "tequila-sunrise"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "mocktail",
+    "non-alcoholic"
+  ]
+}

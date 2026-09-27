@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
 import { useSearchParams } from 'react-router-dom'
-import { cocktailById, cocktails, drinks, ingredientById, isShot, seedInventory, shots } from '../../data'
+import { cocktailById, drinkKind, drinks, drinksByKind, ingredientById, seedInventory } from '../../data'
 import { drinkSetById, drinkSets, setDrinks } from '../../data/sets'
 import {
   assessReadiness,
@@ -75,12 +75,12 @@ export function DrinkBrowser({
   const [searchEverything, setSearchEverything] = useState(false)
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE)
 
-  const scoped = kind === 'shot' ? shots : cocktails
+  const scoped = drinksByKind[kind]
   const q = query.trim().toLowerCase()
 
   // Only offer sets that have something on this page.
   const availableSets = drinkSets.filter((set) =>
-    setDrinks(set).some((d) => (isShot(d) ? 'shot' : 'cocktail') === kind),
+    setDrinks(set).some((d) => drinkKind(d) === kind),
   )
   const activeSet = drinkSetById.get(params.get('set') ?? '')
 
@@ -147,9 +147,7 @@ export function DrinkBrowser({
   const shown = items.slice(0, visibleCount)
   const remaining = items.length - shown.length
 
-  const offKind = items.filter(
-    ({ cocktail }) => (isShot(cocktail) ? 'shot' : 'cocktail') !== kind,
-  ).length
+  const offKind = items.filter(({ cocktail }) => drinkKind(cocktail) !== kind).length
 
   return (
     <div>
@@ -258,7 +256,7 @@ export function DrinkBrowser({
               key={cocktail.id}
               cocktail={cocktail}
               readiness={readiness}
-              showKindBadge={isShot(cocktail) !== (kind === 'shot')}
+              showKindBadge={drinkKind(cocktail) !== kind}
             />
           ))}
         </div>
