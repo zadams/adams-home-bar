@@ -519,7 +519,7 @@
   {
     "id": "inv-baileys",
     "bottleId": "baileys",
-    "status": "in_stock",
+    "status": "out",
     "brand": "Baileys",
     "productName": "Original Irish Cream",
     "preferredForMixing": true,
@@ -851,12 +851,12 @@
   {
     "id": "inv-mint",
     "ingredientId": "mint",
-    "status": "in_stock",
+    "status": "out",
     "productName": "Mint",
     "tags": [
       "fresh"
     ],
-    "notes": "Two bunches for the party — Mojito, Julep, Southside, smashes."
+    "notes": "Party mint is gone; buy fresh before a Mojito or Julep night."
   },
   {
     "id": "inv-cocktail_cherry",
