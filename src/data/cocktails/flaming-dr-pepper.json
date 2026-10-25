@@ -53,7 +53,13 @@
     "Never move or hand over a lit glass, and never relight one.",
     "The drop extinguishes it. If the flame survives the drop, cover the glass and start again."
   ],
-  "recommendedBottles": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "disaronno",
+      "rank": 1,
+      "rationale": "The amaretto on the shelf."
+    }
+  ],
   "substitutions": [],
   "variations": [],
   "relatedCocktailIds": [],

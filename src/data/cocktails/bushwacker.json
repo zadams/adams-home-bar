@@ -1,0 +1,111 @@
+{
+  "id": "bushwacker",
+  "slug": "bushwacker",
+  "name": "Bushwacker",
+  "aliases": [],
+  "description": "Dark rum, coffee liqueur, crème de cacao, cream of coconut and cream blended with ice. A boozy milkshake from the Virgin Islands.",
+  "history": "Usually traced to the Ship’s Store at Sapphire Beach on St. Thomas in 1975. It became the signature drink of the Florida Panhandle’s beach bars soon after.",
+  "origin": "St. Thomas, U.S. Virgin Islands",
+  "whyItWorks": "Coconut, coffee and chocolate are all at home with dark rum’s molasses. Blending with ice keeps it cold and light enough to drink.",
+  "classifications": [
+    "classic",
+    "frozen",
+    "dessert"
+  ],
+  "cocktailFamily": "Frozen",
+  "flavorProfiles": [
+    "chocolate",
+    "coconut",
+    "creamy"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 5,
+  "strength": "medium",
+  "glassware": "Hurricane glass",
+  "ice": "Blended",
+  "garnish": [
+    "Fresh nutmeg"
+  ],
+  "illustrationKey": "bushwacker",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "dark_rum",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "coffee_liqueur",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "creme_de_cacao",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cream_of_coconut",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "heavy_cream",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Blend everything with about a cup of ice until smooth.",
+    "Pour into a hurricane glass and grate nutmeg over the top."
+  ],
+  "techniqueNotes": [
+    "Many beach bars add 0.5 oz amaretto. Disaronno is on the shelf if you want it.",
+    "Float 0.5 oz Myers’s on top for the Pensacola version."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "myers-dark-rum",
+      "rank": 1,
+      "rationale": "Molasses depth under the chocolate."
+    },
+    {
+      "bottleId": "kahlua",
+      "rank": 2,
+      "rationale": "Coffee."
+    },
+    {
+      "bottleId": "creme-de-cacao",
+      "rank": 3,
+      "rationale": "Chocolate."
+    },
+    {
+      "bottleId": "cream-of-coconut",
+      "rank": 4,
+      "rationale": "Coconut and body."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "mudslide",
+    "painkiller",
+    "pina-colada"
+  ],
+  "seasonality": [
+    "summer"
+  ],
+  "tags": [
+    "rum",
+    "frozen",
+    "dessert",
+    "coconut",
+    "ready-from-new-stock"
+  ],
+  "year": 1975
+}

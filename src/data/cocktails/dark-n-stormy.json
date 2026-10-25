@@ -25,10 +25,10 @@
   "featuredBottleImages": [],
   "ingredients": [
     {
-      "ingredientId": "gold_rum",
+      "ingredientId": "dark_rum",
       "amount": 2,
       "unit": "oz",
-      "label": "Dark or gold rum",
+      "label": "Dark rum",
       "scaleMode": "linear"
     },
     {
@@ -53,17 +53,30 @@
   "techniqueNotes": [],
   "recommendedBottles": [
     {
-      "bottleId": "havana-club-especial",
+      "bottleId": "myers-dark-rum",
       "rank": 1,
+      "rationale": "Rich, dark molasses rum; Gosling’s is the trademarked original."
+    },
+    {
+      "bottleId": "havana-club-especial",
+      "rank": 2,
       "rationale": "Rich enough for ginger beer."
     },
     {
       "bottleId": "kraken-spiced",
-      "rank": 2,
+      "rank": 3,
       "rationale": "Spiced, sweeter storm."
     }
   ],
-  "substitutions": [],
+  "substitutions": [
+    {
+      "ingredientId": "dark_rum",
+      "alternatives": [
+        "gold_rum"
+      ],
+      "notes": "Aged gold rum makes a lighter, drier version."
+    }
+  ],
   "variations": [],
   "relatedCocktailIds": [
     "moscow-mule",

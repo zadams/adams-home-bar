@@ -40,7 +40,13 @@
     "Layer by pouring each ingredient slowly over the back of a bar spoon so it floats on the one below."
   ],
   "techniqueNotes": [],
-  "recommendedBottles": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-irish-cream",
+      "rank": 1,
+      "rationale": "The Irish cream in stock."
+    }
+  ],
   "substitutions": [
     {
       "ingredientId": "sambuca",

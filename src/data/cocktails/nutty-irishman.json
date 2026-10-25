@@ -41,7 +41,18 @@
     "Shake with ice and strain, or layer the cream over the nut liqueur."
   ],
   "techniqueNotes": [],
-  "recommendedBottles": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "disaronno",
+      "rank": 1,
+      "rationale": "The amaretto on the shelf."
+    },
+    {
+      "bottleId": "kirkland-irish-cream",
+      "rank": 2,
+      "rationale": "The Irish cream in stock."
+    }
+  ],
   "substitutions": [
     {
       "ingredientId": "amaretto",

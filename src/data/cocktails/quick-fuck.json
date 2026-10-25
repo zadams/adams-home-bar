@@ -47,7 +47,13 @@
     "Layer by pouring each ingredient slowly over the back of a bar spoon so it floats on the one below. Melon liqueur, then Irish cream."
   ],
   "techniqueNotes": [],
-  "recommendedBottles": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-irish-cream",
+      "rank": 1,
+      "rationale": "The Irish cream in stock."
+    }
+  ],
   "substitutions": [],
   "variations": [],
   "relatedCocktailIds": [

@@ -57,18 +57,23 @@
   "techniqueNotes": [],
   "recommendedBottles": [
     {
-      "bottleId": "havana-club-especial",
+      "bottleId": "myers-dark-rum",
       "rank": 1,
+      "rationale": "Closest thing on the shelf to blackstrap."
+    },
+    {
+      "bottleId": "havana-club-especial",
+      "rank": 2,
       "rationale": "Rich gold rum for the classic build."
     },
     {
       "bottleId": "kraken-spiced",
-      "rank": 2,
+      "rank": 3,
       "rationale": "Sweeter, spiced interpretation."
     },
     {
       "bottleId": "bitter-truth-falernum",
-      "rank": 3,
+      "rank": 4,
       "rationale": "House falernum."
     }
   ],

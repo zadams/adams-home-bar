@@ -63,8 +63,13 @@
   "techniqueNotes": [],
   "recommendedBottles": [
     {
-      "bottleId": "bitter-truth-falernum",
+      "bottleId": "green-chartreuse",
       "rank": 1,
+      "rationale": "The real thing; there is no substitute."
+    },
+    {
+      "bottleId": "bitter-truth-falernum",
+      "rank": 2,
       "rationale": "Falernum is already stocked."
     }
   ],

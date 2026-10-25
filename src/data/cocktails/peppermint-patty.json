@@ -42,13 +42,18 @@
   "techniqueNotes": [],
   "recommendedBottles": [
     {
-      "bottleId": "baileys",
+      "bottleId": "kirkland-irish-cream",
       "rank": 1,
+      "rationale": "The Irish cream in stock."
+    },
+    {
+      "bottleId": "baileys",
+      "rank": 2,
       "rationale": "A strong match from your bar."
     },
     {
       "bottleId": "blind-squirrel-nog",
-      "rank": 2,
+      "rank": 3,
       "rationale": "Also excellent from your shelf."
     }
   ],

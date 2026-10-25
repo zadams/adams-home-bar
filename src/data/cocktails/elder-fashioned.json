@@ -1,0 +1,101 @@
+{
+  "id": "elder-fashioned",
+  "slug": "elder-fashioned",
+  "name": "Elder Fashioned",
+  "aliases": [],
+  "description": "A gin Old Fashioned sweetened with St-Germain instead of sugar, with orange bitters and a grapefruit twist.",
+  "history": "Phil Ward’s drink from Death & Co in New York, one of the first bartender classics built on St-Germain after its 2007 launch.",
+  "origin": "New York",
+  "whyItWorks": "Elderflower is both sweetener and botanical, so it slots into the Old Fashioned template without fighting the gin. Grapefruit oil sharpens the floral edge.",
+  "classifications": [
+    "modern-classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Old Fashioned",
+  "flavorProfiles": [
+    "floral",
+    "botanical",
+    "citrus"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "spirit-forward",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Grapefruit twist"
+  ],
+  "illustrationKey": "elder-fashioned",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "elderflower_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "grapefruit",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Grapefruit twist",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Stir gin, St-Germain and orange bitters with ice until cold.",
+    "Strain over a large cube in a rocks glass.",
+    "Express a grapefruit twist over the top and drop it in."
+  ],
+  "techniqueNotes": [
+    "The original used Plymouth. Of what is here, Hendrick’s leans into the floral side; Drumshanbo is greener and sharper."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "hendricks",
+      "rank": 1,
+      "rationale": "Rose and cucumber meet the elderflower halfway."
+    },
+    {
+      "bottleId": "st-germain",
+      "rank": 2,
+      "rationale": "Sweetener and botanical in one."
+    },
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 3,
+      "rationale": "Brighter, tea-and-citrus version."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "gin-old-fashioned",
+    "white-linen",
+    "old-fashioned"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "elderflower",
+    "stirred",
+    "modern-classic",
+    "ready-from-new-stock"
+  ],
+  "creator": "Phil Ward"
+}

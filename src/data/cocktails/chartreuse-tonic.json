@@ -1,0 +1,84 @@
+{
+  "id": "chartreuse-tonic",
+  "slug": "chartreuse-tonic",
+  "name": "Chartreuse Tonic",
+  "aliases": [],
+  "description": "Green Chartreuse and tonic over ice with a lime wedge. The après-ski highball.",
+  "history": "A long-standing serve in the French Alps, where Chartreuse is made, and one the producer promotes as the easiest way into the bottle.",
+  "origin": "French Alps",
+  "whyItWorks": "Quinine’s bitterness meets Chartreuse’s sweetness; the bubbles open up the herbs the way water opens up whisky.",
+  "classifications": [
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "herbal",
+    "bitter",
+    "bubbly"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 1,
+  "strength": "medium",
+  "glassware": "Highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime wedge"
+  ],
+  "illustrationKey": "chartreuse-tonic",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "green_chartreuse",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "tonic_water",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Lime wedge",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Build Chartreuse and tonic in an ice-filled highball.",
+    "Squeeze in a lime wedge."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "green-chartreuse",
+      "rank": 1,
+      "rationale": "The whole drink."
+    },
+    {
+      "bottleId": "fever-tree-tonic",
+      "rank": 2,
+      "rationale": "Clean quinine."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "swamp-water",
+    "chartreuse-shot",
+    "gin-and-tonic"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "chartreuse",
+    "herbal",
+    "highball",
+    "ready-from-new-stock"
+  ]
+}

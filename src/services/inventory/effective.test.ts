@@ -11,14 +11,14 @@ describe('effective inventory catalog coverage', () => {
 
   it('adds unowned catalog ingredients as out and accepts overrides', () => {
     const defaultItem = mergeInventory({}, seedInventory).find(
-      (item) => item.ingredientId === 'mezcal',
+      (item) => item.ingredientId === 'reposado_tequila',
     )
     expect(defaultItem?.effectiveStatus).toBe('out')
 
     const stockedItem = mergeInventory(
-      { 'catalog-mezcal': { status: 'in_stock' } },
+      { 'catalog-reposado_tequila': { status: 'in_stock' } },
       seedInventory,
-    ).find((item) => item.ingredientId === 'mezcal')
+    ).find((item) => item.ingredientId === 'reposado_tequila')
     expect(stockedItem?.effectiveStatus).toBe('in_stock')
   })
 })

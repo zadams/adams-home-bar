@@ -66,8 +66,13 @@
       "rationale": "The chocolate the house Banshee was missing."
     },
     {
-      "bottleId": "baileys",
+      "bottleId": "kirkland-irish-cream",
       "rank": 3,
+      "rationale": "The Irish cream in stock."
+    },
+    {
+      "bottleId": "baileys",
+      "rank": 4,
       "rationale": "Cream stand-in."
     }
   ],

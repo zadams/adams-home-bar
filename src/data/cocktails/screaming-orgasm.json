@@ -53,7 +53,18 @@
     "Strain into a chilled shot glass."
   ],
   "techniqueNotes": [],
-  "recommendedBottles": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "disaronno",
+      "rank": 1,
+      "rationale": "The amaretto on the shelf."
+    },
+    {
+      "bottleId": "kirkland-irish-cream",
+      "rank": 2,
+      "rationale": "The Irish cream in stock."
+    }
+  ],
   "substitutions": [],
   "variations": [],
   "relatedCocktailIds": [

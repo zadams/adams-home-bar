@@ -55,6 +55,11 @@
       "bottleId": "barrell-vantage",
       "rank": 3,
       "rationale": "Also excellent from your shelf."
+    },
+    {
+      "bottleId": "kirkland-irish-cream",
+      "rank": 4,
+      "rationale": "The Irish cream in stock."
     }
   ],
   "substitutions": [],

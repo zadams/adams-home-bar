@@ -70,8 +70,13 @@
   "techniqueNotes": [],
   "recommendedBottles": [
     {
-      "bottleId": "angostura-aromatic",
+      "bottleId": "green-chartreuse",
       "rank": 1,
+      "rationale": "The real thing; there is no substitute."
+    },
+    {
+      "bottleId": "angostura-aromatic",
+      "rank": 2,
       "rationale": "Bitters are ready; the two missing bottles do the rest."
     }
   ],

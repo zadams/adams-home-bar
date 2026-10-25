@@ -1,0 +1,116 @@
+{
+  "id": "tia-mia",
+  "slug": "tia-mia",
+  "name": "Tia Mia",
+  "aliases": [],
+  "description": "Half a Mai Tai, half a mezcal drink: mezcal and Jamaican rum with orange curaçao, orgeat and lime over crushed ice.",
+  "history": "Ivy Mix’s Mai Tai riff from her time behind the bar at Lani Kai in New York. She later opened Leyenda in Brooklyn.",
+  "origin": "New York",
+  "whyItWorks": "Mezcal’s smoke stands in for the hogo of aged Jamaican rum, and the two together cover more ground than either one. Orgeat ties them to the citrus.",
+  "classifications": [
+    "modern-classic",
+    "tiki"
+  ],
+  "cocktailFamily": "Mai Tai",
+  "flavorProfiles": [
+    "smoky",
+    "almond",
+    "citrus"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "strong",
+  "glassware": "Rocks glass",
+  "ice": "Crushed ice",
+  "garnish": [
+    "Lime wheel",
+    "Mint sprig"
+  ],
+  "illustrationKey": "tia-mia",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "mezcal",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "jamaican_rum",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Aged Jamaican rum"
+    },
+    {
+      "ingredientId": "grand_marnier",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Orange curaçao"
+    },
+    {
+      "ingredientId": "orgeat",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "mint",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Mint sprig",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake everything with a few cubes, briefly.",
+    "Pour into a rocks glass and pack with crushed ice.",
+    "Garnish with a lime wheel, and mint if you have it."
+  ],
+  "techniqueNotes": [
+    "The original uses Appleton 12 and Pierre Ferrand Dry Curaçao. Myers’s is sweeter, so taste and add a little more lime if it runs rich."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "400-conejos-mezcal",
+      "rank": 1,
+      "rationale": "The smoky half."
+    },
+    {
+      "bottleId": "myers-dark-rum",
+      "rank": 2,
+      "rationale": "Jamaican molasses depth."
+    },
+    {
+      "bottleId": "grand-marnier",
+      "rank": 3,
+      "rationale": "Cognac-based orange, closest to dry curaçao."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "mai-tai",
+    "division-bell",
+    "mezcal-last-word"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "mezcal",
+    "rum",
+    "tiki",
+    "modern-classic",
+    "ready-from-new-stock"
+  ],
+  "creator": "Ivy Mix"
+}

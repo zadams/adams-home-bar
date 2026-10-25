@@ -45,6 +45,11 @@
       "bottleId": "creme-de-banane",
       "rank": 1,
       "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "kirkland-irish-cream",
+      "rank": 2,
+      "rationale": "The Irish cream in stock."
     }
   ],
   "substitutions": [],

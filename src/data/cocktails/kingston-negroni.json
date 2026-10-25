@@ -66,6 +66,11 @@
       "bottleId": "campari",
       "rank": 1,
       "rationale": "The non-negotiable half."
+    },
+    {
+      "bottleId": "myers-dark-rum",
+      "rank": 2,
+      "rationale": "Jamaican, but molasses-rich rather than funky; a gentler Kingston Negroni."
     }
   ],
   "substitutions": [

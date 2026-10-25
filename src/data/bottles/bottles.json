@@ -1089,5 +1089,110 @@
       "melon",
       "shot"
     ]
+  },
+  {
+    "id": "st-germain",
+    "brand": "St-Germain",
+    "productName": "Elderflower Liqueur",
+    "ingredientIds": [
+      "elderflower_liqueur"
+    ],
+    "category": "liqueur",
+    "subcategory": "floral",
+    "tags": [
+      "elderflower",
+      "floral"
+    ]
+  },
+  {
+    "id": "green-chartreuse",
+    "brand": "Chartreuse",
+    "productName": "Green Chartreuse",
+    "ingredientIds": [
+      "green_chartreuse"
+    ],
+    "category": "liqueur",
+    "subcategory": "herbal",
+    "tags": [
+      "herbal",
+      "alpine"
+    ],
+    "notes": "55% ABV. Allocated and hard to replace; save it for drinks where it is the point."
+  },
+  {
+    "id": "kirkland-irish-cream",
+    "brand": "Kirkland Signature",
+    "productName": "Irish Cream",
+    "ingredientIds": [
+      "baileys"
+    ],
+    "category": "liqueur",
+    "subcategory": "cream",
+    "tags": [
+      "cream"
+    ]
+  },
+  {
+    "id": "old-fitzgerald-bib-7",
+    "brand": "Old Fitzgerald",
+    "productName": "7 Year Bottled-in-Bond",
+    "ingredientIds": [
+      "bourbon"
+    ],
+    "category": "spirit",
+    "subcategory": "bourbon",
+    "tags": [
+      "bourbon",
+      "bottled-in-bond",
+      "wheated"
+    ],
+    "notes": "Wheated, 100 proof. Soft enough for a julep, strong enough to hold up in a sour."
+  },
+  {
+    "id": "myers-dark-rum",
+    "brand": "Myers’s",
+    "productName": "Original Dark Rum",
+    "ingredientIds": [
+      "dark_rum",
+      "jamaican_rum"
+    ],
+    "category": "spirit",
+    "subcategory": "rum",
+    "tags": [
+      "rum",
+      "dark",
+      "jamaican"
+    ],
+    "notes": "Jamaican, molasses-rich and sweet. Covers Jamaican rum, but without the pot-still funk of Smith & Cross or Hamilton."
+  },
+  {
+    "id": "disaronno",
+    "brand": "Disaronno",
+    "productName": "Originale",
+    "ingredientIds": [
+      "amaretto"
+    ],
+    "category": "liqueur",
+    "subcategory": "almond",
+    "tags": [
+      "almond",
+      "amaretto"
+    ]
+  },
+  {
+    "id": "400-conejos-mezcal",
+    "brand": "400 Conejos",
+    "productName": "Mezcal Joven Espadín",
+    "ingredientIds": [
+      "mezcal"
+    ],
+    "category": "spirit",
+    "subcategory": "mezcal",
+    "tags": [
+      "mezcal",
+      "smoky",
+      "espadín"
+    ],
+    "notes": "Moderate smoke; a mixing mezcal, not a sipper."
   }
 ]

@@ -61,8 +61,13 @@
   ],
   "recommendedBottles": [
     {
-      "bottleId": "kraken-spiced",
+      "bottleId": "myers-dark-rum",
       "rank": 1,
+      "rationale": "Molasses depth for a winter drink."
+    },
+    {
+      "bottleId": "kraken-spiced",
+      "rank": 2,
       "rationale": "A strong match from your bar."
     }
   ],

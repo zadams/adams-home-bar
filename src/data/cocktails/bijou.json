@@ -58,7 +58,13 @@
     "Express the orange twist."
   ],
   "techniqueNotes": [],
-  "recommendedBottles": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "green-chartreuse",
+      "rank": 1,
+      "rationale": "The real thing; there is no substitute."
+    }
+  ],
   "substitutions": [],
   "variations": [],
   "relatedCocktailIds": [],

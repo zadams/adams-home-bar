@@ -60,6 +60,11 @@
       "bottleId": "sazerac-rye",
       "rank": 2,
       "rationale": "Spicier rye version."
+    },
+    {
+      "bottleId": "old-fitzgerald-bib-7",
+      "rank": 3,
+      "rationale": "Enough proof to stand up to Campari."
     }
   ],
   "substitutions": [],

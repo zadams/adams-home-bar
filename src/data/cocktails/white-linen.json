@@ -1,0 +1,107 @@
+{
+  "id": "white-linen",
+  "slug": "white-linen",
+  "name": "White Linen",
+  "aliases": [],
+  "description": "Gin, St-Germain, lemon and muddled cucumber, lengthened with soda. A Collins for hot afternoons.",
+  "history": "A cucumber-and-elderflower Collins that spread with St-Germain in the late 2000s. The name is a nod to summer whites.",
+  "origin": "Modern cocktail bars",
+  "whyItWorks": "Cucumber and elderflower are both green and soft; lemon gives the structure and gin the backbone. Soda keeps it long and dry.",
+  "classifications": [
+    "modern",
+    "highball"
+  ],
+  "cocktailFamily": "Collins",
+  "flavorProfiles": [
+    "floral",
+    "refreshing",
+    "citrus"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Collins glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Cucumber ribbon"
+  ],
+  "illustrationKey": "white-linen",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "elderflower_liqueur",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cucumber",
+      "amount": 3,
+      "unit": "piece",
+      "scaleMode": "linear",
+      "label": "Cucumber slices"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Muddle three cucumber slices in a shaker.",
+    "Add gin, St-Germain, lemon and simple syrup; shake with ice.",
+    "Double-strain into an ice-filled collins glass and top with soda.",
+    "Garnish with a cucumber ribbon."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "hendricks",
+      "rank": 1,
+      "rationale": "Already a cucumber gin."
+    },
+    {
+      "bottleId": "st-germain",
+      "rank": 2,
+      "rationale": "The floral half."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "tom-collins",
+    "cucumber-gin-cooler",
+    "st-germain-cocktail",
+    "elder-fashioned"
+  ],
+  "seasonality": [
+    "spring",
+    "summer"
+  ],
+  "tags": [
+    "gin",
+    "elderflower",
+    "cucumber",
+    "highball",
+    "ready-from-new-stock"
+  ]
+}

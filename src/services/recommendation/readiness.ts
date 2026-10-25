@@ -97,6 +97,7 @@ const SUBSTITUTION_GROUPS: string[][] = [
   ['white_rum', 'gold_rum', 'coconut_rum'],
   ['blanco_tequila', 'cristalino_tequila', 'anejo_tequila'],
   ['bourbon', 'rye'],
+  ['dark_rum', 'gold_rum'],
 ]
 
 function expandWithSubstitutions(ingredientId: string): string[] {

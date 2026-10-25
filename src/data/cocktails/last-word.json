@@ -56,13 +56,18 @@
   "techniqueNotes": [],
   "recommendedBottles": [
     {
-      "bottleId": "drumshanbo-gunpowder",
+      "bottleId": "green-chartreuse",
       "rank": 1,
+      "rationale": "The real thing; there is no substitute."
+    },
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 2,
       "rationale": "Botanicals stand up to Chartreuse."
     },
     {
       "bottleId": "luxardo-maraschino",
-      "rank": 2,
+      "rank": 3,
       "rationale": "House maraschino."
     }
   ],

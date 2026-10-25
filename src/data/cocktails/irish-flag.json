@@ -51,7 +51,13 @@
   "techniqueNotes": [
     "Density order is menthe, cream, then Grand Marnier. Reverse it and the layers collapse."
   ],
-  "recommendedBottles": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-irish-cream",
+      "rank": 1,
+      "rationale": "The Irish cream in stock."
+    }
+  ],
   "substitutions": [],
   "variations": [],
   "relatedCocktailIds": [

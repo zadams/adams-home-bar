@@ -55,13 +55,18 @@
   "techniqueNotes": [],
   "recommendedBottles": [
     {
-      "bottleId": "campari",
+      "bottleId": "400-conejos-mezcal",
       "rank": 1,
+      "rationale": "Espadín with moderate smoke."
+    },
+    {
+      "bottleId": "campari",
+      "rank": 2,
       "rationale": "Campari is already on the bar."
     },
     {
       "bottleId": "sweet-vermouth",
-      "rank": 2,
+      "rank": 3,
       "rationale": "Sweet vermouth from the shelf."
     }
   ],

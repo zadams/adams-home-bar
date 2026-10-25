@@ -67,13 +67,18 @@
   "techniqueNotes": [],
   "recommendedBottles": [
     {
-      "bottleId": "hendricks",
+      "bottleId": "green-chartreuse",
       "rank": 1,
+      "rationale": "The real thing; there is no substitute."
+    },
+    {
+      "bottleId": "hendricks",
+      "rank": 2,
       "rationale": "Soft gin under Chartreuse and grapefruit."
     },
     {
       "bottleId": "drumshanbo-gunpowder",
-      "rank": 2,
+      "rank": 3,
       "rationale": "More citrus if you want it drier."
     }
   ],

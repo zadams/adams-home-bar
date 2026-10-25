@@ -84,18 +84,23 @@
   ],
   "recommendedBottles": [
     {
-      "bottleId": "russells-reserve-10",
+      "bottleId": "old-fitzgerald-bib-7",
       "rank": 1,
+      "rationale": "Bonded proof keeps the whiskey forward under lemon."
+    },
+    {
+      "bottleId": "russells-reserve-10",
+      "rank": 2,
       "rationale": "Balanced oak and caramel that hold up to lemon."
     },
     {
       "bottleId": "eagle-rare",
-      "rank": 2,
+      "rank": 3,
       "rationale": "Fruitier bourbon for a softer sour."
     },
     {
       "bottleId": "woodford-reserve",
-      "rank": 3,
+      "rank": 4,
       "rationale": "Familiar spice and structure for an everyday sour."
     }
   ],

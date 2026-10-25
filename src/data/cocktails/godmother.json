@@ -42,8 +42,13 @@
   "techniqueNotes": [],
   "recommendedBottles": [
     {
-      "bottleId": "titos",
+      "bottleId": "disaronno",
       "rank": 1,
+      "rationale": "The amaretto on the shelf."
+    },
+    {
+      "bottleId": "titos",
+      "rank": 2,
       "rationale": "Clean vodka base."
     }
   ],

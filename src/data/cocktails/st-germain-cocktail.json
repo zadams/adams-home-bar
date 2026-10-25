@@ -1,0 +1,94 @@
+{
+  "id": "st-germain-cocktail",
+  "slug": "st-germain-cocktail",
+  "name": "St-Germain Cocktail",
+  "aliases": [
+    "St-Germain Spritz",
+    "Elderflower Spritz"
+  ],
+  "description": "St-Germain, sparkling wine and soda in a tall glass with a lemon twist. The bottle’s own serve, and the best way to learn what it tastes like.",
+  "history": "Printed on the bottle since St-Germain launched in 2007. The brand calls for brut champagne or a dry white wine; prosecco is the common home version.",
+  "origin": "United States",
+  "whyItWorks": "More liqueur than a Hugo, so elderflower leads. Soda and wine stretch it into a long, dry-enough highball.",
+  "classifications": [
+    "modern",
+    "spritz",
+    "low-abv"
+  ],
+  "cocktailFamily": "Spritz",
+  "flavorProfiles": [
+    "floral",
+    "bubbly",
+    "citrus"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "light",
+  "glassware": "Collins glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "st-germain-cocktail",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "elderflower_liqueur",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "prosecco",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Lemon twist",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Fill a collins glass with ice.",
+    "Add St-Germain, then prosecco, then soda.",
+    "Stir once and express a lemon twist over the top."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "st-germain",
+      "rank": 1,
+      "rationale": "It is the drink."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "hugo",
+    "white-linen",
+    "aperol-spritz"
+  ],
+  "seasonality": [
+    "spring",
+    "summer"
+  ],
+  "tags": [
+    "spritz",
+    "elderflower",
+    "prosecco",
+    "low-abv",
+    "ready-from-new-stock"
+  ],
+  "year": 2007
+}

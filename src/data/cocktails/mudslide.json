@@ -56,8 +56,13 @@
       "rationale": "Clean vodka."
     },
     {
-      "bottleId": "baileys",
+      "bottleId": "kirkland-irish-cream",
       "rank": 2,
+      "rationale": "The Irish cream in stock."
+    },
+    {
+      "bottleId": "baileys",
+      "rank": 3,
       "rationale": "House Irish cream."
     }
   ],

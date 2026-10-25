@@ -46,7 +46,13 @@
     "Stir briefly."
   ],
   "techniqueNotes": [],
-  "recommendedBottles": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "disaronno",
+      "rank": 1,
+      "rationale": "The amaretto on the shelf."
+    }
+  ],
   "substitutions": [],
   "variations": [
     {

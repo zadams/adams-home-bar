@@ -56,13 +56,18 @@
   "techniqueNotes": [],
   "recommendedBottles": [
     {
-      "bottleId": "cointreau",
+      "bottleId": "400-conejos-mezcal",
       "rank": 1,
+      "rationale": "Espadín with moderate smoke."
+    },
+    {
+      "bottleId": "cointreau",
+      "rank": 2,
       "rationale": "Orange liqueur is ready."
     },
     {
       "bottleId": "kirkland-cristalino",
-      "rank": 2,
+      "rank": 3,
       "rationale": "Split 1 oz mezcal / 1 oz tequila if you want it milder later."
     }
   ],

@@ -68,8 +68,13 @@
       "rationale": "Chocolate body."
     },
     {
-      "bottleId": "baileys",
+      "bottleId": "kirkland-irish-cream",
       "rank": 3,
+      "rationale": "The Irish cream in stock."
+    },
+    {
+      "bottleId": "baileys",
+      "rank": 4,
       "rationale": "Cream and sweetness."
     }
   ],

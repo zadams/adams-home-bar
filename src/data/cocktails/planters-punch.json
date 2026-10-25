@@ -29,10 +29,11 @@
   "illustrationKey": "planters-punch",
   "ingredients": [
     {
-      "ingredientId": "gold_rum",
+      "ingredientId": "dark_rum",
       "amount": 2,
       "unit": "oz",
-      "scaleMode": "linear"
+      "scaleMode": "linear",
+      "label": "Dark Jamaican rum"
     },
     {
       "ingredientId": "lime_juice",
@@ -82,13 +83,18 @@
   ],
   "recommendedBottles": [
     {
-      "bottleId": "havana-club-especial",
+      "bottleId": "myers-dark-rum",
       "rank": 1,
+      "rationale": "Myers’s is the brand most associated with Planter’s Punch."
+    },
+    {
+      "bottleId": "havana-club-especial",
+      "rank": 2,
       "rationale": "Gold rum body for punch."
     },
     {
       "bottleId": "havana-club-maestros",
-      "rank": 2,
+      "rank": 3,
       "rationale": "Richer aged rum character."
     }
   ],
@@ -99,6 +105,13 @@
         "white_rum",
         "spiced_rum"
       ]
+    },
+    {
+      "ingredientId": "dark_rum",
+      "alternatives": [
+        "gold_rum"
+      ],
+      "notes": "Aged gold rum makes a lighter, drier version."
     }
   ],
   "variations": [],

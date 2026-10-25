@@ -36,7 +36,13 @@
   "techniqueNotes": [
     "Traditionally offered, not ordered."
   ],
-  "recommendedBottles": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "green-chartreuse",
+      "rank": 1,
+      "rationale": "The real thing; there is no substitute."
+    }
+  ],
   "substitutions": [],
   "variations": [],
   "relatedCocktailIds": [

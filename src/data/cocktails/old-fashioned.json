@@ -77,18 +77,23 @@
       "rationale": "Classic, balanced, and oak-forward—ideal for the standard build."
     },
     {
-      "bottleId": "penelope-architect",
+      "bottleId": "old-fitzgerald-bib-7",
       "rank": 2,
+      "rationale": "Wheated and 100 proof: soft but not thin."
+    },
+    {
+      "bottleId": "penelope-architect",
+      "rank": 3,
       "rationale": "Polished with extra oak influence; elegant and structured."
     },
     {
       "bottleId": "eagle-rare",
-      "rank": 3,
+      "rank": 4,
       "rationale": "Softer and fruitier; a gentler evening pour."
     },
     {
       "bottleId": "asw-fiddler-toasted",
-      "rank": 4,
+      "rank": 5,
       "rationale": "Richer and sweeter from the toasted finish—great when you want dessert-adjacent warmth."
     }
   ],

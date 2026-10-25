@@ -1,0 +1,105 @@
+{
+  "id": "hugo",
+  "slug": "hugo",
+  "name": "Hugo",
+  "aliases": [
+    "Hugo Spritz"
+  ],
+  "description": "The Alpine spritz: prosecco, elderflower, soda and lime over ice in a wine glass. Lighter and less bitter than an Aperol Spritz.",
+  "history": "Roland Gruber created it in 2005 at San Zeno bar in Naturns, South Tyrol, first with lemon-balm syrup. Elderflower took over as it spread through northern Italy, Austria and Germany, and it is now the default summer spritz across the Alps.",
+  "origin": "South Tyrol, Italy",
+  "whyItWorks": "Elderflower gives prosecco a floral, lychee-and-pear sweetness; lime and soda keep it from cloying. Mint is the traditional finish when you have it.",
+  "classifications": [
+    "modern-classic",
+    "spritz",
+    "low-abv"
+  ],
+  "cocktailFamily": "Spritz",
+  "flavorProfiles": [
+    "floral",
+    "bubbly",
+    "refreshing"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "light",
+  "glassware": "Wine glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime wheel",
+    "Mint sprig"
+  ],
+  "illustrationKey": "hugo",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "prosecco",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "elderflower_liqueur",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime",
+      "amount": 2,
+      "unit": "piece",
+      "scaleMode": "linear",
+      "label": "Lime wedges"
+    },
+    {
+      "ingredientId": "mint",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Mint sprig",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Squeeze two lime wedges into a wine glass and drop them in.",
+    "Add St-Germain and fill with ice.",
+    "Top with prosecco, then soda, and stir once gently.",
+    "Slap a mint sprig and tuck it in, if you have mint."
+  ],
+  "techniqueNotes": [
+    "St-Germain is sweeter than the elderflower syrup most Italian bars use, so 0.75 oz is plenty."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "st-germain",
+      "rank": 1,
+      "rationale": "The elderflower."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "st-germain-cocktail",
+    "aperol-spritz",
+    "campari-spritz"
+  ],
+  "seasonality": [
+    "spring",
+    "summer"
+  ],
+  "tags": [
+    "spritz",
+    "elderflower",
+    "prosecco",
+    "low-abv",
+    "ready-from-new-stock"
+  ],
+  "year": 2005,
+  "creator": "Roland Gruber"
+}

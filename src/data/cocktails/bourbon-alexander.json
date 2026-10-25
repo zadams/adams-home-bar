@@ -74,8 +74,13 @@
       "rationale": "Equal-parts chocolate."
     },
     {
-      "bottleId": "baileys",
+      "bottleId": "kirkland-irish-cream",
       "rank": 4,
+      "rationale": "The Irish cream in stock."
+    },
+    {
+      "bottleId": "baileys",
+      "rank": 5,
       "rationale": "Cream stand-in from the shelf."
     }
   ],

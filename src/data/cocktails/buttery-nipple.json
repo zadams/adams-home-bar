@@ -44,7 +44,13 @@
   "techniqueNotes": [
     "Pour the cream slowly enough that it sits rather than sinks."
   ],
-  "recommendedBottles": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-irish-cream",
+      "rank": 1,
+      "rationale": "The Irish cream in stock."
+    }
+  ],
   "substitutions": [],
   "variations": [],
   "relatedCocktailIds": [

@@ -59,7 +59,13 @@
   "techniqueNotes": [
     "The original 1:1:1 is a Chartreuse drink with whiskey in it. Start here and move toward equal parts if the room wants it."
   ],
-  "recommendedBottles": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "green-chartreuse",
+      "rank": 1,
+      "rationale": "The real thing; there is no substitute."
+    }
+  ],
   "substitutions": [
     {
       "ingredientId": "green_chartreuse",

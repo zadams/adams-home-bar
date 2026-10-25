@@ -1275,5 +1275,105 @@
       "melon",
       "shot"
     ]
+  },
+  {
+    "id": "inv-st-germain",
+    "bottleId": "st-germain",
+    "status": "in_stock",
+    "brand": "St-Germain",
+    "productName": "Elderflower Liqueur",
+    "preferredForMixing": true,
+    "purchaseDate": "2026-10-24",
+    "tags": [
+      "elderflower",
+      "floral"
+    ],
+    "notes": "Purchased 2026-10-24."
+  },
+  {
+    "id": "inv-green-chartreuse",
+    "bottleId": "green-chartreuse",
+    "status": "in_stock",
+    "brand": "Chartreuse",
+    "productName": "Green Chartreuse",
+    "preferredForMixing": true,
+    "purchaseDate": "2026-10-24",
+    "tags": [
+      "herbal",
+      "alpine"
+    ],
+    "notes": "Purchased 2026-10-24."
+  },
+  {
+    "id": "inv-kirkland-irish-cream",
+    "bottleId": "kirkland-irish-cream",
+    "status": "in_stock",
+    "brand": "Kirkland Signature",
+    "productName": "Irish Cream",
+    "preferredForMixing": true,
+    "purchaseDate": "2026-10-24",
+    "tags": [
+      "cream"
+    ],
+    "notes": "Purchased 2026-10-24."
+  },
+  {
+    "id": "inv-old-fitzgerald-bib-7",
+    "bottleId": "old-fitzgerald-bib-7",
+    "status": "in_stock",
+    "brand": "Old Fitzgerald",
+    "productName": "7 Year Bottled-in-Bond",
+    "preferredForMixing": true,
+    "purchaseDate": "2026-10-24",
+    "tags": [
+      "bourbon",
+      "bottled-in-bond",
+      "wheated"
+    ],
+    "notes": "Purchased 2026-10-24."
+  },
+  {
+    "id": "inv-myers-dark-rum",
+    "bottleId": "myers-dark-rum",
+    "status": "in_stock",
+    "brand": "Myers’s",
+    "productName": "Original Dark Rum",
+    "preferredForMixing": true,
+    "purchaseDate": "2026-10-24",
+    "tags": [
+      "rum",
+      "dark",
+      "jamaican"
+    ],
+    "notes": "Purchased 2026-10-24."
+  },
+  {
+    "id": "inv-disaronno",
+    "bottleId": "disaronno",
+    "status": "in_stock",
+    "brand": "Disaronno",
+    "productName": "Originale",
+    "preferredForMixing": true,
+    "purchaseDate": "2026-10-24",
+    "tags": [
+      "almond",
+      "amaretto"
+    ],
+    "notes": "Purchased 2026-10-24."
+  },
+  {
+    "id": "inv-400-conejos-mezcal",
+    "bottleId": "400-conejos-mezcal",
+    "status": "in_stock",
+    "brand": "400 Conejos",
+    "productName": "Mezcal Joven Espadín",
+    "preferredForMixing": true,
+    "purchaseDate": "2026-10-24",
+    "tags": [
+      "mezcal",
+      "smoky",
+      "espadín"
+    ],
+    "notes": "Purchased 2026-10-24."
   }
 ]

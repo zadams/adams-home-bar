@@ -1,0 +1,81 @@
+{
+  "id": "italian-surfer",
+  "slug": "italian-surfer",
+  "name": "Italian Surfer",
+  "aliases": [],
+  "description": "Amaretto, coconut rum and pineapple juice, shaken and strained into a shot glass.",
+  "history": "A beach-bar shooter from the 1990s that also gets served long over ice.",
+  "origin": "United States",
+  "whyItWorks": "Almond, coconut and pineapple are a natural piña colada-adjacent trio.",
+  "classifications": [
+    "shot"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "almond",
+    "coconut",
+    "tropical"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "light",
+  "glassware": "Shot glass",
+  "ice": "Shaken; up",
+  "garnish": [],
+  "illustrationKey": "italian-surfer",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "amaretto",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "coconut_rum",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "pineapple_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake everything with ice.",
+    "Strain into a shot glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "disaronno",
+      "rank": 1,
+      "rationale": "The almond."
+    },
+    {
+      "bottleId": "toasted-coconut-rum",
+      "rank": 2,
+      "rationale": "The house coconut rum."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "pina-colada",
+    "bocce-ball",
+    "almond-joy"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "amaretto",
+    "tropical",
+    "ready-from-new-stock"
+  ],
+  "kind": "shot"
+}

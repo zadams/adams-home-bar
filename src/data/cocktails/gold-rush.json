@@ -58,8 +58,13 @@
       "rationale": "Fruitier bourbon loves honey."
     },
     {
-      "bottleId": "russells-reserve-10",
+      "bottleId": "old-fitzgerald-bib-7",
       "rank": 2,
+      "rationale": "Wheated bourbon and honey are a natural match."
+    },
+    {
+      "bottleId": "russells-reserve-10",
+      "rank": 3,
       "rationale": "Classic structure."
     }
   ],

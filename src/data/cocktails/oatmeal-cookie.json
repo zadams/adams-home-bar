@@ -48,7 +48,13 @@
     "Strain into a chilled shot glass."
   ],
   "techniqueNotes": [],
-  "recommendedBottles": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-irish-cream",
+      "rank": 1,
+      "rationale": "The Irish cream in stock."
+    }
+  ],
   "substitutions": [],
   "variations": [],
   "relatedCocktailIds": [

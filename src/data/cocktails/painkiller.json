@@ -59,18 +59,23 @@
   "techniqueNotes": [],
   "recommendedBottles": [
     {
-      "bottleId": "havana-club-3",
+      "bottleId": "myers-dark-rum",
       "rank": 1,
+      "rationale": "Dark rum is the classic Painkiller base."
+    },
+    {
+      "bottleId": "havana-club-3",
+      "rank": 2,
       "rationale": "A strong match from your bar."
     },
     {
       "bottleId": "havana-club-especial",
-      "rank": 2,
+      "rank": 3,
       "rationale": "Also excellent from your shelf."
     },
     {
       "bottleId": "havana-club-maestros",
-      "rank": 3,
+      "rank": 4,
       "rationale": "Also excellent from your shelf."
     }
   ],

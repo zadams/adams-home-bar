@@ -1,0 +1,99 @@
+{
+  "id": "mezcal-paloma",
+  "slug": "mezcal-paloma",
+  "name": "Mezcal Paloma",
+  "aliases": [],
+  "description": "Mezcal, lime and a pinch of salt topped with grapefruit soda over ice.",
+  "history": "The Paloma is Mexico’s everyday highball; swapping tequila for mezcal is how it is often poured in Oaxaca.",
+  "origin": "Mexico",
+  "whyItWorks": "Grapefruit’s bitterness and smoke are an old pairing; salt makes both pop.",
+  "classifications": [
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "smoky",
+    "grapefruit",
+    "refreshing"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "medium",
+  "glassware": "Highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime wedge",
+    "Tajín rim (optional)"
+  ],
+  "illustrationKey": "mezcal-paloma",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "mezcal",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "salt",
+      "amount": 1,
+      "unit": "pinch",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "grapefruit_soda",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "tajin",
+      "amount": 1,
+      "unit": "pinch",
+      "scaleMode": "garnish",
+      "label": "Tajín rim",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Rim a highball with Tajín if you like and fill it with ice.",
+    "Add mezcal, lime and salt, then top with grapefruit soda.",
+    "Stir once and garnish with a lime wedge."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "400-conejos-mezcal",
+      "rank": 1,
+      "rationale": "Smoke under grapefruit."
+    },
+    {
+      "bottleId": "grapefruit-soda",
+      "rank": 2,
+      "rationale": "The top."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "paloma",
+    "tequila-paloma-fresh",
+    "mezcal-mule"
+  ],
+  "seasonality": [
+    "spring",
+    "summer"
+  ],
+  "tags": [
+    "mezcal",
+    "grapefruit",
+    "highball",
+    "ready-from-new-stock"
+  ]
+}

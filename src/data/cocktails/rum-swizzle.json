@@ -59,8 +59,13 @@
       "rationale": "Gold rum with enough weight."
     },
     {
-      "bottleId": "kraken-spiced",
+      "bottleId": "myers-dark-rum",
       "rank": 2,
+      "rationale": "Dark rum in place of Gosling’s."
+    },
+    {
+      "bottleId": "kraken-spiced",
+      "rank": 3,
       "rationale": "Spiced, sweeter swizzle."
     }
   ],

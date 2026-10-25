@@ -1,0 +1,94 @@
+{
+  "id": "amaretto-stone-sour",
+  "slug": "amaretto-stone-sour",
+  "name": "Amaretto Stone Sour",
+  "aliases": [],
+  "description": "Amaretto, orange juice and lemon over ice. The Amaretto Sour with orange juice standing in for some of the sweetener.",
+  "history": "A “stone sour” is any sour with orange juice added; the style was a 1970s and ’80s bar standby, and amaretto was its most popular base.",
+  "origin": "United States",
+  "whyItWorks": "Orange juice makes the drink longer and fruitier without more sugar, so the almond reads as flavor, not sweetness.",
+  "classifications": [
+    "retro",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "almond",
+    "citrus",
+    "orange"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Orange wheel",
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "amaretto-stone-sour",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "amaretto",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cocktail_cherry",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Cocktail cherry",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake amaretto, orange juice, lemon and simple syrup with ice.",
+    "Strain over fresh ice in a rocks glass.",
+    "Garnish with an orange wheel and a cherry."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "disaronno",
+      "rank": 1,
+      "rationale": "The almond base."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "amaretto-sour",
+    "italian-margarita",
+    "bocce-ball"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "amaretto",
+    "sour",
+    "retro",
+    "ready-from-new-stock"
+  ]
+}

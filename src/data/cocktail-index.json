@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-27T02:20:08.000Z",
-  "count": 609,
+  "generatedAt": "2026-10-25T01:37:13.839Z",
+  "count": 628,
   "cocktails": [
     {
       "id": "adios-motherfucker",
@@ -279,6 +279,38 @@
       ],
       "ingredientIds": [
         "amaretto",
+        "lemon_juice",
+        "simple_syrup"
+      ]
+    },
+    {
+      "id": "amaretto-stone-sour",
+      "slug": "amaretto-stone-sour",
+      "name": "Amaretto Stone Sour",
+      "file": "amaretto-stone-sour.json",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "retro",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "almond",
+        "citrus",
+        "orange"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Rocks glass",
+      "illustrationKey": "amaretto-stone-sour",
+      "tags": [
+        "amaretto",
+        "sour",
+        "retro",
+        "ready-from-new-stock"
+      ],
+      "ingredientIds": [
+        "amaretto",
+        "orange_juice",
         "lemon_juice",
         "simple_syrup"
       ]
@@ -4169,6 +4201,41 @@
       ]
     },
     {
+      "id": "bushwacker",
+      "slug": "bushwacker",
+      "name": "Bushwacker",
+      "file": "bushwacker.json",
+      "cocktailFamily": "Frozen",
+      "classifications": [
+        "classic",
+        "frozen",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "chocolate",
+        "coconut",
+        "creamy"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Hurricane glass",
+      "illustrationKey": "bushwacker",
+      "tags": [
+        "rum",
+        "frozen",
+        "dessert",
+        "coconut",
+        "ready-from-new-stock"
+      ],
+      "ingredientIds": [
+        "dark_rum",
+        "coffee_liqueur",
+        "creme_de_cacao",
+        "cream_of_coconut",
+        "heavy_cream"
+      ]
+    },
+    {
       "id": "buttery-jager-ripple",
       "slug": "buttery-jager-ripple",
       "name": "Buttery Jäger Ripple",
@@ -4766,6 +4833,35 @@
         "pineapple_juice",
         "lime_juice",
         "falernum"
+      ]
+    },
+    {
+      "id": "chartreuse-tonic",
+      "slug": "chartreuse-tonic",
+      "name": "Chartreuse Tonic",
+      "file": "chartreuse-tonic.json",
+      "cocktailFamily": "Highball",
+      "classifications": [
+        "highball"
+      ],
+      "flavorProfiles": [
+        "herbal",
+        "bitter",
+        "bubbly"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Highball",
+      "illustrationKey": "chartreuse-tonic",
+      "tags": [
+        "chartreuse",
+        "herbal",
+        "highball",
+        "ready-from-new-stock"
+      ],
+      "ingredientIds": [
+        "green_chartreuse",
+        "tonic_water"
       ]
     },
     {
@@ -6016,7 +6112,7 @@
         "ginger"
       ],
       "ingredientIds": [
-        "gold_rum",
+        "dark_rum",
         "ginger_beer"
       ]
     },
@@ -6288,6 +6384,38 @@
         "white_rum",
         "dry_vermouth",
         "cointreau"
+      ]
+    },
+    {
+      "id": "elder-fashioned",
+      "slug": "elder-fashioned",
+      "name": "Elder Fashioned",
+      "file": "elder-fashioned.json",
+      "cocktailFamily": "Old Fashioned",
+      "classifications": [
+        "modern-classic",
+        "spirit-forward"
+      ],
+      "flavorProfiles": [
+        "floral",
+        "botanical",
+        "citrus"
+      ],
+      "difficulty": "easy",
+      "strength": "spirit-forward",
+      "glassware": "Rocks glass",
+      "illustrationKey": "elder-fashioned",
+      "tags": [
+        "gin",
+        "elderflower",
+        "stirred",
+        "modern-classic",
+        "ready-from-new-stock"
+      ],
+      "ingredientIds": [
+        "gin",
+        "elderflower_liqueur",
+        "orange_bitters"
       ]
     },
     {
@@ -7846,6 +7974,38 @@
       ]
     },
     {
+      "id": "godchild",
+      "slug": "godchild",
+      "name": "Godchild",
+      "file": "godchild.json",
+      "cocktailFamily": "Dessert",
+      "classifications": [
+        "retro",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "almond",
+        "creamy",
+        "sweet"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "godchild",
+      "tags": [
+        "vodka",
+        "amaretto",
+        "dessert",
+        "creamy",
+        "ready-from-new-stock"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "amaretto",
+        "heavy_cream"
+      ]
+    },
+    {
       "id": "godfather",
       "slug": "godfather",
       "name": "Godfather",
@@ -9291,6 +9451,40 @@
       ]
     },
     {
+      "id": "hugo",
+      "slug": "hugo",
+      "name": "Hugo",
+      "file": "hugo.json",
+      "cocktailFamily": "Spritz",
+      "classifications": [
+        "modern-classic",
+        "spritz",
+        "low-abv"
+      ],
+      "flavorProfiles": [
+        "floral",
+        "bubbly",
+        "refreshing"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Wine glass",
+      "illustrationKey": "hugo",
+      "tags": [
+        "spritz",
+        "elderflower",
+        "prosecco",
+        "low-abv",
+        "ready-from-new-stock"
+      ],
+      "ingredientIds": [
+        "prosecco",
+        "elderflower_liqueur",
+        "club_soda",
+        "lime"
+      ]
+    },
+    {
       "id": "hurricane-house",
       "slug": "hurricane-house",
       "name": "Hurricane (House)",
@@ -9535,6 +9729,70 @@
         "gin",
         "campari",
         "grapefruit_juice"
+      ]
+    },
+    {
+      "id": "italian-margarita",
+      "slug": "italian-margarita",
+      "name": "Italian Margarita",
+      "file": "italian-margarita.json",
+      "cocktailFamily": "Margarita",
+      "classifications": [
+        "modern",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "almond",
+        "citrus",
+        "agave"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Rocks glass",
+      "illustrationKey": "italian-margarita",
+      "tags": [
+        "tequila",
+        "amaretto",
+        "margarita",
+        "popular",
+        "ready-from-new-stock"
+      ],
+      "ingredientIds": [
+        "blanco_tequila",
+        "amaretto",
+        "cointreau",
+        "lime_juice",
+        "orange_juice"
+      ]
+    },
+    {
+      "id": "italian-surfer",
+      "slug": "italian-surfer",
+      "name": "Italian Surfer",
+      "file": "italian-surfer.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot"
+      ],
+      "flavorProfiles": [
+        "almond",
+        "coconut",
+        "tropical"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Shot glass",
+      "illustrationKey": "italian-surfer",
+      "tags": [
+        "shot",
+        "amaretto",
+        "tropical",
+        "ready-from-new-stock"
+      ],
+      "ingredientIds": [
+        "amaretto",
+        "coconut_rum",
+        "pineapple_juice"
       ]
     },
     {
@@ -10885,6 +11143,68 @@
       ]
     },
     {
+      "id": "mezcal-con-naranja",
+      "slug": "mezcal-con-naranja",
+      "name": "Mezcal con Naranja",
+      "file": "mezcal-con-naranja.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot"
+      ],
+      "flavorProfiles": [
+        "smoky",
+        "orange",
+        "heat"
+      ],
+      "difficulty": "easy",
+      "strength": "spirit-forward",
+      "glassware": "Shot glass",
+      "illustrationKey": "mezcal-con-naranja",
+      "tags": [
+        "shot",
+        "mezcal",
+        "neat",
+        "ready-from-new-stock"
+      ],
+      "ingredientIds": [
+        "mezcal",
+        "orange",
+        "tajin"
+      ]
+    },
+    {
+      "id": "mezcal-last-word",
+      "slug": "mezcal-last-word",
+      "name": "Mezcal Last Word",
+      "file": "mezcal-last-word.json",
+      "cocktailFamily": "Last Word",
+      "classifications": [
+        "modern",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "smoky",
+        "herbal",
+        "citrus"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Coupe",
+      "illustrationKey": "mezcal-last-word",
+      "tags": [
+        "mezcal",
+        "chartreuse",
+        "equal-parts",
+        "ready-from-new-stock"
+      ],
+      "ingredientIds": [
+        "mezcal",
+        "green_chartreuse",
+        "maraschino",
+        "lime_juice"
+      ]
+    },
+    {
       "id": "mezcal-margarita",
       "slug": "mezcal-margarita",
       "name": "Mezcal Margarita",
@@ -10916,6 +11236,39 @@
       ]
     },
     {
+      "id": "mezcal-mule",
+      "slug": "mezcal-mule",
+      "name": "Mezcal Mule",
+      "file": "mezcal-mule.json",
+      "cocktailFamily": "Mule",
+      "classifications": [
+        "modern-classic",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "smoky",
+        "ginger",
+        "refreshing"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Copper mug",
+      "illustrationKey": "mezcal-mule",
+      "tags": [
+        "mezcal",
+        "mule",
+        "ginger",
+        "ready-from-new-stock"
+      ],
+      "ingredientIds": [
+        "mezcal",
+        "lime_juice",
+        "agave_syrup",
+        "cucumber",
+        "ginger_beer"
+      ]
+    },
+    {
       "id": "mezcal-negroni",
       "slug": "mezcal-negroni",
       "name": "Mezcal Negroni",
@@ -10944,6 +11297,37 @@
         "mezcal",
         "campari",
         "sweet_vermouth"
+      ]
+    },
+    {
+      "id": "mezcal-paloma",
+      "slug": "mezcal-paloma",
+      "name": "Mezcal Paloma",
+      "file": "mezcal-paloma.json",
+      "cocktailFamily": "Highball",
+      "classifications": [
+        "highball"
+      ],
+      "flavorProfiles": [
+        "smoky",
+        "grapefruit",
+        "refreshing"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Highball",
+      "illustrationKey": "mezcal-paloma",
+      "tags": [
+        "mezcal",
+        "grapefruit",
+        "highball",
+        "ready-from-new-stock"
+      ],
+      "ingredientIds": [
+        "mezcal",
+        "lime_juice",
+        "salt",
+        "grapefruit_soda"
       ]
     },
     {
@@ -11318,6 +11702,42 @@
       ]
     },
     {
+      "id": "navy-grog",
+      "slug": "navy-grog",
+      "name": "Navy Grog",
+      "file": "navy-grog.json",
+      "cocktailFamily": "Tiki",
+      "classifications": [
+        "classic",
+        "tiki"
+      ],
+      "flavorProfiles": [
+        "grapefruit",
+        "honey",
+        "tropical"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Double old fashioned",
+      "illustrationKey": "navy-grog",
+      "tags": [
+        "rum",
+        "tiki",
+        "classic",
+        "honey",
+        "ready-from-new-stock"
+      ],
+      "ingredientIds": [
+        "dark_rum",
+        "gold_rum",
+        "white_rum",
+        "lime_juice",
+        "grapefruit_juice",
+        "honey_syrup",
+        "club_soda"
+      ]
+    },
+    {
       "id": "overproof-daiquiri",
       "slug": "overproof-daiquiri",
       "name": "Navy-Strength Daiquiri",
@@ -11533,6 +11953,39 @@
         "gin",
         "dry_vermouth",
         "creme_de_noyaux"
+      ]
+    },
+    {
+      "id": "nuclear-daiquiri",
+      "slug": "nuclear-daiquiri",
+      "name": "Nuclear Daiquiri",
+      "file": "nuclear-daiquiri.json",
+      "cocktailFamily": "Daiquiri",
+      "classifications": [
+        "modern-classic",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "herbal",
+        "citrus",
+        "heat"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Coupe",
+      "illustrationKey": "nuclear-daiquiri",
+      "tags": [
+        "rum",
+        "chartreuse",
+        "overproof",
+        "modern-classic",
+        "ready-from-new-stock"
+      ],
+      "ingredientIds": [
+        "overproof_rum",
+        "green_chartreuse",
+        "falernum",
+        "lime_juice"
       ]
     },
     {
@@ -11808,6 +12261,37 @@
         "vodka",
         "cointreau",
         "orange_juice"
+      ]
+    },
+    {
+      "id": "orgasm-shot",
+      "slug": "orgasm-shot",
+      "name": "Orgasm",
+      "file": "orgasm-shot.json",
+      "cocktailFamily": "Shot",
+      "classifications": [
+        "shot"
+      ],
+      "flavorProfiles": [
+        "almond",
+        "coffee",
+        "creamy"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Shot glass",
+      "illustrationKey": "orgasm-shot",
+      "tags": [
+        "shot",
+        "amaretto",
+        "creamy",
+        "party",
+        "ready-from-new-stock"
+      ],
+      "ingredientIds": [
+        "amaretto",
+        "coffee_liqueur",
+        "baileys"
       ]
     },
     {
@@ -12932,7 +13416,7 @@
         "tropical"
       ],
       "ingredientIds": [
-        "gold_rum",
+        "dark_rum",
         "lime_juice",
         "simple_syrup",
         "orange_juice",
@@ -15806,6 +16290,39 @@
       ]
     },
     {
+      "id": "st-germain-cocktail",
+      "slug": "st-germain-cocktail",
+      "name": "St-Germain Cocktail",
+      "file": "st-germain-cocktail.json",
+      "cocktailFamily": "Spritz",
+      "classifications": [
+        "modern",
+        "spritz",
+        "low-abv"
+      ],
+      "flavorProfiles": [
+        "floral",
+        "bubbly",
+        "citrus"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Collins glass",
+      "illustrationKey": "st-germain-cocktail",
+      "tags": [
+        "spritz",
+        "elderflower",
+        "prosecco",
+        "low-abv",
+        "ready-from-new-stock"
+      ],
+      "ingredientIds": [
+        "elderflower_liqueur",
+        "prosecco",
+        "club_soda"
+      ]
+    },
+    {
       "id": "starburst-shot",
       "slug": "starburst-shot",
       "name": "Starburst Shot",
@@ -15955,6 +16472,38 @@
         "jagermeister",
         "coconut_rum",
         "pineapple_juice"
+      ]
+    },
+    {
+      "id": "swamp-water",
+      "slug": "swamp-water",
+      "name": "Swamp Water",
+      "file": "swamp-water.json",
+      "cocktailFamily": "Highball",
+      "classifications": [
+        "retro",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "herbal",
+        "pineapple",
+        "tropical"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Highball",
+      "illustrationKey": "swamp-water",
+      "tags": [
+        "chartreuse",
+        "herbal",
+        "pineapple",
+        "retro",
+        "ready-from-new-stock"
+      ],
+      "ingredientIds": [
+        "green_chartreuse",
+        "pineapple_juice",
+        "lime_juice"
       ]
     },
     {
@@ -16499,6 +17048,40 @@
         "agricole_rum",
         "cane_syrup",
         "lime"
+      ]
+    },
+    {
+      "id": "tia-mia",
+      "slug": "tia-mia",
+      "name": "Tia Mia",
+      "file": "tia-mia.json",
+      "cocktailFamily": "Mai Tai",
+      "classifications": [
+        "modern-classic",
+        "tiki"
+      ],
+      "flavorProfiles": [
+        "smoky",
+        "almond",
+        "citrus"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Rocks glass",
+      "illustrationKey": "tia-mia",
+      "tags": [
+        "mezcal",
+        "rum",
+        "tiki",
+        "modern-classic",
+        "ready-from-new-stock"
+      ],
+      "ingredientIds": [
+        "mezcal",
+        "jamaican_rum",
+        "grand_marnier",
+        "orgeat",
+        "lime_juice"
       ]
     },
     {
@@ -17936,6 +18519,41 @@
         "gin",
         "cointreau",
         "lemon_juice"
+      ]
+    },
+    {
+      "id": "white-linen",
+      "slug": "white-linen",
+      "name": "White Linen",
+      "file": "white-linen.json",
+      "cocktailFamily": "Collins",
+      "classifications": [
+        "modern",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "floral",
+        "refreshing",
+        "citrus"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Collins glass",
+      "illustrationKey": "white-linen",
+      "tags": [
+        "gin",
+        "elderflower",
+        "cucumber",
+        "highball",
+        "ready-from-new-stock"
+      ],
+      "ingredientIds": [
+        "gin",
+        "elderflower_liqueur",
+        "lemon_juice",
+        "simple_syrup",
+        "cucumber",
+        "club_soda"
       ]
     },
     {

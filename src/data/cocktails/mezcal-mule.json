@@ -1,0 +1,96 @@
+{
+  "id": "mezcal-mule",
+  "slug": "mezcal-mule",
+  "name": "Mezcal Mule",
+  "aliases": [],
+  "description": "Mezcal, lime and muddled cucumber topped with ginger beer.",
+  "history": "Jim Meehan’s version at PDT in New York, with passion fruit and agave, made it a modern classic. This one leaves out the passion fruit.",
+  "origin": "New York",
+  "whyItWorks": "Ginger and smoke both read as heat; cucumber and lime cool them down. Mezcal gives the mule a savory floor vodka never could.",
+  "classifications": [
+    "modern-classic",
+    "highball"
+  ],
+  "cocktailFamily": "Mule",
+  "flavorProfiles": [
+    "smoky",
+    "ginger",
+    "refreshing"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Copper mug",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Cucumber slice",
+    "Lime wheel"
+  ],
+  "illustrationKey": "mezcal-mule",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "mezcal",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "agave_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cucumber",
+      "amount": 2,
+      "unit": "piece",
+      "scaleMode": "linear",
+      "label": "Cucumber slices"
+    },
+    {
+      "ingredientId": "ginger_beer",
+      "amount": 3,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Muddle two cucumber slices in a shaker.",
+    "Add mezcal, lime and agave; shake with ice.",
+    "Strain into an ice-filled mug and top with ginger beer.",
+    "Garnish with cucumber and lime."
+  ],
+  "techniqueNotes": [
+    "For the PDT version, add 0.75 oz passion fruit purée and drop the agave."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "400-conejos-mezcal",
+      "rank": 1,
+      "rationale": "Mixing mezcal with enough smoke to show through ginger."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "moscow-mule",
+    "mexican-mule",
+    "mezcal-paloma"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "mezcal",
+    "mule",
+    "ginger",
+    "ready-from-new-stock"
+  ]
+}

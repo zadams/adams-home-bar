@@ -63,8 +63,18 @@
   ],
   "recommendedBottles": [
     {
-      "bottleId": "woodford-reserve",
+      "bottleId": "disaronno",
       "rank": 1,
+      "rationale": "The amaretto on the shelf."
+    },
+    {
+      "bottleId": "old-fitzgerald-bib-7",
+      "rank": 2,
+      "rationale": "Strong bonded bourbon for the float."
+    },
+    {
+      "bottleId": "woodford-reserve",
+      "rank": 3,
       "rationale": "Optional bourbon backbone."
     }
   ],

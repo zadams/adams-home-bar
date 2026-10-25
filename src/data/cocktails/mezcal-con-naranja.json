@@ -1,0 +1,81 @@
+{
+  "id": "mezcal-con-naranja",
+  "slug": "mezcal-con-naranja",
+  "name": "Mezcal con Naranja",
+  "aliases": [],
+  "description": "A pour of mezcal sipped with orange slices dusted in chili salt. The Oaxacan way to drink it.",
+  "history": "In Oaxaca, mezcal comes with orange and sal de gusano (worm salt with chili). Tajín is the easy stand-in.",
+  "origin": "Oaxaca, Mexico",
+  "whyItWorks": "Sweet orange and salty chili reset the palate between sips and pull fruit out of the smoke.",
+  "classifications": [
+    "shot"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "smoky",
+    "orange",
+    "heat"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "spirit-forward",
+  "glassware": "Shot glass",
+  "ice": "None",
+  "garnish": [
+    "Orange slices with Tajín"
+  ],
+  "illustrationKey": "mezcal-con-naranja",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "mezcal",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 2,
+      "unit": "piece",
+      "scaleMode": "linear",
+      "label": "Orange slices"
+    },
+    {
+      "ingredientId": "tajin",
+      "amount": 1,
+      "unit": "pinch",
+      "scaleMode": "fixed",
+      "label": "Tajín (for the orange)"
+    }
+  ],
+  "steps": [
+    "Pour mezcal into a shot glass or small copita.",
+    "Dust orange slices with Tajín and serve alongside.",
+    "Sip, don’t shoot; bite the orange between sips."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "400-conejos-mezcal",
+      "rank": 1,
+      "rationale": "Easygoing espadín."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "mexican-candy-shot",
+    "tequila-slammer",
+    "mezcal-paloma"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "mezcal",
+    "neat",
+    "ready-from-new-stock"
+  ],
+  "kind": "shot"
+}

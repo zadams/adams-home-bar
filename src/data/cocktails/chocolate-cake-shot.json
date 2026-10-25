@@ -53,7 +53,13 @@
   "techniqueNotes": [
     "The lemon is not optional — without it the illusion does not happen."
   ],
-  "recommendedBottles": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "disaronno",
+      "rank": 1,
+      "rationale": "The amaretto on the shelf."
+    }
+  ],
   "substitutions": [],
   "variations": [],
   "relatedCocktailIds": [

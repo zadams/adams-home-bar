@@ -69,6 +69,11 @@
       "bottleId": "havana-club-especial",
       "rank": 1,
       "rationale": "Solid single-rum Mai Tai from the house shelf."
+    },
+    {
+      "bottleId": "myers-dark-rum",
+      "rank": 2,
+      "rationale": "Half an ounce floated on top for extra depth."
     }
   ],
   "substitutions": [],

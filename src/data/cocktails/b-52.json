@@ -55,18 +55,23 @@
   ],
   "recommendedBottles": [
     {
-      "bottleId": "baileys",
+      "bottleId": "kirkland-irish-cream",
       "rank": 1,
+      "rationale": "The Irish cream in stock."
+    },
+    {
+      "bottleId": "baileys",
+      "rank": 2,
       "rationale": "Middle cream layer."
     },
     {
       "bottleId": "grand-marnier",
-      "rank": 2,
+      "rank": 3,
       "rationale": "Classic top layer."
     },
     {
       "bottleId": "cointreau",
-      "rank": 3,
+      "rank": 4,
       "rationale": "Alternate orange top."
     }
   ],

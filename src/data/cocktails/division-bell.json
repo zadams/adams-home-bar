@@ -58,7 +58,13 @@
     "Express grapefruit oil."
   ],
   "techniqueNotes": [],
-  "recommendedBottles": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "400-conejos-mezcal",
+      "rank": 1,
+      "rationale": "Espadín with moderate smoke."
+    }
+  ],
   "substitutions": [],
   "variations": [],
   "relatedCocktailIds": [],

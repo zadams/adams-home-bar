@@ -52,13 +52,18 @@
   "techniqueNotes": [],
   "recommendedBottles": [
     {
-      "bottleId": "woodford-reserve",
+      "bottleId": "old-fitzgerald-bib-7",
       "rank": 1,
+      "rationale": "Wheated bonded bourbon is the julep standard."
+    },
+    {
+      "bottleId": "woodford-reserve",
+      "rank": 2,
       "rationale": "Classic Derby-adjacent bourbon character."
     },
     {
       "bottleId": "eagle-rare",
-      "rank": 2,
+      "rank": 3,
       "rationale": "Softer fruit for a gentler julep."
     }
   ],

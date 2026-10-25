@@ -56,8 +56,13 @@
   "techniqueNotes": [],
   "recommendedBottles": [
     {
-      "bottleId": "fever-tree-soda",
+      "bottleId": "disaronno",
       "rank": 1,
+      "rationale": "The amaretto on the shelf."
+    },
+    {
+      "bottleId": "fever-tree-soda",
+      "rank": 2,
       "rationale": "Optional soda lengthener, already stocked."
     }
   ],

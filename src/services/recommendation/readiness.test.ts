@@ -127,8 +127,7 @@ describe('readiness engine', () => {
     const almost = [
       ['sidecar', 'cognac'],
       ['aviation', 'creme_de_violette'],
-      ['chartreuse-swizzle', 'green_chartreuse'],
-      ['mezcal-negroni', 'mezcal'],
+      ['champs-elysees', 'cognac'],
       ['fanciulli', 'fernet_branca'],
     ] as const
     for (const [id, missing] of almost) {
@@ -140,17 +139,20 @@ describe('readiness engine', () => {
       })
     }
 
-    // Brave Bull left this list when Kahlua was stocked for the class party.
-    expect(assessReadiness(cocktail('brave-bull'), seedInventory).state).toBe(
-      'ready',
-    )
+    // These left the list as their bottles were stocked: Kahlua for the class
+    // party, Green Chartreuse and 400 Conejos mezcal in October 2026.
+    for (const id of ['brave-bull', 'chartreuse-swizzle', 'mezcal-negroni']) {
+      expect(assessReadiness(cocktail(id), seedInventory).state, id).toBe('ready')
+    }
+  })
 
-    const champs = assessReadiness(cocktail('champs-elysees'), seedInventory)
-    expect(champs.state).toBe('nearly')
-    expect(champs.missingRequired.map((m) => m.ingredientId).sort()).toEqual([
-      'cognac',
-      'green_chartreuse',
-    ])
+  it('lets gold rum cover dark rum when the Myers’s is out', () => {
+    const inventory: InventoryItem[] = seedInventory.map((item) =>
+      item.bottleId === 'myers-dark-rum' ? { ...item, status: 'out' } : item,
+    )
+    expect(assessReadiness(cocktail('dark-n-stormy'), inventory).state).toBe('ready')
+    // Jamaican rum gets no such fallback: the Kingston Negroni needs the funk.
+    expect(assessReadiness(cocktail('kingston-negroni'), inventory).state).toBe('almost')
   })
 
   it('marks Paloma almost ready when grapefruit soda is out', () => {

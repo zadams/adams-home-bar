@@ -1,0 +1,87 @@
+{
+  "id": "orgasm-shot",
+  "slug": "orgasm-shot",
+  "name": "Orgasm",
+  "aliases": [],
+  "description": "Equal parts amaretto, coffee liqueur and Irish cream, shaken cold.",
+  "history": "A 1980s party shot. Add vodka and it becomes the Screaming Orgasm.",
+  "origin": "United States",
+  "whyItWorks": "Almond, coffee and cream: a tiramisu-ish dessert in one mouthful.",
+  "classifications": [
+    "shot"
+  ],
+  "cocktailFamily": "Shot",
+  "flavorProfiles": [
+    "almond",
+    "coffee",
+    "creamy"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "light",
+  "glassware": "Shot glass",
+  "ice": "Shaken; up",
+  "garnish": [],
+  "illustrationKey": "orgasm-shot",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "amaretto",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "coffee_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "baileys",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake everything with ice.",
+    "Strain into a shot glass."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "disaronno",
+      "rank": 1,
+      "rationale": "Almond."
+    },
+    {
+      "bottleId": "kahlua",
+      "rank": 2,
+      "rationale": "Coffee."
+    },
+    {
+      "bottleId": "kirkland-irish-cream",
+      "rank": 3,
+      "rationale": "Cream."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "screaming-orgasm",
+    "mudslide-shot",
+    "nutty-irishman"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "shot",
+    "amaretto",
+    "creamy",
+    "party",
+    "ready-from-new-stock"
+  ],
+  "kind": "shot"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "nuclear-daiquiri",
+  "slug": "nuclear-daiquiri",
+  "name": "Nuclear Daiquiri",
+  "aliases": [],
+  "description": "Overproof rum and green Chartreuse in equal measure with lime and falernum. Bright green, very strong, and better balanced than it has any right to be.",
+  "history": "Gregor de Gruyther created it at LAB in London around 2005, built on Wray & Nephew white overproof. It has since become a bartenders’ shift drink.",
+  "origin": "London",
+  "whyItWorks": "Two high-proof spirits with a lot of flavor cancel each other’s rough edges. Falernum’s clove and lime pull them toward a daiquiri.",
+  "classifications": [
+    "modern-classic",
+    "sour"
+  ],
+  "cocktailFamily": "Daiquiri",
+  "flavorProfiles": [
+    "herbal",
+    "citrus",
+    "heat"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "strong",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Lime wheel"
+  ],
+  "illustrationKey": "nuclear-daiquiri",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "overproof_rum",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "green_chartreuse",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "falernum",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake everything hard with ice.",
+    "Fine-strain into a chilled coupe.",
+    "Float a lime wheel."
+  ],
+  "techniqueNotes": [
+    "Stroh 160 is 80% and spiced, hotter than Wray & Nephew’s 63%. Pour 0.5 oz Stroh and add 0.25 oz Bacardi to keep the balance."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "green-chartreuse",
+      "rank": 1,
+      "rationale": "Half the drink."
+    },
+    {
+      "bottleId": "stroh-160",
+      "rank": 2,
+      "rationale": "The overproof on the shelf; cut it back as noted."
+    },
+    {
+      "bottleId": "bitter-truth-falernum",
+      "rank": 3,
+      "rationale": "Clove and lime binder."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "daiquiri",
+    "overproof-daiquiri",
+    "last-word"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rum",
+    "chartreuse",
+    "overproof",
+    "modern-classic",
+    "ready-from-new-stock"
+  ],
+  "year": 2005,
+  "creator": "Gregor de Gruyther"
+}

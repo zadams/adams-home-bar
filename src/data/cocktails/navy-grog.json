@@ -1,0 +1,118 @@
+{
+  "id": "navy-grog",
+  "slug": "navy-grog",
+  "name": "Navy Grog",
+  "aliases": [],
+  "description": "Three rums with lime, grapefruit, honey and a splash of soda over crushed ice. Don the Beachcomber’s strong, dry tiki standard.",
+  "history": "Created by Donn Beach at Don the Beachcomber in Hollywood in the early 1940s, and later copied by Trader Vic. It was famously one of Richard Nixon’s favorite drinks.",
+  "origin": "Hollywood, California",
+  "whyItWorks": "Honey and grapefruit are drier than the usual tiki sugar, so the three rums — dark, aged and light — come through.",
+  "classifications": [
+    "classic",
+    "tiki"
+  ],
+  "cocktailFamily": "Tiki",
+  "flavorProfiles": [
+    "grapefruit",
+    "honey",
+    "tropical"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "strong",
+  "glassware": "Double old fashioned",
+  "ice": "Crushed ice",
+  "garnish": [
+    "Lime wheel"
+  ],
+  "illustrationKey": "navy-grog",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "dark_rum",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "gold_rum",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Aged rum (stands in for Demerara)"
+    },
+    {
+      "ingredientId": "white_rum",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grapefruit_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "honey_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake everything except the soda with ice.",
+    "Strain into a glass packed with crushed ice and top with soda.",
+    "Garnish with a lime wheel."
+  ],
+  "techniqueNotes": [
+    "The original calls for Demerara rum. Havana Club Especial is lighter, so the Myers’s does more of the heavy lifting here."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "myers-dark-rum",
+      "rank": 1,
+      "rationale": "The Jamaican rum."
+    },
+    {
+      "bottleId": "havana-club-especial",
+      "rank": 2,
+      "rationale": "Aged rum in place of Demerara."
+    },
+    {
+      "bottleId": "bacardi-superior",
+      "rank": 3,
+      "rationale": "Light rum."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "zombie-house",
+    "planters-punch",
+    "jungle-bird"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "rum",
+    "tiki",
+    "classic",
+    "honey",
+    "ready-from-new-stock"
+  ],
+  "creator": "Donn Beach"
+}

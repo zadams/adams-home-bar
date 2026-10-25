@@ -75,6 +75,11 @@
       "bottleId": "toasted-coconut-rum",
       "rank": 1,
       "rationale": "A strong match from your bar."
+    },
+    {
+      "bottleId": "myers-dark-rum",
+      "rank": 2,
+      "rationale": "Dark rum for the aged-rum half."
     }
   ],
   "substitutions": [],

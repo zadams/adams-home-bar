@@ -286,7 +286,8 @@
     "category": "liqueur",
     "subcategory": "cream",
     "aliases": [
-      "Baileys"
+      "Baileys",
+      "Irish cream liqueur"
     ],
     "tags": [
       "cream"
@@ -701,7 +702,10 @@
     "name": "Green Chartreuse",
     "category": "liqueur",
     "subcategory": "herbal",
-    "aliases": [],
+    "aliases": [
+      "Chartreuse",
+      "Chartreuse Verte"
+    ],
     "tags": [
       "herbal"
     ]
@@ -938,7 +942,8 @@
     "category": "liqueur",
     "subcategory": "nut",
     "aliases": [
-      "almond liqueur"
+      "almond liqueur",
+      "Disaronno"
     ],
     "tags": [
       "almond",
@@ -951,7 +956,9 @@
     "category": "spirit",
     "subcategory": "agave",
     "aliases": [
-      "mezcal"
+      "mezcal",
+      "mezcal joven",
+      "espadín"
     ],
     "tags": [
       "agave",
@@ -1545,6 +1552,38 @@
       "almond",
       "cherry-pit",
       "pink"
+    ]
+  },
+  {
+    "id": "elderflower_liqueur",
+    "name": "Elderflower liqueur",
+    "category": "liqueur",
+    "subcategory": "floral",
+    "aliases": [
+      "St-Germain",
+      "St. Germain",
+      "elderflower"
+    ],
+    "tags": [
+      "floral",
+      "elderflower",
+      "sweet"
+    ]
+  },
+  {
+    "id": "dark_rum",
+    "name": "Dark rum",
+    "category": "spirit",
+    "subcategory": "rum",
+    "aliases": [
+      "black rum",
+      "Myers’s",
+      "dark Jamaican rum"
+    ],
+    "tags": [
+      "rum",
+      "molasses",
+      "dark"
     ]
   }
 ]

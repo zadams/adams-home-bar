@@ -58,13 +58,18 @@
       "rationale": "A strong match from your bar."
     },
     {
-      "bottleId": "asw-fiddler-toasted",
+      "bottleId": "old-fitzgerald-bib-7",
       "rank": 2,
+      "rationale": "Soft wheat lets the grapefruit and honey through."
+    },
+    {
+      "bottleId": "asw-fiddler-toasted",
+      "rank": 3,
       "rationale": "Also excellent from your shelf."
     },
     {
       "bottleId": "barrell-vantage",
-      "rank": 3,
+      "rank": 4,
       "rationale": "Also excellent from your shelf."
     }
   ],

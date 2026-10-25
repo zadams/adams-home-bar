@@ -62,8 +62,13 @@
   "techniqueNotes": [],
   "recommendedBottles": [
     {
-      "bottleId": "havana-club-especial",
+      "bottleId": "myers-dark-rum",
       "rank": 1,
+      "rationale": "The 1978 original used dark Jamaican rum; it stands up to Campari."
+    },
+    {
+      "bottleId": "havana-club-especial",
+      "rank": 2,
       "rationale": "Gold rum with enough weight for Campari."
     }
   ],

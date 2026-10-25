@@ -1,0 +1,86 @@
+{
+  "id": "godchild",
+  "slug": "godchild",
+  "name": "Godchild",
+  "aliases": [],
+  "description": "Vodka, amaretto and cream shaken and served up. The creamy end of the Godfather family.",
+  "history": "Once the Godfather (Scotch and amaretto) and Godmother (vodka and amaretto) were standard in the 1970s, cream made the Godchild.",
+  "origin": "United States",
+  "whyItWorks": "Cream turns amaretto’s marzipan note into something close to almond milk; vodka keeps it from being dessert alone.",
+  "classifications": [
+    "retro",
+    "dessert"
+  ],
+  "cocktailFamily": "Dessert",
+  "flavorProfiles": [
+    "almond",
+    "creamy",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Fresh nutmeg"
+  ],
+  "illustrationKey": "godchild",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "amaretto",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "heavy_cream",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake vodka, amaretto and cream hard with ice.",
+    "Strain into a chilled coupe and grate nutmeg on top."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "disaronno",
+      "rank": 1,
+      "rationale": "Almond and apricot-kernel."
+    },
+    {
+      "bottleId": "titos",
+      "rank": 2,
+      "rationale": "Neutral base."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "godmother",
+    "godfather",
+    "toasted-almond",
+    "barbara"
+  ],
+  "seasonality": [
+    "year-round",
+    "winter"
+  ],
+  "tags": [
+    "vodka",
+    "amaretto",
+    "dessert",
+    "creamy",
+    "ready-from-new-stock"
+  ]
+}
