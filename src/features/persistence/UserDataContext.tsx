@@ -20,6 +20,8 @@ import type { InventoryStatus } from '../../types/inventory'
 
 interface UserDataContextValue {
   userData: UserData
+  /** Times each drink has been logged as made; absent means never. */
+  madeCounts: ReadonlyMap<string, number>
   trackView: (cocktailId: string) => void
   setInventoryOverride: (
     itemId: string,
@@ -275,9 +277,23 @@ export function UserDataProvider({ children }: { children: ReactNode }) {
     setUserData(localPersistence.load())
   }, [])
 
+  // History keeps only the latest 200 entries, but the journey remembers every
+  // drink ever logged, so it backfills anything that has aged out.
+  const madeCounts = useMemo(() => {
+    const counts = new Map<string, number>()
+    for (const entry of userData.history) {
+      counts.set(entry.cocktailId, (counts.get(entry.cocktailId) ?? 0) + 1)
+    }
+    for (const id of userData.journey.completedCocktailIds) {
+      if (!counts.has(id)) counts.set(id, 1)
+    }
+    return counts
+  }, [userData.history, userData.journey.completedCocktailIds])
+
   const value = useMemo(
     () => ({
       userData,
+      madeCounts,
       trackView,
       setInventoryOverride,
       setInventoryStatus,
@@ -297,6 +313,7 @@ export function UserDataProvider({ children }: { children: ReactNode }) {
     }),
     [
       userData,
+      madeCounts,
       trackView,
       setInventoryOverride,
       setInventoryStatus,

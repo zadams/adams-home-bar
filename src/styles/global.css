@@ -220,6 +220,7 @@
   box-shadow: var(--shadow-panel);
   transition: border-color 0.2s ease, transform 0.2s ease;
   min-height: 100%;
+  position: relative;
 }
 
 .cocktail-card:hover {
@@ -714,6 +715,21 @@
   border: 1px dashed var(--color-border);
   padding: var(--space-5);
   text-align: center;
+}
+
+/* Sits over the card art's top-right corner on drinks you've logged as made. */
+.cocktail-card__made {
+  position: absolute;
+  top: var(--space-2);
+  right: var(--space-2);
+  padding: 0.15em 0.55em;
+  border: 1px solid var(--color-border-strong);
+  border-radius: 999px;
+  background: rgba(16, 12, 8, 0.78);
+  color: var(--color-ready);
+  font-size: var(--text-xs);
+  letter-spacing: 0.04em;
+  pointer-events: none;
 }
 
 /* Marks a result that came from outside the section being browsed. */

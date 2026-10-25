@@ -4,6 +4,7 @@ import type { ReadinessResult } from '../../services/recommendation/readiness'
 import { drinkKind, drinkPath, ingredientById } from '../../data'
 import { CocktailIllustration } from '../../components/CocktailIllustration'
 import { readinessClass } from '../../utils/illustrations'
+import { useUserData } from '../persistence/UserDataContext'
 
 interface CocktailCardProps {
   cocktail: Cocktail
@@ -36,6 +37,7 @@ export function CocktailCard({
 }: CocktailCardProps) {
   const keySpirit = keyIngredientLabel(cocktail)
   const kind = drinkKind(cocktail)
+  const timesMade = useUserData().madeCounts.get(cocktail.id) ?? 0
 
   return (
     <Link
@@ -50,6 +52,14 @@ export function CocktailCard({
           showIngredients={false}
           preferThumb
         />
+      {timesMade > 0 && (
+        <span
+          className="cocktail-card__made"
+          title={timesMade === 1 ? 'Made once' : `Made ${timesMade} times`}
+        >
+          ✓ Made{timesMade > 1 && ` ×${timesMade}`}
+        </span>
+      )}
       <div className="cocktail-card__body">
         <h2 className="cocktail-card__name">
           {cocktail.name}
