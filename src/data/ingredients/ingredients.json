@@ -1585,5 +1585,20 @@
       "molasses",
       "dark"
     ]
+  },
+  {
+    "id": "creme_de_mure",
+    "name": "Crème de mûre",
+    "category": "liqueur",
+    "subcategory": "fruit liqueur",
+    "aliases": [
+      "blackberry liqueur",
+      "crème de mûre"
+    ],
+    "tags": [
+      "blackberry",
+      "berry",
+      "sweet"
+    ]
   }
 ]

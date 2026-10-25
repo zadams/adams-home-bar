@@ -2261,6 +2261,24 @@
       "hex": "#9E2434"
     }
   },
+  "bramble": {
+    "src": "/images/cocktails/webp/bramble.webp",
+    "kind": "illustration",
+    "glassware": "Rocks glass",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "gin",
+      "lemon_juice",
+      "simple_syrup",
+      "creme_de_mure"
+    ],
+    "artTemplate": "sour",
+    "liquidPalette": {
+      "name": "bramble-purple",
+      "hex": "#6B2A4A"
+    }
+  },
   "brandy-crusta": {
     "src": "/images/cocktails/webp/brandy-crusta.webp",
     "kind": "illustration",
@@ -3654,6 +3672,24 @@
     "liquidPalette": {
       "name": "cafe-cream",
       "hex": "#A88162"
+    }
+  },
+  "east-8-hold-up": {
+    "src": "/images/cocktails/webp/east-8-hold-up.webp",
+    "kind": "illustration",
+    "glassware": "Coupe",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "vodka",
+      "aperol",
+      "passion_fruit_syrup",
+      "lime_juice"
+    ],
+    "artTemplate": "sour",
+    "liquidPalette": {
+      "name": "aperol-orange",
+      "hex": "#E8813A"
     }
   },
   "el-presidente": {
@@ -6532,6 +6568,22 @@
     },
     "fallbackSrc": "/images/cocktails/photos/aperol-spritz.jpg"
   },
+  "milano-torino": {
+    "src": "/images/cocktails/webp/milano-torino.webp",
+    "kind": "illustration",
+    "glassware": "Rocks glass",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "campari",
+      "sweet_vermouth"
+    ],
+    "artTemplate": "negroni",
+    "liquidPalette": {
+      "name": "campari-red",
+      "hex": "#A8262C"
+    }
+  },
   "mimosa": {
     "src": "/images/cocktails/webp/mimosa.webp",
     "kind": "illustration",
@@ -7720,6 +7772,24 @@
     "liquidPalette": {
       "name": "deep-garnet",
       "hex": "#742833"
+    }
+  },
+  "pornstar-martini": {
+    "src": "/images/cocktails/webp/pornstar-martini.webp",
+    "kind": "illustration",
+    "glassware": "Coupe",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "vodka",
+      "passion_fruit_syrup",
+      "lime_juice",
+      "simple_syrup"
+    ],
+    "artTemplate": "martini",
+    "liquidPalette": {
+      "name": "passion-fruit-gold",
+      "hex": "#E9B649"
     }
   },
   "port-light": {

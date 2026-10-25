@@ -1,0 +1,160 @@
+{
+  "id": "worlds-top-50",
+  "name": "World’s Top 50",
+  "description": "The 50 bestselling classic cocktails at the world’s best bars, in rank order, from Drinks International’s 2026 Cocktail Report.",
+  "drinks": [
+    {
+      "drinkId": "negroni",
+      "note": "Number one for the fifth year running."
+    },
+    {
+      "drinkId": "margarita"
+    },
+    {
+      "drinkId": "old-fashioned"
+    },
+    {
+      "drinkId": "martini",
+      "note": "The Dry Martini."
+    },
+    {
+      "drinkId": "espresso-martini"
+    },
+    {
+      "drinkId": "daiquiri"
+    },
+    {
+      "drinkId": "aperol-spritz"
+    },
+    {
+      "drinkId": "paloma"
+    },
+    {
+      "drinkId": "whiskey-sour"
+    },
+    {
+      "drinkId": "manhattan"
+    },
+    {
+      "drinkId": "amaretto-sour"
+    },
+    {
+      "drinkId": "mojito"
+    },
+    {
+      "drinkId": "gimlet"
+    },
+    {
+      "drinkId": "bloody-mary"
+    },
+    {
+      "drinkId": "americano"
+    },
+    {
+      "drinkId": "moscow-mule"
+    },
+    {
+      "drinkId": "bamboo"
+    },
+    {
+      "drinkId": "zombie-house",
+      "note": "Our house build; Donn Beach’s original is more elaborate."
+    },
+    {
+      "drinkId": "boulevardier"
+    },
+    {
+      "drinkId": "penicillin"
+    },
+    {
+      "drinkId": "pisco-sour"
+    },
+    {
+      "drinkId": "clover-club"
+    },
+    {
+      "drinkId": "french-75"
+    },
+    {
+      "drinkId": "mai-tai"
+    },
+    {
+      "drinkId": "gin-fizz"
+    },
+    {
+      "drinkId": "pornstar-martini"
+    },
+    {
+      "drinkId": "gin-basil-smash"
+    },
+    {
+      "drinkId": "vodka-martini"
+    },
+    {
+      "drinkId": "bees-knees"
+    },
+    {
+      "drinkId": "vesper"
+    },
+    {
+      "drinkId": "last-word"
+    },
+    {
+      "drinkId": "paper-plane"
+    },
+    {
+      "drinkId": "caipirinha"
+    },
+    {
+      "drinkId": "mezcal-margarita"
+    },
+    {
+      "drinkId": "aviation"
+    },
+    {
+      "drinkId": "negroni-sbagliato"
+    },
+    {
+      "drinkId": "scotch-lemon-sour"
+    },
+    {
+      "drinkId": "brandy-crusta"
+    },
+    {
+      "drinkId": "milano-torino"
+    },
+    {
+      "drinkId": "bramble"
+    },
+    {
+      "drinkId": "garibaldi"
+    },
+    {
+      "drinkId": "champagne-cocktail"
+    },
+    {
+      "drinkId": "cuba-libre"
+    },
+    {
+      "drinkId": "pina-colada"
+    },
+    {
+      "drinkId": "east-8-hold-up"
+    },
+    {
+      "drinkId": "vieux-carre"
+    },
+    {
+      "drinkId": "bellini"
+    },
+    {
+      "drinkId": "sidecar"
+    },
+    {
+      "drinkId": "southside"
+    },
+    {
+      "drinkId": "naked-and-famous"
+    }
+  ]
+}

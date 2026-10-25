@@ -1,0 +1,104 @@
+{
+  "id": "pornstar-martini",
+  "slug": "pornstar-martini",
+  "name": "Pornstar Martini",
+  "aliases": [
+    "Maverick Martini"
+  ],
+  "description": "Vanilla vodka, passion fruit and lime shaken and served up, with a chilled shot of sparkling wine on the side.",
+  "history": "Douglas Ankrah created it at the Townhouse bar in London in the early 2000s, first calling it the Maverick Martini. It became the UK’s most-ordered cocktail for years.",
+  "origin": "London",
+  "whyItWorks": "Passion fruit is sharp and perfumed; vanilla rounds it off and vodka stays out of the way. The sparkling wine is a palate cleanser between sips, not a topper.",
+  "classifications": [
+    "modern-classic",
+    "sour"
+  ],
+  "cocktailFamily": "Martini",
+  "flavorProfiles": [
+    "tropical",
+    "citrus",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Half a passion fruit",
+    "Shot of sparkling wine on the side"
+  ],
+  "illustrationKey": "pornstar-martini",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Vanilla vodka (or vodka)"
+    },
+    {
+      "ingredientId": "passion_fruit_syrup",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Passion fruit purée or syrup"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Vanilla syrup (or simple)"
+    },
+    {
+      "ingredientId": "prosecco",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Sparkling wine, on the side",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake vodka, passion fruit, lime and syrup hard with ice.",
+    "Fine-strain into a chilled coupe and float half a passion fruit.",
+    "Serve a shot glass of cold prosecco alongside."
+  ],
+  "techniqueNotes": [
+    "Ankrah’s spec adds 0.5 oz Passoã passion fruit liqueur. Without it, use a little more purée.",
+    "No vanilla vodka on the shelf: a drop of vanilla extract in the simple syrup does the job."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "Clean base for the fruit."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "espresso-martini",
+    "french-75",
+    "east-8-hold-up"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "vodka",
+    "passion-fruit",
+    "modern-classic",
+    "popular",
+    "worlds-top-50"
+  ],
+  "creator": "Douglas Ankrah"
+}

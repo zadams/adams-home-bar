@@ -1,0 +1,91 @@
+{
+  "id": "milano-torino",
+  "slug": "milano-torino",
+  "name": "Milano-Torino",
+  "aliases": [
+    "Mi-To"
+  ],
+  "description": "Campari and sweet vermouth over ice with an orange slice. The Americano before the soda.",
+  "history": "Served by Gaspare Campari at his Caffè Camparino in Milan in the mid-19th century. The name pairs Campari from Milan with vermouth from Turin. Add soda and it becomes the Americano; add gin and it becomes the Negroni.",
+  "origin": "Milan",
+  "whyItWorks": "Equal parts bitter and sweet, so neither wins. It is the base of the whole Negroni family.",
+  "classifications": [
+    "classic",
+    "aperitivo"
+  ],
+  "cocktailFamily": "Negroni",
+  "flavorProfiles": [
+    "bitter",
+    "orange",
+    "herbal"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 1,
+  "strength": "light",
+  "glassware": "Rocks glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Orange slice"
+  ],
+  "illustrationKey": "milano-torino",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "campari",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Orange slice",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Build Campari and sweet vermouth over ice in a rocks glass.",
+    "Stir briefly and add an orange slice."
+  ],
+  "techniqueNotes": [
+    "Fresh vermouth matters more here than in a Negroni; there is nothing else to hide behind."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "campari",
+      "rank": 1,
+      "rationale": "Milano."
+    },
+    {
+      "bottleId": "sweet-vermouth",
+      "rank": 2,
+      "rationale": "Torino."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "americano",
+    "negroni",
+    "negroni-sbagliato"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "campari",
+    "aperitivo",
+    "classic",
+    "low-abv",
+    "worlds-top-50"
+  ],
+  "creator": "Gaspare Campari"
+}

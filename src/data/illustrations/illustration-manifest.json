@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedFrom": "cocktail-index.json + popular-classics batch (2026-08-10); 2026-10-24 bottle additions",
-  "cocktailCount": 628,
+  "generatedFrom": "cocktail-index.json + popular-classics batch (2026-08-10); 2026-10-24 bottle additions; 2026 world's top 50",
+  "cocktailCount": 632,
   "cocktails": [
     {
       "id": "adios-motherfucker",
@@ -5186,6 +5186,47 @@
       }
     },
     {
+      "id": "bramble",
+      "slug": "bramble",
+      "name": "Bramble",
+      "illustrationKey": "bramble",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "modern-classic",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "berry",
+        "citrus",
+        "botanical"
+      ],
+      "ingredientIds": [
+        "gin",
+        "lemon_juice",
+        "simple_syrup",
+        "creme_de_mure"
+      ],
+      "artDirection": {
+        "template": "sour",
+        "glass": "double-old-fashioned",
+        "sourceGlassware": "Rocks glass",
+        "ice": "Crushed ice",
+        "garnish": "Lemon slice and Blackberry",
+        "liquidPalette": {
+          "name": "bramble-purple",
+          "hex": "#6B2A4A"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/bramble.png",
+          "runtime": "cocktails/webp/bramble.webp",
+          "thumbnail": "cocktails/thumbs/bramble.webp"
+        }
+      }
+    },
+    {
       "id": "brandy-crusta",
       "slug": "brandy-crusta",
       "name": "Brandy Crusta",
@@ -8397,6 +8438,48 @@
           "master": "cocktails/masters/duck-fart.png",
           "runtime": "cocktails/webp/duck-fart.webp",
           "thumbnail": "cocktails/thumbs/duck-fart.webp"
+        }
+      }
+    },
+    {
+      "id": "east-8-hold-up",
+      "slug": "east-8-hold-up",
+      "name": "East 8 Hold-Up",
+      "illustrationKey": "east-8-hold-up",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "modern-classic",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "tropical",
+        "bitter",
+        "citrus"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "aperol",
+        "passion_fruit_syrup",
+        "lime_juice",
+        "simple_syrup"
+      ],
+      "artDirection": {
+        "template": "sour",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe",
+        "ice": "Shaken; up",
+        "garnish": "none",
+        "liquidPalette": {
+          "name": "aperol-orange",
+          "hex": "#E8813A"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/east-8-hold-up.png",
+          "runtime": "cocktails/webp/east-8-hold-up.webp",
+          "thumbnail": "cocktails/thumbs/east-8-hold-up.webp"
         }
       }
     },
@@ -15017,6 +15100,45 @@
       }
     },
     {
+      "id": "milano-torino",
+      "slug": "milano-torino",
+      "name": "Milano-Torino",
+      "illustrationKey": "milano-torino",
+      "cocktailFamily": "Negroni",
+      "classifications": [
+        "classic",
+        "aperitivo"
+      ],
+      "flavorProfiles": [
+        "bitter",
+        "orange",
+        "herbal"
+      ],
+      "ingredientIds": [
+        "campari",
+        "sweet_vermouth"
+      ],
+      "artDirection": {
+        "template": "negroni",
+        "glass": "double-old-fashioned",
+        "sourceGlassware": "Rocks glass",
+        "ice": "Cubed ice",
+        "garnish": "Orange slice",
+        "liquidPalette": {
+          "name": "campari-red",
+          "hex": "#A8262C"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/milano-torino.png",
+          "runtime": "cocktails/webp/milano-torino.webp",
+          "thumbnail": "cocktails/thumbs/milano-torino.webp"
+        }
+      }
+    },
+    {
       "id": "mimosa",
       "slug": "mimosa",
       "name": "Mimosa",
@@ -17766,6 +17888,47 @@
           "master": "cocktails/masters/poinsettia.png",
           "runtime": "cocktails/webp/poinsettia.webp",
           "thumbnail": "cocktails/thumbs/poinsettia.webp"
+        }
+      }
+    },
+    {
+      "id": "pornstar-martini",
+      "slug": "pornstar-martini",
+      "name": "Pornstar Martini",
+      "illustrationKey": "pornstar-martini",
+      "cocktailFamily": "Martini",
+      "classifications": [
+        "modern-classic",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "tropical",
+        "citrus",
+        "sweet"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "passion_fruit_syrup",
+        "lime_juice",
+        "simple_syrup"
+      ],
+      "artDirection": {
+        "template": "martini",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe",
+        "ice": "Shaken; up",
+        "garnish": "Half a passion fruit and Shot of sparkling wine on the side",
+        "liquidPalette": {
+          "name": "passion-fruit-gold",
+          "hex": "#E9B649"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/pornstar-martini.png",
+          "runtime": "cocktails/webp/pornstar-martini.webp",
+          "thumbnail": "cocktails/thumbs/pornstar-martini.webp"
         }
       }
     },

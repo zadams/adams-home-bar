@@ -17,4 +17,10 @@ describe('drink sets', () => {
       }
     }
   })
+
+  it('keeps the World’s Top 50 at fifty, Negroni first', () => {
+    const top = drinkSets.find((s) => s.id === 'worlds-top-50')
+    expect(top?.drinks).toHaveLength(50)
+    expect(top?.drinks[0].drinkId).toBe('negroni')
+  })
 })

@@ -1,0 +1,99 @@
+{
+  "id": "bramble",
+  "slug": "bramble",
+  "name": "Bramble",
+  "aliases": [],
+  "description": "Gin, lemon and sugar over crushed ice, with blackberry liqueur drizzled through the top.",
+  "history": "Dick Bradsell created it at Fred’s Club in London in the 1980s, thinking of blackberry-picking on the Isle of Wight. It is one of the few modern British classics.",
+  "origin": "London",
+  "whyItWorks": "A plain gin sour made fruity at the last moment. The liqueur bleeds down through the ice, so the drink gets sweeter and darker as you go.",
+  "classifications": [
+    "modern-classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "berry",
+    "citrus",
+    "botanical"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Crushed ice",
+  "garnish": [
+    "Lemon slice",
+    "Blackberry"
+  ],
+  "illustrationKey": "bramble",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "creme_de_mure",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Lemon slice",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake gin, lemon and simple syrup with ice.",
+    "Strain into a rocks glass packed with crushed ice.",
+    "Drizzle the crème de mûre over the top so it bleeds down.",
+    "Garnish with a lemon slice and a blackberry."
+  ],
+  "techniqueNotes": [
+    "Crème de cassis is the common stand-in if you can’t find crème de mûre."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "Bright, citrus-forward gin."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "gin-sour",
+    "clover-club",
+    "southside"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "berry",
+    "sour",
+    "modern-classic",
+    "worlds-top-50"
+  ],
+  "creator": "Dick Bradsell"
+}

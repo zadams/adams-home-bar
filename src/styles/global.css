@@ -824,6 +824,15 @@
   line-height: 1.6;
 }
 
+/* A long set (a ranking) flows into columns so the drinks stay on screen. */
+.set-notes__list--columns {
+  columns: 15rem;
+  column-gap: 2rem;
+  padding-left: 0;
+  list-style-position: inside;
+}
+.set-notes__list--columns li { break-inside: avoid; }
+
 /* segmented cocktails / shots switch */
 .lens-switch { display: inline-flex; border: 1px solid var(--color-border); }
 

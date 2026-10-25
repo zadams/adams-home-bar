@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-25T01:37:13.839Z",
-  "count": 628,
+  "generatedAt": "2026-10-25T02:46:03.092Z",
+  "count": 632,
   "cocktails": [
     {
       "id": "adios-motherfucker",
@@ -3927,6 +3927,39 @@
       ]
     },
     {
+      "id": "bramble",
+      "slug": "bramble",
+      "name": "Bramble",
+      "file": "bramble.json",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "modern-classic",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "berry",
+        "citrus",
+        "botanical"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Rocks glass",
+      "illustrationKey": "bramble",
+      "tags": [
+        "gin",
+        "berry",
+        "sour",
+        "modern-classic",
+        "worlds-top-50"
+      ],
+      "ingredientIds": [
+        "gin",
+        "lemon_juice",
+        "simple_syrup",
+        "creme_de_mure"
+      ]
+    },
+    {
       "id": "brandy-crusta",
       "slug": "brandy-crusta",
       "name": "Brandy Crusta",
@@ -6355,6 +6388,40 @@
         "coffee_liqueur",
         "baileys",
         "bourbon"
+      ]
+    },
+    {
+      "id": "east-8-hold-up",
+      "slug": "east-8-hold-up",
+      "name": "East 8 Hold-Up",
+      "file": "east-8-hold-up.json",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "modern-classic",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "tropical",
+        "bitter",
+        "citrus"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "east-8-hold-up",
+      "tags": [
+        "vodka",
+        "aperol",
+        "passion-fruit",
+        "modern-classic",
+        "worlds-top-50"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "aperol",
+        "passion_fruit_syrup",
+        "lime_juice",
+        "simple_syrup"
       ]
     },
     {
@@ -11362,6 +11429,37 @@
       ]
     },
     {
+      "id": "milano-torino",
+      "slug": "milano-torino",
+      "name": "Milano-Torino",
+      "file": "milano-torino.json",
+      "cocktailFamily": "Negroni",
+      "classifications": [
+        "classic",
+        "aperitivo"
+      ],
+      "flavorProfiles": [
+        "bitter",
+        "orange",
+        "herbal"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Rocks glass",
+      "illustrationKey": "milano-torino",
+      "tags": [
+        "campari",
+        "aperitivo",
+        "classic",
+        "low-abv",
+        "worlds-top-50"
+      ],
+      "ingredientIds": [
+        "campari",
+        "sweet_vermouth"
+      ]
+    },
+    {
       "id": "mimosa",
       "slug": "mimosa",
       "name": "Mimosa",
@@ -13451,6 +13549,39 @@
         "cointreau",
         "cranberry_juice",
         "prosecco"
+      ]
+    },
+    {
+      "id": "pornstar-martini",
+      "slug": "pornstar-martini",
+      "name": "Pornstar Martini",
+      "file": "pornstar-martini.json",
+      "cocktailFamily": "Martini",
+      "classifications": [
+        "modern-classic",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "tropical",
+        "citrus",
+        "sweet"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "pornstar-martini",
+      "tags": [
+        "vodka",
+        "passion-fruit",
+        "modern-classic",
+        "popular",
+        "worlds-top-50"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "passion_fruit_syrup",
+        "lime_juice",
+        "simple_syrup"
       ]
     },
     {

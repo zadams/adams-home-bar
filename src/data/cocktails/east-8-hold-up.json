@@ -1,0 +1,97 @@
+{
+  "id": "east-8-hold-up",
+  "slug": "east-8-hold-up",
+  "name": "East 8 Hold-Up",
+  "aliases": [],
+  "description": "Vodka, Aperol, passion fruit and lime, shaken and served up. Bitter-orange, tropical and tart.",
+  "history": "Kevin Armstrong created it at Milk & Honey in London in the early 2010s. Bartenders picked it up and it has stayed on the bestseller lists since.",
+  "origin": "London",
+  "whyItWorks": "Aperol’s bitter orange gives passion fruit an edge, and vodka lets both come through clearly.",
+  "classifications": [
+    "modern-classic",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "tropical",
+    "bitter",
+    "citrus"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [],
+  "illustrationKey": "east-8-hold-up",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "aperol",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "passion_fruit_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake everything hard with ice.",
+    "Fine-strain into a chilled coupe."
+  ],
+  "techniqueNotes": [
+    "If you use passion fruit syrup rather than purée, leave out the simple syrup."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "Neutral base."
+    },
+    {
+      "bottleId": "aperol",
+      "rank": 2,
+      "rationale": "Bitter orange."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "pornstar-martini",
+    "aperol-sour",
+    "paper-plane"
+  ],
+  "seasonality": [
+    "year-round"
+  ],
+  "tags": [
+    "vodka",
+    "aperol",
+    "passion-fruit",
+    "modern-classic",
+    "worlds-top-50"
+  ],
+  "creator": "Kevin Armstrong"
+}

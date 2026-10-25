@@ -10,7 +10,8 @@ import { useUserData } from '../persistence/UserDataContext'
 import { CocktailCard } from './CocktailCard'
 import type { Cocktail, DrinkKind, ReadinessState } from '../../types/cocktail'
 
-type SortMode = 'readiness' | 'name' | 'difficulty'
+/** 'set' keeps a set's own order, e.g. a ranking; it only applies while one is active. */
+type SortMode = 'readiness' | 'name' | 'difficulty' | 'set'
 
 const DIFFICULTY_RANK = { easy: 0, medium: 1, advanced: 2 } as const
 
@@ -71,7 +72,9 @@ export function DrinkBrowser({
   const [readinessFilter, setReadinessFilter] = useState<'all' | ReadinessState>(
     'all',
   )
-  const [sort, setSort] = useState<SortMode>('readiness')
+  const [sort, setSort] = useState<SortMode>(() =>
+    params.get('set') ? 'set' : 'readiness',
+  )
   const [searchEverything, setSearchEverything] = useState(false)
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE)
 
@@ -89,6 +92,8 @@ export function DrinkBrowser({
     if (id) next.set('set', id)
     else next.delete('set')
     setParams(next, { replace: true })
+    if (id) setSort('set')
+    else if (sort === 'set') setSort('readiness')
   }
 
   // The toggle only widens an active search; with an empty box the page always
@@ -126,6 +131,8 @@ export function DrinkBrowser({
         return searchHaystack(cocktail).includes(q)
       })
       .sort((a, b) => {
+        // The pool is already in set order and sort is stable.
+        if (sort === 'set' && setPool) return 0
         if (sort === 'name') return a.cocktail.name.localeCompare(b.cocktail.name)
         if (sort === 'difficulty') {
           return (
@@ -137,7 +144,7 @@ export function DrinkBrowser({
           readinessSortKey(a.readiness.state) - readinessSortKey(b.readiness.state)
         return byReady || a.cocktail.name.localeCompare(b.cocktail.name)
       })
-  }, [withReadiness, q, readinessFilter, sort])
+  }, [withReadiness, q, readinessFilter, sort, setPool])
 
   // Any change to the result set starts the list over at the first page.
   useEffect(() => {
@@ -181,7 +188,13 @@ export function DrinkBrowser({
       {activeSet && (
         <section className="set-notes">
           <p className="set-notes__description">{activeSet.description}</p>
-          <ol className="set-notes__list">
+          <ol
+            className={
+              activeSet.drinks.length > 12
+                ? 'set-notes__list set-notes__list--columns'
+                : 'set-notes__list'
+            }
+          >
             {activeSet.drinks.map((entry) => (
               <li key={entry.drinkId}>
                 <b>{cocktailById.get(entry.drinkId)?.name ?? entry.drinkId}</b>
@@ -219,7 +232,11 @@ export function DrinkBrowser({
         </label>
         <label className="select-field">
           <span className="sr-only">Sort results</span>
-          <select value={sort} onChange={(e) => setSort(e.target.value as SortMode)}>
+          <select
+            value={sort === 'set' && !activeSet ? 'readiness' : sort}
+            onChange={(e) => setSort(e.target.value as SortMode)}
+          >
+            {activeSet && <option value="set">Set order</option>}
             <option value="readiness">Best inventory match</option>
             <option value="name">Name</option>
             <option value="difficulty">Difficulty</option>
