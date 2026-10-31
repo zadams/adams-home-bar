@@ -1,0 +1,92 @@
+{
+  "id": "black-cat",
+  "slug": "black-cat",
+  "name": "Black Cat",
+  "aliases": [],
+  "description": "Kraken, Kahlúa and cola over ice with a squeeze of lime. Jet black and easy to make for a crowd.",
+  "history": "A house Halloween highball: a Cuba Libre that crossed paths with a Black Russian.",
+  "origin": "House",
+  "whyItWorks": "Black spiced rum and coffee liqueur are both dark and vanilla-sweet; cola carries them, and the lime keeps it from tasting like a soda fountain.",
+  "classifications": [
+    "highball"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "coffee",
+    "spiced",
+    "cola"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 1,
+  "strength": "medium",
+  "glassware": "Highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime wedge"
+  ],
+  "illustrationKey": "black-cat",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "spiced_rum",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Black spiced rum"
+    },
+    {
+      "ingredientId": "coffee_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cola",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "linear",
+      "label": "Lime wedge, squeezed"
+    }
+  ],
+  "steps": [
+    "Build rum and Kahlúa over ice in a highball.",
+    "Top with cola, squeeze in the lime wedge and stir once."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kraken-spiced",
+      "rank": 1,
+      "rationale": "The black rum."
+    },
+    {
+      "bottleId": "kahlua",
+      "rank": 2,
+      "rationale": "Coffee liqueur."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "cuba-libre",
+    "black-russian",
+    "graveyard-old-fashioned"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "rum",
+    "spiced-rum",
+    "coffee",
+    "highball",
+    "house",
+    "halloween"
+  ]
+}

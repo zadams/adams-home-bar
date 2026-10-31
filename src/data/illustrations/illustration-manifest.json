@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedFrom": "cocktail-index.json + popular-classics batch (2026-08-10); 2026-10-24 bottle additions; 2026 world's top 50; halloween 2026",
-  "cocktailCount": 643,
+  "generatedFrom": "cocktail-index.json + popular-classics batch (2026-08-10); 2026-10-24 bottle additions; 2026 world's top 50; halloween 2026; halloween 2026 round two",
+  "cocktailCount": 649,
   "cocktails": [
     {
       "id": "adios-motherfucker",
@@ -3469,6 +3469,46 @@
           "master": "cocktails/masters/bitters-and-soda.png",
           "runtime": "cocktails/webp/bitters-and-soda.webp",
           "thumbnail": "cocktails/thumbs/bitters-and-soda.webp"
+        }
+      }
+    },
+    {
+      "id": "black-cat",
+      "slug": "black-cat",
+      "name": "Black Cat",
+      "illustrationKey": "black-cat",
+      "cocktailFamily": "Highball",
+      "classifications": [
+        "highball"
+      ],
+      "flavorProfiles": [
+        "coffee",
+        "spiced",
+        "cola"
+      ],
+      "ingredientIds": [
+        "spiced_rum",
+        "coffee_liqueur",
+        "cola",
+        "lime"
+      ],
+      "artDirection": {
+        "template": "highball",
+        "glass": "highball",
+        "sourceGlassware": "Highball",
+        "ice": "Cubed ice",
+        "garnish": "Lime wedge",
+        "liquidPalette": {
+          "name": "cat-black",
+          "hex": "#1E120C"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/black-cat.png",
+          "runtime": "cocktails/webp/black-cat.webp",
+          "thumbnail": "cocktails/thumbs/black-cat.webp"
         }
       }
     },
@@ -8244,6 +8284,47 @@
       }
     },
     {
+      "id": "devils-margarita",
+      "slug": "devils-margarita",
+      "name": "Devil’s Margarita",
+      "illustrationKey": "devils-margarita",
+      "cocktailFamily": "Margarita",
+      "classifications": [
+        "modern",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "agave",
+        "citrus",
+        "red-wine"
+      ],
+      "ingredientIds": [
+        "blanco_tequila",
+        "lime_juice",
+        "simple_syrup",
+        "red_wine"
+      ],
+      "artDirection": {
+        "template": "margarita",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe",
+        "ice": "Shaken; up",
+        "garnish": "Lime wheel",
+        "liquidPalette": {
+          "name": "devil-red",
+          "hex": "#7A1424"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/devils-margarita.png",
+          "runtime": "cocktails/webp/devils-margarita.webp",
+          "thumbnail": "cocktails/thumbs/devils-margarita.webp"
+        }
+      }
+    },
+    {
       "id": "dirty-girl-scout",
       "slug": "dirty-girl-scout",
       "name": "Dirty Girl Scout",
@@ -9519,6 +9600,48 @@
           "master": "cocktails/masters/four-horsemen.png",
           "runtime": "cocktails/webp/four-horsemen.webp",
           "thumbnail": "cocktails/thumbs/four-horsemen.webp"
+        }
+      }
+    },
+    {
+      "id": "frankenstein",
+      "slug": "frankenstein",
+      "name": "Frankenstein",
+      "illustrationKey": "frankenstein",
+      "cocktailFamily": "Buck",
+      "classifications": [
+        "highball",
+        "buck"
+      ],
+      "flavorProfiles": [
+        "herbal",
+        "ginger",
+        "citrus"
+      ],
+      "ingredientIds": [
+        "gin",
+        "green_chartreuse",
+        "lime_juice",
+        "simple_syrup",
+        "ginger_beer"
+      ],
+      "artDirection": {
+        "template": "buck",
+        "glass": "highball",
+        "sourceGlassware": "Highball",
+        "ice": "Cubed ice",
+        "garnish": "Lime wheel",
+        "liquidPalette": {
+          "name": "monster-green",
+          "hex": "#6E9F3A"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/frankenstein.png",
+          "runtime": "cocktails/webp/frankenstein.webp",
+          "thumbnail": "cocktails/thumbs/frankenstein.webp"
         }
       }
     },
@@ -12002,6 +12125,49 @@
       }
     },
     {
+      "id": "hocus-pocus-spritz",
+      "slug": "hocus-pocus-spritz",
+      "name": "Hocus Pocus Spritz",
+      "illustrationKey": "hocus-pocus-spritz",
+      "cocktailFamily": "Spritz",
+      "classifications": [
+        "spritz",
+        "sparkling",
+        "aperitivo"
+      ],
+      "flavorProfiles": [
+        "bitter",
+        "orange",
+        "cherry"
+      ],
+      "ingredientIds": [
+        "aperol",
+        "prosecco",
+        "club_soda",
+        "cranberry_juice",
+        "cherry_liqueur"
+      ],
+      "artDirection": {
+        "template": "spritz",
+        "glass": "wine",
+        "sourceGlassware": "Wine glass",
+        "ice": "Cubed ice",
+        "garnish": "Orange slice",
+        "liquidPalette": {
+          "name": "hocus-orange",
+          "hex": "#E8562A"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/hocus-pocus-spritz.png",
+          "runtime": "cocktails/webp/hocus-pocus-spritz.webp",
+          "thumbnail": "cocktails/thumbs/hocus-pocus-spritz.webp"
+        }
+      }
+    },
+    {
       "id": "holiday-nog-bourbon",
       "slug": "holiday-nog-bourbon",
       "name": "Holiday Nog Bourbon",
@@ -13284,6 +13450,47 @@
           "master": "cocktails/masters/jack-rose.png",
           "runtime": "cocktails/webp/jack-rose.webp",
           "thumbnail": "cocktails/thumbs/jack-rose.webp"
+        }
+      }
+    },
+    {
+      "id": "jack-o-lantern",
+      "slug": "jack-o-lantern",
+      "name": "Jack-o’-Lantern",
+      "illustrationKey": "jack-o-lantern",
+      "cocktailFamily": "Buck",
+      "classifications": [
+        "highball",
+        "variation"
+      ],
+      "flavorProfiles": [
+        "orange",
+        "ginger",
+        "oak"
+      ],
+      "ingredientIds": [
+        "bourbon",
+        "grand_marnier",
+        "orange_juice",
+        "ginger_beer"
+      ],
+      "artDirection": {
+        "template": "buck",
+        "glass": "double-old-fashioned",
+        "sourceGlassware": "Rocks glass",
+        "ice": "Cubed ice",
+        "garnish": "Orange wheel",
+        "liquidPalette": {
+          "name": "pumpkin-orange",
+          "hex": "#E07B24"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/jack-o-lantern.png",
+          "runtime": "cocktails/webp/jack-o-lantern.webp",
+          "thumbnail": "cocktails/thumbs/jack-o-lantern.webp"
         }
       }
     },
@@ -25618,6 +25825,51 @@
           "master": "cocktails/masters/witchs-brew.png",
           "runtime": "cocktails/webp/witchs-brew.webp",
           "thumbnail": "cocktails/thumbs/witchs-brew.webp"
+        }
+      }
+    },
+    {
+      "id": "witchs-cauldron-punch",
+      "slug": "witchs-cauldron-punch",
+      "name": "Witch’s Cauldron Punch",
+      "illustrationKey": "witchs-cauldron-punch",
+      "cocktailFamily": "Punch",
+      "classifications": [
+        "punch",
+        "tiki"
+      ],
+      "flavorProfiles": [
+        "tropical",
+        "spiced",
+        "citrus"
+      ],
+      "ingredientIds": [
+        "dark_rum",
+        "gold_rum",
+        "pineapple_juice",
+        "orange_juice",
+        "lime_juice",
+        "grenadine",
+        "falernum",
+        "ginger_beer"
+      ],
+      "artDirection": {
+        "template": "punch",
+        "glass": "double-old-fashioned",
+        "sourceGlassware": "Punch cup or rocks glass",
+        "ice": "Large block in the bowl; cubes in the glass",
+        "garnish": "Orange wheels and lime wheels floating in the bowl",
+        "liquidPalette": {
+          "name": "cauldron-red",
+          "hex": "#C2452D"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/witchs-cauldron-punch.png",
+          "runtime": "cocktails/webp/witchs-cauldron-punch.webp",
+          "thumbnail": "cocktails/thumbs/witchs-cauldron-punch.webp"
         }
       }
     },

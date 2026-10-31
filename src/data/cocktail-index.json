@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T19:54:29.192Z",
-  "count": 643,
+  "generatedAt": "2026-10-31T20:00:46.594Z",
+  "count": 649,
   "cocktails": [
     {
       "id": "adios-motherfucker",
@@ -2613,6 +2613,39 @@
         "angostura_bitters",
         "lime_juice",
         "club_soda"
+      ]
+    },
+    {
+      "id": "black-cat",
+      "slug": "black-cat",
+      "name": "Black Cat",
+      "file": "black-cat.json",
+      "cocktailFamily": "Highball",
+      "classifications": [
+        "highball"
+      ],
+      "flavorProfiles": [
+        "coffee",
+        "spiced",
+        "cola"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Highball",
+      "illustrationKey": "black-cat",
+      "tags": [
+        "rum",
+        "spiced-rum",
+        "coffee",
+        "highball",
+        "house",
+        "halloween"
+      ],
+      "ingredientIds": [
+        "spiced_rum",
+        "coffee_liqueur",
+        "cola",
+        "lime"
       ]
     },
     {
@@ -6254,6 +6287,39 @@
       ]
     },
     {
+      "id": "devils-margarita",
+      "slug": "devils-margarita",
+      "name": "Devil’s Margarita",
+      "file": "devils-margarita.json",
+      "cocktailFamily": "Margarita",
+      "classifications": [
+        "modern",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "agave",
+        "citrus",
+        "red-wine"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "devils-margarita",
+      "tags": [
+        "tequila",
+        "red-wine",
+        "sour",
+        "margarita",
+        "halloween"
+      ],
+      "ingredientIds": [
+        "blanco_tequila",
+        "lime_juice",
+        "simple_syrup",
+        "red_wine"
+      ]
+    },
+    {
       "id": "dirty-girl-scout",
       "slug": "dirty-girl-scout",
       "name": "Dirty Girl Scout",
@@ -7213,6 +7279,41 @@
         "rye",
         "scotch",
         "irish_whiskey"
+      ]
+    },
+    {
+      "id": "frankenstein",
+      "slug": "frankenstein",
+      "name": "Frankenstein",
+      "file": "frankenstein.json",
+      "cocktailFamily": "Buck",
+      "classifications": [
+        "highball",
+        "buck"
+      ],
+      "flavorProfiles": [
+        "herbal",
+        "ginger",
+        "citrus"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Highball",
+      "illustrationKey": "frankenstein",
+      "tags": [
+        "gin",
+        "chartreuse",
+        "ginger",
+        "highball",
+        "house",
+        "halloween"
+      ],
+      "ingredientIds": [
+        "gin",
+        "green_chartreuse",
+        "lime_juice",
+        "simple_syrup",
+        "ginger_beer"
       ]
     },
     {
@@ -9088,6 +9189,42 @@
       ]
     },
     {
+      "id": "hocus-pocus-spritz",
+      "slug": "hocus-pocus-spritz",
+      "name": "Hocus Pocus Spritz",
+      "file": "hocus-pocus-spritz.json",
+      "cocktailFamily": "Spritz",
+      "classifications": [
+        "spritz",
+        "sparkling",
+        "aperitivo"
+      ],
+      "flavorProfiles": [
+        "bitter",
+        "orange",
+        "cherry"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Wine glass",
+      "illustrationKey": "hocus-pocus-spritz",
+      "tags": [
+        "aperol",
+        "spritz",
+        "sparkling",
+        "low-abv",
+        "house",
+        "halloween"
+      ],
+      "ingredientIds": [
+        "aperol",
+        "prosecco",
+        "club_soda",
+        "cranberry_juice",
+        "cherry_liqueur"
+      ]
+    },
+    {
       "id": "holiday-nog-bourbon",
       "slug": "holiday-nog-bourbon",
       "name": "Holiday Nog Bourbon",
@@ -10063,6 +10200,40 @@
         "apple_vodka",
         "lemon_juice",
         "grenadine"
+      ]
+    },
+    {
+      "id": "jack-o-lantern",
+      "slug": "jack-o-lantern",
+      "name": "Jack-o’-Lantern",
+      "file": "jack-o-lantern.json",
+      "cocktailFamily": "Buck",
+      "classifications": [
+        "highball",
+        "variation"
+      ],
+      "flavorProfiles": [
+        "orange",
+        "ginger",
+        "oak"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Rocks glass",
+      "illustrationKey": "jack-o-lantern",
+      "tags": [
+        "bourbon",
+        "orange",
+        "ginger",
+        "highball",
+        "house",
+        "halloween"
+      ],
+      "ingredientIds": [
+        "bourbon",
+        "grand_marnier",
+        "orange_juice",
+        "ginger_beer"
       ]
     },
     {
@@ -19418,6 +19589,45 @@
         "lemon_juice",
         "lime_juice",
         "club_soda"
+      ]
+    },
+    {
+      "id": "witchs-cauldron-punch",
+      "slug": "witchs-cauldron-punch",
+      "name": "Witch’s Cauldron Punch",
+      "file": "witchs-cauldron-punch.json",
+      "cocktailFamily": "Punch",
+      "classifications": [
+        "punch",
+        "tiki"
+      ],
+      "flavorProfiles": [
+        "tropical",
+        "spiced",
+        "citrus"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Punch cup or rocks glass",
+      "illustrationKey": "witchs-cauldron-punch",
+      "tags": [
+        "rum",
+        "punch",
+        "batch",
+        "party",
+        "tiki",
+        "house",
+        "halloween"
+      ],
+      "ingredientIds": [
+        "dark_rum",
+        "gold_rum",
+        "pineapple_juice",
+        "orange_juice",
+        "lime_juice",
+        "grenadine",
+        "falernum",
+        "ginger_beer"
       ]
     },
     {

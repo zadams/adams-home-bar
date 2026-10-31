@@ -176,6 +176,13 @@ describe('Halloween drinks', () => {
     'graveyard-old-fashioned',
     'poison-apple',
     'the-ghost',
+    'jack-o-lantern',
+    'frankenstein',
+    'black-cat',
+    'hocus-pocus-spritz',
+    'witchs-cauldron-punch',
+    'devils-margarita',
+    'new-york-sour',
   ]
 
   it.each(tonight)('%s is ready from the seed inventory', (id) => {

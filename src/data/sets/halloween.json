@@ -1,7 +1,7 @@
 {
   "id": "halloween",
   "name": "Halloween",
-  "description": "Spooky drinks for the 31st. The first eight are ready from the bar; the next five are classics with a Halloween name; the last three need one more bottle (cognac and calvados, absinthe, or eggs).",
+  "description": "Spooky drinks for the 31st. The first fourteen are ready from the bar (the punch scales to a party bowl); the next five are classics with a Halloween name; the last three need one more bottle (cognac and calvados, absinthe, or eggs).",
   "drinks": [
     {
       "drinkId": "witchs-brew",
@@ -34,6 +34,30 @@
     {
       "drinkId": "the-ghost",
       "note": "Nightcap. Shake it hard."
+    },
+    {
+      "drinkId": "jack-o-lantern",
+      "note": "Cut a face in the orange wheel."
+    },
+    {
+      "drinkId": "frankenstein",
+      "note": "Gunpowder gin and Green Chartreuse."
+    },
+    {
+      "drinkId": "black-cat",
+      "note": "Kraken, Kahlúa and cola; good for a crowd."
+    },
+    {
+      "drinkId": "hocus-pocus-spritz",
+      "note": "Low-alcohol. Sink the Griotte last."
+    },
+    {
+      "drinkId": "devils-margarita",
+      "note": "Float the red wine over a spoon."
+    },
+    {
+      "drinkId": "witchs-cauldron-punch",
+      "note": "Party bowl: scale to ten. Dry ice in the bowl only, never in a glass."
     },
     {
       "drinkId": "zombie-house"
