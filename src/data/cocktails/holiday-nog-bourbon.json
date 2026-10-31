@@ -53,14 +53,16 @@
   "substitutions": [],
   "variations": [],
   "relatedCocktailIds": [
-    "baileys-on-the-rocks"
+    "baileys-on-the-rocks",
+    "coquito"
   ],
   "seasonality": [
     "winter"
   ],
   "tags": [
     "dessert",
-    "seasonal"
+    "seasonal",
+    "christmas"
   ],
   "description": "Blind Squirrel peanut butter nog with a pour of bourbon.",
   "whyItWorks": "Bourbon cuts sweetness and adds oak to the nog.",

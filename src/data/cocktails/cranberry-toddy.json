@@ -1,0 +1,109 @@
+{
+  "id": "cranberry-toddy",
+  "slug": "cranberry-toddy",
+  "name": "Cranberry Toddy",
+  "aliases": [],
+  "description": "Spiced rum, cranberry, brown-sugar-cinnamon syrup and a squeeze of lemon, topped with hot water. For after the dishes are done.",
+  "history": "A house drink: a hot toddy with cranberry standing in for half the water, so it tastes of the holiday and is pink in the mug.",
+  "origin": "House",
+  "whyItWorks": "Heat brings out the spiced rum’s vanilla and the syrup’s cinnamon; cranberry keeps the sweetness in check.",
+  "classifications": [
+    "house",
+    "hot"
+  ],
+  "cocktailFamily": "Toddy",
+  "flavorProfiles": [
+    "warm",
+    "cinnamon",
+    "tart"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 5,
+  "strength": "light",
+  "glassware": "Glass mug",
+  "ice": "None; served hot",
+  "garnish": [
+    "Orange wheel"
+  ],
+  "illustrationKey": "cranberry-toddy",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "spiced_rum",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cranberry_juice",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "brown_sugar_cinnamon_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "hot_water",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Orange wheel",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Warm the mug with hot water, then empty it.",
+    "Heat the cranberry until steaming but not boiling.",
+    "Add rum, syrup and lemon to the mug, pour in the cranberry and hot water, and stir.",
+    "Float an orange wheel."
+  ],
+  "techniqueNotes": [
+    "Don’t boil the cranberry with the rum in it; heat only the juice."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "kraken-spiced",
+      "rank": 1,
+      "rationale": "Vanilla and spice that open up hot."
+    },
+    {
+      "bottleId": "brown-sugar-cinnamon-syrup",
+      "rank": 2,
+      "rationale": "The cinnamon."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "hot-toddy",
+    "hot-buttered-rum"
+  ],
+  "seasonality": [
+    "autumn",
+    "winter"
+  ],
+  "tags": [
+    "rum",
+    "spiced-rum",
+    "cranberry",
+    "hot",
+    "house",
+    "thanksgiving"
+  ]
+}

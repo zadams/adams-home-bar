@@ -1,0 +1,122 @@
+{
+  "id": "harvest-punch",
+  "slug": "harvest-punch",
+  "name": "Harvest Punch",
+  "aliases": [],
+  "description": "Spiced rum, cranberry and orange with falernum and lemon, lengthened with ginger beer and prosecco. Make a bowl before the guests arrive.",
+  "history": "A house punch for Thanksgiving: rum, sour, sweet, spice and something sparkling, the old five-part punch shape.",
+  "origin": "House",
+  "whyItWorks": "Falernum brings clove and lime, ginger beer the bite, prosecco the lift. Cranberry and orange keep it from tasting tropical.",
+  "classifications": [
+    "house",
+    "punch"
+  ],
+  "cocktailFamily": "Punch",
+  "flavorProfiles": [
+    "fruity",
+    "spiced",
+    "sparkling"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 6,
+  "strength": "light",
+  "glassware": "Punch cup or rocks glass",
+  "ice": "Large block in the bowl; cubes in the glass",
+  "garnish": [
+    "Orange wheel"
+  ],
+  "illustrationKey": "harvest-punch",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "spiced_rum",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cranberry_juice",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Fresh orange juice"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "falernum",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "ginger_beer",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "prosecco",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Orange wheel",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "For a bowl, multiply by the number of guests. Stir rum, juices and falernum together and chill.",
+    "Just before serving, add a large block of ice, then the ginger beer and prosecco.",
+    "Float orange wheels and ladle over ice in each glass."
+  ],
+  "techniqueNotes": [
+    "Add the bubbles last so the bowl stays lively."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "kraken-spiced",
+      "rank": 1,
+      "rationale": "The rum."
+    },
+    {
+      "bottleId": "bitter-truth-falernum",
+      "rank": 2,
+      "rationale": "The spice."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "witchs-cauldron-punch",
+    "rum-punch",
+    "planters-punch"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "rum",
+    "spiced-rum",
+    "cranberry",
+    "punch",
+    "party",
+    "house",
+    "thanksgiving"
+  ]
+}

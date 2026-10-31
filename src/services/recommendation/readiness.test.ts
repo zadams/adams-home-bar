@@ -1,6 +1,7 @@
 import { describe, expect, it } from 'vitest'
 import { assessReadiness } from './readiness'
 import { drinks, seedInventory } from '../../data'
+import { drinkSetById } from '../../data/sets'
 import type { Cocktail } from '../../types/cocktail'
 import type { InventoryItem } from '../../types/inventory'
 
@@ -198,5 +199,20 @@ describe('Halloween drinks', () => {
   ])('%s is short only %j', (id, missing) => {
     const result = assessReadiness(cocktail(id), seedInventory)
     expect(result.missingRequired.map((m) => m.ingredientId).sort()).toEqual(missing)
+  })
+})
+
+describe.each(['thanksgiving', 'christmas'])('%s set', (setId) => {
+  const set = drinkSetById.get(setId)
+  const ids = set?.drinks.map((entry) => entry.drinkId) ?? []
+
+  it('exists', () => {
+    expect(ids.length).toBeGreaterThan(0)
+  })
+
+  it.each(ids)('%s is ready from the seed inventory', (id) => {
+    const result = assessReadiness(cocktail(id), seedInventory)
+    expect(result.missingRequired.map((m) => m.ingredientId)).toEqual([])
+    expect(result.state).toBe('ready')
   })
 })

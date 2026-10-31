@@ -1,0 +1,54 @@
+{
+  "id": "thanksgiving",
+  "name": "Thanksgiving",
+  "description": "Cranberry, apple, cinnamon and brown spirits for the fourth Thursday. A punch to have ready when people arrive, sours and stirred drinks for before dinner, and hot drinks for after.",
+  "drinks": [
+    {
+      "drinkId": "harvest-punch",
+      "note": "Party bowl: scale to the guest count and add the bubbles last."
+    },
+    {
+      "drinkId": "cranberry-bourbon-sour",
+      "note": "Henry McKenna over a big cube."
+    },
+    {
+      "drinkId": "apple-pie-sour",
+      "note": "Koskenkorva Apple and the cinnamon syrup."
+    },
+    {
+      "drinkId": "ward-eight",
+      "note": "Sazerac Rye."
+    },
+    {
+      "drinkId": "jack-rose",
+      "note": "Koskenkorva Apple stands in for applejack."
+    },
+    {
+      "drinkId": "brown-sugar-cinnamon-old-fashioned"
+    },
+    {
+      "drinkId": "manhattan",
+      "note": "Before dinner."
+    },
+    {
+      "drinkId": "champagne-cocktail",
+      "note": "For the toast."
+    },
+    {
+      "drinkId": "cranberry-ginger-fizz",
+      "note": "No alcohol, for drivers and kids."
+    },
+    {
+      "drinkId": "cranberry-toddy",
+      "note": "After dinner. Heat only the juice."
+    },
+    {
+      "drinkId": "hot-toddy",
+      "note": "After dinner."
+    },
+    {
+      "drinkId": "hot-buttered-rum",
+      "note": "After dinner."
+    }
+  ]
+}

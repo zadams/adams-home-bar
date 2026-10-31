@@ -1,0 +1,93 @@
+{
+  "id": "apple-pie-sour",
+  "slug": "apple-pie-sour",
+  "name": "Apple Pie Sour",
+  "aliases": [],
+  "description": "Apple vodka, brown-sugar-cinnamon syrup and lemon, shaken and served up. Tastes like pie filling, in a good way.",
+  "history": "A house drink built from what is on the shelf: Koskenkorva Apple for the fruit and the house brown-sugar-cinnamon syrup for the crust.",
+  "origin": "House",
+  "whyItWorks": "The syrup carries the cinnamon and brown sugar of a pie; lemon keeps it a sour rather than dessert; bitters add the clove.",
+  "classifications": [
+    "house",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "apple",
+    "cinnamon",
+    "tart"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Thin apple slice"
+  ],
+  "illustrationKey": "apple-pie-sour",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "apple_vodka",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "brown_sugar_cinnamon_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 1,
+      "unit": "dash",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Shake everything hard with ice.",
+    "Fine-strain into a chilled coupe.",
+    "Perch a thin apple slice on the rim."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "koskenkorva-apple",
+      "rank": 1,
+      "rationale": "The apple."
+    },
+    {
+      "bottleId": "brown-sugar-cinnamon-syrup",
+      "rank": 2,
+      "rationale": "The pie spice."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "jack-rose",
+    "apple-vodka-sour",
+    "apple-pie-shot"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "vodka",
+    "apple-vodka",
+    "apple",
+    "cinnamon",
+    "sour",
+    "house",
+    "thanksgiving"
+  ]
+}

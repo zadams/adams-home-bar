@@ -1,0 +1,96 @@
+{
+  "id": "peppermint-white-russian",
+  "slug": "peppermint-white-russian",
+  "name": "Peppermint White Russian",
+  "aliases": [],
+  "description": "Vodka, Kahlúa and a little peppermint liqueur over ice, with half-and-half floated on top. A White Russian for December.",
+  "history": "A house riff. The Black Russian dates to 1949 in Brussels; cream made it white by the 1960s; peppermint makes it Christmas.",
+  "origin": "House",
+  "whyItWorks": "Mint and coffee is the candy-cane mocha flavor; a half ounce is enough to taste without turning it into toothpaste.",
+  "classifications": [
+    "house",
+    "creamy",
+    "dessert"
+  ],
+  "cocktailFamily": "Russian",
+  "flavorProfiles": [
+    "coffee",
+    "mint",
+    "creamy"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Cubed ice",
+  "garnish": [],
+  "illustrationKey": "peppermint-white-russian",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "coffee_liqueur",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peppermint_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "heavy_cream",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Half-and-half"
+    }
+  ],
+  "steps": [
+    "Build vodka, Kahlúa and peppermint liqueur over ice and stir.",
+    "Float the half-and-half on top."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kahlua",
+      "rank": 1,
+      "rationale": "The coffee."
+    },
+    {
+      "bottleId": "berliner-luft",
+      "rank": 2,
+      "rationale": "Peppermint liqueur."
+    },
+    {
+      "bottleId": "titos",
+      "rank": 3,
+      "rationale": "Clean vodka."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "white-russian",
+    "black-russian",
+    "grasshopper"
+  ],
+  "seasonality": [
+    "winter"
+  ],
+  "tags": [
+    "vodka",
+    "coffee",
+    "peppermint",
+    "creamy",
+    "house",
+    "christmas"
+  ]
+}

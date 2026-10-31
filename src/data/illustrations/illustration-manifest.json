@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedFrom": "cocktail-index.json + popular-classics batch (2026-08-10); 2026-10-24 bottle additions; 2026 world's top 50; halloween 2026; halloween 2026 round two",
-  "cocktailCount": 649,
+  "generatedFrom": "cocktail-index.json + popular-classics batch (2026-08-10); 2026-10-24 bottle additions; 2026 world's top 50; halloween 2026; halloween 2026 round two; holidays 2026",
+  "cocktailCount": 658,
   "cocktails": [
     {
       "id": "adios-motherfucker",
@@ -1201,6 +1201,47 @@
           "master": "artwork/masters/apple-pie-shot.png",
           "runtime": "cocktails/webp/apple-pie-shot.webp",
           "thumbnail": "cocktails/thumbs/apple-pie-shot.webp"
+        }
+      }
+    },
+    {
+      "id": "apple-pie-sour",
+      "slug": "apple-pie-sour",
+      "name": "Apple Pie Sour",
+      "illustrationKey": "apple-pie-sour",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "house",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "apple",
+        "cinnamon",
+        "tart"
+      ],
+      "ingredientIds": [
+        "apple_vodka",
+        "brown_sugar_cinnamon_syrup",
+        "lemon_juice",
+        "angostura_bitters"
+      ],
+      "artDirection": {
+        "template": "sour",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe",
+        "ice": "Shaken; up",
+        "garnish": "Thin apple slice",
+        "liquidPalette": {
+          "name": "apple-pie-gold",
+          "hex": "#C98A3A"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/apple-pie-sour.png",
+          "runtime": "cocktails/webp/apple-pie-sour.webp",
+          "thumbnail": "cocktails/thumbs/apple-pie-sour.webp"
         }
       }
     },
@@ -6791,6 +6832,49 @@
       }
     },
     {
+      "id": "christmas-sangria",
+      "slug": "christmas-sangria",
+      "name": "Christmas Sangria",
+      "illustrationKey": "christmas-sangria",
+      "cocktailFamily": "Sangria",
+      "classifications": [
+        "house",
+        "wine",
+        "punch"
+      ],
+      "flavorProfiles": [
+        "fruity",
+        "tart",
+        "refreshing"
+      ],
+      "ingredientIds": [
+        "red_wine",
+        "grand_marnier",
+        "cranberry_juice",
+        "orange_juice",
+        "club_soda"
+      ],
+      "artDirection": {
+        "template": "sangria",
+        "glass": "wine",
+        "sourceGlassware": "Wine glass",
+        "ice": "Cubed ice",
+        "garnish": "Orange slice",
+        "liquidPalette": {
+          "name": "sangria-ruby",
+          "hex": "#7A1A2A"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/christmas-sangria.png",
+          "runtime": "cocktails/webp/christmas-sangria.webp",
+          "thumbnail": "cocktails/thumbs/christmas-sangria.webp"
+        }
+      }
+    },
+    {
       "id": "chrysanthemum",
       "slug": "chrysanthemum",
       "name": "Chrysanthemum",
@@ -7716,6 +7800,48 @@
       }
     },
     {
+      "id": "coquito",
+      "slug": "coquito",
+      "name": "Coquito",
+      "illustrationKey": "coquito",
+      "cocktailFamily": "Flip",
+      "classifications": [
+        "classic",
+        "creamy",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "coconut",
+        "cinnamon",
+        "creamy"
+      ],
+      "ingredientIds": [
+        "white_rum",
+        "cream_of_coconut",
+        "heavy_cream",
+        "brown_sugar_cinnamon_syrup"
+      ],
+      "artDirection": {
+        "template": "flip",
+        "glass": "double-old-fashioned",
+        "sourceGlassware": "Small rocks glass",
+        "ice": "Shaken; served cold without ice",
+        "garnish": "Ground cinnamon",
+        "liquidPalette": {
+          "name": "coquito-cream",
+          "hex": "#EFE3CC"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/coquito.png",
+          "runtime": "cocktails/webp/coquito.webp",
+          "thumbnail": "cocktails/thumbs/coquito.webp"
+        }
+      }
+    },
+    {
       "id": "corn-n-oil",
       "slug": "corn-n-oil",
       "name": "Corn 'n' Oil",
@@ -7922,6 +8048,48 @@
       }
     },
     {
+      "id": "cranberry-bourbon-sour",
+      "slug": "cranberry-bourbon-sour",
+      "name": "Cranberry Bourbon Sour",
+      "illustrationKey": "cranberry-bourbon-sour",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "house",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "tart",
+        "fruity",
+        "oaky"
+      ],
+      "ingredientIds": [
+        "bourbon",
+        "cranberry_juice",
+        "lemon_juice",
+        "honey_syrup",
+        "angostura_bitters"
+      ],
+      "artDirection": {
+        "template": "sour",
+        "glass": "double-old-fashioned",
+        "sourceGlassware": "Rocks glass",
+        "ice": "Large cube",
+        "garnish": "Lemon twist",
+        "liquidPalette": {
+          "name": "cranberry-red",
+          "hex": "#9E1B32"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/cranberry-bourbon-sour.png",
+          "runtime": "cocktails/webp/cranberry-bourbon-sour.webp",
+          "thumbnail": "cocktails/thumbs/cranberry-bourbon-sour.webp"
+        }
+      }
+    },
+    {
       "id": "cranberry-ginger-fizz",
       "slug": "cranberry-ginger-fizz",
       "name": "Cranberry Ginger Fizz",
@@ -8000,6 +8168,48 @@
           "master": "cocktails/masters/cranberry-margarita.png",
           "runtime": "cocktails/webp/cranberry-margarita.webp",
           "thumbnail": "cocktails/thumbs/cranberry-margarita.webp"
+        }
+      }
+    },
+    {
+      "id": "cranberry-toddy",
+      "slug": "cranberry-toddy",
+      "name": "Cranberry Toddy",
+      "illustrationKey": "cranberry-toddy",
+      "cocktailFamily": "Toddy",
+      "classifications": [
+        "house",
+        "hot"
+      ],
+      "flavorProfiles": [
+        "warm",
+        "cinnamon",
+        "tart"
+      ],
+      "ingredientIds": [
+        "spiced_rum",
+        "cranberry_juice",
+        "brown_sugar_cinnamon_syrup",
+        "lemon_juice",
+        "hot_water"
+      ],
+      "artDirection": {
+        "template": "toddy",
+        "glass": "glass mug",
+        "sourceGlassware": "Glass mug",
+        "ice": "None; served hot",
+        "garnish": "Orange wheel",
+        "liquidPalette": {
+          "name": "warm-cranberry",
+          "hex": "#A3283A"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/cranberry-toddy.png",
+          "runtime": "cocktails/webp/cranberry-toddy.webp",
+          "thumbnail": "cocktails/thumbs/cranberry-toddy.webp"
         }
       }
     },
@@ -10926,6 +11136,48 @@
       }
     },
     {
+      "id": "glogg",
+      "slug": "glogg",
+      "name": "Gløgg",
+      "illustrationKey": "glogg",
+      "cocktailFamily": "Mulled wine",
+      "classifications": [
+        "classic",
+        "hot",
+        "wine"
+      ],
+      "flavorProfiles": [
+        "warm",
+        "spiced",
+        "fruity"
+      ],
+      "ingredientIds": [
+        "red_wine",
+        "aquavit",
+        "brown_sugar_cinnamon_syrup",
+        "orange_juice"
+      ],
+      "artDirection": {
+        "template": "mulled-wine",
+        "glass": "glass mug",
+        "sourceGlassware": "Glass mug",
+        "ice": "None; served hot",
+        "garnish": "Orange peel",
+        "liquidPalette": {
+          "name": "mulled-garnet",
+          "hex": "#5E1424"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/glogg.png",
+          "runtime": "cocktails/webp/glogg.webp",
+          "thumbnail": "cocktails/thumbs/glogg.webp"
+        }
+      }
+    },
+    {
       "id": "godchild",
       "slug": "godchild",
       "name": "Godchild",
@@ -12080,6 +12332,50 @@
           "master": "cocktails/masters/harvard.png",
           "runtime": "cocktails/webp/harvard.webp",
           "thumbnail": "cocktails/thumbs/harvard.webp"
+        }
+      }
+    },
+    {
+      "id": "harvest-punch",
+      "slug": "harvest-punch",
+      "name": "Harvest Punch",
+      "illustrationKey": "harvest-punch",
+      "cocktailFamily": "Punch",
+      "classifications": [
+        "house",
+        "punch"
+      ],
+      "flavorProfiles": [
+        "fruity",
+        "spiced",
+        "sparkling"
+      ],
+      "ingredientIds": [
+        "spiced_rum",
+        "cranberry_juice",
+        "orange_juice",
+        "lemon_juice",
+        "falernum",
+        "ginger_beer",
+        "prosecco"
+      ],
+      "artDirection": {
+        "template": "punch",
+        "glass": "double-old-fashioned",
+        "sourceGlassware": "Punch cup or rocks glass",
+        "ice": "Large block in the bowl; cubes in the glass",
+        "garnish": "Orange wheel",
+        "liquidPalette": {
+          "name": "harvest-red",
+          "hex": "#B8462E"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/harvest-punch.png",
+          "runtime": "cocktails/webp/harvest-punch.webp",
+          "thumbnail": "cocktails/thumbs/harvest-punch.webp"
         }
       }
     },
@@ -15671,6 +15967,48 @@
       }
     },
     {
+      "id": "mistletoe-mule",
+      "slug": "mistletoe-mule",
+      "name": "Mistletoe Mule",
+      "illustrationKey": "mistletoe-mule",
+      "cocktailFamily": "Mule",
+      "classifications": [
+        "house",
+        "highball",
+        "buck"
+      ],
+      "flavorProfiles": [
+        "ginger",
+        "tart",
+        "refreshing"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "cranberry_juice",
+        "lime_juice",
+        "ginger_beer"
+      ],
+      "artDirection": {
+        "template": "mule",
+        "glass": "copper mug",
+        "sourceGlassware": "Copper mug",
+        "ice": "Cubed ice",
+        "garnish": "Lime wheel",
+        "liquidPalette": {
+          "name": "mistletoe-red",
+          "hex": "#C0283A"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/mistletoe-mule.png",
+          "runtime": "cocktails/webp/mistletoe-mule.webp",
+          "thumbnail": "cocktails/thumbs/mistletoe-mule.webp"
+        }
+      }
+    },
+    {
       "id": "mojito",
       "slug": "mojito",
       "name": "Mojito",
@@ -17769,6 +18107,48 @@
           "master": "cocktails/masters/peppermint-patty.png",
           "runtime": "cocktails/webp/peppermint-patty.webp",
           "thumbnail": "cocktails/thumbs/peppermint-patty.webp"
+        }
+      }
+    },
+    {
+      "id": "peppermint-white-russian",
+      "slug": "peppermint-white-russian",
+      "name": "Peppermint White Russian",
+      "illustrationKey": "peppermint-white-russian",
+      "cocktailFamily": "Russian",
+      "classifications": [
+        "house",
+        "creamy",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "coffee",
+        "mint",
+        "creamy"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "coffee_liqueur",
+        "peppermint_liqueur",
+        "heavy_cream"
+      ],
+      "artDirection": {
+        "template": "russian",
+        "glass": "double-old-fashioned",
+        "sourceGlassware": "Rocks glass",
+        "ice": "Cubed ice",
+        "garnish": "none",
+        "liquidPalette": {
+          "name": "peppermint-mocha",
+          "hex": "#C9A98A"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/peppermint-white-russian.png",
+          "runtime": "cocktails/webp/peppermint-white-russian.webp",
+          "thumbnail": "cocktails/thumbs/peppermint-white-russian.webp"
         }
       }
     },

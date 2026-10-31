@@ -1,0 +1,95 @@
+{
+  "id": "coquito",
+  "slug": "coquito",
+  "name": "Coquito",
+  "aliases": [
+    "Quick Coquito"
+  ],
+  "description": "White rum, cream of coconut and half-and-half with brown-sugar-cinnamon syrup, shaken cold. Puerto Rico’s Christmas drink, quick version.",
+  "history": "Coquito is the Puerto Rican Christmas drink, traditionally made in big batches with coconut milk, condensed milk, rum and cinnamon and given away in bottles. This shaken single serving uses what is on the shelf.",
+  "origin": "Puerto Rico",
+  "whyItWorks": "Cream of coconut brings both the coconut and the sugar that condensed milk would; the syrup adds the cinnamon.",
+  "classifications": [
+    "classic",
+    "creamy",
+    "dessert"
+  ],
+  "cocktailFamily": "Flip",
+  "flavorProfiles": [
+    "coconut",
+    "cinnamon",
+    "creamy"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Small rocks glass",
+  "ice": "Shaken; served cold without ice",
+  "garnish": [
+    "Ground cinnamon"
+  ],
+  "illustrationKey": "coquito",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "white_rum",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cream_of_coconut",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "heavy_cream",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Half-and-half"
+    },
+    {
+      "ingredientId": "brown_sugar_cinnamon_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    }
+  ],
+  "steps": [
+    "Shake everything hard with ice.",
+    "Strain into a small chilled glass.",
+    "Dust with cinnamon if you have it."
+  ],
+  "techniqueNotes": [
+    "Stir the cream of coconut before measuring; it separates in the can."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "bacardi-superior",
+      "rank": 1,
+      "rationale": "Light Puerto Rican rum."
+    },
+    {
+      "bottleId": "cream-of-coconut",
+      "rank": 2,
+      "rationale": "The coconut and the sweetness."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "holiday-nog-bourbon",
+    "pina-colada"
+  ],
+  "seasonality": [
+    "winter"
+  ],
+  "tags": [
+    "rum",
+    "coconut",
+    "creamy",
+    "christmas"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "christmas",
+  "name": "Christmas",
+  "description": "Warm drinks, creamy drinks, peppermint and cranberry. Gløgg or sangria for a crowd, sparkling drinks for Christmas morning, and something sweet by the tree.",
+  "drinks": [
+    {
+      "drinkId": "glogg",
+      "note": "Make a pot; Inderøy aquavit, stirred in off the heat."
+    },
+    {
+      "drinkId": "christmas-sangria",
+      "note": "Make a pitcher an hour ahead."
+    },
+    {
+      "drinkId": "mistletoe-mule",
+      "note": "Copper mug."
+    },
+    {
+      "drinkId": "poinsettia",
+      "note": "Christmas morning."
+    },
+    {
+      "drinkId": "kir-royale-house",
+      "note": "Christmas morning. Griotte stands in for cassis."
+    },
+    {
+      "drinkId": "cranberry-margarita"
+    },
+    {
+      "drinkId": "holiday-nog-bourbon",
+      "note": "Blind Squirrel peanut-butter nog."
+    },
+    {
+      "drinkId": "coquito",
+      "note": "Stir the cream of coconut first."
+    },
+    {
+      "drinkId": "peppermint-white-russian",
+      "note": "Float the half-and-half last."
+    },
+    {
+      "drinkId": "grasshopper",
+      "note": "After dinner."
+    },
+    {
+      "drinkId": "pink-squirrel",
+      "note": "After dinner."
+    },
+    {
+      "drinkId": "peppermint-patty"
+    },
+    {
+      "drinkId": "baileys-peppermint"
+    },
+    {
+      "drinkId": "peppermint-bourbon"
+    },
+    {
+      "drinkId": "hot-buttered-rum",
+      "note": "By the fire."
+    },
+    {
+      "drinkId": "three-wise-men",
+      "note": "Shot."
+    }
+  ]
+}

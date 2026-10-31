@@ -1,0 +1,110 @@
+{
+  "id": "cranberry-bourbon-sour",
+  "slug": "cranberry-bourbon-sour",
+  "name": "Cranberry Bourbon Sour",
+  "aliases": [],
+  "description": "Bourbon, cranberry, lemon and honey, shaken and poured over a big cube. A whiskey sour that tastes like the side dish.",
+  "history": "A house drink. Cranberries are the most American of Thanksgiving foods, and a whiskey sour is the most American of sours; this puts them together.",
+  "origin": "House",
+  "whyItWorks": "Cranberry is tart and a little tannic, so it stands in for part of the lemon; honey rounds both and suits the bourbon’s caramel.",
+  "classifications": [
+    "house",
+    "sour"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "tart",
+    "fruity",
+    "oaky"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Lemon twist"
+  ],
+  "illustrationKey": "cranberry-bourbon-sour",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cranberry_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "honey_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 1,
+      "unit": "dash",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "lemon",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Lemon twist",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake everything except the garnish hard with ice.",
+    "Strain over a large cube in a rocks glass.",
+    "Express a lemon twist over the top."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "henry-mckenna-10",
+      "rank": 1,
+      "rationale": "Bottled-in-bond proof stands up to the cranberry."
+    },
+    {
+      "bottleId": "kirkland-bourbon",
+      "rank": 2,
+      "rationale": "A good mixing bourbon for a crowd."
+    },
+    {
+      "bottleId": "angostura-aromatic",
+      "rank": 3,
+      "rationale": "A dash of spice."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "whiskey-sour",
+    "ward-eight",
+    "cranberry-margarita"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "bourbon",
+    "cranberry",
+    "sour",
+    "house",
+    "thanksgiving"
+  ]
+}

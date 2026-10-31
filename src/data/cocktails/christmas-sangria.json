@@ -1,0 +1,101 @@
+{
+  "id": "christmas-sangria",
+  "slug": "christmas-sangria",
+  "name": "Christmas Sangria",
+  "aliases": [],
+  "description": "Red wine, Grand Marnier, cranberry and orange over ice, with a splash of soda. Make a pitcher.",
+  "history": "Sangria is Spanish red wine punch; this house version swaps summer fruit for cranberry and orange.",
+  "origin": "House",
+  "whyItWorks": "Grand Marnier deepens the orange and adds a little backbone; cranberry gives tartness and color; soda keeps a pitcher from getting heavy.",
+  "classifications": [
+    "house",
+    "wine",
+    "punch"
+  ],
+  "cocktailFamily": "Sangria",
+  "flavorProfiles": [
+    "fruity",
+    "tart",
+    "refreshing"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 5,
+  "strength": "light",
+  "glassware": "Wine glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Orange slice"
+  ],
+  "illustrationKey": "christmas-sangria",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "red_wine",
+      "amount": 3,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grand_marnier",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cranberry_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Fresh orange juice"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Orange slice",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "For a pitcher, multiply by the number of glasses. Stir wine, Grand Marnier and juices with orange slices and chill for an hour.",
+    "Pour over ice and top each glass with soda."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "grand-marnier",
+      "rank": 1,
+      "rationale": "The orange liqueur."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "glogg",
+    "poinsettia"
+  ],
+  "seasonality": [
+    "winter"
+  ],
+  "tags": [
+    "wine",
+    "cranberry",
+    "punch",
+    "party",
+    "house",
+    "christmas"
+  ]
+}

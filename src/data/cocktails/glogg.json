@@ -1,0 +1,103 @@
+{
+  "id": "glogg",
+  "slug": "glogg",
+  "name": "Gløgg",
+  "aliases": [
+    "Glögg",
+    "Mulled wine"
+  ],
+  "description": "Red wine warmed with brown-sugar-cinnamon syrup and orange, fortified with aquavit. The Scandinavian Christmas mulled wine.",
+  "history": "Mulled wine is drunk across Northern Europe at Christmas; in Norway and Sweden it is gløgg or glögg, often fortified with aquavit or brandy. This quick version uses the house cinnamon syrup in place of whole spices.",
+  "origin": "Scandinavia",
+  "whyItWorks": "Aquavit’s caraway and dill read as the spice cabinet; the syrup sweetens and adds cinnamon; orange brightens the wine.",
+  "classifications": [
+    "classic",
+    "hot",
+    "wine"
+  ],
+  "cocktailFamily": "Mulled wine",
+  "flavorProfiles": [
+    "warm",
+    "spiced",
+    "fruity"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 8,
+  "strength": "medium",
+  "glassware": "Glass mug",
+  "ice": "None; served hot",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "glogg",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "red_wine",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "aquavit",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "brown_sugar_cinnamon_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Orange peel",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Warm the wine, syrup and orange juice in a pan until steaming. Don’t let it boil.",
+    "Take it off the heat and stir in the aquavit.",
+    "Ladle into a warm mug and add an orange peel."
+  ],
+  "techniqueNotes": [
+    "Scales to a pot easily; keep it on the lowest heat once warm."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "inderoy-aquavit",
+      "rank": 1,
+      "rationale": "Norwegian aquavit, as in Norwegian gløgg."
+    },
+    {
+      "bottleId": "brown-sugar-cinnamon-syrup",
+      "rank": 2,
+      "rationale": "Spice and sweetness in one."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "hot-toddy",
+    "christmas-sangria"
+  ],
+  "seasonality": [
+    "winter"
+  ],
+  "tags": [
+    "wine",
+    "aquavit",
+    "hot",
+    "christmas"
+  ]
+}

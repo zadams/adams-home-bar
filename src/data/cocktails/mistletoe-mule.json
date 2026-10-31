@@ -1,0 +1,96 @@
+{
+  "id": "mistletoe-mule",
+  "slug": "mistletoe-mule",
+  "name": "Mistletoe Mule",
+  "aliases": [],
+  "description": "Vodka, cranberry and lime topped with ginger beer in a copper mug. A Moscow Mule in Christmas colors.",
+  "history": "A house riff on the 1941 Moscow Mule, with cranberry for color.",
+  "origin": "House",
+  "whyItWorks": "Cranberry adds tartness and color without fighting the ginger.",
+  "classifications": [
+    "house",
+    "highball",
+    "buck"
+  ],
+  "cocktailFamily": "Mule",
+  "flavorProfiles": [
+    "ginger",
+    "tart",
+    "refreshing"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "light",
+  "glassware": "Copper mug",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime wheel"
+  ],
+  "illustrationKey": "mistletoe-mule",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cranberry_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "ginger_beer",
+      "amount": 3,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Lime wheel",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Fill a copper mug with ice.",
+    "Add vodka, cranberry and lime, top with ginger beer and stir once.",
+    "Add a lime wheel."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "titos",
+      "rank": 1,
+      "rationale": "Clean vodka."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "moscow-mule",
+    "cranberry-ginger-fizz",
+    "cape-codder"
+  ],
+  "seasonality": [
+    "winter"
+  ],
+  "tags": [
+    "vodka",
+    "cranberry",
+    "ginger",
+    "mule",
+    "house",
+    "christmas"
+  ]
+}

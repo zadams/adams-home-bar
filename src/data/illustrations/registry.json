@@ -521,6 +521,24 @@
       "hex": "#E1D4BD"
     }
   },
+  "apple-pie-sour": {
+    "src": "/images/cocktails/webp/apple-pie-sour.webp",
+    "kind": "illustration",
+    "glassware": "Coupe",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "apple_vodka",
+      "brown_sugar_cinnamon_syrup",
+      "lemon_juice",
+      "angostura_bitters"
+    ],
+    "artTemplate": "sour",
+    "liquidPalette": {
+      "name": "apple-pie-gold",
+      "hex": "#C98A3A"
+    }
+  },
   "apple_vodka-tonic-build": {
     "src": "/images/cocktails/webp/apple_vodka-tonic-build.webp",
     "kind": "illustration",
@@ -2952,6 +2970,24 @@
       "hex": "#A88162"
     }
   },
+  "christmas-sangria": {
+    "src": "/images/cocktails/webp/christmas-sangria.webp",
+    "kind": "illustration",
+    "glassware": "Wine glass",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "red_wine",
+      "grand_marnier",
+      "cranberry_juice",
+      "orange_juice"
+    ],
+    "artTemplate": "sangria",
+    "liquidPalette": {
+      "name": "sangria-ruby",
+      "hex": "#7A1A2A"
+    }
+  },
   "chrysanthemum": {
     "src": "/images/cocktails/webp/chrysanthemum.webp",
     "kind": "illustration",
@@ -3357,6 +3393,24 @@
       "hex": "#E95B20"
     }
   },
+  "coquito": {
+    "src": "/images/cocktails/webp/coquito.webp",
+    "kind": "illustration",
+    "glassware": "Small rocks glass",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "white_rum",
+      "cream_of_coconut",
+      "heavy_cream",
+      "brown_sugar_cinnamon_syrup"
+    ],
+    "artTemplate": "flip",
+    "liquidPalette": {
+      "name": "coquito-cream",
+      "hex": "#EFE3CC"
+    }
+  },
   "corn-n-oil": {
     "src": "/images/cocktails/webp/corn-n-oil.webp",
     "kind": "illustration",
@@ -3447,6 +3501,24 @@
       "hex": "#725184"
     }
   },
+  "cranberry-bourbon-sour": {
+    "src": "/images/cocktails/webp/cranberry-bourbon-sour.webp",
+    "kind": "illustration",
+    "glassware": "Rocks glass",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "bourbon",
+      "cranberry_juice",
+      "lemon_juice",
+      "honey_syrup"
+    ],
+    "artTemplate": "sour",
+    "liquidPalette": {
+      "name": "cranberry-red",
+      "hex": "#9E1B32"
+    }
+  },
   "cranberry-ginger-fizz": {
     "src": "/images/cocktails/webp/cranberry-ginger-fizz.webp",
     "kind": "illustration",
@@ -3480,6 +3552,24 @@
     "liquidPalette": {
       "name": "deep-garnet",
       "hex": "#742833"
+    }
+  },
+  "cranberry-toddy": {
+    "src": "/images/cocktails/webp/cranberry-toddy.webp",
+    "kind": "illustration",
+    "glassware": "Glass mug",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "spiced_rum",
+      "cranberry_juice",
+      "brown_sugar_cinnamon_syrup",
+      "lemon_juice"
+    ],
+    "artTemplate": "toddy",
+    "liquidPalette": {
+      "name": "warm-cranberry",
+      "hex": "#A3283A"
     }
   },
   "crystal-margarita": {
@@ -4753,6 +4843,24 @@
     },
     "fallbackSrc": "/images/cocktails/photos/aperol-spritz.jpg"
   },
+  "glogg": {
+    "src": "/images/cocktails/webp/glogg.webp",
+    "kind": "illustration",
+    "glassware": "Glass mug",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "red_wine",
+      "aquavit",
+      "brown_sugar_cinnamon_syrup",
+      "orange_juice"
+    ],
+    "artTemplate": "mulled-wine",
+    "liquidPalette": {
+      "name": "mulled-garnet",
+      "hex": "#5E1424"
+    }
+  },
   "godchild": {
     "src": "/images/cocktails/webp/godchild.webp",
     "kind": "illustration",
@@ -5255,6 +5363,24 @@
     "liquidPalette": {
       "name": "warm-amber",
       "hex": "#B06932"
+    }
+  },
+  "harvest-punch": {
+    "src": "/images/cocktails/webp/harvest-punch.webp",
+    "kind": "illustration",
+    "glassware": "Punch cup or rocks glass",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "spiced_rum",
+      "cranberry_juice",
+      "orange_juice",
+      "lemon_juice"
+    ],
+    "artTemplate": "punch",
+    "liquidPalette": {
+      "name": "harvest-red",
+      "hex": "#B8462E"
     }
   },
   "hemingway-daiquiri": {
@@ -6811,6 +6937,24 @@
       "hex": "#B06932"
     }
   },
+  "mistletoe-mule": {
+    "src": "/images/cocktails/webp/mistletoe-mule.webp",
+    "kind": "illustration",
+    "glassware": "Copper mug",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "vodka",
+      "cranberry_juice",
+      "lime_juice",
+      "ginger_beer"
+    ],
+    "artTemplate": "mule",
+    "liquidPalette": {
+      "name": "mistletoe-red",
+      "hex": "#C0283A"
+    }
+  },
   "mojito": {
     "src": "/images/cocktails/webp/mojito.webp",
     "kind": "illustration",
@@ -7722,6 +7866,24 @@
       "hex": "#A88162"
     },
     "fallbackSrc": "/images/cocktails/photos/baileys-peppermint.jpg"
+  },
+  "peppermint-white-russian": {
+    "src": "/images/cocktails/webp/peppermint-white-russian.webp",
+    "kind": "illustration",
+    "glassware": "Rocks glass",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "vodka",
+      "coffee_liqueur",
+      "peppermint_liqueur",
+      "heavy_cream"
+    ],
+    "artTemplate": "russian",
+    "liquidPalette": {
+      "name": "peppermint-mocha",
+      "hex": "#C9A98A"
+    }
   },
   "bourbon-perfect-manhattan": {
     "src": "/images/cocktails/webp/bourbon-perfect-manhattan.webp",

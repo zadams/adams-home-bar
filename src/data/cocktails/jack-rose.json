@@ -65,7 +65,8 @@
   "relatedCocktailIds": [
     "appletini",
     "whiskey-daisy",
-    "bacardi-cocktail"
+    "bacardi-cocktail",
+    "apple-pie-sour"
   ],
   "seasonality": [
     "year-round"
@@ -74,7 +75,8 @@
     "apple",
     "grenadine",
     "classic",
-    "popular"
+    "popular",
+    "thanksgiving"
   ],
   "featuredBottleImages": []
 }

@@ -99,7 +99,9 @@
   "relatedCocktailIds": [
     "whiskey-sour",
     "gold-rush",
-    "old-fashioned"
+    "old-fashioned",
+    "cranberry-toddy",
+    "glogg"
   ],
   "seasonality": [
     "winter",
@@ -109,7 +111,8 @@
     "whiskey",
     "hot",
     "honey",
-    "popular"
+    "popular",
+    "thanksgiving"
   ],
   "featuredBottleImages": []
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T20:00:46.594Z",
-  "count": 649,
+  "generatedAt": "2026-10-31T20:53:43.314Z",
+  "count": 658,
   "cocktails": [
     {
       "id": "adios-motherfucker",
@@ -909,6 +909,41 @@
       "ingredientIds": [
         "rumchata",
         "sour_apple_schnapps"
+      ]
+    },
+    {
+      "id": "apple-pie-sour",
+      "slug": "apple-pie-sour",
+      "name": "Apple Pie Sour",
+      "file": "apple-pie-sour.json",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "house",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "apple",
+        "cinnamon",
+        "tart"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "apple-pie-sour",
+      "tags": [
+        "vodka",
+        "apple-vodka",
+        "apple",
+        "cinnamon",
+        "sour",
+        "house",
+        "thanksgiving"
+      ],
+      "ingredientIds": [
+        "apple_vodka",
+        "brown_sugar_cinnamon_syrup",
+        "lemon_juice",
+        "angostura_bitters"
       ]
     },
     {
@@ -1914,7 +1949,8 @@
       "illustrationKey": "baileys-peppermint",
       "tags": [
         "dessert",
-        "cream"
+        "cream",
+        "christmas"
       ],
       "ingredientIds": [
         "baileys",
@@ -4238,7 +4274,8 @@
       "illustrationKey": "brown-sugar-cinnamon-old-fashioned",
       "tags": [
         "whiskey",
-        "seasonal"
+        "seasonal",
+        "thanksgiving"
       ],
       "ingredientIds": [
         "bourbon",
@@ -4810,7 +4847,8 @@
         "prosecco",
         "brunch",
         "classic",
-        "popular"
+        "popular",
+        "thanksgiving"
       ],
       "ingredientIds": [
         "demerara_sugar",
@@ -5154,6 +5192,42 @@
         "bourbon",
         "creme_de_cacao",
         "cocoa_bitters"
+      ]
+    },
+    {
+      "id": "christmas-sangria",
+      "slug": "christmas-sangria",
+      "name": "Christmas Sangria",
+      "file": "christmas-sangria.json",
+      "cocktailFamily": "Sangria",
+      "classifications": [
+        "house",
+        "wine",
+        "punch"
+      ],
+      "flavorProfiles": [
+        "fruity",
+        "tart",
+        "refreshing"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Wine glass",
+      "illustrationKey": "christmas-sangria",
+      "tags": [
+        "wine",
+        "cranberry",
+        "punch",
+        "party",
+        "house",
+        "christmas"
+      ],
+      "ingredientIds": [
+        "red_wine",
+        "grand_marnier",
+        "cranberry_juice",
+        "orange_juice",
+        "club_soda"
       ]
     },
     {
@@ -5857,6 +5931,39 @@
       ]
     },
     {
+      "id": "coquito",
+      "slug": "coquito",
+      "name": "Coquito",
+      "file": "coquito.json",
+      "cocktailFamily": "Flip",
+      "classifications": [
+        "classic",
+        "creamy",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "coconut",
+        "cinnamon",
+        "creamy"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Small rocks glass",
+      "illustrationKey": "coquito",
+      "tags": [
+        "rum",
+        "coconut",
+        "creamy",
+        "christmas"
+      ],
+      "ingredientIds": [
+        "white_rum",
+        "cream_of_coconut",
+        "heavy_cream",
+        "brown_sugar_cinnamon_syrup"
+      ]
+    },
+    {
       "id": "corn-n-oil",
       "slug": "corn-n-oil",
       "name": "Corn 'n' Oil",
@@ -6016,6 +6123,40 @@
       ]
     },
     {
+      "id": "cranberry-bourbon-sour",
+      "slug": "cranberry-bourbon-sour",
+      "name": "Cranberry Bourbon Sour",
+      "file": "cranberry-bourbon-sour.json",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "house",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "tart",
+        "fruity",
+        "oaky"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Rocks glass",
+      "illustrationKey": "cranberry-bourbon-sour",
+      "tags": [
+        "bourbon",
+        "cranberry",
+        "sour",
+        "house",
+        "thanksgiving"
+      ],
+      "ingredientIds": [
+        "bourbon",
+        "cranberry_juice",
+        "lemon_juice",
+        "honey_syrup",
+        "angostura_bitters"
+      ]
+    },
+    {
       "id": "cranberry-ginger-fizz",
       "slug": "cranberry-ginger-fizz",
       "name": "Cranberry Ginger Fizz",
@@ -6037,7 +6178,8 @@
       "illustrationKey": "cranberry-ginger-fizz",
       "tags": [
         "mocktail",
-        "non-alcoholic"
+        "non-alcoholic",
+        "thanksgiving"
       ],
       "ingredientIds": [
         "cranberry_juice",
@@ -6067,13 +6209,49 @@
       "tags": [
         "tequila",
         "cranberry",
-        "margarita"
+        "margarita",
+        "christmas"
       ],
       "ingredientIds": [
         "blanco_tequila",
         "cointreau",
         "lime_juice",
         "cranberry_juice"
+      ]
+    },
+    {
+      "id": "cranberry-toddy",
+      "slug": "cranberry-toddy",
+      "name": "Cranberry Toddy",
+      "file": "cranberry-toddy.json",
+      "cocktailFamily": "Toddy",
+      "classifications": [
+        "house",
+        "hot"
+      ],
+      "flavorProfiles": [
+        "warm",
+        "cinnamon",
+        "tart"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Glass mug",
+      "illustrationKey": "cranberry-toddy",
+      "tags": [
+        "rum",
+        "spiced-rum",
+        "cranberry",
+        "hot",
+        "house",
+        "thanksgiving"
+      ],
+      "ingredientIds": [
+        "spiced_rum",
+        "cranberry_juice",
+        "brown_sugar_cinnamon_syrup",
+        "lemon_juice",
+        "hot_water"
       ]
     },
     {
@@ -8280,6 +8458,39 @@
       ]
     },
     {
+      "id": "glogg",
+      "slug": "glogg",
+      "name": "Gløgg",
+      "file": "glogg.json",
+      "cocktailFamily": "Mulled wine",
+      "classifications": [
+        "classic",
+        "hot",
+        "wine"
+      ],
+      "flavorProfiles": [
+        "warm",
+        "spiced",
+        "fruity"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Glass mug",
+      "illustrationKey": "glogg",
+      "tags": [
+        "wine",
+        "aquavit",
+        "hot",
+        "christmas"
+      ],
+      "ingredientIds": [
+        "red_wine",
+        "aquavit",
+        "brown_sugar_cinnamon_syrup",
+        "orange_juice"
+      ]
+    },
+    {
       "id": "godchild",
       "slug": "godchild",
       "name": "Godchild",
@@ -8873,7 +9084,8 @@
       "tags": [
         "dessert",
         "cream",
-        "mint"
+        "mint",
+        "christmas"
       ],
       "ingredientIds": [
         "peppermint_liqueur",
@@ -9158,6 +9370,44 @@
       ]
     },
     {
+      "id": "harvest-punch",
+      "slug": "harvest-punch",
+      "name": "Harvest Punch",
+      "file": "harvest-punch.json",
+      "cocktailFamily": "Punch",
+      "classifications": [
+        "house",
+        "punch"
+      ],
+      "flavorProfiles": [
+        "fruity",
+        "spiced",
+        "sparkling"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Punch cup or rocks glass",
+      "illustrationKey": "harvest-punch",
+      "tags": [
+        "rum",
+        "spiced-rum",
+        "cranberry",
+        "punch",
+        "party",
+        "house",
+        "thanksgiving"
+      ],
+      "ingredientIds": [
+        "spiced_rum",
+        "cranberry_juice",
+        "orange_juice",
+        "lemon_juice",
+        "falernum",
+        "ginger_beer",
+        "prosecco"
+      ]
+    },
+    {
       "id": "hemingway-daiquiri",
       "slug": "hemingway-daiquiri",
       "name": "Hemingway Daiquiri",
@@ -9245,7 +9495,8 @@
       "illustrationKey": "holiday-nog-bourbon",
       "tags": [
         "dessert",
-        "seasonal"
+        "seasonal",
+        "christmas"
       ],
       "ingredientIds": [
         "cream_liqueur",
@@ -9605,7 +9856,9 @@
         "rum",
         "hot",
         "spice",
-        "popular"
+        "popular",
+        "thanksgiving",
+        "christmas"
       ],
       "ingredientIds": [
         "spiced_rum",
@@ -9666,7 +9919,8 @@
         "whiskey",
         "hot",
         "honey",
-        "popular"
+        "popular",
+        "thanksgiving"
       ],
       "ingredientIds": [
         "bourbon",
@@ -9758,7 +10012,8 @@
       "illustrationKey": "kir-royale-house",
       "tags": [
         "cherry",
-        "prosecco"
+        "prosecco",
+        "christmas"
       ],
       "ingredientIds": [
         "cherry_liqueur",
@@ -10194,7 +10449,8 @@
         "apple",
         "grenadine",
         "classic",
-        "popular"
+        "popular",
+        "thanksgiving"
       ],
       "ingredientIds": [
         "apple_vodka",
@@ -11239,7 +11495,8 @@
       "tags": [
         "foundational",
         "whiskey",
-        "stirred"
+        "stirred",
+        "thanksgiving"
       ],
       "ingredientIds": [
         "rye",
@@ -11892,6 +12149,41 @@
         "bourbon",
         "simple_syrup",
         "mint"
+      ]
+    },
+    {
+      "id": "mistletoe-mule",
+      "slug": "mistletoe-mule",
+      "name": "Mistletoe Mule",
+      "file": "mistletoe-mule.json",
+      "cocktailFamily": "Mule",
+      "classifications": [
+        "house",
+        "highball",
+        "buck"
+      ],
+      "flavorProfiles": [
+        "ginger",
+        "tart",
+        "refreshing"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Copper mug",
+      "illustrationKey": "mistletoe-mule",
+      "tags": [
+        "vodka",
+        "cranberry",
+        "ginger",
+        "mule",
+        "house",
+        "christmas"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "cranberry_juice",
+        "lime_juice",
+        "ginger_beer"
       ]
     },
     {
@@ -13427,7 +13719,8 @@
       "illustrationKey": "peppermint-bourbon",
       "tags": [
         "whiskey",
-        "peppermint"
+        "peppermint",
+        "christmas"
       ],
       "ingredientIds": [
         "bourbon",
@@ -13484,11 +13777,47 @@
       "tags": [
         "baileys",
         "peppermint",
-        "dessert"
+        "dessert",
+        "christmas"
       ],
       "ingredientIds": [
         "baileys",
         "peppermint_liqueur"
+      ]
+    },
+    {
+      "id": "peppermint-white-russian",
+      "slug": "peppermint-white-russian",
+      "name": "Peppermint White Russian",
+      "file": "peppermint-white-russian.json",
+      "cocktailFamily": "Russian",
+      "classifications": [
+        "house",
+        "creamy",
+        "dessert"
+      ],
+      "flavorProfiles": [
+        "coffee",
+        "mint",
+        "creamy"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Rocks glass",
+      "illustrationKey": "peppermint-white-russian",
+      "tags": [
+        "vodka",
+        "coffee",
+        "peppermint",
+        "creamy",
+        "house",
+        "christmas"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "coffee_liqueur",
+        "peppermint_liqueur",
+        "heavy_cream"
       ]
     },
     {
@@ -13790,7 +14119,8 @@
         "dessert",
         "almond",
         "chocolate",
-        "classic"
+        "classic",
+        "christmas"
       ],
       "ingredientIds": [
         "creme_de_noyaux",
@@ -13886,7 +14216,8 @@
       "tags": [
         "cranberry",
         "sparkling",
-        "holiday"
+        "holiday",
+        "christmas"
       ],
       "ingredientIds": [
         "cointreau",
@@ -17622,7 +17953,8 @@
       "tags": [
         "whiskey",
         "shot",
-        "popular"
+        "popular",
+        "christmas"
       ],
       "ingredientIds": [
         "bourbon",
@@ -18737,7 +19069,8 @@
       "tags": [
         "rye",
         "orange",
-        "classic"
+        "classic",
+        "thanksgiving"
       ],
       "ingredientIds": [
         "rye",
