@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import { cocktailById } from '../index'
-import { drinkSets } from './index'
+import { drinkSets, setNotesFor } from './index'
 
 describe('drink sets', () => {
   it('have unique ids', () => {
@@ -22,5 +22,13 @@ describe('drink sets', () => {
     const top = drinkSets.find((s) => s.id === 'worlds-top-50')
     expect(top?.drinks).toHaveLength(50)
     expect(top?.drinks[0].drinkId).toBe('negroni')
+  })
+
+  it('collects a drink’s notes from every set it is in', () => {
+    expect(setNotesFor('blood-and-sand').map((n) => n.set.id)).toEqual(['saturday-mix'])
+    expect(setNotesFor('witchs-brew')).toEqual([
+      expect.objectContaining({ note: expect.stringContaining('blue curaçao') }),
+    ])
+    expect(setNotesFor('black-russian')).toEqual([])
   })
 })

@@ -315,6 +315,7 @@ fs.writeFileSync(
       name: 'World’s Top 50',
       description:
         'The 50 bestselling classic cocktails at the world’s best bars, in rank order, from Drinks International’s 2026 Cocktail Report.',
+      ranked: true,
       drinks: ranking.map(([drinkId, note]) => (note ? { drinkId, note } : { drinkId })),
     },
     null,

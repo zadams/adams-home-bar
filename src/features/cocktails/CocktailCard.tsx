@@ -5,6 +5,7 @@ import { drinkKind, drinkPath, ingredientById } from '../../data'
 import { CocktailIllustration } from '../../components/CocktailIllustration'
 import { readinessClass } from '../../utils/illustrations'
 import { useUserData } from '../persistence/UserDataContext'
+import type { BackTo } from './backTo'
 
 interface CocktailCardProps {
   cocktail: Cocktail
@@ -14,6 +15,10 @@ interface CocktailCardProps {
    * its kind is not implied — a cross-kind search result, favorites, history.
    */
   showKindBadge?: boolean
+  /** The list this card sits in, so the recipe's back link returns to it. */
+  backTo?: BackTo
+  /** Place in a ranked set, shown over the art. */
+  rank?: number
 }
 
 /**
@@ -34,6 +39,8 @@ export function CocktailCard({
   cocktail,
   readiness,
   showKindBadge = false,
+  backTo,
+  rank,
 }: CocktailCardProps) {
   const keySpirit = keyIngredientLabel(cocktail)
   const kind = drinkKind(cocktail)
@@ -42,6 +49,7 @@ export function CocktailCard({
   return (
     <Link
       to={drinkPath(cocktail)}
+      state={backTo ? { backTo } : undefined}
       className="cocktail-card"
     >
       <CocktailIllustration
@@ -52,6 +60,11 @@ export function CocktailCard({
           showIngredients={false}
           preferThumb
         />
+      {rank !== undefined && (
+        <span className="cocktail-card__rank" aria-label={`Number ${rank}`}>
+          #{rank}
+        </span>
+      )}
       {timesMade > 0 && (
         <span
           className="cocktail-card__made"

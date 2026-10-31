@@ -218,6 +218,16 @@
   line-height: 1.45;
 }
 
+/* Notes a drink set adds for this drink, e.g. which bottle to reach for. */
+.recipe-set-notes {
+  display: grid;
+  gap: var(--space-3);
+  margin: 0;
+  padding: var(--space-3);
+  border-left: 3px solid var(--color-amber);
+  background: rgba(0, 0, 0, 0.2);
+}
+
 .bottle-list {
   list-style: none;
   margin: 0;

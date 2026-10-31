@@ -15,6 +15,8 @@ export interface DrinkSet {
   id: string
   name: string
   description: string
+  /** The order is a ranking, so cards show each drink's place. */
+  ranked?: boolean
   drinks: DrinkSetEntry[]
 }
 
@@ -34,4 +36,12 @@ export function setDrinks(set: DrinkSet): Cocktail[] {
   return set.drinks
     .map((entry) => cocktailById.get(entry.drinkId))
     .filter((d): d is Cocktail => d !== undefined)
+}
+
+/** Every set's note for a drink, in set-name order, for the recipe page. */
+export function setNotesFor(drinkId: string): { set: DrinkSet; note: string }[] {
+  return drinkSets.flatMap((set) => {
+    const note = set.drinks.find((entry) => entry.drinkId === drinkId)?.note
+    return note ? [{ set, note }] : []
+  })
 }

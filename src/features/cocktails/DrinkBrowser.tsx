@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
-import { useSearchParams } from 'react-router-dom'
-import { cocktailById, drinkKind, drinks, drinksByKind, ingredientById, seedInventory } from '../../data'
+import { useLocation, useSearchParams } from 'react-router-dom'
+import { drinkKind, drinks, drinksByKind, ingredientById, seedInventory } from '../../data'
 import { drinkSetById, drinkSets, setDrinks } from '../../data/sets'
 import {
   assessReadiness,
@@ -86,6 +86,18 @@ export function DrinkBrowser({
     setDrinks(set).some((d) => drinkKind(d) === kind),
   )
   const activeSet = drinkSetById.get(params.get('set') ?? '')
+  const rankById = useMemo(
+    () =>
+      activeSet?.ranked
+        ? new Map(activeSet.drinks.map((entry, i) => [entry.drinkId, i + 1]))
+        : null,
+    [activeSet],
+  )
+  const location = useLocation()
+  const backTo = {
+    path: location.pathname + location.search,
+    label: activeSet ? activeSet.name : `All ${title.toLowerCase()}`,
+  }
 
   const chooseSet = (id: string | null) => {
     const next = new URLSearchParams(params)
@@ -186,23 +198,7 @@ export function DrinkBrowser({
       )}
 
       {activeSet && (
-        <section className="set-notes">
-          <p className="set-notes__description">{activeSet.description}</p>
-          <ol
-            className={
-              activeSet.drinks.length > 12
-                ? 'set-notes__list set-notes__list--columns'
-                : 'set-notes__list'
-            }
-          >
-            {activeSet.drinks.map((entry) => (
-              <li key={entry.drinkId}>
-                <b>{cocktailById.get(entry.drinkId)?.name ?? entry.drinkId}</b>
-                {entry.note ? ` — ${entry.note}` : ''}
-              </li>
-            ))}
-          </ol>
-        </section>
+        <p className="set-notes">{activeSet.description}</p>
       )}
 
       <div className="toolbar">
@@ -274,6 +270,8 @@ export function DrinkBrowser({
               cocktail={cocktail}
               readiness={readiness}
               showKindBadge={drinkKind(cocktail) !== kind}
+              backTo={backTo}
+              rank={rankById?.get(cocktail.id)}
             />
           ))}
         </div>

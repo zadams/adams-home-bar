@@ -1,5 +1,5 @@
 import { useMemo, useState } from 'react'
-import { Link } from 'react-router-dom'
+import { Link, useLocation } from 'react-router-dom'
 import type { Cocktail } from '../../types/cocktail'
 import type { ReadinessResult } from '../../services/recommendation/readiness'
 import { scaleCocktailIngredients } from '../../services/scaling/servings'
@@ -11,12 +11,14 @@ import {
   drinkKind,
   drinkSections,
 } from '../../data'
+import { setNotesFor } from '../../data/sets'
 import ingredientImages from '../../data/illustrations/ingredients.json'
 import { CocktailIllustration } from '../../components/CocktailIllustration'
 import { readinessClass } from '../../utils/illustrations'
 import { assetUrl } from '../../utils/assetUrl'
 import { useUserData } from '../persistence/UserDataContext'
 import { useSurpriseMe } from '../recommendations/useSurpriseMe'
+import { readBackTo } from './backTo'
 import '../../styles/recipe-spread.css'
 
 interface RecipeViewProps {
@@ -56,12 +58,17 @@ export function RecipeView({ cocktail, readiness }: RecipeViewProps) {
     }))
 
   const section = drinkSections[drinkKind(cocktail)]
+  const setNotes = setNotesFor(cocktail.id)
+  // Opened from a filtered list (a set, say): go back to that list, and keep
+  // the way back while hopping through variations and related drinks.
+  const backTo = readBackTo(useLocation().state)
+  const backState = backTo ? { backTo } : undefined
 
   return (
     <article className="recipe-spread">
       <div className="recipe-spread__left">
-        <Link to={section.path} className="recipe-spread__back">
-          ← All {section.title.toLowerCase()}
+        <Link to={backTo?.path ?? section.path} className="recipe-spread__back">
+          ← {backTo?.label ?? `All ${section.title.toLowerCase()}`}
         </Link>
 
         <CocktailIllustration
@@ -92,6 +99,17 @@ export function RecipeView({ cocktail, readiness }: RecipeViewProps) {
         <span className={readinessClass(readiness.state)}>{readiness.label}</span>
 
         <p className="recipe-description">{cocktail.description}</p>
+
+        {setNotes.length > 0 && (
+          <dl className="recipe-set-notes">
+            {setNotes.map(({ set, note }) => (
+              <div key={set.id} className="recipe-fact">
+                <dt>{set.name}</dt>
+                <dd>{note}</dd>
+              </div>
+            ))}
+          </dl>
+        )}
 
         <dl className="recipe-facts">
           <div className="recipe-fact">
@@ -430,7 +448,7 @@ export function RecipeView({ cocktail, readiness }: RecipeViewProps) {
                   return (
                     <li key={variation.id}>
                       {linked ? (
-                        <Link to={drinkPath(linked)}>
+                        <Link to={drinkPath(linked)} state={backState}>
                           {variation.name}
                         </Link>
                       ) : (
@@ -451,7 +469,7 @@ export function RecipeView({ cocktail, readiness }: RecipeViewProps) {
                   const related = cocktailById.get(id)
                   if (!related) return null
                   return (
-                    <Link key={id} to={drinkPath(related)}>
+                    <Link key={id} to={drinkPath(related)} state={backState}>
                       {related.name}
                     </Link>
                   )

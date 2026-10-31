@@ -2,6 +2,7 @@
   "id": "worlds-top-50",
   "name": "World’s Top 50",
   "description": "The 50 bestselling classic cocktails at the world’s best bars, in rank order, from Drinks International’s 2026 Cocktail Report.",
+  "ranked": true,
   "drinks": [
     {
       "drinkId": "negroni",

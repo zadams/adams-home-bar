@@ -732,6 +732,21 @@
   pointer-events: none;
 }
 
+/* A drink's place in a ranked set, over the art's top-left corner. */
+.cocktail-card__rank {
+  position: absolute;
+  top: var(--space-2);
+  left: var(--space-2);
+  padding: 0.15em 0.55em;
+  border: 1px solid var(--color-border-strong);
+  border-radius: 999px;
+  background: rgba(16, 12, 8, 0.78);
+  color: var(--color-gold);
+  font-family: var(--font-display);
+  font-size: var(--text-base);
+  pointer-events: none;
+}
+
 /* Marks a result that came from outside the section being browsed. */
 .cocktail-card__kind {
   display: inline-block;
@@ -822,32 +837,10 @@
   line-height: 1.6;
 }
 
-/* drink set chips and the active set's menu notes */
+/* drink set chips and the active set's description */
 .set-switch { margin-bottom: 1rem; overflow-x: auto; }
 
-.set-notes {
-  border: 1px solid var(--color-border);
-  padding: 0.9rem 1.1rem;
-  margin-bottom: 1.25rem;
-}
-
-.set-notes__description { margin: 0 0 0.5rem; color: var(--color-text-muted); }
-
-.set-notes__list {
-  margin: 0;
-  padding-left: 1.25rem;
-  font-size: 0.9375rem;
-  line-height: 1.6;
-}
-
-/* A long set (a ranking) flows into columns so the drinks stay on screen. */
-.set-notes__list--columns {
-  columns: 15rem;
-  column-gap: 2rem;
-  padding-left: 0;
-  list-style-position: inside;
-}
-.set-notes__list--columns li { break-inside: avoid; }
+.set-notes { margin: 0 0 1.25rem; color: var(--color-text-muted); }
 
 /* segmented cocktails / shots switch */
 .lens-switch { display: inline-flex; border: 1px solid var(--color-border); }
