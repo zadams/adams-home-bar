@@ -65,6 +65,11 @@
       "bottleId": "dry-vermouth",
       "rank": 1,
       "rationale": "Whatever is freshest; this drink hides nothing."
+    },
+    {
+      "bottleId": "herbsaint",
+      "rank": 2,
+      "rationale": "Herbsaint for the absinthe."
     }
   ],
   "substitutions": [

@@ -1,0 +1,108 @@
+{
+  "id": "brown-butter-old-fashioned",
+  "slug": "brown-butter-old-fashioned",
+  "name": "Brown Butter Old Fashioned",
+  "aliases": [],
+  "description": "Wheated bourbon, demerara and Angostura with four dashes of browned-butter fat wash. An Old Fashioned that tastes like the top of a pecan pie.",
+  "history": "Fat-washing — infusing a spirit with butter or bacon fat, freezing and straining — has been a bar technique since the PDT Benton’s Old Fashioned in 2007. Fee Brothers’ 2026 water-soluble fat washes get the flavor in by the dash. A house build.",
+  "origin": "House",
+  "whyItWorks": "Butter flavor rounds the bourbon’s edges and draws out its caramel; a wheated bourbon is already soft, so the two meet in the middle. Demerara adds molasses depth that white sugar wouldn’t.",
+  "classifications": [
+    "house",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Old Fashioned",
+  "flavorProfiles": [
+    "buttery",
+    "nutty",
+    "oaky"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "strong",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "brown-butter-old-fashioned",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "demerara_sugar",
+      "amount": 1,
+      "unit": "tsp",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "browned_butter_fat_wash",
+      "amount": 4,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Orange peel",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Stir the demerara with a barspoon of water in a mixing glass until dissolved.",
+    "Add bourbon, fat wash and bitters, fill with ice and stir until cold.",
+    "Strain over a large cube and express an orange peel over the top."
+  ],
+  "techniqueNotes": [
+    "Start at three dashes of fat wash; four is rich, five tips into butterscotch."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "old-fitzgerald-bib-7",
+      "rank": 1,
+      "rationale": "Wheated and 100 proof: soft enough to meet the butter, strong enough not to vanish."
+    },
+    {
+      "bottleId": "fee-brothers-browned-butter",
+      "rank": 2,
+      "rationale": "The fat wash."
+    },
+    {
+      "bottleId": "angostura-aromatic",
+      "rank": 3,
+      "rationale": "Spice."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "old-fashioned",
+    "brown-sugar-cinnamon-old-fashioned",
+    "brown-butter-rum-old-fashioned"
+  ],
+  "seasonality": [
+    "autumn",
+    "winter"
+  ],
+  "tags": [
+    "bourbon",
+    "old-fashioned",
+    "fat-wash",
+    "butter",
+    "house",
+    "thanksgiving"
+  ]
+}

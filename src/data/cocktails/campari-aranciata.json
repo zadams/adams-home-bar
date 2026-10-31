@@ -1,0 +1,93 @@
+{
+  "id": "campari-aranciata",
+  "slug": "campari-aranciata",
+  "name": "Campari Aranciata",
+  "aliases": [],
+  "description": "Campari and Sicilian orange soda syrup topped with sparkling water. A homemade Campari and orange soda.",
+  "history": "Campari and orange soda is an Italian bar staple; Sabadi’s syrup makes the aranciata to order.",
+  "origin": "Italy",
+  "whyItWorks": "Orange is Campari’s natural partner; the syrup is sweet enough to balance the bitterness without juice’s weight.",
+  "classifications": [
+    "classic",
+    "highball",
+    "aperitivo"
+  ],
+  "cocktailFamily": "Highball",
+  "flavorProfiles": [
+    "bitter",
+    "orange",
+    "refreshing"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "light",
+  "glassware": "Highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Orange slice"
+  ],
+  "illustrationKey": "campari-aranciata",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "campari",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_soda_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Orange slice",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Build Campari and syrup in a highball over ice and stir.",
+    "Top with soda, stir once and add an orange slice."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "campari",
+      "rank": 1,
+      "rationale": "The bitter."
+    },
+    {
+      "bottleId": "sabadi-aranciata-madre",
+      "rank": 2,
+      "rationale": "The orange syrup."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "campari-soda",
+    "aranciata",
+    "americano"
+  ],
+  "seasonality": [
+    "summer",
+    "year-round"
+  ],
+  "tags": [
+    "campari",
+    "aperitivo",
+    "orange",
+    "low-abv"
+  ]
+}

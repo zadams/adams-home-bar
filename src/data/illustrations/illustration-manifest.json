@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedFrom": "cocktail-index.json + popular-classics batch (2026-08-10); 2026-10-24 bottle additions; 2026 world's top 50; halloween 2026; halloween 2026 round two; holidays 2026",
-  "cocktailCount": 658,
+  "generatedFrom": "cocktail-index.json + popular-classics batch (2026-08-10); 2026-10-24 bottle additions; 2026 world's top 50; halloween 2026; halloween 2026 round two; holidays 2026; 2026-10-31 bottle additions",
+  "cocktailCount": 665,
   "cocktails": [
     {
       "id": "adios-motherfucker",
@@ -2190,6 +2190,45 @@
           "master": "cocktails/masters/aquavit-sour.png",
           "runtime": "cocktails/webp/aquavit-sour.webp",
           "thumbnail": "cocktails/thumbs/aquavit-sour.webp"
+        }
+      }
+    },
+    {
+      "id": "aranciata",
+      "slug": "aranciata",
+      "name": "Aranciata",
+      "illustrationKey": "aranciata",
+      "cocktailFamily": "Soda",
+      "classifications": [
+        "non-alcoholic",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "orange",
+        "refreshing",
+        "sweet"
+      ],
+      "ingredientIds": [
+        "orange_soda_syrup",
+        "club_soda"
+      ],
+      "artDirection": {
+        "template": "soda",
+        "glass": "highball",
+        "sourceGlassware": "Highball",
+        "ice": "Cubed ice",
+        "garnish": "Orange slice",
+        "liquidPalette": {
+          "name": "aranciata-orange",
+          "hex": "#F08A2C"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/aranciata.png",
+          "runtime": "cocktails/webp/aranciata.webp",
+          "thumbnail": "cocktails/thumbs/aranciata.webp"
         }
       }
     },
@@ -5553,6 +5592,89 @@
       }
     },
     {
+      "id": "brown-butter-old-fashioned",
+      "slug": "brown-butter-old-fashioned",
+      "name": "Brown Butter Old Fashioned",
+      "illustrationKey": "brown-butter-old-fashioned",
+      "cocktailFamily": "Old Fashioned",
+      "classifications": [
+        "house",
+        "spirit-forward"
+      ],
+      "flavorProfiles": [
+        "buttery",
+        "nutty",
+        "oaky"
+      ],
+      "ingredientIds": [
+        "bourbon",
+        "demerara_sugar",
+        "browned_butter_fat_wash",
+        "angostura_bitters"
+      ],
+      "artDirection": {
+        "template": "old-fashioned",
+        "glass": "double-old-fashioned",
+        "sourceGlassware": "Rocks glass",
+        "ice": "Large cube",
+        "garnish": "Orange peel",
+        "liquidPalette": {
+          "name": "brown-butter-amber",
+          "hex": "#A8642A"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/brown-butter-old-fashioned.png",
+          "runtime": "cocktails/webp/brown-butter-old-fashioned.webp",
+          "thumbnail": "cocktails/thumbs/brown-butter-old-fashioned.webp"
+        }
+      }
+    },
+    {
+      "id": "brown-butter-rum-old-fashioned",
+      "slug": "brown-butter-rum-old-fashioned",
+      "name": "Brown Butter Rum Old Fashioned",
+      "illustrationKey": "brown-butter-rum-old-fashioned",
+      "cocktailFamily": "Old Fashioned",
+      "classifications": [
+        "house",
+        "spirit-forward"
+      ],
+      "flavorProfiles": [
+        "buttery",
+        "vanilla",
+        "rich"
+      ],
+      "ingredientIds": [
+        "gold_rum",
+        "demerara_sugar",
+        "browned_butter_fat_wash",
+        "orange_bitters",
+        "angostura_bitters"
+      ],
+      "artDirection": {
+        "template": "old-fashioned",
+        "glass": "double-old-fashioned",
+        "sourceGlassware": "Rocks glass",
+        "ice": "Large cube",
+        "garnish": "Orange peel",
+        "liquidPalette": {
+          "name": "butterscotch-gold",
+          "hex": "#B87A33"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/brown-butter-rum-old-fashioned.png",
+          "runtime": "cocktails/webp/brown-butter-rum-old-fashioned.webp",
+          "thumbnail": "cocktails/thumbs/brown-butter-rum-old-fashioned.webp"
+        }
+      }
+    },
+    {
       "id": "brown-derby",
       "slug": "brown-derby",
       "name": "Brown Derby",
@@ -5990,6 +6112,47 @@
           "master": "cocktails/masters/campari-soda.png",
           "runtime": "cocktails/webp/campari-soda.webp",
           "thumbnail": "cocktails/thumbs/campari-soda.webp"
+        }
+      }
+    },
+    {
+      "id": "campari-aranciata",
+      "slug": "campari-aranciata",
+      "name": "Campari Aranciata",
+      "illustrationKey": "campari-aranciata",
+      "cocktailFamily": "Highball",
+      "classifications": [
+        "classic",
+        "highball",
+        "aperitivo"
+      ],
+      "flavorProfiles": [
+        "bitter",
+        "orange",
+        "refreshing"
+      ],
+      "ingredientIds": [
+        "campari",
+        "orange_soda_syrup",
+        "club_soda"
+      ],
+      "artDirection": {
+        "template": "highball",
+        "glass": "highball",
+        "sourceGlassware": "Highball",
+        "ice": "Cubed ice",
+        "garnish": "Orange slice",
+        "liquidPalette": {
+          "name": "campari-orange",
+          "hex": "#D9452B"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/campari-aranciata.png",
+          "runtime": "cocktails/webp/campari-aranciata.webp",
+          "thumbnail": "cocktails/thumbs/campari-aranciata.webp"
         }
       }
     },
@@ -12421,6 +12584,47 @@
       }
     },
     {
+      "id": "herbsaint-frappe",
+      "slug": "herbsaint-frappe",
+      "name": "Herbsaint Frappé",
+      "illustrationKey": "herbsaint-frappe",
+      "cocktailFamily": "Frappé",
+      "classifications": [
+        "classic",
+        "cooler"
+      ],
+      "flavorProfiles": [
+        "anise",
+        "herbal",
+        "refreshing"
+      ],
+      "ingredientIds": [
+        "absinthe",
+        "simple_syrup",
+        "club_soda",
+        "peychauds_bitters"
+      ],
+      "artDirection": {
+        "template": "frappé",
+        "glass": "double-old-fashioned",
+        "sourceGlassware": "Rocks glass",
+        "ice": "Crushed ice",
+        "garnish": "none",
+        "liquidPalette": {
+          "name": "louche-opal",
+          "hex": "#D8DCC4"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/herbsaint-frappe.png",
+          "runtime": "cocktails/webp/herbsaint-frappe.webp",
+          "thumbnail": "cocktails/thumbs/herbsaint-frappe.webp"
+        }
+      }
+    },
+    {
       "id": "hocus-pocus-spritz",
       "slug": "hocus-pocus-spritz",
       "name": "Hocus Pocus Spritz",
@@ -14745,6 +14949,45 @@
           "master": "cocktails/masters/lime-rickey.png",
           "runtime": "cocktails/webp/lime-rickey.webp",
           "thumbnail": "cocktails/thumbs/lime-rickey.webp"
+        }
+      }
+    },
+    {
+      "id": "limonata",
+      "slug": "limonata",
+      "name": "Limonata",
+      "illustrationKey": "limonata",
+      "cocktailFamily": "Soda",
+      "classifications": [
+        "non-alcoholic",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "lemon",
+        "refreshing",
+        "sweet"
+      ],
+      "ingredientIds": [
+        "lemon_soda_syrup",
+        "club_soda"
+      ],
+      "artDirection": {
+        "template": "soda",
+        "glass": "highball",
+        "sourceGlassware": "Highball",
+        "ice": "Cubed ice",
+        "garnish": "Lemon wheel",
+        "liquidPalette": {
+          "name": "limonata-yellow",
+          "hex": "#F3E28A"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/limonata.png",
+          "runtime": "cocktails/webp/limonata.webp",
+          "thumbnail": "cocktails/thumbs/limonata.webp"
         }
       }
     },
@@ -21422,6 +21665,48 @@
           "master": "cocktails/masters/shirley-temple.png",
           "runtime": "cocktails/webp/shirley-temple.webp",
           "thumbnail": "cocktails/thumbs/shirley-temple.webp"
+        }
+      }
+    },
+    {
+      "id": "sicilian-collins",
+      "slug": "sicilian-collins",
+      "name": "Sicilian Collins",
+      "illustrationKey": "sicilian-collins",
+      "cocktailFamily": "Collins",
+      "classifications": [
+        "house",
+        "highball",
+        "collins"
+      ],
+      "flavorProfiles": [
+        "lemon",
+        "botanical",
+        "refreshing"
+      ],
+      "ingredientIds": [
+        "gin",
+        "lemon_juice",
+        "lemon_soda_syrup",
+        "club_soda"
+      ],
+      "artDirection": {
+        "template": "collins",
+        "glass": "highball",
+        "sourceGlassware": "Highball",
+        "ice": "Cubed ice",
+        "garnish": "Lemon wheel",
+        "liquidPalette": {
+          "name": "limonata-pale",
+          "hex": "#F1E7A6"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/sicilian-collins.png",
+          "runtime": "cocktails/webp/sicilian-collins.webp",
+          "thumbnail": "cocktails/thumbs/sicilian-collins.webp"
         }
       }
     },

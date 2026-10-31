@@ -27,6 +27,10 @@
       "drinkId": "brown-sugar-cinnamon-old-fashioned"
     },
     {
+      "drinkId": "brown-butter-old-fashioned",
+      "note": "Old Fitzgerald and the Fee Brothers fat wash."
+    },
+    {
       "drinkId": "manhattan",
       "note": "Before dinner."
     },

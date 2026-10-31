@@ -50,7 +50,13 @@
     "Hemingway’s jigger was a full 1.5 oz. One ounce is plenty for most people.",
     "Brut Champagne or a dry cava works better than a sweet prosecco."
   ],
-  "recommendedBottles": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "herbsaint",
+      "rank": 1,
+      "rationale": "Herbsaint for the absinthe."
+    }
+  ],
   "substitutions": [],
   "variations": [],
   "relatedCocktailIds": [

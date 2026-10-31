@@ -959,6 +959,22 @@
       "hex": "#D7D39A"
     }
   },
+  "aranciata": {
+    "src": "/images/cocktails/webp/aranciata.webp",
+    "kind": "illustration",
+    "glassware": "Highball",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "orange_soda_syrup",
+      "club_soda"
+    ],
+    "artTemplate": "soda",
+    "liquidPalette": {
+      "name": "aranciata-orange",
+      "hex": "#F08A2C"
+    }
+  },
   "army-navy": {
     "src": "/images/cocktails/webp/army-navy.webp",
     "kind": "illustration",
@@ -2421,6 +2437,42 @@
       "hex": "#A86939"
     }
   },
+  "brown-butter-old-fashioned": {
+    "src": "/images/cocktails/webp/brown-butter-old-fashioned.webp",
+    "kind": "illustration",
+    "glassware": "Rocks glass",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "bourbon",
+      "demerara_sugar",
+      "browned_butter_fat_wash",
+      "angostura_bitters"
+    ],
+    "artTemplate": "old-fashioned",
+    "liquidPalette": {
+      "name": "brown-butter-amber",
+      "hex": "#A8642A"
+    }
+  },
+  "brown-butter-rum-old-fashioned": {
+    "src": "/images/cocktails/webp/brown-butter-rum-old-fashioned.webp",
+    "kind": "illustration",
+    "glassware": "Rocks glass",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "gold_rum",
+      "demerara_sugar",
+      "browned_butter_fat_wash",
+      "orange_bitters"
+    ],
+    "artTemplate": "old-fashioned",
+    "liquidPalette": {
+      "name": "butterscotch-gold",
+      "hex": "#B87A33"
+    }
+  },
   "brown-derby": {
     "src": "/images/cocktails/webp/brown-derby.webp",
     "kind": "illustration",
@@ -2609,6 +2661,23 @@
       "hex": "#7D1827"
     },
     "fallbackSrc": "/images/cocktails/photos/americano.jpg"
+  },
+  "campari-aranciata": {
+    "src": "/images/cocktails/webp/campari-aranciata.webp",
+    "kind": "illustration",
+    "glassware": "Highball",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "campari",
+      "orange_soda_syrup",
+      "club_soda"
+    ],
+    "artTemplate": "highball",
+    "liquidPalette": {
+      "name": "campari-orange",
+      "hex": "#D9452B"
+    }
   },
   "campari-gin-tonic": {
     "src": "/images/cocktails/webp/campari-gin-tonic.webp",
@@ -5402,6 +5471,24 @@
     },
     "fallbackSrc": "/images/cocktails/photos/daiquiri.jpg"
   },
+  "herbsaint-frappe": {
+    "src": "/images/cocktails/webp/herbsaint-frappe.webp",
+    "kind": "illustration",
+    "glassware": "Rocks glass",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "absinthe",
+      "simple_syrup",
+      "club_soda",
+      "peychauds_bitters"
+    ],
+    "artTemplate": "frappé",
+    "liquidPalette": {
+      "name": "louche-opal",
+      "hex": "#D8DCC4"
+    }
+  },
   "hocus-pocus-spritz": {
     "src": "/images/cocktails/webp/hocus-pocus-spritz.webp",
     "kind": "illustration",
@@ -6414,6 +6501,22 @@
     "liquidPalette": {
       "name": "warm-amber",
       "hex": "#B06932"
+    }
+  },
+  "limonata": {
+    "src": "/images/cocktails/webp/limonata.webp",
+    "kind": "illustration",
+    "glassware": "Highball",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "lemon_soda_syrup",
+      "club_soda"
+    ],
+    "artTemplate": "soda",
+    "liquidPalette": {
+      "name": "limonata-yellow",
+      "hex": "#F3E28A"
     }
   },
   "lions-tail": {
@@ -9309,6 +9412,24 @@
     "liquidPalette": {
       "name": "cherry-red",
       "hex": "#8B2332"
+    }
+  },
+  "sicilian-collins": {
+    "src": "/images/cocktails/webp/sicilian-collins.webp",
+    "kind": "illustration",
+    "glassware": "Highball",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "gin",
+      "lemon_juice",
+      "lemon_soda_syrup",
+      "club_soda"
+    ],
+    "artTemplate": "collins",
+    "liquidPalette": {
+      "name": "limonata-pale",
+      "hex": "#F1E7A6"
     }
   },
   "sidecar": {

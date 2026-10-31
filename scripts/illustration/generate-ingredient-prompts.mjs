@@ -68,6 +68,21 @@ const JOBS = {
     subject:
       'a slim bottle of crème de mûre blackberry liqueur, very dark purple-black liquid with a deep violet glint where light passes through, blank label panel, two fresh blackberries at the base',
   },
+  browned_butter_fat_wash: {
+    reason: 'no source image',
+    subject:
+      'a small 5 oz dasher bottle of browned butter flavouring, clear glass showing a pale golden-tan liquid, narrow dasher top, a warm caramel-brown blank label panel',
+  },
+  lemon_soda_syrup: {
+    reason: 'no source image',
+    subject:
+      'a small 250 ml glass bottle of Sicilian lemon soda syrup, cloudy pale yellow liquid, short neck with a cap, blank label panel, one whole fresh lemon with a leaf at the base',
+  },
+  orange_soda_syrup: {
+    reason: 'no source image',
+    subject:
+      'a small 250 ml glass bottle of Sicilian orange soda syrup, cloudy bright orange liquid, short neck with a cap, blank label panel, one whole fresh orange with a leaf at the base',
+  },
   jamaican_rum: {
     reason: 'fetched image is a generic dark rum',
     subject:

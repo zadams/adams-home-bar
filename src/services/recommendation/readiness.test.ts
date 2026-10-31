@@ -64,7 +64,8 @@ describe('readiness engine', () => {
   })
 
   it('does not block Sazerac when absinthe is out (optional rinse)', () => {
-    const result = assessReadiness(cocktail('sazerac'), seedInventory)
+    const noHerbsaint = seedInventory.filter((item) => item.bottleId !== 'herbsaint')
+    const result = assessReadiness(cocktail('sazerac'), noHerbsaint)
     expect(result.state).toBe('ready')
     expect(result.missingOptional.some((m) => m.ingredientId === 'absinthe')).toBe(
       true,
@@ -194,7 +195,6 @@ describe('Halloween drinks', () => {
 
   it.each([
     ['corpse-reviver-no-1', ['calvados', 'cognac']],
-    ['death-in-the-afternoon', ['absinthe']],
     ['black-widow', ['egg_white']],
   ])('%s is short only %j', (id, missing) => {
     const result = assessReadiness(cocktail(id), seedInventory)
@@ -211,6 +211,25 @@ describe.each(['thanksgiving', 'christmas'])('%s set', (setId) => {
   })
 
   it.each(ids)('%s is ready from the seed inventory', (id) => {
+    const result = assessReadiness(cocktail(id), seedInventory)
+    expect(result.missingRequired.map((m) => m.ingredientId)).toEqual([])
+    expect(result.state).toBe('ready')
+  })
+})
+
+describe('Herbsaint, fat wash and Sabadi syrups', () => {
+  it.each([
+    'sazerac',
+    'death-in-the-afternoon',
+    'corpse-reviver-no-2',
+    'herbsaint-frappe',
+    'brown-butter-old-fashioned',
+    'brown-butter-rum-old-fashioned',
+    'sicilian-collins',
+    'campari-aranciata',
+    'limonata',
+    'aranciata',
+  ])('%s is ready from the seed inventory', (id) => {
     const result = assessReadiness(cocktail(id), seedInventory)
     expect(result.missingRequired.map((m) => m.ingredientId)).toEqual([])
     expect(result.state).toBe('ready')

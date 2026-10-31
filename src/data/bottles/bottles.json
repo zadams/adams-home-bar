@@ -1194,5 +1194,67 @@
       "espadín"
     ],
     "notes": "Moderate smoke; a mixing mezcal, not a sipper."
+  },
+  {
+    "id": "herbsaint",
+    "brand": "Herbsaint",
+    "productName": "Original",
+    "ingredientIds": [
+      "absinthe"
+    ],
+    "category": "spirit",
+    "subcategory": "anise",
+    "tags": [
+      "anise",
+      "new-orleans"
+    ],
+    "notes": "New Orleans anise liqueur, 100 proof. The traditional Sazerac rinse; covers absinthe in any recipe."
+  },
+  {
+    "id": "fee-brothers-browned-butter",
+    "brand": "Fee Brothers",
+    "productName": "Browned Butter Fat Wash",
+    "ingredientIds": [
+      "browned_butter_fat_wash"
+    ],
+    "category": "bitter",
+    "subcategory": "savory",
+    "tags": [
+      "savory",
+      "butter"
+    ],
+    "notes": "Water-soluble, used by the dash. Nutty and buttery with a butterscotch finish; no actual dairy."
+  },
+  {
+    "id": "sabadi-limonata-madre",
+    "brand": "Sabadi",
+    "productName": "Limonata Madre",
+    "ingredientIds": [
+      "lemon_soda_syrup"
+    ],
+    "category": "syrup",
+    "subcategory": "citrus",
+    "tags": [
+      "lemon",
+      "organic",
+      "sicilian"
+    ],
+    "notes": "Organic Sicilian lemon syrup for making limonata with sparkling water."
+  },
+  {
+    "id": "sabadi-aranciata-madre",
+    "brand": "Sabadi",
+    "productName": "Aranciata Madre",
+    "ingredientIds": [
+      "orange_soda_syrup"
+    ],
+    "category": "syrup",
+    "subcategory": "citrus",
+    "tags": [
+      "orange",
+      "organic",
+      "sicilian"
+    ],
+    "notes": "Organic Sicilian orange syrup for making aranciata with sparkling water."
   }
 ]

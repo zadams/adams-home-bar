@@ -946,16 +946,6 @@
     ]
   },
   {
-    "id": "inv-absinthe",
-    "ingredientId": "absinthe",
-    "status": "out",
-    "productName": "Absinthe / Herbsaint",
-    "tags": [
-      "fresh"
-    ],
-    "notes": "Not currently stocked; recipes treat as optional or note technique."
-  },
-  {
     "id": "inv-ginger_beer",
     "ingredientId": "ginger_beer",
     "status": "in_stock",
@@ -1386,5 +1376,63 @@
       "pantry"
     ],
     "notes": "Plenty on hand. Unlocks the New York Sour and the Devil’s Margarita."
+  },
+  {
+    "id": "inv-herbsaint",
+    "bottleId": "herbsaint",
+    "status": "in_stock",
+    "brand": "Herbsaint",
+    "productName": "Original",
+    "preferredForMixing": true,
+    "purchaseDate": "2026-10-31",
+    "tags": [
+      "anise",
+      "new-orleans"
+    ],
+    "notes": "Purchased 2026-10-31."
+  },
+  {
+    "id": "inv-fee-brothers-browned-butter",
+    "bottleId": "fee-brothers-browned-butter",
+    "status": "in_stock",
+    "brand": "Fee Brothers",
+    "productName": "Browned Butter Fat Wash",
+    "preferredForMixing": true,
+    "purchaseDate": "2026-10-31",
+    "tags": [
+      "savory",
+      "butter"
+    ],
+    "notes": "Purchased 2026-10-31."
+  },
+  {
+    "id": "inv-sabadi-limonata-madre",
+    "bottleId": "sabadi-limonata-madre",
+    "status": "in_stock",
+    "brand": "Sabadi",
+    "productName": "Limonata Madre",
+    "preferredForMixing": true,
+    "purchaseDate": "2026-10-31",
+    "tags": [
+      "lemon",
+      "organic",
+      "sicilian"
+    ],
+    "notes": "Purchased 2026-10-31."
+  },
+  {
+    "id": "inv-sabadi-aranciata-madre",
+    "bottleId": "sabadi-aranciata-madre",
+    "status": "in_stock",
+    "brand": "Sabadi",
+    "productName": "Aranciata Madre",
+    "preferredForMixing": true,
+    "purchaseDate": "2026-10-31",
+    "tags": [
+      "orange",
+      "organic",
+      "sicilian"
+    ],
+    "notes": "Purchased 2026-10-31."
   }
 ]

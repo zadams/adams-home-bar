@@ -1,7 +1,7 @@
 {
   "id": "halloween",
   "name": "Halloween",
-  "description": "Spooky drinks for the 31st. The first fourteen are ready from the bar (the punch scales to a party bowl); the next five are classics with a Halloween name; the last three need one more bottle (cognac and calvados, absinthe, or eggs).",
+  "description": "Spooky drinks for the 31st. The first fourteen are ready from the bar (the punch scales to a party bowl); the next five are classics with a Halloween name; Death in the Afternoon is made with Herbsaint; the last two need cognac and calvados, or eggs.",
   "drinks": [
     {
       "drinkId": "witchs-brew",
@@ -88,7 +88,7 @@
     },
     {
       "drinkId": "death-in-the-afternoon",
-      "note": "Needs absinthe."
+      "note": "Herbsaint stands in for absinthe."
     },
     {
       "drinkId": "black-widow",

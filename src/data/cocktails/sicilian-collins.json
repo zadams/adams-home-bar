@@ -1,0 +1,98 @@
+{
+  "id": "sicilian-collins",
+  "slug": "sicilian-collins",
+  "name": "Sicilian Collins",
+  "aliases": [],
+  "description": "Amalfi lemon gin, fresh lemon and Sicilian lemon soda syrup, lengthened with soda. A Tom Collins that tastes like a trip to Palermo.",
+  "history": "A house build: the Collins template, with Sabadi’s lemon syrup doing the sweetening.",
+  "origin": "House",
+  "whyItWorks": "The syrup is made from whole Sicilian lemons, so it brings peel and pith as well as sugar; a little fresh juice keeps it sharp.",
+  "classifications": [
+    "house",
+    "highball",
+    "collins"
+  ],
+  "cocktailFamily": "Collins",
+  "flavorProfiles": [
+    "lemon",
+    "botanical",
+    "refreshing"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "light",
+  "glassware": "Highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lemon wheel"
+  ],
+  "illustrationKey": "sicilian-collins",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_soda_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 3,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Lemon wheel",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Build gin, lemon and syrup in a highball over ice and stir.",
+    "Top with soda, stir once and add a lemon wheel."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "malfy-originale",
+      "rank": 1,
+      "rationale": "Italian gin made with Amalfi lemons."
+    },
+    {
+      "bottleId": "sabadi-limonata-madre",
+      "rank": 2,
+      "rationale": "The lemon syrup."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "tom-collins",
+    "limonata"
+  ],
+  "seasonality": [
+    "summer",
+    "year-round"
+  ],
+  "tags": [
+    "gin",
+    "lemon",
+    "collins",
+    "house"
+  ]
+}

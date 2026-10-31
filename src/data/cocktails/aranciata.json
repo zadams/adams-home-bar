@@ -1,0 +1,82 @@
+{
+  "id": "aranciata",
+  "slug": "aranciata",
+  "name": "Aranciata",
+  "aliases": [],
+  "description": "Sicilian orange soda syrup and sparkling water over ice. Homemade Italian orange soda.",
+  "history": "Aranciata is Italy’s orange soda. Sabadi’s “Madre” is the concentrate you make it from.",
+  "origin": "Sicily",
+  "whyItWorks": "Made from Sicilian oranges, so it tastes of peel and juice rather than orange candy.",
+  "classifications": [
+    "non-alcoholic",
+    "highball"
+  ],
+  "cocktailFamily": "Soda",
+  "flavorProfiles": [
+    "orange",
+    "refreshing",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 1,
+  "strength": "light",
+  "glassware": "Highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Orange slice"
+  ],
+  "illustrationKey": "aranciata",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "orange_soda_syrup",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Orange slice",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Pour the syrup over ice, top with sparkling water and stir gently.",
+    "Add an orange slice."
+  ],
+  "techniqueNotes": [
+    "About one part syrup to five of water; adjust to taste."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "sabadi-aranciata-madre",
+      "rank": 1,
+      "rationale": "The syrup."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "limonata",
+    "campari-aranciata"
+  ],
+  "seasonality": [
+    "summer",
+    "year-round"
+  ],
+  "tags": [
+    "mocktail",
+    "non-alcoholic",
+    "orange"
+  ],
+  "kind": "mocktail"
+}

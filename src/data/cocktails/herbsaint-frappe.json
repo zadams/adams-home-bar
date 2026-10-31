@@ -1,0 +1,96 @@
+{
+  "id": "herbsaint-frappe",
+  "slug": "herbsaint-frappe",
+  "name": "Herbsaint Frappé",
+  "aliases": [
+    "Absinthe Frappé"
+  ],
+  "description": "Herbsaint, a little syrup and a splash of soda over crushed ice, stirred until the glass frosts. A New Orleans cooler that louches cloudy as it dilutes.",
+  "history": "The Absinthe Frappé is credited to Cayetano Ferrer at the Old Absinthe House on Bourbon Street in 1874. After absinthe was banned in 1912, New Orleans made it with Herbsaint, which was created in the city for exactly that job.",
+  "origin": "New Orleans",
+  "whyItWorks": "Crushed ice dilutes the 100-proof anise fast and turns it milky; the syrup softens the licorice and a dash of Peychaud’s adds a New Orleans signature.",
+  "classifications": [
+    "classic",
+    "cooler"
+  ],
+  "cocktailFamily": "Frappé",
+  "flavorProfiles": [
+    "anise",
+    "herbal",
+    "refreshing"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "strong",
+  "glassware": "Rocks glass",
+  "ice": "Crushed ice",
+  "garnish": [],
+  "illustrationKey": "herbsaint-frappe",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "absinthe",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Herbsaint"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "peychauds_bitters",
+      "amount": 1,
+      "unit": "dash",
+      "scaleMode": "fixed"
+    }
+  ],
+  "steps": [
+    "Pack a rocks glass with crushed ice.",
+    "Add Herbsaint, syrup and bitters and swizzle or stir until the glass frosts.",
+    "Top with soda and more crushed ice."
+  ],
+  "techniqueNotes": [
+    "Traditionally garnished with mint; add a sprig if you have it."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "herbsaint",
+      "rank": 1,
+      "rationale": "The New Orleans anise."
+    },
+    {
+      "bottleId": "peychauds",
+      "rank": 2,
+      "rationale": "The other New Orleans bottle."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "sazerac",
+    "death-in-the-afternoon"
+  ],
+  "seasonality": [
+    "summer",
+    "year-round"
+  ],
+  "tags": [
+    "absinthe",
+    "herbsaint",
+    "anise",
+    "new-orleans",
+    "classic"
+  ],
+  "year": 1874,
+  "creator": "Cayetano Ferrer"
+}

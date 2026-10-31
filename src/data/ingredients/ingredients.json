@@ -1600,5 +1600,52 @@
       "berry",
       "sweet"
     ]
+  },
+  {
+    "id": "browned_butter_fat_wash",
+    "name": "Browned butter fat wash",
+    "category": "bitter",
+    "subcategory": "savory",
+    "aliases": [
+      "Fee Brothers Browned Butter",
+      "brown butter fat wash"
+    ],
+    "tags": [
+      "savory",
+      "butter",
+      "nutty"
+    ]
+  },
+  {
+    "id": "lemon_soda_syrup",
+    "name": "Sicilian lemon soda syrup",
+    "category": "syrup",
+    "subcategory": "citrus",
+    "aliases": [
+      "Limonata Madre",
+      "Sabadi Limonata Madre",
+      "lemon soda syrup"
+    ],
+    "tags": [
+      "lemon",
+      "citrus",
+      "sweet"
+    ]
+  },
+  {
+    "id": "orange_soda_syrup",
+    "name": "Sicilian orange soda syrup",
+    "category": "syrup",
+    "subcategory": "citrus",
+    "aliases": [
+      "Aranciata Madre",
+      "Sabadi Aranciata Madre",
+      "orange soda syrup"
+    ],
+    "tags": [
+      "orange",
+      "citrus",
+      "sweet"
+    ]
   }
 ]

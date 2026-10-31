@@ -75,7 +75,13 @@
     "Oude genever, not jonge—the young style is closer to vodka and gives you nothing to work with.",
     "The absinthe is a rinse, not an ingredient. Pour it out."
   ],
-  "recommendedBottles": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "herbsaint",
+      "rank": 1,
+      "rationale": "Herbsaint for the absinthe."
+    }
+  ],
   "substitutions": [
     {
       "ingredientId": "genever",

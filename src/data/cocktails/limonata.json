@@ -1,0 +1,82 @@
+{
+  "id": "limonata",
+  "slug": "limonata",
+  "name": "Limonata",
+  "aliases": [],
+  "description": "Sicilian lemon soda syrup and sparkling water over ice. Homemade Italian lemon soda.",
+  "history": "Limonata is Italy’s lemon soda. Sabadi’s “Madre” is the concentrate you make it from.",
+  "origin": "Sicily",
+  "whyItWorks": "Whole-lemon syrup gives peel bitterness as well as juice, so it tastes like lemons rather than lemonade.",
+  "classifications": [
+    "non-alcoholic",
+    "highball"
+  ],
+  "cocktailFamily": "Soda",
+  "flavorProfiles": [
+    "lemon",
+    "refreshing",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 1,
+  "strength": "light",
+  "glassware": "Highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lemon wheel"
+  ],
+  "illustrationKey": "limonata",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "lemon_soda_syrup",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Lemon wheel",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Pour the syrup over ice, top with sparkling water and stir gently.",
+    "Add a lemon wheel."
+  ],
+  "techniqueNotes": [
+    "About one part syrup to five of water; adjust to taste."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "sabadi-limonata-madre",
+      "rank": 1,
+      "rationale": "The syrup."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "aranciata",
+    "sicilian-collins"
+  ],
+  "seasonality": [
+    "summer",
+    "year-round"
+  ],
+  "tags": [
+    "mocktail",
+    "non-alcoholic",
+    "lemon"
+  ],
+  "kind": "mocktail"
+}

@@ -1,0 +1,110 @@
+{
+  "id": "brown-butter-rum-old-fashioned",
+  "slug": "brown-butter-rum-old-fashioned",
+  "name": "Brown Butter Rum Old Fashioned",
+  "aliases": [],
+  "description": "Aged Cuban rum, demerara, orange bitters and browned-butter fat wash over a big cube. Butterscotch and banana bread.",
+  "history": "A house build: the Brown Butter Old Fashioned with aged rum in place of bourbon.",
+  "origin": "House",
+  "whyItWorks": "Aged rum’s vanilla and dried fruit pair with brown butter the way a bananas Foster does; orange bitters keep it from getting heavy.",
+  "classifications": [
+    "house",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Old Fashioned",
+  "flavorProfiles": [
+    "buttery",
+    "vanilla",
+    "rich"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "strong",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "brown-butter-rum-old-fashioned",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gold_rum",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "demerara_sugar",
+      "amount": 1,
+      "unit": "tsp",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "browned_butter_fat_wash",
+      "amount": 3,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "orange_bitters",
+      "amount": 1,
+      "unit": "dash",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 1,
+      "unit": "dash",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Orange peel",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Stir the demerara with a barspoon of water in a mixing glass until dissolved.",
+    "Add rum, fat wash and both bitters, fill with ice and stir until cold.",
+    "Strain over a large cube and express an orange peel over the top."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "havana-club-maestros",
+      "rank": 1,
+      "rationale": "The most aged of the Havana Clubs."
+    },
+    {
+      "bottleId": "fee-brothers-browned-butter",
+      "rank": 2,
+      "rationale": "The fat wash."
+    },
+    {
+      "bottleId": "fee-brothers-orange",
+      "rank": 3,
+      "rationale": "Orange bitters."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "brown-butter-old-fashioned",
+    "hot-buttered-rum"
+  ],
+  "seasonality": [
+    "autumn",
+    "winter"
+  ],
+  "tags": [
+    "rum",
+    "old-fashioned",
+    "fat-wash",
+    "butter",
+    "house"
+  ]
+}

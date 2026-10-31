@@ -114,6 +114,11 @@
     "name": "Brown sugar cinnamon syrup",
     "credit": "TheCocktailDB"
   },
+  "browned_butter_fat_wash": {
+    "src": "/images/ingredients/photos/browned_butter_fat_wash.png",
+    "name": "Browned butter fat wash",
+    "credit": "Home Bar AI product photography"
+  },
   "butterscotch_schnapps": {
     "src": "/images/ingredients/photos/butterscotch_schnapps.png",
     "name": "Butterscotch schnapps",
@@ -419,6 +424,11 @@
     "name": "Lemon-lime soda",
     "credit": "TheCocktailDB"
   },
+  "lemon_soda_syrup": {
+    "src": "/images/ingredients/photos/lemon_soda_syrup.png",
+    "name": "Sicilian lemon soda syrup",
+    "credit": "Home Bar AI product photography"
+  },
   "lemon_vodka": {
     "src": "/images/ingredients/photos/lemon_vodka.png",
     "name": "Lemon vodka",
@@ -478,6 +488,11 @@
     "src": "/images/ingredients/photos/orange_juice.png",
     "name": "Fresh orange juice",
     "credit": "TheCocktailDB"
+  },
+  "orange_soda_syrup": {
+    "src": "/images/ingredients/photos/orange_soda_syrup.png",
+    "name": "Sicilian orange soda syrup",
+    "credit": "Home Bar AI product photography"
   },
   "orgeat": {
     "src": "/images/ingredients/photos/orgeat.png",

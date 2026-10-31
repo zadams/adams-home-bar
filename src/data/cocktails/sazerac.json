@@ -7,15 +7,25 @@
   "history": "A New Orleans classic with 19th-century roots. Modern home versions usually use rye; the absinthe rinse is aromatic, not a full measure.",
   "origin": "New Orleans",
   "whyItWorks": "Peychaud’s anise-cherry bitters and absinthe perfume distinguish it from an Old Fashioned. The rinse should whisper, not shout.",
-  "classifications": ["classic", "spirit-forward"],
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
   "cocktailFamily": "Sazerac",
-  "flavorProfiles": ["anise", "spice", "oak", "herbal"],
+  "flavorProfiles": [
+    "anise",
+    "spice",
+    "oak",
+    "herbal"
+  ],
   "difficulty": "medium",
   "preparationTime": 5,
   "strength": "spirit-forward",
   "glassware": "Rocks glass (no ice in the serve)",
   "ice": "Stirred with ice; served without ice",
-  "garnish": ["Lemon peel"],
+  "garnish": [
+    "Lemon peel"
+  ],
   "illustrationKey": "sazerac",
   "ingredients": [
     {
@@ -76,17 +86,37 @@
       "bottleId": "elijah-craig-rye",
       "rank": 2,
       "rationale": "Richer rye alternative with oak depth."
+    },
+    {
+      "bottleId": "herbsaint",
+      "rank": 3,
+      "rationale": "Herbsaint for the absinthe."
     }
   ],
   "substitutions": [
     {
       "ingredientId": "rye",
-      "alternatives": ["bourbon"],
+      "alternatives": [
+        "bourbon"
+      ],
       "notes": "Bourbon Sazerac is softer; still use Peychaud’s."
     }
   ],
   "variations": [],
-  "relatedCocktailIds": ["old-fashioned", "manhattan"],
-  "seasonality": ["year-round", "autumn", "winter"],
-  "tags": ["foundational", "whiskey", "stirred", "new-orleans"]
+  "relatedCocktailIds": [
+    "old-fashioned",
+    "manhattan",
+    "herbsaint-frappe"
+  ],
+  "seasonality": [
+    "year-round",
+    "autumn",
+    "winter"
+  ],
+  "tags": [
+    "foundational",
+    "whiskey",
+    "stirred",
+    "new-orleans"
+  ]
 }

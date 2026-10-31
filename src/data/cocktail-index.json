@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T20:53:43.314Z",
-  "count": 658,
+  "generatedAt": "2026-10-31T21:21:40.530Z",
+  "count": 665,
   "cocktails": [
     {
       "id": "adios-motherfucker",
@@ -1654,6 +1654,35 @@
         "aquavit",
         "lemon_juice",
         "simple_syrup"
+      ]
+    },
+    {
+      "id": "aranciata",
+      "slug": "aranciata",
+      "name": "Aranciata",
+      "file": "aranciata.json",
+      "cocktailFamily": "Soda",
+      "classifications": [
+        "non-alcoholic",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "orange",
+        "refreshing",
+        "sweet"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Highball",
+      "illustrationKey": "aranciata",
+      "tags": [
+        "mocktail",
+        "non-alcoholic",
+        "orange"
+      ],
+      "ingredientIds": [
+        "orange_soda_syrup",
+        "club_soda"
       ]
     },
     {
@@ -4223,6 +4252,74 @@
       ]
     },
     {
+      "id": "brown-butter-old-fashioned",
+      "slug": "brown-butter-old-fashioned",
+      "name": "Brown Butter Old Fashioned",
+      "file": "brown-butter-old-fashioned.json",
+      "cocktailFamily": "Old Fashioned",
+      "classifications": [
+        "house",
+        "spirit-forward"
+      ],
+      "flavorProfiles": [
+        "buttery",
+        "nutty",
+        "oaky"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Rocks glass",
+      "illustrationKey": "brown-butter-old-fashioned",
+      "tags": [
+        "bourbon",
+        "old-fashioned",
+        "fat-wash",
+        "butter",
+        "house",
+        "thanksgiving"
+      ],
+      "ingredientIds": [
+        "bourbon",
+        "demerara_sugar",
+        "browned_butter_fat_wash",
+        "angostura_bitters"
+      ]
+    },
+    {
+      "id": "brown-butter-rum-old-fashioned",
+      "slug": "brown-butter-rum-old-fashioned",
+      "name": "Brown Butter Rum Old Fashioned",
+      "file": "brown-butter-rum-old-fashioned.json",
+      "cocktailFamily": "Old Fashioned",
+      "classifications": [
+        "house",
+        "spirit-forward"
+      ],
+      "flavorProfiles": [
+        "buttery",
+        "vanilla",
+        "rich"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Rocks glass",
+      "illustrationKey": "brown-butter-rum-old-fashioned",
+      "tags": [
+        "rum",
+        "old-fashioned",
+        "fat-wash",
+        "butter",
+        "house"
+      ],
+      "ingredientIds": [
+        "gold_rum",
+        "demerara_sugar",
+        "browned_butter_fat_wash",
+        "orange_bitters",
+        "angostura_bitters"
+      ]
+    },
+    {
       "id": "brown-derby",
       "slug": "brown-derby",
       "name": "Brown Derby",
@@ -4553,6 +4650,38 @@
       ],
       "ingredientIds": [
         "campari",
+        "club_soda"
+      ]
+    },
+    {
+      "id": "campari-aranciata",
+      "slug": "campari-aranciata",
+      "name": "Campari Aranciata",
+      "file": "campari-aranciata.json",
+      "cocktailFamily": "Highball",
+      "classifications": [
+        "classic",
+        "highball",
+        "aperitivo"
+      ],
+      "flavorProfiles": [
+        "bitter",
+        "orange",
+        "refreshing"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Highball",
+      "illustrationKey": "campari-aranciata",
+      "tags": [
+        "campari",
+        "aperitivo",
+        "orange",
+        "low-abv"
+      ],
+      "ingredientIds": [
+        "campari",
+        "orange_soda_syrup",
         "club_soda"
       ]
     },
@@ -9439,6 +9568,39 @@
       ]
     },
     {
+      "id": "herbsaint-frappe",
+      "slug": "herbsaint-frappe",
+      "name": "Herbsaint Frappé",
+      "file": "herbsaint-frappe.json",
+      "cocktailFamily": "Frappé",
+      "classifications": [
+        "classic",
+        "cooler"
+      ],
+      "flavorProfiles": [
+        "anise",
+        "herbal",
+        "refreshing"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Rocks glass",
+      "illustrationKey": "herbsaint-frappe",
+      "tags": [
+        "absinthe",
+        "herbsaint",
+        "anise",
+        "new-orleans",
+        "classic"
+      ],
+      "ingredientIds": [
+        "absinthe",
+        "simple_syrup",
+        "club_soda",
+        "peychauds_bitters"
+      ]
+    },
+    {
       "id": "hocus-pocus-spritz",
       "slug": "hocus-pocus-spritz",
       "name": "Hocus Pocus Spritz",
@@ -11211,6 +11373,35 @@
       "ingredientIds": [
         "lime_juice",
         "simple_syrup",
+        "club_soda"
+      ]
+    },
+    {
+      "id": "limonata",
+      "slug": "limonata",
+      "name": "Limonata",
+      "file": "limonata.json",
+      "cocktailFamily": "Soda",
+      "classifications": [
+        "non-alcoholic",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "lemon",
+        "refreshing",
+        "sweet"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Highball",
+      "illustrationKey": "limonata",
+      "tags": [
+        "mocktail",
+        "non-alcoholic",
+        "lemon"
+      ],
+      "ingredientIds": [
+        "lemon_soda_syrup",
         "club_soda"
       ]
     },
@@ -16315,6 +16506,39 @@
       ],
       "ingredientIds": [
         "grenadine",
+        "club_soda"
+      ]
+    },
+    {
+      "id": "sicilian-collins",
+      "slug": "sicilian-collins",
+      "name": "Sicilian Collins",
+      "file": "sicilian-collins.json",
+      "cocktailFamily": "Collins",
+      "classifications": [
+        "house",
+        "highball",
+        "collins"
+      ],
+      "flavorProfiles": [
+        "lemon",
+        "botanical",
+        "refreshing"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Highball",
+      "illustrationKey": "sicilian-collins",
+      "tags": [
+        "gin",
+        "lemon",
+        "collins",
+        "house"
+      ],
+      "ingredientIds": [
+        "gin",
+        "lemon_juice",
+        "lemon_soda_syrup",
         "club_soda"
       ]
     },
