@@ -224,6 +224,11 @@
     "name": "Crème de cacao",
     "credit": "TheCocktailDB"
   },
+  "creme_de_mure": {
+    "src": "/images/ingredients/photos/creme_de_mure.png",
+    "name": "Crème de mûre",
+    "credit": "Home Bar AI product photography"
+  },
   "creme_de_noyaux": {
     "src": "/images/ingredients/photos/creme_de_noyaux.png",
     "name": "Crème de noyaux",
@@ -249,6 +254,11 @@
     "name": "Cynar",
     "credit": "TheCocktailDB"
   },
+  "dark_rum": {
+    "src": "/images/ingredients/photos/dark_rum.png",
+    "name": "Dark rum",
+    "credit": "TheCocktailDB"
+  },
   "demerara_sugar": {
     "src": "/images/ingredients/photos/demerara_sugar.png",
     "name": "Demerara sugar",
@@ -267,6 +277,11 @@
   "egg_white": {
     "src": "/images/ingredients/photos/egg_white.png",
     "name": "Egg white",
+    "credit": "TheCocktailDB"
+  },
+  "elderflower_liqueur": {
+    "src": "/images/ingredients/photos/elderflower_liqueur.png",
+    "name": "Elderflower liqueur",
     "credit": "TheCocktailDB"
   },
   "energy_drink": {
@@ -499,6 +514,11 @@
     "name": "Peychaud's bitters",
     "credit": "TheCocktailDB"
   },
+  "pickle_brine": {
+    "src": "/images/ingredients/photos/pickle_brine.png",
+    "name": "Pickle brine",
+    "credit": "Home Bar AI product photography"
+  },
   "pineapple_juice": {
     "src": "/images/ingredients/photos/pineapple_juice.png",
     "name": "Pineapple juice",
@@ -508,11 +528,6 @@
     "src": "/images/ingredients/photos/pisco.png",
     "name": "Pisco",
     "credit": "TheCocktailDB"
-  },
-  "pickle_brine": {
-    "src": "/images/ingredients/photos/pickle_brine.png",
-    "name": "Pickle brine",
-    "credit": "Home Bar AI product photography"
   },
   "port": {
     "src": "/images/ingredients/photos/port.png",

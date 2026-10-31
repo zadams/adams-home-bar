@@ -63,6 +63,11 @@ const JOBS = {
     subject:
       'a bottle of cinnamon whisky, warm red-amber liquid, broad shoulders, a cinnamon stick resting at the base',
   },
+  creme_de_mure: {
+    reason: 'no source image',
+    subject:
+      'a slim bottle of crème de mûre blackberry liqueur, very dark purple-black liquid with a deep violet glint where light passes through, blank label panel, two fresh blackberries at the base',
+  },
   jamaican_rum: {
     reason: 'fetched image is a generic dark rum',
     subject:
