@@ -1,0 +1,102 @@
+{
+  "id": "vampires-kiss",
+  "slug": "vampires-kiss",
+  "name": "Vampire’s Kiss",
+  "aliases": [],
+  "description": "Vodka and cranberry topped with sparkling wine, with cherry liqueur poured last so it bleeds down through the bubbles.",
+  "history": "A house Halloween sparkler: a Kir Royale crossed with a Cosmopolitan.",
+  "origin": "House",
+  "whyItWorks": "Cranberry keeps it tart, prosecco keeps it light, and the dense cherry liqueur sinks instead of mixing, so the glass goes from pink to blood-red at the bottom.",
+  "classifications": [
+    "modern",
+    "sparkling"
+  ],
+  "cocktailFamily": "Champagne Cocktail",
+  "flavorProfiles": [
+    "cherry",
+    "berry",
+    "sparkling"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "light",
+  "glassware": "Champagne flute",
+  "ice": "None",
+  "garnish": [
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "vampires-kiss",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cranberry_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "prosecco",
+      "amount": 3,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Prosecco or dry sparkling wine"
+    },
+    {
+      "ingredientId": "cherry_liqueur",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cocktail_cherry",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Cocktail cherry, dropped in",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Pour cold vodka and cranberry into a chilled flute.",
+    "Top slowly with prosecco.",
+    "Pour the cherry liqueur in last, down the inside of the glass, so it sinks. Drop in a cherry."
+  ],
+  "techniqueNotes": [
+    "Have everything cold before you start; there is no ice in this one."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "bozkov-griotte",
+      "rank": 1,
+      "rationale": "Dark cherry liqueur; this is what makes the red streak."
+    },
+    {
+      "bottleId": "titos",
+      "rank": 2,
+      "rationale": "Clean vodka."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "kir-royale-house",
+    "cosmopolitan",
+    "french-75"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "vodka",
+    "sparkling",
+    "cherry",
+    "house",
+    "halloween"
+  ]
+}

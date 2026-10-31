@@ -1,0 +1,100 @@
+{
+  "id": "corpse-reviver-no-1",
+  "slug": "corpse-reviver-no-1",
+  "name": "Corpse Reviver No. 1",
+  "aliases": [],
+  "description": "Cognac, calvados and sweet vermouth stirred. The darker, boozier sibling of the No. 2. Needs cognac and calvados.",
+  "history": "Harry Craddock’s Savoy Cocktail Book (1930) lists it as a “hair of the dog,” to be taken before 11 a.m. or whenever steam and energy are needed.",
+  "origin": "London",
+  "whyItWorks": "Grape brandy and apple brandy together are rounder than either alone; sweet vermouth ties them together the way it does in a Manhattan.",
+  "classifications": [
+    "classic",
+    "spirit-forward"
+  ],
+  "cocktailFamily": "Manhattan",
+  "flavorProfiles": [
+    "brandy",
+    "apple",
+    "bittersweet"
+  ],
+  "difficulty": "medium",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Coupe",
+  "ice": "Stirred; up",
+  "garnish": [
+    "Orange twist"
+  ],
+  "illustrationKey": "corpse-reviver-no-1",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "cognac",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "calvados",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Orange twist",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Stir cognac, calvados and sweet vermouth with ice until very cold.",
+    "Strain into a chilled coupe and express an orange twist."
+  ],
+  "techniqueNotes": [
+    "Until both brandies are in, make the Corpse Reviver No. 2 instead."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "sweet-vermouth",
+      "rank": 1,
+      "rationale": "The vermouth is already on the shelf."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "calvados",
+      "alternatives": [
+        "cognac"
+      ],
+      "notes": "All cognac works if you only buy one bottle; it loses the apple."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "corpse-reviver-no-2",
+    "harvard",
+    "jack-rose",
+    "sidecar"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "cognac",
+    "calvados",
+    "classic",
+    "spirit-forward",
+    "inventory-gap",
+    "halloween"
+  ],
+  "year": 1930
+}

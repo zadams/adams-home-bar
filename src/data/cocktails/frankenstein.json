@@ -1,0 +1,108 @@
+{
+  "id": "frankenstein",
+  "slug": "frankenstein",
+  "name": "Frankenstein",
+  "aliases": [],
+  "description": "Gin, Green Chartreuse and lime shaken and lengthened with ginger beer. A monster-green highball.",
+  "history": "A house Halloween highball: a Last Word turned into a buck.",
+  "origin": "House",
+  "whyItWorks": "A half ounce of Green Chartreuse is enough to color it and fill it with herbs; lime and ginger beer keep it crisp.",
+  "classifications": [
+    "highball",
+    "buck"
+  ],
+  "cocktailFamily": "Buck",
+  "flavorProfiles": [
+    "herbal",
+    "ginger",
+    "citrus"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "medium",
+  "glassware": "Highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime wheel"
+  ],
+  "illustrationKey": "frankenstein",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "green_chartreuse",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "ginger_beer",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Ginger beer, to top"
+    },
+    {
+      "ingredientId": "lime",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Lime wheel",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake gin, Chartreuse, lime and simple syrup with ice.",
+    "Strain into a highball over fresh ice and top with ginger beer.",
+    "Garnish with a lime wheel."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "drumshanbo-gunpowder",
+      "rank": 1,
+      "rationale": "Green-tea gin that matches the color and the herbs."
+    },
+    {
+      "bottleId": "green-chartreuse",
+      "rank": 2,
+      "rationale": "The green."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "last-word",
+    "chartreuse-tonic",
+    "gin-gin-mule",
+    "swamp-water"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "gin",
+    "chartreuse",
+    "ginger",
+    "highball",
+    "house",
+    "halloween"
+  ]
+}

@@ -75,7 +75,9 @@
   ],
   "substitutions": [],
   "variations": [],
-  "relatedCocktailIds": [],
+  "relatedCocktailIds": [
+    "satans-whiskers"
+  ],
   "seasonality": [
     "year-round"
   ],

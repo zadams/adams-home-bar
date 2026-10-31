@@ -1,0 +1,123 @@
+{
+  "id": "witchs-brew",
+  "slug": "witchs-brew",
+  "name": "Witch’s Brew",
+  "aliases": [
+    "Midori Sour"
+  ],
+  "description": "Melon liqueur, vodka, lemon and lime lengthened with soda. Bright green, with a drop of blue curaçao to make it murky.",
+  "history": "The Midori Sour dates to 1978, when Suntory launched Midori melon liqueur in the US with a party at Studio 54. This house version adds a spoon of blue curaçao so the green darkens as it sinks.",
+  "origin": "United States",
+  "whyItWorks": "Melon liqueur is very sweet; two citruses cut it back to a sour, and soda makes it a long drink.",
+  "classifications": [
+    "modern",
+    "sour",
+    "highball"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "melon",
+    "citrus",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "light",
+  "glassware": "Highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime wheel"
+  ],
+  "illustrationKey": "witchs-brew",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "melon_liqueur",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "vodka",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Club soda, to top"
+    },
+    {
+      "ingredientId": "blue_curacao",
+      "amount": 1,
+      "unit": "tsp",
+      "scaleMode": "linear",
+      "optional": true,
+      "label": "Blue curaçao, for the murky swirl"
+    },
+    {
+      "ingredientId": "lime",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Lime wheel",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake melon liqueur, vodka, lemon and lime with ice.",
+    "Strain into a highball over fresh ice and top with soda.",
+    "Drizzle the blue curaçao down the inside of the glass and leave it unstirred."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "de-kuyper-melon",
+      "rank": 1,
+      "rationale": "The melon liqueur on the shelf."
+    },
+    {
+      "bottleId": "titos",
+      "rank": 2,
+      "rationale": "Clean vodka."
+    },
+    {
+      "bottleId": "blue-curacao",
+      "rank": 3,
+      "rationale": "For the swirl."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "melon-ball",
+    "swamp-water",
+    "alien-brain-hemorrhage"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "vodka",
+    "melon",
+    "sour",
+    "highball",
+    "halloween"
+  ],
+  "year": 1978
+}

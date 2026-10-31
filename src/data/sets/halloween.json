@@ -1,0 +1,98 @@
+{
+  "id": "halloween",
+  "name": "Halloween",
+  "description": "Spooky drinks for the 31st. The first fourteen are ready from the bar (the punch scales to a party bowl); the next five are classics with a Halloween name; the last three need one more bottle (cognac and calvados, absinthe, or eggs).",
+  "drinks": [
+    {
+      "drinkId": "witchs-brew",
+      "note": "Drizzle the blue curaçao in last and leave it unstirred."
+    },
+    {
+      "drinkId": "vampires-kiss",
+      "note": "Everything cold; pour the Griotte last so it sinks."
+    },
+    {
+      "drinkId": "poison-apple",
+      "note": "Koskenkorva Apple."
+    },
+    {
+      "drinkId": "el-diablo",
+      "note": "Griotte stands in for cassis."
+    },
+    {
+      "drinkId": "satans-whiskers",
+      "note": "Fresh orange juice only."
+    },
+    {
+      "drinkId": "smoke-and-bones",
+      "note": "400 Conejos. Flame the orange peel."
+    },
+    {
+      "drinkId": "graveyard-old-fashioned",
+      "note": "Kraken over a big cube."
+    },
+    {
+      "drinkId": "the-ghost",
+      "note": "Nightcap. Shake it hard."
+    },
+    {
+      "drinkId": "jack-o-lantern",
+      "note": "Cut a face in the orange wheel."
+    },
+    {
+      "drinkId": "frankenstein",
+      "note": "Gunpowder gin and Green Chartreuse."
+    },
+    {
+      "drinkId": "black-cat",
+      "note": "Kraken, Kahlúa and cola; good for a crowd."
+    },
+    {
+      "drinkId": "hocus-pocus-spritz",
+      "note": "Low-alcohol. Sink the Griotte last."
+    },
+    {
+      "drinkId": "devils-margarita",
+      "note": "Float the red wine over a spoon."
+    },
+    {
+      "drinkId": "witchs-cauldron-punch",
+      "note": "Party bowl: scale to ten. Dry ice in the bowl only, never in a glass."
+    },
+    {
+      "drinkId": "zombie-house"
+    },
+    {
+      "drinkId": "corpse-reviver-no-2"
+    },
+    {
+      "drinkId": "blood-and-sand"
+    },
+    {
+      "drinkId": "black-manhattan"
+    },
+    {
+      "drinkId": "black-russian"
+    },
+    {
+      "drinkId": "brain-hemorrhage",
+      "note": "Shot."
+    },
+    {
+      "drinkId": "alien-brain-hemorrhage",
+      "note": "Shot."
+    },
+    {
+      "drinkId": "corpse-reviver-no-1",
+      "note": "Needs cognac and calvados."
+    },
+    {
+      "drinkId": "death-in-the-afternoon",
+      "note": "Needs absinthe."
+    },
+    {
+      "drinkId": "black-widow",
+      "note": "Needs eggs."
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "jack-o-lantern",
+  "slug": "jack-o-lantern",
+  "name": "Jack-o’-Lantern",
+  "aliases": [],
+  "description": "Bourbon, Grand Marnier and orange juice over ice, topped with ginger beer. Pumpkin-orange, with an orange wheel for the face.",
+  "history": "The older Jack-o’-Lantern is a cognac drink with orange liqueur, orange juice and ginger ale. This house version uses bourbon, since the cognac shelf is empty, and ginger beer for more bite.",
+  "origin": "House",
+  "whyItWorks": "Grand Marnier and orange juice make it taste like orange, bourbon gives it a warm spine, and ginger beer keeps it from being heavy.",
+  "classifications": [
+    "highball",
+    "variation"
+  ],
+  "cocktailFamily": "Buck",
+  "flavorProfiles": [
+    "orange",
+    "ginger",
+    "oak"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Orange wheel"
+  ],
+  "illustrationKey": "jack-o-lantern",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grand_marnier",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Fresh orange juice"
+    },
+    {
+      "ingredientId": "ginger_beer",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Ginger beer, to top"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Orange wheel",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake bourbon, Grand Marnier and orange juice briefly with ice.",
+    "Strain into a rocks glass over fresh ice and top with ginger beer.",
+    "Cut a jack-o’-lantern face into the orange wheel if you are feeling it, and float it on top."
+  ],
+  "techniqueNotes": [
+    "With cognac on the shelf, swap it in for the older version, and use ginger ale for a softer drink."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-bourbon",
+      "rank": 1,
+      "rationale": "A mixing bourbon; the orange covers the rest."
+    },
+    {
+      "bottleId": "grand-marnier",
+      "rank": 2,
+      "rationale": "Orange liqueur."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "bourbon",
+      "alternatives": [
+        "cognac"
+      ],
+      "notes": "Cognac is the older spec."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "satans-whiskers",
+    "whiskey-sour",
+    "moscow-mule"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "bourbon",
+    "orange",
+    "ginger",
+    "highball",
+    "house",
+    "halloween"
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "smoke-and-bones",
+  "slug": "smoke-and-bones",
+  "name": "Smoke & Bones",
+  "aliases": [
+    "Mezcal Blood and Sand"
+  ],
+  "description": "A Blood and Sand made with mezcal instead of Scotch: equal parts mezcal, sweet vermouth, cherry liqueur and orange juice.",
+  "history": "The Blood and Sand is named for the 1922 Rudolph Valentino bullfighting film. Mezcal swaps in for Scotch here, and its smoke takes the place of the peat.",
+  "origin": "House",
+  "whyItWorks": "Equal parts is forgiving. Mezcal’s smoke and roasted agave stand up to cherry and vermouth the way a smoky Scotch does.",
+  "classifications": [
+    "variation",
+    "sour"
+  ],
+  "cocktailFamily": "Blood and Sand",
+  "flavorProfiles": [
+    "smoky",
+    "cherry",
+    "orange"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Flamed orange peel"
+  ],
+  "illustrationKey": "smoke-and-bones",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "mezcal",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cherry_liqueur",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Fresh orange juice"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Flamed orange peel",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake mezcal, vermouth, cherry liqueur and orange juice hard with ice.",
+    "Fine-strain into a chilled coupe.",
+    "Flame an orange peel over the glass and drop it in."
+  ],
+  "techniqueNotes": [
+    "To flame the peel, hold a lit match between the peel and the glass and squeeze the peel so the oil sprays through the flame."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "400-conejos-mezcal",
+      "rank": 1,
+      "rationale": "A mixing mezcal with moderate smoke."
+    },
+    {
+      "bottleId": "bozkov-griotte",
+      "rank": 2,
+      "rationale": "The cherry liqueur."
+    },
+    {
+      "bottleId": "sweet-vermouth",
+      "rank": 3,
+      "rationale": "Check it is fresh."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "blood-and-sand",
+    "mezcal-negroni",
+    "oaxaca-old-fashioned"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "mezcal",
+    "cherry",
+    "equal-parts",
+    "smoky",
+    "halloween"
+  ]
+}

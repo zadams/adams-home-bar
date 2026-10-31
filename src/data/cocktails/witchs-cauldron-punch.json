@@ -1,0 +1,135 @@
+{
+  "id": "witchs-cauldron-punch",
+  "slug": "witchs-cauldron-punch",
+  "name": "Witch’s Cauldron Punch",
+  "aliases": [],
+  "description": "Dark and gold rum with pineapple, orange, lime, grenadine and falernum, topped with ginger beer. Written per glass; multiply by ten for a punch bowl.",
+  "history": "A house Halloween party punch, built like a Planter’s Punch.",
+  "origin": "House",
+  "whyItWorks": "Two rums give it depth, pineapple and orange make it easy to drink, and falernum adds clove and lime so it tastes like more than fruit juice. Ginger beer goes in last to keep it fizzy.",
+  "classifications": [
+    "punch",
+    "tiki"
+  ],
+  "cocktailFamily": "Punch",
+  "flavorProfiles": [
+    "tropical",
+    "spiced",
+    "citrus"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 5,
+  "strength": "medium",
+  "glassware": "Punch cup or rocks glass",
+  "ice": "Large block in the bowl; cubes in the glass",
+  "garnish": [
+    "Orange wheels and lime wheels floating in the bowl"
+  ],
+  "illustrationKey": "witchs-cauldron-punch",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "dark_rum",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "gold_rum",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "pineapple_juice",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grenadine",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "falernum",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "ginger_beer",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Ginger beer, added at serving"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Orange wheels",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "For a bowl, scale to ten servings and stir everything except the ginger beer in a punch bowl or pot.",
+    "Chill for an hour. Add a large block of ice and the ginger beer just before guests arrive.",
+    "Float citrus wheels on top and ladle into cups over fresh ice."
+  ],
+  "techniqueNotes": [
+    "Ten servings is about 15 oz of rum and 7.5 cups total before ice.",
+    "For fog, set a chunk of dry ice in a smaller bowl nested inside the punch bowl, or in the bowl itself, using tongs and gloves. Never put dry ice in a glass, and wait until it has fully dissolved before ladling from a bowl it was dropped into."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "myers-dark-rum",
+      "rank": 1,
+      "rationale": "The dark rum."
+    },
+    {
+      "bottleId": "havana-club-especial",
+      "rank": 2,
+      "rationale": "Gold rum."
+    },
+    {
+      "bottleId": "bitter-truth-falernum",
+      "rank": 3,
+      "rationale": "Falernum."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "planters-punch",
+    "rum-punch",
+    "zombie-house",
+    "jungle-bird"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "rum",
+    "punch",
+    "batch",
+    "party",
+    "tiki",
+    "house",
+    "halloween"
+  ]
+}

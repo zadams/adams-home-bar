@@ -1,0 +1,89 @@
+{
+  "id": "devils-margarita",
+  "slug": "devils-margarita",
+  "name": "Devil’s Margarita",
+  "aliases": [],
+  "description": "A tequila sour served up with a float of dry red wine, which sits on top like a layer of blood.",
+  "history": "A modern bar riff that borrows the red wine float from the New York Sour and puts it on a margarita.",
+  "origin": "United States",
+  "whyItWorks": "Lime and tequila make a sharp sour; the dry red wine adds tannin and dark fruit and sits on top, so the first sips taste different from the last.",
+  "classifications": [
+    "modern",
+    "sour"
+  ],
+  "cocktailFamily": "Margarita",
+  "flavorProfiles": [
+    "agave",
+    "citrus",
+    "red-wine"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Lime wheel"
+  ],
+  "illustrationKey": "devils-margarita",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "red_wine",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Dry red wine, for the float"
+    }
+  ],
+  "steps": [
+    "Shake tequila, lime and simple syrup hard with ice.",
+    "Strain into a chilled coupe.",
+    "Pour the red wine slowly over the back of a bar spoon so it floats on top."
+  ],
+  "techniqueNotes": [
+    "A fruity, medium-bodied red (Malbec, Zinfandel, Syrah) floats and tastes better than a light one."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-tequila-other",
+      "rank": 1,
+      "rationale": "The blanco tequila in stock."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "new-york-sour",
+    "margarita",
+    "el-diablo"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "tequila",
+    "red-wine",
+    "sour",
+    "margarita",
+    "halloween"
+  ]
+}

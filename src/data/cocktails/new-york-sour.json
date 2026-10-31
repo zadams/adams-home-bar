@@ -68,7 +68,9 @@
   "recommendedBottles": [],
   "substitutions": [],
   "variations": [],
-  "relatedCocktailIds": [],
+  "relatedCocktailIds": [
+    "devils-margarita"
+  ],
   "seasonality": [
     "year-round"
   ],

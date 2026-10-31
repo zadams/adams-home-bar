@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-25T02:46:03.092Z",
-  "count": 632,
+  "generatedAt": "2026-10-31T20:00:46.594Z",
+  "count": 649,
   "cocktails": [
     {
       "id": "adios-motherfucker",
@@ -2616,6 +2616,39 @@
       ]
     },
     {
+      "id": "black-cat",
+      "slug": "black-cat",
+      "name": "Black Cat",
+      "file": "black-cat.json",
+      "cocktailFamily": "Highball",
+      "classifications": [
+        "highball"
+      ],
+      "flavorProfiles": [
+        "coffee",
+        "spiced",
+        "cola"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Highball",
+      "illustrationKey": "black-cat",
+      "tags": [
+        "rum",
+        "spiced-rum",
+        "coffee",
+        "highball",
+        "house",
+        "halloween"
+      ],
+      "ingredientIds": [
+        "spiced_rum",
+        "coffee_liqueur",
+        "cola",
+        "lime"
+      ]
+    },
+    {
       "id": "black-manhattan",
       "slug": "black-manhattan",
       "name": "Black Manhattan",
@@ -2637,7 +2670,8 @@
         "manhattan",
         "bittersweet",
         "oak",
-        "herbal"
+        "herbal",
+        "halloween"
       ],
       "ingredientIds": [
         "rye",
@@ -2669,11 +2703,48 @@
         "vodka",
         "coffee",
         "classic",
-        "popular"
+        "popular",
+        "halloween"
       ],
       "ingredientIds": [
         "vodka",
         "coffee_liqueur"
+      ]
+    },
+    {
+      "id": "black-widow",
+      "slug": "black-widow",
+      "name": "Black Widow",
+      "file": "black-widow.json",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "sour",
+        "variation"
+      ],
+      "flavorProfiles": [
+        "spiced",
+        "citrus",
+        "silky"
+      ],
+      "difficulty": "medium",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "black-widow",
+      "tags": [
+        "rum",
+        "spiced-rum",
+        "sour",
+        "egg-white",
+        "house",
+        "inventory-gap",
+        "halloween"
+      ],
+      "ingredientIds": [
+        "spiced_rum",
+        "lemon_juice",
+        "simple_syrup",
+        "egg_white",
+        "peychauds_bitters"
       ]
     },
     {
@@ -2698,7 +2769,8 @@
       "tags": [
         "scotch",
         "cherry",
-        "equal-parts"
+        "equal-parts",
+        "halloween"
       ],
       "ingredientIds": [
         "scotch",
@@ -5847,6 +5919,39 @@
       ]
     },
     {
+      "id": "corpse-reviver-no-1",
+      "slug": "corpse-reviver-no-1",
+      "name": "Corpse Reviver No. 1",
+      "file": "corpse-reviver-no-1.json",
+      "cocktailFamily": "Manhattan",
+      "classifications": [
+        "classic",
+        "spirit-forward"
+      ],
+      "flavorProfiles": [
+        "brandy",
+        "apple",
+        "bittersweet"
+      ],
+      "difficulty": "medium",
+      "strength": "spirit-forward",
+      "glassware": "Coupe",
+      "illustrationKey": "corpse-reviver-no-1",
+      "tags": [
+        "cognac",
+        "calvados",
+        "classic",
+        "spirit-forward",
+        "inventory-gap",
+        "halloween"
+      ],
+      "ingredientIds": [
+        "cognac",
+        "calvados",
+        "sweet_vermouth"
+      ]
+    },
+    {
       "id": "corpse-reviver-no-2",
       "slug": "corpse-reviver-no-2",
       "name": "Corpse Reviver No. 2",
@@ -5870,7 +5975,8 @@
         "gin",
         "classic",
         "sour",
-        "popular"
+        "popular",
+        "halloween"
       ],
       "ingredientIds": [
         "gin",
@@ -6150,6 +6256,70 @@
       ]
     },
     {
+      "id": "death-in-the-afternoon",
+      "slug": "death-in-the-afternoon",
+      "name": "Death in the Afternoon",
+      "file": "death-in-the-afternoon.json",
+      "cocktailFamily": "Champagne Cocktail",
+      "classifications": [
+        "classic",
+        "sparkling"
+      ],
+      "flavorProfiles": [
+        "anise",
+        "herbal",
+        "sparkling"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Coupe or flute",
+      "illustrationKey": "death-in-the-afternoon",
+      "tags": [
+        "absinthe",
+        "sparkling",
+        "classic",
+        "inventory-gap",
+        "halloween"
+      ],
+      "ingredientIds": [
+        "absinthe",
+        "prosecco"
+      ]
+    },
+    {
+      "id": "devils-margarita",
+      "slug": "devils-margarita",
+      "name": "Devil’s Margarita",
+      "file": "devils-margarita.json",
+      "cocktailFamily": "Margarita",
+      "classifications": [
+        "modern",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "agave",
+        "citrus",
+        "red-wine"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "devils-margarita",
+      "tags": [
+        "tequila",
+        "red-wine",
+        "sour",
+        "margarita",
+        "halloween"
+      ],
+      "ingredientIds": [
+        "blanco_tequila",
+        "lime_juice",
+        "simple_syrup",
+        "red_wine"
+      ]
+    },
+    {
       "id": "dirty-girl-scout",
       "slug": "dirty-girl-scout",
       "name": "Dirty Girl Scout",
@@ -6422,6 +6592,40 @@
         "passion_fruit_syrup",
         "lime_juice",
         "simple_syrup"
+      ]
+    },
+    {
+      "id": "el-diablo",
+      "slug": "el-diablo",
+      "name": "El Diablo",
+      "file": "el-diablo.json",
+      "cocktailFamily": "Buck",
+      "classifications": [
+        "classic",
+        "highball",
+        "buck"
+      ],
+      "flavorProfiles": [
+        "ginger",
+        "agave",
+        "cherry"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Highball",
+      "illustrationKey": "el-diablo",
+      "tags": [
+        "tequila",
+        "ginger",
+        "highball",
+        "classic",
+        "halloween"
+      ],
+      "ingredientIds": [
+        "blanco_tequila",
+        "lime_juice",
+        "ginger_beer",
+        "cherry_liqueur"
       ]
     },
     {
@@ -7075,6 +7279,41 @@
         "rye",
         "scotch",
         "irish_whiskey"
+      ]
+    },
+    {
+      "id": "frankenstein",
+      "slug": "frankenstein",
+      "name": "Frankenstein",
+      "file": "frankenstein.json",
+      "cocktailFamily": "Buck",
+      "classifications": [
+        "highball",
+        "buck"
+      ],
+      "flavorProfiles": [
+        "herbal",
+        "ginger",
+        "citrus"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Highball",
+      "illustrationKey": "frankenstein",
+      "tags": [
+        "gin",
+        "chartreuse",
+        "ginger",
+        "highball",
+        "house",
+        "halloween"
+      ],
+      "ingredientIds": [
+        "gin",
+        "green_chartreuse",
+        "lime_juice",
+        "simple_syrup",
+        "ginger_beer"
       ]
     },
     {
@@ -8643,6 +8882,40 @@
       ]
     },
     {
+      "id": "graveyard-old-fashioned",
+      "slug": "graveyard-old-fashioned",
+      "name": "Graveyard Old Fashioned",
+      "file": "graveyard-old-fashioned.json",
+      "cocktailFamily": "Old Fashioned",
+      "classifications": [
+        "spirit-forward",
+        "variation"
+      ],
+      "flavorProfiles": [
+        "spiced",
+        "chocolate",
+        "molasses"
+      ],
+      "difficulty": "easy",
+      "strength": "spirit-forward",
+      "glassware": "Rocks glass",
+      "illustrationKey": "graveyard-old-fashioned",
+      "tags": [
+        "rum",
+        "spiced-rum",
+        "old-fashioned",
+        "spirit-forward",
+        "house",
+        "halloween"
+      ],
+      "ingredientIds": [
+        "spiced_rum",
+        "demerara_sugar",
+        "cocoa_bitters",
+        "angostura_bitters"
+      ]
+    },
+    {
       "id": "green-tea-shot",
       "slug": "green-tea-shot",
       "name": "Green Tea Shot",
@@ -8913,6 +9186,42 @@
         "lime_juice",
         "grapefruit_juice",
         "maraschino"
+      ]
+    },
+    {
+      "id": "hocus-pocus-spritz",
+      "slug": "hocus-pocus-spritz",
+      "name": "Hocus Pocus Spritz",
+      "file": "hocus-pocus-spritz.json",
+      "cocktailFamily": "Spritz",
+      "classifications": [
+        "spritz",
+        "sparkling",
+        "aperitivo"
+      ],
+      "flavorProfiles": [
+        "bitter",
+        "orange",
+        "cherry"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Wine glass",
+      "illustrationKey": "hocus-pocus-spritz",
+      "tags": [
+        "aperol",
+        "spritz",
+        "sparkling",
+        "low-abv",
+        "house",
+        "halloween"
+      ],
+      "ingredientIds": [
+        "aperol",
+        "prosecco",
+        "club_soda",
+        "cranberry_juice",
+        "cherry_liqueur"
       ]
     },
     {
@@ -9891,6 +10200,40 @@
         "apple_vodka",
         "lemon_juice",
         "grenadine"
+      ]
+    },
+    {
+      "id": "jack-o-lantern",
+      "slug": "jack-o-lantern",
+      "name": "Jack-o’-Lantern",
+      "file": "jack-o-lantern.json",
+      "cocktailFamily": "Buck",
+      "classifications": [
+        "highball",
+        "variation"
+      ],
+      "flavorProfiles": [
+        "orange",
+        "ginger",
+        "oak"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Rocks glass",
+      "illustrationKey": "jack-o-lantern",
+      "tags": [
+        "bourbon",
+        "orange",
+        "ginger",
+        "highball",
+        "house",
+        "halloween"
+      ],
+      "ingredientIds": [
+        "bourbon",
+        "grand_marnier",
+        "orange_juice",
+        "ginger_beer"
       ]
     },
     {
@@ -13552,6 +13895,41 @@
       ]
     },
     {
+      "id": "poison-apple",
+      "slug": "poison-apple",
+      "name": "Poison Apple",
+      "file": "poison-apple.json",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "modern",
+        "sour",
+        "sparkling"
+      ],
+      "flavorProfiles": [
+        "apple",
+        "citrus",
+        "sparkling"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "poison-apple",
+      "tags": [
+        "vodka",
+        "apple",
+        "sour",
+        "sparkling",
+        "house",
+        "halloween"
+      ],
+      "ingredientIds": [
+        "apple_vodka",
+        "lemon_juice",
+        "grenadine",
+        "prosecco"
+      ]
+    },
+    {
       "id": "pornstar-martini",
       "slug": "pornstar-martini",
       "name": "Pornstar Martini",
@@ -14778,6 +15156,40 @@
       ]
     },
     {
+      "id": "satans-whiskers",
+      "slug": "satans-whiskers",
+      "name": "Satan’s Whiskers",
+      "file": "satans-whiskers.json",
+      "cocktailFamily": "Bronx",
+      "classifications": [
+        "classic",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "orange",
+        "botanical",
+        "citrus"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "satans-whiskers",
+      "tags": [
+        "gin",
+        "vermouth",
+        "classic",
+        "halloween"
+      ],
+      "ingredientIds": [
+        "gin",
+        "sweet_vermouth",
+        "dry_vermouth",
+        "orange_juice",
+        "grand_marnier",
+        "orange_bitters"
+      ]
+    },
+    {
       "id": "saturn",
       "slug": "saturn",
       "name": "Saturn",
@@ -15817,6 +16229,39 @@
       "ingredientIds": [
         "sambuca",
         "baileys"
+      ]
+    },
+    {
+      "id": "smoke-and-bones",
+      "slug": "smoke-and-bones",
+      "name": "Smoke & Bones",
+      "file": "smoke-and-bones.json",
+      "cocktailFamily": "Blood and Sand",
+      "classifications": [
+        "variation",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "smoky",
+        "cherry",
+        "orange"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "smoke-and-bones",
+      "tags": [
+        "mezcal",
+        "cherry",
+        "equal-parts",
+        "smoky",
+        "halloween"
+      ],
+      "ingredientIds": [
+        "mezcal",
+        "sweet_vermouth",
+        "cherry_liqueur",
+        "orange_juice"
       ]
     },
     {
@@ -17124,6 +17569,39 @@
       ]
     },
     {
+      "id": "the-ghost",
+      "slug": "the-ghost",
+      "name": "The Ghost",
+      "file": "the-ghost.json",
+      "cocktailFamily": "Alexander",
+      "classifications": [
+        "dessert",
+        "creamy"
+      ],
+      "flavorProfiles": [
+        "cream",
+        "chocolate",
+        "sweet"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Coupe",
+      "illustrationKey": "the-ghost",
+      "tags": [
+        "vodka",
+        "cream",
+        "dessert",
+        "house",
+        "halloween"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "baileys",
+        "creme_de_cacao",
+        "heavy_cream"
+      ]
+    },
+    {
       "id": "three-wise-men",
       "slug": "three-wise-men",
       "name": "Three Wise Men",
@@ -17458,6 +17936,39 @@
         "dry_vermouth",
         "creme_de_cacao",
         "lemon_juice"
+      ]
+    },
+    {
+      "id": "vampires-kiss",
+      "slug": "vampires-kiss",
+      "name": "Vampire’s Kiss",
+      "file": "vampires-kiss.json",
+      "cocktailFamily": "Champagne Cocktail",
+      "classifications": [
+        "modern",
+        "sparkling"
+      ],
+      "flavorProfiles": [
+        "cherry",
+        "berry",
+        "sparkling"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Champagne flute",
+      "illustrationKey": "vampires-kiss",
+      "tags": [
+        "vodka",
+        "sparkling",
+        "cherry",
+        "house",
+        "halloween"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "cranberry_juice",
+        "prosecco",
+        "cherry_liqueur"
       ]
     },
     {
@@ -19046,6 +19557,80 @@
       ]
     },
     {
+      "id": "witchs-brew",
+      "slug": "witchs-brew",
+      "name": "Witch’s Brew",
+      "file": "witchs-brew.json",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "modern",
+        "sour",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "melon",
+        "citrus",
+        "sweet"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Highball",
+      "illustrationKey": "witchs-brew",
+      "tags": [
+        "vodka",
+        "melon",
+        "sour",
+        "highball",
+        "halloween"
+      ],
+      "ingredientIds": [
+        "melon_liqueur",
+        "vodka",
+        "lemon_juice",
+        "lime_juice",
+        "club_soda"
+      ]
+    },
+    {
+      "id": "witchs-cauldron-punch",
+      "slug": "witchs-cauldron-punch",
+      "name": "Witch’s Cauldron Punch",
+      "file": "witchs-cauldron-punch.json",
+      "cocktailFamily": "Punch",
+      "classifications": [
+        "punch",
+        "tiki"
+      ],
+      "flavorProfiles": [
+        "tropical",
+        "spiced",
+        "citrus"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Punch cup or rocks glass",
+      "illustrationKey": "witchs-cauldron-punch",
+      "tags": [
+        "rum",
+        "punch",
+        "batch",
+        "party",
+        "tiki",
+        "house",
+        "halloween"
+      ],
+      "ingredientIds": [
+        "dark_rum",
+        "gold_rum",
+        "pineapple_juice",
+        "orange_juice",
+        "lime_juice",
+        "grenadine",
+        "falernum",
+        "ginger_beer"
+      ]
+    },
+    {
       "id": "woo-woo",
       "slug": "woo-woo",
       "name": "Woo Woo",
@@ -19186,7 +19771,8 @@
         "rum",
         "tiki",
         "strong",
-        "popular"
+        "popular",
+        "halloween"
       ],
       "ingredientIds": [
         "gold_rum",

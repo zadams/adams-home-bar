@@ -1,0 +1,107 @@
+{
+  "id": "graveyard-old-fashioned",
+  "slug": "graveyard-old-fashioned",
+  "name": "Graveyard Old Fashioned",
+  "aliases": [],
+  "description": "Kraken black spiced rum stirred with a little demerara and cocoa bitters. Nearly black in the glass.",
+  "history": "A house Halloween Old Fashioned built on the darkest bottle on the shelf.",
+  "origin": "House",
+  "whyItWorks": "Kraken is already sweet and spiced, so it needs less sugar than whiskey. Cocoa bitters add a dry chocolate note and Angostura keeps it from tasting like a liqueur.",
+  "classifications": [
+    "spirit-forward",
+    "variation"
+  ],
+  "cocktailFamily": "Old Fashioned",
+  "flavorProfiles": [
+    "spiced",
+    "chocolate",
+    "molasses"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "spirit-forward",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange peel"
+  ],
+  "illustrationKey": "graveyard-old-fashioned",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "spiced_rum",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Black spiced rum"
+    },
+    {
+      "ingredientId": "demerara_sugar",
+      "amount": 0.5,
+      "unit": "tsp",
+      "scaleMode": "linear",
+      "label": "Demerara sugar (or 1 barspoon syrup)"
+    },
+    {
+      "ingredientId": "cocoa_bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 1,
+      "unit": "dash",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Orange peel",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Stir the sugar and bitters with a splash of water until the sugar dissolves.",
+    "Add the rum and ice; stir until cold.",
+    "Strain over a large cube and express an orange peel."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "kraken-spiced",
+      "rank": 1,
+      "rationale": "The black rum the drink is named for."
+    },
+    {
+      "bottleId": "angostura-cocoa",
+      "rank": 2,
+      "rationale": "Cocoa bitters."
+    },
+    {
+      "bottleId": "angostura-aromatic",
+      "rank": 3,
+      "rationale": "One dash of aromatic bitters."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "old-fashioned",
+    "cocoa-old-fashioned",
+    "dark-n-stormy"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "rum",
+    "spiced-rum",
+    "old-fashioned",
+    "spirit-forward",
+    "house",
+    "halloween"
+  ]
+}

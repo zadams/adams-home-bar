@@ -1375,5 +1375,16 @@
       "espadín"
     ],
     "notes": "Purchased 2026-10-24."
+  },
+  {
+    "id": "inv-red_wine",
+    "ingredientId": "red_wine",
+    "status": "in_stock",
+    "productName": "Dry red wine",
+    "tags": [
+      "wine",
+      "pantry"
+    ],
+    "notes": "Plenty on hand. Unlocks the New York Sour and the Devil’s Margarita."
   }
 ]

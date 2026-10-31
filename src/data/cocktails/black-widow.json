@@ -1,0 +1,105 @@
+{
+  "id": "black-widow",
+  "slug": "black-widow",
+  "name": "Black Widow",
+  "aliases": [],
+  "description": "Kraken, lemon and egg white shaken into a dark sour, with Peychaud’s drops drawn into a spider web on the foam. Needs eggs.",
+  "history": "A house Halloween sour.",
+  "origin": "House",
+  "whyItWorks": "Black spiced rum gives a dark base and vanilla spice; egg white makes a thick foam that holds a bitters pattern.",
+  "classifications": [
+    "sour",
+    "variation"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "spiced",
+    "citrus",
+    "silky"
+  ],
+  "difficulty": "medium",
+  "preparationTime": 5,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Dry shake, then shaken; up",
+  "garnish": [
+    "Peychaud’s bitters spider web"
+  ],
+  "illustrationKey": "black-widow",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "spiced_rum",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Black spiced rum"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "simple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "egg_white",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "linear",
+      "label": "Egg white"
+    },
+    {
+      "ingredientId": "peychauds_bitters",
+      "amount": 6,
+      "unit": "drop",
+      "scaleMode": "fixed",
+      "label": "Peychaud’s bitters, for the web"
+    }
+  ],
+  "steps": [
+    "Shake rum, lemon, syrup and egg white without ice for 15 seconds.",
+    "Add ice and shake again until cold.",
+    "Fine-strain into a chilled coupe and let the foam settle.",
+    "Drop the bitters in a spiral on the foam, then drag a toothpick from the center outward to make a web."
+  ],
+  "techniqueNotes": [
+    "Carton egg whites work; use about 0.75 oz."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "kraken-spiced",
+      "rank": 1,
+      "rationale": "The black rum."
+    },
+    {
+      "bottleId": "peychauds",
+      "rank": 2,
+      "rationale": "Red bitters for the web."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "whiskey-sour",
+    "graveyard-old-fashioned",
+    "dark-n-stormy"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "rum",
+    "spiced-rum",
+    "sour",
+    "egg-white",
+    "house",
+    "inventory-gap",
+    "halloween"
+  ]
+}

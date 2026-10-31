@@ -1,0 +1,107 @@
+{
+  "id": "hocus-pocus-spritz",
+  "slug": "hocus-pocus-spritz",
+  "name": "Hocus Pocus Spritz",
+  "aliases": [],
+  "description": "An Aperol Spritz with a splash of cranberry and cherry liqueur sunk to the bottom. Orange on top, blood-red underneath.",
+  "history": "A house Halloween spritz.",
+  "origin": "House",
+  "whyItWorks": "The spritz ratio stays the same, so it is still light and bitter; cranberry adds tartness, and the dense cherry liqueur settles at the bottom.",
+  "classifications": [
+    "spritz",
+    "sparkling",
+    "aperitivo"
+  ],
+  "cocktailFamily": "Spritz",
+  "flavorProfiles": [
+    "bitter",
+    "orange",
+    "cherry"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "light",
+  "glassware": "Wine glass",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Orange slice"
+  ],
+  "illustrationKey": "hocus-pocus-spritz",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "aperol",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "prosecco",
+      "amount": 3,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cranberry_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cherry_liqueur",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Orange slice",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Fill a wine glass with ice and add Aperol, prosecco, soda and cranberry. Stir once.",
+    "Pour the cherry liqueur down the inside of the glass so it sinks.",
+    "Garnish with an orange slice."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "aperol",
+      "rank": 1,
+      "rationale": "The base."
+    },
+    {
+      "bottleId": "bozkov-griotte",
+      "rank": 2,
+      "rationale": "For the red at the bottom."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "aperol-spritz",
+    "vampires-kiss",
+    "hugo"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "aperol",
+    "spritz",
+    "sparkling",
+    "low-abv",
+    "house",
+    "halloween"
+  ]
+}

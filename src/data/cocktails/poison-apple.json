@@ -1,0 +1,98 @@
+{
+  "id": "poison-apple",
+  "slug": "poison-apple",
+  "name": "Poison Apple",
+  "aliases": [],
+  "description": "Apple vodka, lemon and grenadine shaken and topped with sparkling wine. Apple-red, tart and fizzy.",
+  "history": "A house Halloween sour, named for the apple in Snow White.",
+  "origin": "House",
+  "whyItWorks": "Apple vodka and lemon make a crisp sour; grenadine supplies the sugar and the red; prosecco lifts it.",
+  "classifications": [
+    "modern",
+    "sour",
+    "sparkling"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "apple",
+    "citrus",
+    "sparkling"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Thin apple slice or cocktail cherry"
+  ],
+  "illustrationKey": "poison-apple",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "apple_vodka",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "grenadine",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "prosecco",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Prosecco, to top"
+    },
+    {
+      "ingredientId": "cocktail_cherry",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Cocktail cherry",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake apple vodka, lemon and grenadine hard with ice.",
+    "Strain into a chilled coupe.",
+    "Top with prosecco and garnish."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "koskenkorva-apple",
+      "rank": 1,
+      "rationale": "The apple vodka in stock."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "appletini",
+    "jack-rose",
+    "washington-apple",
+    "french-75"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "vodka",
+    "apple",
+    "sour",
+    "sparkling",
+    "house",
+    "halloween"
+  ]
+}
