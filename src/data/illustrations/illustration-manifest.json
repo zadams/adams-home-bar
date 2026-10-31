@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedFrom": "cocktail-index.json + popular-classics batch (2026-08-10); 2026-10-24 bottle additions; 2026 world's top 50",
-  "cocktailCount": 632,
+  "generatedFrom": "cocktail-index.json + popular-classics batch (2026-08-10); 2026-10-24 bottle additions; 2026 world's top 50; halloween 2026",
+  "cocktailCount": 643,
   "cocktails": [
     {
       "id": "adios-motherfucker",
@@ -3548,6 +3548,48 @@
           "master": "cocktails/masters/black-russian.png",
           "runtime": "cocktails/webp/black-russian.webp",
           "thumbnail": "cocktails/thumbs/black-russian.webp"
+        }
+      }
+    },
+    {
+      "id": "black-widow",
+      "slug": "black-widow",
+      "name": "Black Widow",
+      "illustrationKey": "black-widow",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "sour",
+        "variation"
+      ],
+      "flavorProfiles": [
+        "spiced",
+        "citrus",
+        "silky"
+      ],
+      "ingredientIds": [
+        "spiced_rum",
+        "lemon_juice",
+        "simple_syrup",
+        "egg_white",
+        "peychauds_bitters"
+      ],
+      "artDirection": {
+        "template": "sour",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe",
+        "ice": "Dry shake, then shaken; up",
+        "garnish": "Peychaud’s bitters spider web",
+        "liquidPalette": {
+          "name": "widow-black",
+          "hex": "#3A2418"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/black-widow.png",
+          "runtime": "cocktails/webp/black-widow.webp",
+          "thumbnail": "cocktails/thumbs/black-widow.webp"
         }
       }
     },
@@ -7717,6 +7759,46 @@
       }
     },
     {
+      "id": "corpse-reviver-no-1",
+      "slug": "corpse-reviver-no-1",
+      "name": "Corpse Reviver No. 1",
+      "illustrationKey": "corpse-reviver-no-1",
+      "cocktailFamily": "Manhattan",
+      "classifications": [
+        "classic",
+        "spirit-forward"
+      ],
+      "flavorProfiles": [
+        "brandy",
+        "apple",
+        "bittersweet"
+      ],
+      "ingredientIds": [
+        "cognac",
+        "calvados",
+        "sweet_vermouth"
+      ],
+      "artDirection": {
+        "template": "manhattan",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe",
+        "ice": "Stirred; up",
+        "garnish": "Orange twist",
+        "liquidPalette": {
+          "name": "brandy-amber",
+          "hex": "#9C5A24"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/corpse-reviver-no-1.png",
+          "runtime": "cocktails/webp/corpse-reviver-no-1.webp",
+          "thumbnail": "cocktails/thumbs/corpse-reviver-no-1.webp"
+        }
+      }
+    },
+    {
       "id": "corpse-reviver-no-2",
       "slug": "corpse-reviver-no-2",
       "name": "Corpse Reviver No. 2",
@@ -8123,6 +8205,45 @@
       }
     },
     {
+      "id": "death-in-the-afternoon",
+      "slug": "death-in-the-afternoon",
+      "name": "Death in the Afternoon",
+      "illustrationKey": "death-in-the-afternoon",
+      "cocktailFamily": "Champagne Cocktail",
+      "classifications": [
+        "classic",
+        "sparkling"
+      ],
+      "flavorProfiles": [
+        "anise",
+        "herbal",
+        "sparkling"
+      ],
+      "ingredientIds": [
+        "absinthe",
+        "prosecco"
+      ],
+      "artDirection": {
+        "template": "champagne-cocktail",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe or flute",
+        "ice": "None",
+        "garnish": "none",
+        "liquidPalette": {
+          "name": "absinthe-opal",
+          "hex": "#B9C99A"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/death-in-the-afternoon.png",
+          "runtime": "cocktails/webp/death-in-the-afternoon.webp",
+          "thumbnail": "cocktails/thumbs/death-in-the-afternoon.webp"
+        }
+      }
+    },
+    {
       "id": "dirty-girl-scout",
       "slug": "dirty-girl-scout",
       "name": "Dirty Girl Scout",
@@ -8480,6 +8601,48 @@
           "master": "cocktails/masters/east-8-hold-up.png",
           "runtime": "cocktails/webp/east-8-hold-up.webp",
           "thumbnail": "cocktails/thumbs/east-8-hold-up.webp"
+        }
+      }
+    },
+    {
+      "id": "el-diablo",
+      "slug": "el-diablo",
+      "name": "El Diablo",
+      "illustrationKey": "el-diablo",
+      "cocktailFamily": "Buck",
+      "classifications": [
+        "classic",
+        "highball",
+        "buck"
+      ],
+      "flavorProfiles": [
+        "ginger",
+        "agave",
+        "cherry"
+      ],
+      "ingredientIds": [
+        "blanco_tequila",
+        "lime_juice",
+        "ginger_beer",
+        "cherry_liqueur"
+      ],
+      "artDirection": {
+        "template": "buck",
+        "glass": "highball",
+        "sourceGlassware": "Highball",
+        "ice": "Cubed ice",
+        "garnish": "Lime wedge",
+        "liquidPalette": {
+          "name": "ember-red",
+          "hex": "#B5452B"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/el-diablo.png",
+          "runtime": "cocktails/webp/el-diablo.webp",
+          "thumbnail": "cocktails/thumbs/el-diablo.webp"
         }
       }
     },
@@ -11429,6 +11592,47 @@
           "master": "cocktails/masters/grasshopper.png",
           "runtime": "cocktails/webp/grasshopper.webp",
           "thumbnail": "cocktails/thumbs/grasshopper.webp"
+        }
+      }
+    },
+    {
+      "id": "graveyard-old-fashioned",
+      "slug": "graveyard-old-fashioned",
+      "name": "Graveyard Old Fashioned",
+      "illustrationKey": "graveyard-old-fashioned",
+      "cocktailFamily": "Old Fashioned",
+      "classifications": [
+        "spirit-forward",
+        "variation"
+      ],
+      "flavorProfiles": [
+        "spiced",
+        "chocolate",
+        "molasses"
+      ],
+      "ingredientIds": [
+        "spiced_rum",
+        "demerara_sugar",
+        "cocoa_bitters",
+        "angostura_bitters"
+      ],
+      "artDirection": {
+        "template": "old-fashioned",
+        "glass": "double-old-fashioned",
+        "sourceGlassware": "Rocks glass",
+        "ice": "Large cube",
+        "garnish": "Orange peel",
+        "liquidPalette": {
+          "name": "graveyard-black",
+          "hex": "#2B1A12"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/graveyard-old-fashioned.png",
+          "runtime": "cocktails/webp/graveyard-old-fashioned.webp",
+          "thumbnail": "cocktails/thumbs/graveyard-old-fashioned.webp"
         }
       }
     },
@@ -17892,6 +18096,48 @@
       }
     },
     {
+      "id": "poison-apple",
+      "slug": "poison-apple",
+      "name": "Poison Apple",
+      "illustrationKey": "poison-apple",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "modern",
+        "sour",
+        "sparkling"
+      ],
+      "flavorProfiles": [
+        "apple",
+        "citrus",
+        "sparkling"
+      ],
+      "ingredientIds": [
+        "apple_vodka",
+        "lemon_juice",
+        "grenadine",
+        "prosecco"
+      ],
+      "artDirection": {
+        "template": "sour",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe",
+        "ice": "Shaken; up",
+        "garnish": "Thin apple slice or cocktail cherry",
+        "liquidPalette": {
+          "name": "poison-red",
+          "hex": "#B3122E"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/poison-apple.png",
+          "runtime": "cocktails/webp/poison-apple.webp",
+          "thumbnail": "cocktails/thumbs/poison-apple.webp"
+        }
+      }
+    },
+    {
       "id": "pornstar-martini",
       "slug": "pornstar-martini",
       "name": "Pornstar Martini",
@@ -19506,6 +19752,49 @@
       }
     },
     {
+      "id": "satans-whiskers",
+      "slug": "satans-whiskers",
+      "name": "Satan’s Whiskers",
+      "illustrationKey": "satans-whiskers",
+      "cocktailFamily": "Bronx",
+      "classifications": [
+        "classic",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "orange",
+        "botanical",
+        "citrus"
+      ],
+      "ingredientIds": [
+        "gin",
+        "sweet_vermouth",
+        "dry_vermouth",
+        "orange_juice",
+        "grand_marnier",
+        "orange_bitters"
+      ],
+      "artDirection": {
+        "template": "bronx",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe",
+        "ice": "Shaken; up",
+        "garnish": "Orange twist",
+        "liquidPalette": {
+          "name": "devil-orange",
+          "hex": "#D9772B"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/satans-whiskers.png",
+          "runtime": "cocktails/webp/satans-whiskers.webp",
+          "thumbnail": "cocktails/thumbs/satans-whiskers.webp"
+        }
+      }
+    },
+    {
       "id": "saturn",
       "slug": "saturn",
       "name": "Saturn",
@@ -20872,6 +21161,47 @@
           "master": "cocktails/masters/slippery-nipple.png",
           "runtime": "cocktails/webp/slippery-nipple.webp",
           "thumbnail": "cocktails/thumbs/slippery-nipple.webp"
+        }
+      }
+    },
+    {
+      "id": "smoke-and-bones",
+      "slug": "smoke-and-bones",
+      "name": "Smoke & Bones",
+      "illustrationKey": "smoke-and-bones",
+      "cocktailFamily": "Blood and Sand",
+      "classifications": [
+        "variation",
+        "sour"
+      ],
+      "flavorProfiles": [
+        "smoky",
+        "cherry",
+        "orange"
+      ],
+      "ingredientIds": [
+        "mezcal",
+        "sweet_vermouth",
+        "cherry_liqueur",
+        "orange_juice"
+      ],
+      "artDirection": {
+        "template": "blood-and-sand",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe",
+        "ice": "Shaken; up",
+        "garnish": "Flamed orange peel",
+        "liquidPalette": {
+          "name": "smoke-blood",
+          "hex": "#9A3A2E"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/smoke-and-bones.png",
+          "runtime": "cocktails/webp/smoke-and-bones.webp",
+          "thumbnail": "cocktails/thumbs/smoke-and-bones.webp"
         }
       }
     },
@@ -22598,6 +22928,47 @@
       }
     },
     {
+      "id": "the-ghost",
+      "slug": "the-ghost",
+      "name": "The Ghost",
+      "illustrationKey": "the-ghost",
+      "cocktailFamily": "Alexander",
+      "classifications": [
+        "dessert",
+        "creamy"
+      ],
+      "flavorProfiles": [
+        "cream",
+        "chocolate",
+        "sweet"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "baileys",
+        "creme_de_cacao",
+        "heavy_cream"
+      ],
+      "artDirection": {
+        "template": "alexander",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe",
+        "ice": "Shaken; up",
+        "garnish": "Grated nutmeg",
+        "liquidPalette": {
+          "name": "ghost-white",
+          "hex": "#EDE6D6"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/the-ghost.png",
+          "runtime": "cocktails/webp/the-ghost.webp",
+          "thumbnail": "cocktails/thumbs/the-ghost.webp"
+        }
+      }
+    },
+    {
       "id": "three-wise-men",
       "slug": "three-wise-men",
       "name": "Three Wise Men",
@@ -23040,6 +23411,47 @@
           "master": "cocktails/masters/twentieth-century.png",
           "runtime": "cocktails/webp/twentieth-century.webp",
           "thumbnail": "cocktails/thumbs/twentieth-century.webp"
+        }
+      }
+    },
+    {
+      "id": "vampires-kiss",
+      "slug": "vampires-kiss",
+      "name": "Vampire’s Kiss",
+      "illustrationKey": "vampires-kiss",
+      "cocktailFamily": "Champagne Cocktail",
+      "classifications": [
+        "modern",
+        "sparkling"
+      ],
+      "flavorProfiles": [
+        "cherry",
+        "berry",
+        "sparkling"
+      ],
+      "ingredientIds": [
+        "vodka",
+        "cranberry_juice",
+        "prosecco",
+        "cherry_liqueur"
+      ],
+      "artDirection": {
+        "template": "champagne-cocktail",
+        "glass": "flute",
+        "sourceGlassware": "Champagne flute",
+        "ice": "None",
+        "garnish": "Cocktail cherry",
+        "liquidPalette": {
+          "name": "blood-red",
+          "hex": "#8E1B2A"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/vampires-kiss.png",
+          "runtime": "cocktails/webp/vampires-kiss.webp",
+          "thumbnail": "cocktails/thumbs/vampires-kiss.webp"
         }
       }
     },
@@ -25163,6 +25575,49 @@
           "master": "cocktails/masters/white-tea-shot.png",
           "runtime": "cocktails/webp/white-tea-shot.webp",
           "thumbnail": "cocktails/thumbs/white-tea-shot.webp"
+        }
+      }
+    },
+    {
+      "id": "witchs-brew",
+      "slug": "witchs-brew",
+      "name": "Witch’s Brew",
+      "illustrationKey": "witchs-brew",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "modern",
+        "sour",
+        "highball"
+      ],
+      "flavorProfiles": [
+        "melon",
+        "citrus",
+        "sweet"
+      ],
+      "ingredientIds": [
+        "melon_liqueur",
+        "vodka",
+        "lemon_juice",
+        "lime_juice",
+        "club_soda"
+      ],
+      "artDirection": {
+        "template": "sour",
+        "glass": "highball",
+        "sourceGlassware": "Highball",
+        "ice": "Cubed ice",
+        "garnish": "Lime wheel",
+        "liquidPalette": {
+          "name": "witch-green",
+          "hex": "#7BC043"
+        },
+        "composition": "single centered hero cocktail, three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/witchs-brew.png",
+          "runtime": "cocktails/webp/witchs-brew.webp",
+          "thumbnail": "cocktails/thumbs/witchs-brew.webp"
         }
       }
     },

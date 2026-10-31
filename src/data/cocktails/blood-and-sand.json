@@ -65,13 +65,16 @@
   ],
   "substitutions": [],
   "variations": [],
-  "relatedCocktailIds": [],
+  "relatedCocktailIds": [
+    "smoke-and-bones"
+  ],
   "seasonality": [
     "year-round"
   ],
   "tags": [
     "scotch",
     "cherry",
-    "equal-parts"
+    "equal-parts",
+    "halloween"
   ]
 }

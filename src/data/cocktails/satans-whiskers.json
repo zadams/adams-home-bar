@@ -1,0 +1,121 @@
+{
+  "id": "satans-whiskers",
+  "slug": "satans-whiskers",
+  "name": "Satan’s Whiskers",
+  "aliases": [
+    "Satan’s Whiskers (Straight)"
+  ],
+  "description": "Gin, both vermouths, orange juice and Grand Marnier, shaken. A Bronx with an orange-liqueur kick and a better name.",
+  "history": "Printed in Harry Craddock’s Savoy Cocktail Book in 1930. The “Straight” version uses Grand Marnier; the “Curled” version swaps in orange curaçao.",
+  "origin": "London",
+  "whyItWorks": "Two vermouths split the difference between sweet and dry, orange juice softens the gin, and Grand Marnier pulls the orange forward so the drink tastes like more than juice.",
+  "classifications": [
+    "classic",
+    "sour"
+  ],
+  "cocktailFamily": "Bronx",
+  "flavorProfiles": [
+    "orange",
+    "botanical",
+    "citrus"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Orange twist"
+  ],
+  "illustrationKey": "satans-whiskers",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "gin",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "dry_vermouth",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Fresh orange juice"
+    },
+    {
+      "ingredientId": "grand_marnier",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_bitters",
+      "amount": 1,
+      "unit": "dash",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Orange twist",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Shake everything except the garnish hard with ice.",
+    "Fine-strain into a chilled coupe.",
+    "Express an orange twist over the top."
+  ],
+  "techniqueNotes": [
+    "Fresh orange juice only. Carton juice makes it taste flat."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "malfy-originale",
+      "rank": 1,
+      "rationale": "Citrus-forward gin that sits well with the orange."
+    },
+    {
+      "bottleId": "grand-marnier",
+      "rank": 2,
+      "rationale": "The orange liqueur in the Savoy spec."
+    },
+    {
+      "bottleId": "fee-brothers-orange",
+      "rank": 3,
+      "rationale": "Orange bitters."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "bronx",
+    "martini",
+    "corpse-reviver-no-2"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "gin",
+    "vermouth",
+    "classic",
+    "halloween"
+  ],
+  "year": 1930
+}

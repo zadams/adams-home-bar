@@ -1,0 +1,98 @@
+{
+  "id": "the-ghost",
+  "slug": "the-ghost",
+  "name": "The Ghost",
+  "aliases": [],
+  "description": "Vodka, Irish cream, white crème de cacao and half-and-half shaken until frothy. Pale, sweet, and the opposite of a Black Russian.",
+  "history": "A house Halloween dessert drink.",
+  "origin": "House",
+  "whyItWorks": "White crème de cacao adds chocolate without darkening the drink, Irish cream adds body, and a hard shake makes the froth.",
+  "classifications": [
+    "dessert",
+    "creamy"
+  ],
+  "cocktailFamily": "Alexander",
+  "flavorProfiles": [
+    "cream",
+    "chocolate",
+    "sweet"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "medium",
+  "glassware": "Coupe",
+  "ice": "Shaken; up",
+  "garnish": [
+    "Grated nutmeg"
+  ],
+  "illustrationKey": "the-ghost",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "vodka",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "baileys",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Irish cream"
+    },
+    {
+      "ingredientId": "creme_de_cacao",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "White crème de cacao"
+    },
+    {
+      "ingredientId": "heavy_cream",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Half-and-half or cream"
+    }
+  ],
+  "steps": [
+    "Shake everything hard with ice for 15 seconds.",
+    "Strain into a chilled coupe.",
+    "Grate a little nutmeg on top if you have it."
+  ],
+  "techniqueNotes": [
+    "Half-and-half makes a lighter froth than heavy cream; shake longer to make up for it.",
+    "Use white crème de cacao. Dark crème de cacao turns the drink brown."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-irish-cream",
+      "rank": 1,
+      "rationale": "The Irish cream in stock."
+    },
+    {
+      "bottleId": "titos",
+      "rank": 2,
+      "rationale": "Clean vodka."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "white-russian",
+    "black-russian",
+    "pink-squirrel",
+    "grasshopper"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "vodka",
+    "cream",
+    "dessert",
+    "house",
+    "halloween"
+  ]
+}

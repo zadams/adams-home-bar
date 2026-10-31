@@ -165,3 +165,31 @@ describe('readiness engine', () => {
     expect(result.state).toBe('almost')
   })
 })
+
+describe('Halloween drinks', () => {
+  const tonight = [
+    'satans-whiskers',
+    'witchs-brew',
+    'vampires-kiss',
+    'el-diablo',
+    'smoke-and-bones',
+    'graveyard-old-fashioned',
+    'poison-apple',
+    'the-ghost',
+  ]
+
+  it.each(tonight)('%s is ready from the seed inventory', (id) => {
+    const result = assessReadiness(cocktail(id), seedInventory)
+    expect(result.missingRequired.map((m) => m.ingredientId)).toEqual([])
+    expect(result.state).toBe('ready')
+  })
+
+  it.each([
+    ['corpse-reviver-no-1', ['calvados', 'cognac']],
+    ['death-in-the-afternoon', ['absinthe']],
+    ['black-widow', ['egg_white']],
+  ])('%s is short only %j', (id, missing) => {
+    const result = assessReadiness(cocktail(id), seedInventory)
+    expect(result.missingRequired.map((m) => m.ingredientId).sort()).toEqual(missing)
+  })
+})

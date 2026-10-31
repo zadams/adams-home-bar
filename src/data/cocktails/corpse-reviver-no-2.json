@@ -87,7 +87,9 @@
   "relatedCocktailIds": [
     "white-lady",
     "martini",
-    "last-word"
+    "last-word",
+    "corpse-reviver-no-1",
+    "death-in-the-afternoon"
   ],
   "seasonality": [
     "year-round"
@@ -96,7 +98,8 @@
     "gin",
     "classic",
     "sour",
-    "popular"
+    "popular",
+    "halloween"
   ],
   "featuredBottleImages": []
 }

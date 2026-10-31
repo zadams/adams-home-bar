@@ -1,0 +1,73 @@
+{
+  "id": "death-in-the-afternoon",
+  "slug": "death-in-the-afternoon",
+  "name": "Death in the Afternoon",
+  "aliases": [
+    "Hemingway Champagne"
+  ],
+  "description": "Absinthe topped with cold sparkling wine until it turns cloudy. Two ingredients; needs absinthe.",
+  "history": "Ernest Hemingway contributed it to the 1935 celebrity cocktail book So Red the Nose, naming it after his 1932 book on bullfighting. His instructions: pour one jigger of absinthe into a champagne glass and add iced champagne until it reaches the proper opalescent milkiness. Drink three to five slowly.",
+  "origin": "United States",
+  "whyItWorks": "Sparkling wine louches the absinthe the way water does, so the drink turns milky green and the anise softens.",
+  "classifications": [
+    "classic",
+    "sparkling"
+  ],
+  "cocktailFamily": "Champagne Cocktail",
+  "flavorProfiles": [
+    "anise",
+    "herbal",
+    "sparkling"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 1,
+  "strength": "strong",
+  "glassware": "Coupe or flute",
+  "ice": "None",
+  "garnish": [],
+  "illustrationKey": "death-in-the-afternoon",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "absinthe",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "prosecco",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Champagne or dry sparkling wine, very cold"
+    }
+  ],
+  "steps": [
+    "Pour the absinthe into a chilled coupe or flute.",
+    "Top slowly with very cold sparkling wine until the drink turns cloudy."
+  ],
+  "techniqueNotes": [
+    "Hemingway’s jigger was a full 1.5 oz. One ounce is plenty for most people.",
+    "Brut Champagne or a dry cava works better than a sweet prosecco."
+  ],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "french-75",
+    "sazerac",
+    "corpse-reviver-no-2"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "absinthe",
+    "sparkling",
+    "classic",
+    "inventory-gap",
+    "halloween"
+  ],
+  "year": 1935,
+  "creator": "Ernest Hemingway"
+}

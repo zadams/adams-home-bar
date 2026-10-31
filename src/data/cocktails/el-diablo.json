@@ -1,0 +1,116 @@
+{
+  "id": "el-diablo",
+  "slug": "el-diablo",
+  "name": "El Diablo",
+  "aliases": [
+    "Mexican El Diablo"
+  ],
+  "description": "Tequila, lime and ginger beer, with a red liqueur that sinks to the bottom. Made here with cherry instead of cassis.",
+  "history": "Trader Vic printed it as the “Mexican El Diablo” in 1946, one of the first tequila drinks in an American bar book. The original uses crème de cassis.",
+  "origin": "United States",
+  "whyItWorks": "Ginger and lime make a simple tequila buck; the dark fruit liqueur adds sweetness and color as it rises from the bottom.",
+  "classifications": [
+    "classic",
+    "highball",
+    "buck"
+  ],
+  "cocktailFamily": "Buck",
+  "flavorProfiles": [
+    "ginger",
+    "agave",
+    "cherry"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 3,
+  "strength": "medium",
+  "glassware": "Highball",
+  "ice": "Cubed ice",
+  "garnish": [
+    "Lime wedge"
+  ],
+  "illustrationKey": "el-diablo",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "blanco_tequila",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lime_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "ginger_beer",
+      "amount": 3,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cherry_liqueur",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Cherry liqueur (classic: crème de cassis)"
+    },
+    {
+      "ingredientId": "lime",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Lime wedge",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Build tequila and lime over ice in a highball.",
+    "Top with ginger beer.",
+    "Pour the cherry liqueur over the top. It sinks; leave it unstirred."
+  ],
+  "techniqueNotes": [
+    "With crème de cassis on the shelf, use it instead for the 1946 version."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-tequila-other",
+      "rank": 1,
+      "rationale": "The blanco tequila in stock."
+    },
+    {
+      "bottleId": "bozkov-griotte",
+      "rank": 2,
+      "rationale": "Stands in for cassis."
+    }
+  ],
+  "substitutions": [
+    {
+      "ingredientId": "cherry_liqueur",
+      "alternatives": [
+        "raspberry_syrup"
+      ],
+      "notes": "Crème de cassis is the original; raspberry syrup gives a lighter, sweeter red."
+    }
+  ],
+  "variations": [],
+  "relatedCocktailIds": [
+    "mexican-mule",
+    "moscow-mule",
+    "dark-n-stormy",
+    "paloma"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "tequila",
+    "ginger",
+    "highball",
+    "classic",
+    "halloween"
+  ],
+  "year": 1946,
+  "creator": "Victor “Trader Vic” Bergeron"
+}

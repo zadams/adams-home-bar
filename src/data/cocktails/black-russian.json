@@ -70,7 +70,8 @@
     "white-russian",
     "mudslide",
     "brave-bull",
-    "sombrero"
+    "sombrero",
+    "the-ghost"
   ],
   "seasonality": [
     "year-round"
@@ -79,7 +80,8 @@
     "vodka",
     "coffee",
     "classic",
-    "popular"
+    "popular",
+    "halloween"
   ],
   "featuredBottleImages": []
 }
