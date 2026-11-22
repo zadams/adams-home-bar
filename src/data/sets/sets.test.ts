@@ -1,6 +1,7 @@
 import { describe, expect, it } from 'vitest'
 import { cocktailById } from '../index'
-import { drinkSets, setNotesFor } from './index'
+import { drinkSetById, drinkSets, setDrinks, setNotesFor } from './index'
+import { kitCanMake } from '../kits'
 
 describe('drink sets', () => {
   it('have unique ids', () => {
@@ -30,5 +31,37 @@ describe('drink sets', () => {
       expect.objectContaining({ note: expect.stringContaining('blue curaçao') }),
     ])
     expect(setNotesFor('black-russian')).toEqual([])
+  })
+
+  it('makes all of Thanksgiving To Go from the one bag it describes', () => {
+    // Four bottles plus Angostura, two syrups, juices and ginger beer. Hot water
+    // is the host's kettle. Literal matching, as for kits: no substitutions.
+    const bag = new Set([
+      'bourbon',
+      'apple_vodka',
+      'sweet_vermouth',
+      'prosecco',
+      'angostura_bitters',
+      'brown_sugar_cinnamon_syrup',
+      'honey_syrup',
+      'demerara_sugar',
+      'cranberry_juice',
+      'orange_juice',
+      'lemon_juice',
+      'lime_juice',
+      'ginger_beer',
+      'hot_water',
+    ])
+    const set = drinkSetById.get('thanksgiving-to-go')!
+    const drinks = setDrinks(set)
+    expect(drinks).toHaveLength(set.drinks.length)
+    for (const drink of drinks) {
+      const missing = drink.ingredients
+        .filter((line) => !line.optional && !bag.has(line.ingredientId))
+        .map((line) => line.ingredientId)
+      expect(missing, drink.id).toEqual([])
+      expect(kitCanMake(drink, bag), drink.id).toBe(true)
+    }
+    expect(drinks.filter((d) => d.tags.includes('batch')).length).toBeGreaterThanOrEqual(3)
   })
 })

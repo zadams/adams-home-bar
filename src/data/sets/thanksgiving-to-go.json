@@ -1,0 +1,43 @@
+{
+  "id": "thanksgiving-to-go",
+  "name": "Thanksgiving To Go",
+  "description": "A Thanksgiving bar that fits in one bag: four bottles (bourbon, Koskenkorva Apple, sweet vermouth and prosecco), plus Angostura, the brown-sugar-cinnamon and honey syrups, sugar cubes, cranberry, orange, lemon and lime juice, and ginger beer. The first three are batched at home and are the ones to photograph; the rest are made to order from the same bag.",
+  "drinks": [
+    {
+      "drinkId": "gobbler-punch",
+      "note": "Batch: mix the base at home; ginger beer and ice go in on site."
+    },
+    {
+      "drinkId": "cranberry-apple-sparkler",
+      "note": "Batch: base in a pitcher; add the prosecco at the table."
+    },
+    {
+      "drinkId": "bottled-manhattan",
+      "note": "Batch: bottle it the night before and freeze it."
+    },
+    {
+      "drinkId": "cranberry-bourbon-sour",
+      "note": "Shake to order with the same bourbon."
+    },
+    {
+      "drinkId": "apple-pie-sour",
+      "note": "Shake to order."
+    },
+    {
+      "drinkId": "brown-sugar-cinnamon-old-fashioned",
+      "note": "Built in the glass; no shaker needed."
+    },
+    {
+      "drinkId": "champagne-cocktail",
+      "note": "For the toast, with the prosecco you brought."
+    },
+    {
+      "drinkId": "cranberry-ginger-fizz",
+      "note": "No alcohol, for drivers and kids."
+    },
+    {
+      "drinkId": "hot-toddy",
+      "note": "After dinner, if the host has a kettle."
+    }
+  ]
+}

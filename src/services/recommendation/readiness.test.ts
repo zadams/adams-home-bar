@@ -202,7 +202,7 @@ describe('Halloween drinks', () => {
   })
 })
 
-describe.each(['thanksgiving', 'christmas'])('%s set', (setId) => {
+describe.each(['thanksgiving', 'thanksgiving-to-go', 'christmas'])('%s set', (setId) => {
   const set = drinkSetById.get(setId)
   const ids = set?.drinks.map((entry) => entry.drinkId) ?? []
 

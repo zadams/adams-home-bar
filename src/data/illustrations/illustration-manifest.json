@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedFrom": "cocktail-index.json + popular-classics batch (2026-08-10); 2026-10-24 bottle additions; 2026 world's top 50; halloween 2026; halloween 2026 round two; holidays 2026; 2026-10-31 bottle additions",
-  "cocktailCount": 665,
+  "generatedFrom": "cocktail-index.json + popular-classics batch (2026-08-10); 2026-10-24 bottle additions; 2026 world's top 50; halloween 2026; halloween 2026 round two; holidays 2026; 2026-10-31 bottle additions; thanksgiving to go 2026",
+  "cocktailCount": 668,
   "cocktails": [
     {
       "id": "adios-motherfucker",
@@ -4591,6 +4591,47 @@
       }
     },
     {
+      "id": "bottled-manhattan",
+      "slug": "bottled-manhattan",
+      "name": "Bottled Manhattan",
+      "illustrationKey": "bottled-manhattan",
+      "cocktailFamily": "Manhattan",
+      "classifications": [
+        "house",
+        "stirred",
+        "batch"
+      ],
+      "flavorProfiles": [
+        "oaky",
+        "rich",
+        "spirit-forward"
+      ],
+      "ingredientIds": [
+        "bourbon",
+        "sweet_vermouth",
+        "angostura_bitters"
+      ],
+      "artDirection": {
+        "template": "manhattan",
+        "glass": "coupe",
+        "sourceGlassware": "Coupe",
+        "ice": "None; poured from the freezer",
+        "garnish": "Cocktail cherry",
+        "liquidPalette": {
+          "name": "deep-mahogany",
+          "hex": "#6B2A14"
+        },
+        "composition": "batch hero: a frosted clear glass swing-top bottle of deep mahogany Manhattan, cold condensation on the glass, beside one coupe of the drink with a dark cherry; three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/bottled-manhattan.png",
+          "runtime": "cocktails/webp/bottled-manhattan.webp",
+          "thumbnail": "cocktails/thumbs/bottled-manhattan.webp"
+        }
+      }
+    },
+    {
       "id": "boulevardier",
       "slug": "boulevardier",
       "name": "Boulevardier",
@@ -8211,6 +8252,49 @@
       }
     },
     {
+      "id": "cranberry-apple-sparkler",
+      "slug": "cranberry-apple-sparkler",
+      "name": "Cranberry Apple Sparkler",
+      "illustrationKey": "cranberry-apple-sparkler",
+      "cocktailFamily": "Sparkling",
+      "classifications": [
+        "house",
+        "sparkling",
+        "batch"
+      ],
+      "flavorProfiles": [
+        "apple",
+        "tart",
+        "sparkling"
+      ],
+      "ingredientIds": [
+        "apple_vodka",
+        "cranberry_juice",
+        "brown_sugar_cinnamon_syrup",
+        "lemon_juice",
+        "prosecco"
+      ],
+      "artDirection": {
+        "template": "sparkling",
+        "glass": "wine",
+        "sourceGlassware": "Wine glass",
+        "ice": "A few cubes",
+        "garnish": "Orange wheel",
+        "liquidPalette": {
+          "name": "sparkling-cranberry",
+          "hex": "#C2304A"
+        },
+        "composition": "batch hero: a tall clear glass pitcher of bright sparkling cranberry-red drink with ice cubes and orange wheels, fine bubbles rising, with one filled stemmed wine glass beside it; three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/cranberry-apple-sparkler.png",
+          "runtime": "cocktails/webp/cranberry-apple-sparkler.webp",
+          "thumbnail": "cocktails/thumbs/cranberry-apple-sparkler.webp"
+        }
+      }
+    },
+    {
       "id": "cranberry-bourbon-sour",
       "slug": "cranberry-bourbon-sour",
       "name": "Cranberry Bourbon Sour",
@@ -11337,6 +11421,51 @@
           "master": "cocktails/masters/glogg.png",
           "runtime": "cocktails/webp/glogg.webp",
           "thumbnail": "cocktails/thumbs/glogg.webp"
+        }
+      }
+    },
+    {
+      "id": "gobbler-punch",
+      "slug": "gobbler-punch",
+      "name": "Gobbler Punch",
+      "illustrationKey": "gobbler-punch",
+      "cocktailFamily": "Punch",
+      "classifications": [
+        "house",
+        "punch",
+        "batch"
+      ],
+      "flavorProfiles": [
+        "fruity",
+        "spiced",
+        "oaky"
+      ],
+      "ingredientIds": [
+        "bourbon",
+        "orange_juice",
+        "cranberry_juice",
+        "brown_sugar_cinnamon_syrup",
+        "lemon_juice",
+        "angostura_bitters",
+        "ginger_beer"
+      ],
+      "artDirection": {
+        "template": "punch",
+        "glass": "double-old-fashioned",
+        "sourceGlassware": "Rocks glass",
+        "ice": "Large block in the dispenser; cubes in the glass",
+        "garnish": "Orange wheel",
+        "liquidPalette": {
+          "name": "amber-cranberry",
+          "hex": "#B4472A"
+        },
+        "composition": "batch hero: a large clear glass drink dispenser with a spigot, filled with the amber-red punch, a block of ice and floating orange wheels, with one filled rocks glass beside it; three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/gobbler-punch.png",
+          "runtime": "cocktails/webp/gobbler-punch.webp",
+          "thumbnail": "cocktails/thumbs/gobbler-punch.webp"
         }
       }
     },

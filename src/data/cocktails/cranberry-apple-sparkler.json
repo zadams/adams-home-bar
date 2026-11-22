@@ -1,0 +1,112 @@
+{
+  "id": "cranberry-apple-sparkler",
+  "slug": "cranberry-apple-sparkler",
+  "name": "Cranberry Apple Sparkler",
+  "aliases": [],
+  "description": "Apple vodka, cranberry, brown-sugar-cinnamon syrup and lemon, topped with prosecco. Bring the base in a pitcher and add the bubbles at the table.",
+  "history": "A house pitcher drink: Koskenkorva Apple and the cinnamon syrup taste like apple pie, cranberry gives it the colour, and prosecco makes it a toast.",
+  "origin": "House",
+  "whyItWorks": "Cranberry and lemon keep the apple and cinnamon from going sweet; the prosecco dries it out and lifts it.",
+  "classifications": [
+    "house",
+    "sparkling",
+    "batch"
+  ],
+  "cocktailFamily": "Sparkling",
+  "flavorProfiles": [
+    "apple",
+    "tart",
+    "sparkling"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 6,
+  "strength": "light",
+  "glassware": "Wine glass",
+  "ice": "A few cubes",
+  "garnish": [
+    "Orange wheel"
+  ],
+  "illustrationKey": "cranberry-apple-sparkler",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "apple_vodka",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cranberry_juice",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "brown_sugar_cinnamon_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "prosecco",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Orange wheel",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Scale to the guest count. At home, stir everything but the prosecco together and chill it in a sealed pitcher or bottle.",
+    "At the table, pour the base into a glass pitcher with ice and top with cold prosecco; stir once.",
+    "Pour into wine glasses over a few cubes and garnish with an orange wheel."
+  ],
+  "techniqueNotes": [
+    "For 12: 18 oz apple vodka, 18 oz cranberry, 6 oz each syrup and lemon, and one 750 ml bottle of prosecco.",
+    "Add the prosecco last and only stir once, or it goes flat in the pitcher."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "koskenkorva-apple",
+      "rank": 1,
+      "rationale": "The apple."
+    },
+    {
+      "bottleId": "brown-sugar-cinnamon-syrup",
+      "rank": 2,
+      "rationale": "The crust."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "apple-pie-sour",
+    "champagne-cocktail",
+    "harvest-punch"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "vodka",
+    "apple",
+    "cranberry",
+    "sparkling",
+    "batch",
+    "party",
+    "house",
+    "thanksgiving"
+  ]
+}

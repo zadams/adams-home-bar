@@ -1,0 +1,104 @@
+{
+  "id": "bottled-manhattan",
+  "slug": "bottled-manhattan",
+  "name": "Bottled Manhattan",
+  "aliases": [],
+  "description": "A bourbon Manhattan batched with its dilution, bottled and kept in the freezer. Nothing to stir on site: pour it straight into a glass.",
+  "history": "Bartenders have bottled stirred drinks for events for years: the water a stir would add goes in up front, so the drink is right the moment it is poured.",
+  "origin": "House batch",
+  "whyItWorks": "At about 28% alcohol it will not freeze, so it pours colder than you could stir it, and adding the water ahead keeps it from tasting hot.",
+  "classifications": [
+    "house",
+    "stirred",
+    "batch"
+  ],
+  "cocktailFamily": "Manhattan",
+  "flavorProfiles": [
+    "oaky",
+    "rich",
+    "spirit-forward"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 10,
+  "strength": "strong",
+  "glassware": "Coupe",
+  "ice": "None; poured from the freezer",
+  "garnish": [
+    "Cocktail cherry"
+  ],
+  "illustrationKey": "bottled-manhattan",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "sweet_vermouth",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dash",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cocktail_cherry",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Cocktail cherry",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "For a 750 ml bottle (8 drinks): funnel in 12 oz bourbon, 6 oz sweet vermouth, 1 tsp Angostura and 5 oz cold filtered water. Cap and shake.",
+    "Freeze overnight; it will not set. Carry it in a cooler bag.",
+    "Pour about 3 oz into a coupe and drop in a cherry."
+  ],
+  "techniqueNotes": [
+    "The water is the dilution a stir with ice would add. Leave it out and the drink tastes hot and syrupy.",
+    "Rinse an empty 750 ml bottle for it, or use a swing-top; label it."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-bourbon",
+      "rank": 1,
+      "rationale": "Plenty of backbone for the vermouth."
+    },
+    {
+      "bottleId": "sweet-vermouth",
+      "rank": 2,
+      "rationale": "Fresh vermouth matters; it is a third of the drink."
+    },
+    {
+      "bottleId": "angostura-aromatic",
+      "rank": 3,
+      "rationale": "The bitters."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "bourbon-sweet-manhattan",
+    "manhattan",
+    "brown-sugar-cinnamon-old-fashioned"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "bourbon",
+    "manhattan",
+    "stirred",
+    "batch",
+    "party",
+    "house",
+    "thanksgiving"
+  ]
+}

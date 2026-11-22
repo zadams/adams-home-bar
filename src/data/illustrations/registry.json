@@ -1998,6 +1998,23 @@
       "hex": "#B06932"
     }
   },
+  "bottled-manhattan": {
+    "src": "/images/cocktails/webp/bottled-manhattan.webp",
+    "kind": "illustration",
+    "glassware": "Coupe",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "bourbon",
+      "sweet_vermouth",
+      "angostura_bitters"
+    ],
+    "artTemplate": "manhattan",
+    "liquidPalette": {
+      "name": "deep-mahogany",
+      "hex": "#6B2A14"
+    }
+  },
   "boulevardier": {
     "src": "/images/cocktails/webp/boulevardier.webp",
     "kind": "illustration",
@@ -3570,6 +3587,24 @@
       "hex": "#725184"
     }
   },
+  "cranberry-apple-sparkler": {
+    "src": "/images/cocktails/webp/cranberry-apple-sparkler.webp",
+    "kind": "illustration",
+    "glassware": "Wine glass",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "apple_vodka",
+      "cranberry_juice",
+      "brown_sugar_cinnamon_syrup",
+      "lemon_juice"
+    ],
+    "artTemplate": "sparkling",
+    "liquidPalette": {
+      "name": "sparkling-cranberry",
+      "hex": "#C2304A"
+    }
+  },
   "cranberry-bourbon-sour": {
     "src": "/images/cocktails/webp/cranberry-bourbon-sour.webp",
     "kind": "illustration",
@@ -4928,6 +4963,24 @@
     "liquidPalette": {
       "name": "mulled-garnet",
       "hex": "#5E1424"
+    }
+  },
+  "gobbler-punch": {
+    "src": "/images/cocktails/webp/gobbler-punch.webp",
+    "kind": "illustration",
+    "glassware": "Rocks glass",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "bourbon",
+      "orange_juice",
+      "cranberry_juice",
+      "brown_sugar_cinnamon_syrup"
+    ],
+    "artTemplate": "punch",
+    "liquidPalette": {
+      "name": "amber-cranberry",
+      "hex": "#B4472A"
     }
   },
   "godchild": {

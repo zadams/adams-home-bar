@@ -1,0 +1,129 @@
+{
+  "id": "gobbler-punch",
+  "slug": "gobbler-punch",
+  "name": "Gobbler Punch",
+  "aliases": [],
+  "description": "Bourbon, orange, cranberry and brown-sugar-cinnamon syrup with lemon and a dash of Angostura, lengthened with ginger beer. Mix the base at home and pour it into a drink dispenser when you get there.",
+  "history": "A house punch for carrying to someone else’s Thanksgiving: one bottle of bourbon, juice from the store, and the cinnamon syrup already in the fridge.",
+  "origin": "House",
+  "whyItWorks": "Orange and cranberry make the sour, the cinnamon syrup the sweet and the spice, and ginger beer gives it the length and bite of a punch without a second bottle.",
+  "classifications": [
+    "house",
+    "punch",
+    "batch"
+  ],
+  "cocktailFamily": "Punch",
+  "flavorProfiles": [
+    "fruity",
+    "spiced",
+    "oaky"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 8,
+  "strength": "light",
+  "glassware": "Rocks glass",
+  "ice": "Large block in the dispenser; cubes in the glass",
+  "garnish": [
+    "Orange wheel"
+  ],
+  "illustrationKey": "gobbler-punch",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Fresh orange juice"
+    },
+    {
+      "ingredientId": "cranberry_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "brown_sugar_cinnamon_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 1,
+      "unit": "dash",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "ginger_beer",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Orange wheel",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Scale to the guest count. At home, stir the bourbon, juices, syrup and bitters together in a jug or bottles and chill overnight.",
+    "On site, pour the base into a glass drink dispenser over a block of ice and add the ginger beer.",
+    "Float orange wheels, and pour over cubes in each glass."
+  ],
+  "techniqueNotes": [
+    "For 12: 18 oz bourbon (most of a 750 ml), 12 oz each orange and cranberry, 6 oz each syrup and lemon, 12 dashes Angostura; two 12 oz cans of ginger beer on site.",
+    "Freeze a loaf pan of water the day before for the block; it melts far slower than cubes."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-bourbon",
+      "rank": 1,
+      "rationale": "A good mixing bourbon for a crowd."
+    },
+    {
+      "bottleId": "brown-sugar-cinnamon-syrup",
+      "rank": 2,
+      "rationale": "The spice."
+    },
+    {
+      "bottleId": "angostura-aromatic",
+      "rank": 3,
+      "rationale": "The clove."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "harvest-punch",
+    "cranberry-bourbon-sour",
+    "whiskey-ginger"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "bourbon",
+    "cranberry",
+    "punch",
+    "batch",
+    "party",
+    "house",
+    "thanksgiving"
+  ]
+}

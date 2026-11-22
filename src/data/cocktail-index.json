@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T21:21:40.530Z",
-  "count": 665,
+  "generatedAt": "2026-11-22T15:22:12.160Z",
+  "count": 668,
   "cocktails": [
     {
       "id": "adios-motherfucker",
@@ -3485,6 +3485,41 @@
       ]
     },
     {
+      "id": "bottled-manhattan",
+      "slug": "bottled-manhattan",
+      "name": "Bottled Manhattan",
+      "file": "bottled-manhattan.json",
+      "cocktailFamily": "Manhattan",
+      "classifications": [
+        "house",
+        "stirred",
+        "batch"
+      ],
+      "flavorProfiles": [
+        "oaky",
+        "rich",
+        "spirit-forward"
+      ],
+      "difficulty": "easy",
+      "strength": "strong",
+      "glassware": "Coupe",
+      "illustrationKey": "bottled-manhattan",
+      "tags": [
+        "bourbon",
+        "manhattan",
+        "stirred",
+        "batch",
+        "party",
+        "house",
+        "thanksgiving"
+      ],
+      "ingredientIds": [
+        "bourbon",
+        "sweet_vermouth",
+        "angostura_bitters"
+      ]
+    },
+    {
       "id": "boulevardier",
       "slug": "boulevardier",
       "name": "Boulevardier",
@@ -6252,6 +6287,44 @@
       ]
     },
     {
+      "id": "cranberry-apple-sparkler",
+      "slug": "cranberry-apple-sparkler",
+      "name": "Cranberry Apple Sparkler",
+      "file": "cranberry-apple-sparkler.json",
+      "cocktailFamily": "Sparkling",
+      "classifications": [
+        "house",
+        "sparkling",
+        "batch"
+      ],
+      "flavorProfiles": [
+        "apple",
+        "tart",
+        "sparkling"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Wine glass",
+      "illustrationKey": "cranberry-apple-sparkler",
+      "tags": [
+        "vodka",
+        "apple",
+        "cranberry",
+        "sparkling",
+        "batch",
+        "party",
+        "house",
+        "thanksgiving"
+      ],
+      "ingredientIds": [
+        "apple_vodka",
+        "cranberry_juice",
+        "brown_sugar_cinnamon_syrup",
+        "lemon_juice",
+        "prosecco"
+      ]
+    },
+    {
       "id": "cranberry-bourbon-sour",
       "slug": "cranberry-bourbon-sour",
       "name": "Cranberry Bourbon Sour",
@@ -8617,6 +8690,45 @@
         "aquavit",
         "brown_sugar_cinnamon_syrup",
         "orange_juice"
+      ]
+    },
+    {
+      "id": "gobbler-punch",
+      "slug": "gobbler-punch",
+      "name": "Gobbler Punch",
+      "file": "gobbler-punch.json",
+      "cocktailFamily": "Punch",
+      "classifications": [
+        "house",
+        "punch",
+        "batch"
+      ],
+      "flavorProfiles": [
+        "fruity",
+        "spiced",
+        "oaky"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Rocks glass",
+      "illustrationKey": "gobbler-punch",
+      "tags": [
+        "bourbon",
+        "cranberry",
+        "punch",
+        "batch",
+        "party",
+        "house",
+        "thanksgiving"
+      ],
+      "ingredientIds": [
+        "bourbon",
+        "orange_juice",
+        "cranberry_juice",
+        "brown_sugar_cinnamon_syrup",
+        "lemon_juice",
+        "angostura_bitters",
+        "ginger_beer"
       ]
     },
     {

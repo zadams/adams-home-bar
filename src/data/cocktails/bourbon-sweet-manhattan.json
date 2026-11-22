@@ -71,7 +71,9 @@
   ],
   "substitutions": [],
   "variations": [],
-  "relatedCocktailIds": [],
+  "relatedCocktailIds": [
+    "bottled-manhattan"
+  ],
   "seasonality": [
     "year-round"
   ],
