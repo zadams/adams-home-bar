@@ -24,7 +24,8 @@
   "glassware": "Rocks glass",
   "ice": "Large block in the dispenser; cubes in the glass",
   "garnish": [
-    "Orange wheel"
+    "Orange wheel",
+    "Fresh cranberries"
   ],
   "illustrationKey": "gobbler-punch",
   "featuredBottleImages": [],
@@ -78,6 +79,14 @@
       "unit": "piece",
       "scaleMode": "garnish",
       "label": "Orange wheel",
+      "optional": true
+    },
+    {
+      "ingredientId": "cranberries",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Fresh cranberries",
       "optional": true
     }
   ],

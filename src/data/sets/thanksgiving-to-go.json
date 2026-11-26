@@ -1,8 +1,12 @@
 {
   "id": "thanksgiving-to-go",
   "name": "Thanksgiving To Go",
-  "description": "A Thanksgiving bar that fits in one bag: four bottles (bourbon, Koskenkorva Apple, sweet vermouth and prosecco), plus Angostura, the brown-sugar-cinnamon and honey syrups, sugar cubes, cranberry, orange, lemon and lime juice, and ginger beer. The first three are batched at home and are the ones to photograph; the rest are made to order from the same bag.",
+  "description": "A Thanksgiving bar that fits in one bag. Bottles: bourbon (bring a 1.75 L), Koskenkorva Apple, sweet vermouth, prosecco and a bottle of red. Also: Angostura, the brown-sugar-cinnamon and honey syrups, maple syrup, sugar cubes, apple cider, cranberry, orange, lemon and lime juice, ginger beer, oranges, fresh cranberries and rosemary. The four batches are made at home and are the ones to photograph; the rest are made to order from the same bag.",
   "drinks": [
+    {
+      "drinkId": "apple-cider-sangria",
+      "note": "Batch: steep it in the pitcher overnight."
+    },
     {
       "drinkId": "gobbler-punch",
       "note": "Batch: mix the base at home; ginger beer and ice go in on site."
@@ -16,16 +20,24 @@
       "note": "Batch: bottle it the night before and freeze it."
     },
     {
+      "drinkId": "apple-cider-old-fashioned",
+      "note": "Stirred in a mixing glass, or built in the glass at a pinch."
+    },
+    {
+      "drinkId": "maple-bourbon-sour",
+      "note": "Shake to order; skip the egg white on the road."
+    },
+    {
       "drinkId": "cranberry-bourbon-sour",
-      "note": "Shake to order with the same bourbon."
+      "note": "Shake to order."
     },
     {
       "drinkId": "apple-pie-sour",
       "note": "Shake to order."
     },
     {
-      "drinkId": "brown-sugar-cinnamon-old-fashioned",
-      "note": "Built in the glass; no shaker needed."
+      "drinkId": "apple-cider-mimosa",
+      "note": "For arrivals: cider and prosecco, nothing else."
     },
     {
       "drinkId": "champagne-cocktail",

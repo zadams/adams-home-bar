@@ -1,0 +1,132 @@
+{
+  "id": "apple-cider-sangria",
+  "slug": "apple-cider-sangria",
+  "name": "Apple Cider Sangria",
+  "aliases": [],
+  "description": "Red wine, apple cider, bourbon and orange with a touch of cinnamon syrup, steeped overnight with orange slices and fresh cranberries. Made by the pitcher.",
+  "history": "An autumn sangria. Brandy is the usual spirit; bourbon is in the bag already and suits the cider.",
+  "origin": "House",
+  "whyItWorks": "Cider softens the wine’s tannin and adds fruit, bourbon gives it backbone, and an overnight steep pulls the orange and cranberry into it.",
+  "classifications": [
+    "house",
+    "punch",
+    "batch"
+  ],
+  "cocktailFamily": "Punch",
+  "flavorProfiles": [
+    "fruity",
+    "apple",
+    "spiced"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 10,
+  "strength": "light",
+  "glassware": "Wine glass",
+  "ice": "Cubes in the glass",
+  "garnish": [
+    "Orange slice",
+    "Fresh cranberries",
+    "Rosemary sprig"
+  ],
+  "illustrationKey": "apple-cider-sangria",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "red_wine",
+      "amount": 3,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "apple_cider",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "bourbon",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange_juice",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear",
+      "label": "Fresh orange juice"
+    },
+    {
+      "ingredientId": "brown_sugar_cinnamon_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Orange slices",
+      "optional": true
+    },
+    {
+      "ingredientId": "cranberries",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Fresh cranberries",
+      "optional": true
+    },
+    {
+      "ingredientId": "rosemary",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Rosemary sprig",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Scale to the guest count. The night before, stir everything together in a pitcher with sliced oranges and a handful of fresh cranberries.",
+    "Refrigerate overnight, covered.",
+    "Pour over ice in wine glasses, with some fruit, and add a rosemary sprig."
+  ],
+  "techniqueNotes": [
+    "For 12: one 750 ml bottle plus a glass of dry red (36 oz), 24 oz cider, 9 oz bourbon, 6 oz orange juice, 3 oz cinnamon syrup, two oranges and a cup of cranberries.",
+    "A fruity, low-tannin red (Garnacha, Zinfandel, Merlot) works best."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "kirkland-bourbon",
+      "rank": 1,
+      "rationale": "The spirit."
+    },
+    {
+      "bottleId": "brown-sugar-cinnamon-syrup",
+      "rank": 2,
+      "rationale": "The spice."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "christmas-sangria",
+    "gobbler-punch",
+    "harvest-punch"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "wine",
+    "bourbon",
+    "apple",
+    "cider",
+    "sangria",
+    "batch",
+    "party",
+    "house",
+    "thanksgiving"
+  ]
+}

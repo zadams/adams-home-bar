@@ -1,0 +1,119 @@
+{
+  "id": "apple-cider-old-fashioned",
+  "slug": "apple-cider-old-fashioned",
+  "name": "Apple Cider Old Fashioned",
+  "aliases": [
+    "Apple Cider Bourbon Old Fashioned"
+  ],
+  "description": "Bourbon, fresh apple cider, maple syrup and Angostura, stirred and poured over a big cube. The most autumnal Old Fashioned there is.",
+  "history": "A modern seasonal Old Fashioned that has become a Thanksgiving standard: cider for the fruit and maple in place of the sugar cube.",
+  "origin": "Modern American",
+  "whyItWorks": "Cider adds apple and a little acidity without watering the drink down; maple’s woodiness matches the bourbon’s barrel.",
+  "classifications": [
+    "old-fashioned",
+    "stirred",
+    "seasonal"
+  ],
+  "cocktailFamily": "Old Fashioned",
+  "flavorProfiles": [
+    "apple",
+    "oaky",
+    "rich"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Orange peel",
+    "Rosemary sprig"
+  ],
+  "illustrationKey": "apple-cider-old-fashioned",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "apple_cider",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "maple_syrup",
+      "amount": 0.25,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 2,
+      "unit": "dash",
+      "scaleMode": "fixed"
+    },
+    {
+      "ingredientId": "orange",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Orange peel",
+      "optional": true
+    },
+    {
+      "ingredientId": "rosemary",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Rosemary sprig",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Stir the bourbon, cider, maple syrup and bitters with ice until cold.",
+    "Strain over a large cube in a rocks glass.",
+    "Express an orange peel over the top and add a rosemary sprig."
+  ],
+  "techniqueNotes": [
+    "Use fresh, unfiltered cider from the refrigerated section, not shelf-stable apple juice."
+  ],
+  "recommendedBottles": [
+    {
+      "bottleId": "henry-mckenna-10",
+      "rank": 1,
+      "rationale": "Bottled-in-bond proof keeps the cider from taking over."
+    },
+    {
+      "bottleId": "kirkland-bourbon",
+      "rank": 2,
+      "rationale": "A good mixing bourbon."
+    },
+    {
+      "bottleId": "angostura-aromatic",
+      "rank": 3,
+      "rationale": "The spice."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "old-fashioned",
+    "brown-sugar-cinnamon-old-fashioned",
+    "maple-bourbon-sour"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "bourbon",
+    "apple",
+    "cider",
+    "maple",
+    "old-fashioned",
+    "thanksgiving"
+  ]
+}

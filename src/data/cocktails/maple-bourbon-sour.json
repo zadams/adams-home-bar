@@ -1,0 +1,110 @@
+{
+  "id": "maple-bourbon-sour",
+  "slug": "maple-bourbon-sour",
+  "name": "Maple Bourbon Sour",
+  "aliases": [],
+  "description": "Bourbon, lemon and maple syrup, shaken, with an egg white if you like the foam. A whiskey sour with maple in place of sugar.",
+  "history": "A seasonal whiskey sour. Maple syrup has sweetened sours in New England for as long as there have been sours there.",
+  "origin": "American",
+  "whyItWorks": "Maple is less sweet and more savoury than sugar, so it reads as caramel next to the bourbon instead of candy.",
+  "classifications": [
+    "sour",
+    "shaken",
+    "seasonal"
+  ],
+  "cocktailFamily": "Sour",
+  "flavorProfiles": [
+    "tart",
+    "rich",
+    "oaky"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 4,
+  "strength": "medium",
+  "glassware": "Rocks glass",
+  "ice": "Large cube",
+  "garnish": [
+    "Angostura drops",
+    "Lemon twist"
+  ],
+  "illustrationKey": "maple-bourbon-sour",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "bourbon",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "lemon_juice",
+      "amount": 0.75,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "maple_syrup",
+      "amount": 0.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "egg_white",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "linear",
+      "label": "Egg white (optional)",
+      "optional": true
+    },
+    {
+      "ingredientId": "angostura_bitters",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "A few drops of Angostura on the foam",
+      "optional": true
+    },
+    {
+      "ingredientId": "lemon",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Lemon twist",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "With egg white: shake everything without ice first, then again with ice.",
+    "Without: shake hard with ice.",
+    "Strain over a large cube; dot the foam with Angostura or add a lemon twist."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "henry-mckenna-10",
+      "rank": 1,
+      "rationale": "Proof to stand up to the lemon."
+    },
+    {
+      "bottleId": "kirkland-bourbon",
+      "rank": 2,
+      "rationale": "A good mixing bourbon."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "whiskey-sour",
+    "cranberry-bourbon-sour",
+    "apple-cider-old-fashioned"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "bourbon",
+    "maple",
+    "sour",
+    "thanksgiving"
+  ]
+}

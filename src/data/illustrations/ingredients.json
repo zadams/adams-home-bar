@@ -54,6 +54,11 @@
     "name": "Aperol (as amaro stand-in)",
     "credit": "TheCocktailDB"
   },
+  "apple_cider": {
+    "src": "/images/ingredients/photos/apple_cider.png",
+    "name": "Apple cider",
+    "credit": "TheCocktailDB"
+  },
   "apple_vodka": {
     "src": "/images/ingredients/photos/apple_vodka.png",
     "name": "Apple vodka",
@@ -202,6 +207,11 @@
   "cola": {
     "src": "/images/ingredients/photos/cola.png",
     "name": "Cola",
+    "credit": "TheCocktailDB"
+  },
+  "cranberries": {
+    "src": "/images/ingredients/photos/cranberries.png",
+    "name": "Fresh cranberries",
     "credit": "TheCocktailDB"
   },
   "cranberry_juice": {
@@ -444,6 +454,11 @@
     "name": "Fresh lime juice",
     "credit": "TheCocktailDB"
   },
+  "maple_syrup": {
+    "src": "/images/ingredients/photos/maple_syrup.png",
+    "name": "Maple syrup",
+    "credit": "TheCocktailDB"
+  },
   "maraschino": {
     "src": "/images/ingredients/photos/maraschino.png",
     "name": "Maraschino liqueur",
@@ -572,6 +587,11 @@
   "reposado_tequila": {
     "src": "/images/ingredients/photos/reposado_tequila.png",
     "name": "Reposado tequila",
+    "credit": "TheCocktailDB"
+  },
+  "rosemary": {
+    "src": "/images/ingredients/photos/rosemary.png",
+    "name": "Fresh rosemary",
     "credit": "TheCocktailDB"
   },
   "rumchata": {

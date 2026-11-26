@@ -34,7 +34,7 @@ describe('drink sets', () => {
   })
 
   it('makes all of Thanksgiving To Go from the one bag it describes', () => {
-    // Four bottles plus Angostura, two syrups, juices and ginger beer. Hot water
+    // Four bottles and a red, plus Angostura, syrups, cider, juices and ginger beer. Hot water
     // is the host's kettle. Literal matching, as for kits: no substitutions.
     const bag = new Set([
       'bourbon',
@@ -51,6 +51,9 @@ describe('drink sets', () => {
       'lime_juice',
       'ginger_beer',
       'hot_water',
+      'red_wine',
+      'maple_syrup',
+      'apple_cider',
     ])
     const set = drinkSetById.get('thanksgiving-to-go')!
     const drinks = setDrinks(set)
@@ -62,6 +65,6 @@ describe('drink sets', () => {
       expect(missing, drink.id).toEqual([])
       expect(kitCanMake(drink, bag), drink.id).toBe(true)
     }
-    expect(drinks.filter((d) => d.tags.includes('batch')).length).toBeGreaterThanOrEqual(3)
+    expect(drinks.filter((d) => d.tags.includes('batch')).length).toBeGreaterThanOrEqual(4)
   })
 })

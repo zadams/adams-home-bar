@@ -1,0 +1,88 @@
+{
+  "id": "apple-cider-mimosa",
+  "slug": "apple-cider-mimosa",
+  "name": "Apple Cider Mimosa",
+  "aliases": [],
+  "description": "Cold apple cider topped with prosecco. A one-step toast; rim the glass with cinnamon sugar if there’s time.",
+  "history": "The mimosa’s autumn cousin, a brunch and Thanksgiving-morning fixture.",
+  "origin": "Modern American",
+  "whyItWorks": "Cider brings more body and acidity than orange juice, and the bubbles lift its apple.",
+  "classifications": [
+    "sparkling",
+    "brunch",
+    "seasonal"
+  ],
+  "cocktailFamily": "Sparkling",
+  "flavorProfiles": [
+    "apple",
+    "sparkling",
+    "light"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "light",
+  "glassware": "Flute",
+  "ice": "None",
+  "garnish": [
+    "Rosemary sprig"
+  ],
+  "illustrationKey": "apple-cider-mimosa",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "apple_cider",
+      "amount": 2,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "prosecco",
+      "amount": 4,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "demerara_sugar",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Cinnamon-sugar rim (optional)",
+      "optional": true
+    },
+    {
+      "ingredientId": "rosemary",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Rosemary sprig",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Pour cold cider into a flute.",
+    "Top slowly with cold prosecco.",
+    "Add a rosemary sprig."
+  ],
+  "techniqueNotes": [
+    "For a rim, wet the edge with cider and dip it in demerara mixed with a pinch of cinnamon."
+  ],
+  "recommendedBottles": [],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "mimosa",
+    "champagne-cocktail",
+    "cranberry-apple-sparkler"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "sparkling",
+    "prosecco",
+    "apple",
+    "cider",
+    "brunch",
+    "thanksgiving"
+  ]
+}

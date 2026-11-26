@@ -505,6 +505,58 @@
       "hex": "#E95B20"
     }
   },
+  "apple-cider-mimosa": {
+    "src": "/images/cocktails/webp/apple-cider-mimosa.webp",
+    "kind": "illustration",
+    "glassware": "Flute",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "apple_cider",
+      "prosecco"
+    ],
+    "artTemplate": "sparkling",
+    "liquidPalette": {
+      "name": "pale-cider-gold",
+      "hex": "#D9A441"
+    }
+  },
+  "apple-cider-old-fashioned": {
+    "src": "/images/cocktails/webp/apple-cider-old-fashioned.webp",
+    "kind": "illustration",
+    "glassware": "Rocks glass",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "bourbon",
+      "apple_cider",
+      "maple_syrup",
+      "angostura_bitters"
+    ],
+    "artTemplate": "old-fashioned",
+    "liquidPalette": {
+      "name": "cider-amber",
+      "hex": "#A8621E"
+    }
+  },
+  "apple-cider-sangria": {
+    "src": "/images/cocktails/webp/apple-cider-sangria.webp",
+    "kind": "illustration",
+    "glassware": "Wine glass",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "red_wine",
+      "apple_cider",
+      "bourbon",
+      "orange_juice"
+    ],
+    "artTemplate": "punch",
+    "liquidPalette": {
+      "name": "garnet",
+      "hex": "#7A1F2B"
+    }
+  },
   "apple-pie-shot": {
     "src": "/images/cocktails/webp/apple-pie-shot.webp",
     "kind": "illustration",
@@ -3585,6 +3637,24 @@
     "liquidPalette": {
       "name": "violet-berry",
       "hex": "#725184"
+    }
+  },
+  "cranberry-aperol-spritz": {
+    "src": "/images/cocktails/webp/cranberry-aperol-spritz.webp",
+    "kind": "illustration",
+    "glassware": "Wine glass",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "aperol",
+      "cranberry_juice",
+      "prosecco",
+      "club_soda"
+    ],
+    "artTemplate": "spritz",
+    "liquidPalette": {
+      "name": "cranberry-orange",
+      "hex": "#D9452B"
     }
   },
   "cranberry-apple-sparkler": {
@@ -6728,6 +6798,23 @@
     "liquidPalette": {
       "name": "mahogany",
       "hex": "#783F28"
+    }
+  },
+  "maple-bourbon-sour": {
+    "src": "/images/cocktails/webp/maple-bourbon-sour.webp",
+    "kind": "illustration",
+    "glassware": "Rocks glass",
+    "aspectRatio": "1 / 1",
+    "credit": "Adams Home Bar editorial illustration",
+    "ingredients": [
+      "bourbon",
+      "lemon_juice",
+      "maple_syrup"
+    ],
+    "artTemplate": "sour",
+    "liquidPalette": {
+      "name": "maple-gold",
+      "hex": "#C98A2E"
     }
   },
   "maraschino-sour": {

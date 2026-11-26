@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedFrom": "cocktail-index.json + popular-classics batch (2026-08-10); 2026-10-24 bottle additions; 2026 world's top 50; halloween 2026; halloween 2026 round two; holidays 2026; 2026-10-31 bottle additions; thanksgiving to go 2026",
-  "cocktailCount": 668,
+  "generatedFrom": "cocktail-index.json + popular-classics batch (2026-08-10); 2026-10-24 bottle additions; 2026 world's top 50; halloween 2026; halloween 2026 round two; holidays 2026; 2026-10-31 bottle additions; thanksgiving to go 2026; thanksgiving cider 2026",
+  "cocktailCount": 673,
   "cocktails": [
     {
       "id": "adios-motherfucker",
@@ -1161,6 +1161,131 @@
           "master": "cocktails/masters/aperol-spritz.png",
           "runtime": "cocktails/webp/aperol-spritz.webp",
           "thumbnail": "cocktails/thumbs/aperol-spritz.webp"
+        }
+      }
+    },
+    {
+      "id": "apple-cider-mimosa",
+      "slug": "apple-cider-mimosa",
+      "name": "Apple Cider Mimosa",
+      "illustrationKey": "apple-cider-mimosa",
+      "cocktailFamily": "Sparkling",
+      "classifications": [
+        "sparkling",
+        "brunch",
+        "seasonal"
+      ],
+      "flavorProfiles": [
+        "apple",
+        "sparkling",
+        "light"
+      ],
+      "ingredientIds": [
+        "apple_cider",
+        "prosecco"
+      ],
+      "artDirection": {
+        "template": "sparkling",
+        "glass": "flute",
+        "sourceGlassware": "Flute",
+        "ice": "None",
+        "garnish": "Rosemary sprig",
+        "liquidPalette": {
+          "name": "pale-cider-gold",
+          "hex": "#D9A441"
+        },
+        "composition": "one champagne flute of pale golden sparkling cider with fine rising bubbles, a rosemary sprig standing in it; three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/apple-cider-mimosa.png",
+          "runtime": "cocktails/webp/apple-cider-mimosa.webp",
+          "thumbnail": "cocktails/thumbs/apple-cider-mimosa.webp"
+        }
+      }
+    },
+    {
+      "id": "apple-cider-old-fashioned",
+      "slug": "apple-cider-old-fashioned",
+      "name": "Apple Cider Old Fashioned",
+      "illustrationKey": "apple-cider-old-fashioned",
+      "cocktailFamily": "Old Fashioned",
+      "classifications": [
+        "old-fashioned",
+        "stirred",
+        "seasonal"
+      ],
+      "flavorProfiles": [
+        "apple",
+        "oaky",
+        "rich"
+      ],
+      "ingredientIds": [
+        "bourbon",
+        "apple_cider",
+        "maple_syrup",
+        "angostura_bitters"
+      ],
+      "artDirection": {
+        "template": "old-fashioned",
+        "glass": "double-old-fashioned",
+        "sourceGlassware": "Rocks glass",
+        "ice": "Large cube",
+        "garnish": "Orange peel and Rosemary sprig",
+        "liquidPalette": {
+          "name": "cider-amber",
+          "hex": "#A8621E"
+        },
+        "composition": "one rocks glass of hazy amber Old Fashioned over a single large clear cube, an orange peel and a rosemary sprig; three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/apple-cider-old-fashioned.png",
+          "runtime": "cocktails/webp/apple-cider-old-fashioned.webp",
+          "thumbnail": "cocktails/thumbs/apple-cider-old-fashioned.webp"
+        }
+      }
+    },
+    {
+      "id": "apple-cider-sangria",
+      "slug": "apple-cider-sangria",
+      "name": "Apple Cider Sangria",
+      "illustrationKey": "apple-cider-sangria",
+      "cocktailFamily": "Punch",
+      "classifications": [
+        "house",
+        "punch",
+        "batch"
+      ],
+      "flavorProfiles": [
+        "fruity",
+        "apple",
+        "spiced"
+      ],
+      "ingredientIds": [
+        "red_wine",
+        "apple_cider",
+        "bourbon",
+        "orange_juice",
+        "brown_sugar_cinnamon_syrup"
+      ],
+      "artDirection": {
+        "template": "punch",
+        "glass": "wine",
+        "sourceGlassware": "Wine glass",
+        "ice": "Cubes in the glass",
+        "garnish": "Orange slice and Fresh cranberries and Rosemary sprig",
+        "liquidPalette": {
+          "name": "garnet",
+          "hex": "#7A1F2B"
+        },
+        "composition": "batch hero: a large clear glass pitcher of deep garnet sangria full of orange slices and bright fresh cranberries, a rosemary sprig on top, with one stemmed wine glass of it over ice beside it; three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/apple-cider-sangria.png",
+          "runtime": "cocktails/webp/apple-cider-sangria.webp",
+          "thumbnail": "cocktails/thumbs/apple-cider-sangria.webp"
         }
       }
     },
@@ -8248,6 +8373,48 @@
           "master": "cocktails/masters/cosmopolitan.png",
           "runtime": "cocktails/webp/cosmopolitan.webp",
           "thumbnail": "cocktails/thumbs/cosmopolitan.webp"
+        }
+      }
+    },
+    {
+      "id": "cranberry-aperol-spritz",
+      "slug": "cranberry-aperol-spritz",
+      "name": "Cranberry Aperol Spritz",
+      "illustrationKey": "cranberry-aperol-spritz",
+      "cocktailFamily": "Spritz",
+      "classifications": [
+        "spritz",
+        "sparkling",
+        "seasonal"
+      ],
+      "flavorProfiles": [
+        "bittersweet",
+        "tart",
+        "sparkling"
+      ],
+      "ingredientIds": [
+        "aperol",
+        "cranberry_juice",
+        "prosecco",
+        "club_soda"
+      ],
+      "artDirection": {
+        "template": "spritz",
+        "glass": "wine",
+        "sourceGlassware": "Wine glass",
+        "ice": "Cubes",
+        "garnish": "Fresh cranberries and Rosemary sprig",
+        "liquidPalette": {
+          "name": "cranberry-orange",
+          "hex": "#D9452B"
+        },
+        "composition": "one large stemmed wine glass of glowing red-orange spritz over ice with fine bubbles, fresh cranberries floating and a rosemary sprig; three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/cranberry-aperol-spritz.png",
+          "runtime": "cocktails/webp/cranberry-aperol-spritz.webp",
+          "thumbnail": "cocktails/thumbs/cranberry-aperol-spritz.webp"
         }
       }
     },
@@ -15490,6 +15657,47 @@
           "master": "cocktails/masters/manhattan.png",
           "runtime": "cocktails/webp/manhattan.webp",
           "thumbnail": "cocktails/thumbs/manhattan.webp"
+        }
+      }
+    },
+    {
+      "id": "maple-bourbon-sour",
+      "slug": "maple-bourbon-sour",
+      "name": "Maple Bourbon Sour",
+      "illustrationKey": "maple-bourbon-sour",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "sour",
+        "shaken",
+        "seasonal"
+      ],
+      "flavorProfiles": [
+        "tart",
+        "rich",
+        "oaky"
+      ],
+      "ingredientIds": [
+        "bourbon",
+        "lemon_juice",
+        "maple_syrup"
+      ],
+      "artDirection": {
+        "template": "sour",
+        "glass": "double-old-fashioned",
+        "sourceGlassware": "Rocks glass",
+        "ice": "Large cube",
+        "garnish": "Angostura drops and Lemon twist",
+        "liquidPalette": {
+          "name": "maple-gold",
+          "hex": "#C98A2E"
+        },
+        "composition": "one rocks glass of golden whiskey sour over a large cube, a thick white foam cap dotted with three drops of dark red bitters; three-quarter view, generous safe area, no text, no bottle labels",
+        "background": "deep emerald-to-charcoal matte backdrop above a dark walnut bar, restrained brass accents",
+        "lighting": "warm amber key from upper left, soft neutral fill, subtle rim light, realistic shadow",
+        "output": {
+          "master": "cocktails/masters/maple-bourbon-sour.png",
+          "runtime": "cocktails/webp/maple-bourbon-sour.webp",
+          "thumbnail": "cocktails/thumbs/maple-bourbon-sour.webp"
         }
       }
     },

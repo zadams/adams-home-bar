@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T15:22:12.160Z",
-  "count": 668,
+  "generatedAt": "2026-11-22T19:03:20.127Z",
+  "count": 673,
   "cocktails": [
     {
       "id": "adios-motherfucker",
@@ -881,6 +881,113 @@
         "aperol",
         "prosecco",
         "club_soda"
+      ]
+    },
+    {
+      "id": "apple-cider-mimosa",
+      "slug": "apple-cider-mimosa",
+      "name": "Apple Cider Mimosa",
+      "file": "apple-cider-mimosa.json",
+      "cocktailFamily": "Sparkling",
+      "classifications": [
+        "sparkling",
+        "brunch",
+        "seasonal"
+      ],
+      "flavorProfiles": [
+        "apple",
+        "sparkling",
+        "light"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Flute",
+      "illustrationKey": "apple-cider-mimosa",
+      "tags": [
+        "sparkling",
+        "prosecco",
+        "apple",
+        "cider",
+        "brunch",
+        "thanksgiving"
+      ],
+      "ingredientIds": [
+        "apple_cider",
+        "prosecco"
+      ]
+    },
+    {
+      "id": "apple-cider-old-fashioned",
+      "slug": "apple-cider-old-fashioned",
+      "name": "Apple Cider Old Fashioned",
+      "file": "apple-cider-old-fashioned.json",
+      "cocktailFamily": "Old Fashioned",
+      "classifications": [
+        "old-fashioned",
+        "stirred",
+        "seasonal"
+      ],
+      "flavorProfiles": [
+        "apple",
+        "oaky",
+        "rich"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Rocks glass",
+      "illustrationKey": "apple-cider-old-fashioned",
+      "tags": [
+        "bourbon",
+        "apple",
+        "cider",
+        "maple",
+        "old-fashioned",
+        "thanksgiving"
+      ],
+      "ingredientIds": [
+        "bourbon",
+        "apple_cider",
+        "maple_syrup",
+        "angostura_bitters"
+      ]
+    },
+    {
+      "id": "apple-cider-sangria",
+      "slug": "apple-cider-sangria",
+      "name": "Apple Cider Sangria",
+      "file": "apple-cider-sangria.json",
+      "cocktailFamily": "Punch",
+      "classifications": [
+        "house",
+        "punch",
+        "batch"
+      ],
+      "flavorProfiles": [
+        "fruity",
+        "apple",
+        "spiced"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Wine glass",
+      "illustrationKey": "apple-cider-sangria",
+      "tags": [
+        "wine",
+        "bourbon",
+        "apple",
+        "cider",
+        "sangria",
+        "batch",
+        "party",
+        "house",
+        "thanksgiving"
+      ],
+      "ingredientIds": [
+        "red_wine",
+        "apple_cider",
+        "bourbon",
+        "orange_juice",
+        "brown_sugar_cinnamon_syrup"
       ]
     },
     {
@@ -6284,6 +6391,40 @@
         "cointreau",
         "lime_juice",
         "cranberry_juice"
+      ]
+    },
+    {
+      "id": "cranberry-aperol-spritz",
+      "slug": "cranberry-aperol-spritz",
+      "name": "Cranberry Aperol Spritz",
+      "file": "cranberry-aperol-spritz.json",
+      "cocktailFamily": "Spritz",
+      "classifications": [
+        "spritz",
+        "sparkling",
+        "seasonal"
+      ],
+      "flavorProfiles": [
+        "bittersweet",
+        "tart",
+        "sparkling"
+      ],
+      "difficulty": "easy",
+      "strength": "light",
+      "glassware": "Wine glass",
+      "illustrationKey": "cranberry-aperol-spritz",
+      "tags": [
+        "aperol",
+        "spritz",
+        "sparkling",
+        "cranberry",
+        "thanksgiving"
+      ],
+      "ingredientIds": [
+        "aperol",
+        "cranberry_juice",
+        "prosecco",
+        "club_soda"
       ]
     },
     {
@@ -11805,6 +11946,38 @@
         "rye",
         "sweet_vermouth",
         "angostura_bitters"
+      ]
+    },
+    {
+      "id": "maple-bourbon-sour",
+      "slug": "maple-bourbon-sour",
+      "name": "Maple Bourbon Sour",
+      "file": "maple-bourbon-sour.json",
+      "cocktailFamily": "Sour",
+      "classifications": [
+        "sour",
+        "shaken",
+        "seasonal"
+      ],
+      "flavorProfiles": [
+        "tart",
+        "rich",
+        "oaky"
+      ],
+      "difficulty": "easy",
+      "strength": "medium",
+      "glassware": "Rocks glass",
+      "illustrationKey": "maple-bourbon-sour",
+      "tags": [
+        "bourbon",
+        "maple",
+        "sour",
+        "thanksgiving"
+      ],
+      "ingredientIds": [
+        "bourbon",
+        "lemon_juice",
+        "maple_syrup"
       ]
     },
     {

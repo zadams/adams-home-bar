@@ -24,7 +24,9 @@
   "glassware": "Wine glass",
   "ice": "A few cubes",
   "garnish": [
-    "Orange wheel"
+    "Orange wheel",
+    "Fresh cranberries",
+    "Rosemary sprig"
   ],
   "illustrationKey": "cranberry-apple-sparkler",
   "featuredBottleImages": [],
@@ -65,6 +67,22 @@
       "unit": "piece",
       "scaleMode": "garnish",
       "label": "Orange wheel",
+      "optional": true
+    },
+    {
+      "ingredientId": "cranberries",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Fresh cranberries",
+      "optional": true
+    },
+    {
+      "ingredientId": "rosemary",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Rosemary sprig",
       "optional": true
     }
   ],

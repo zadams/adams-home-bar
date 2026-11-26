@@ -82,6 +82,10 @@ const SEARCH_NAMES = {
   pickle_brine: ['Pickle Juice'],
   red_wine: ['Red wine'],
   hot_water: ['Water'],
+  apple_cider: ['Apple cider', 'Cider'],
+  maple_syrup: ['Maple syrup'],
+  cranberries: ['Cranberries', 'Cranberry'],
+  rosemary: ['Rosemary'],
 }
 
 function candidatesFor(ing) {

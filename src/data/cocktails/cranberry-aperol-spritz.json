@@ -1,0 +1,103 @@
+{
+  "id": "cranberry-aperol-spritz",
+  "slug": "cranberry-aperol-spritz",
+  "name": "Cranberry Aperol Spritz",
+  "aliases": [],
+  "description": "Aperol, cranberry and prosecco with a splash of soda, over ice. A spritz in Thanksgiving colours for the appetizers.",
+  "history": "A seasonal twist on the Aperol Spritz; cranberry replaces some of the soda.",
+  "origin": "Modern",
+  "whyItWorks": "Cranberry’s tartness and Aperol’s bitter orange point the same way, so it tastes like a sharper, redder spritz rather than a juice drink.",
+  "classifications": [
+    "spritz",
+    "sparkling",
+    "seasonal"
+  ],
+  "cocktailFamily": "Spritz",
+  "flavorProfiles": [
+    "bittersweet",
+    "tart",
+    "sparkling"
+  ],
+  "difficulty": "easy",
+  "preparationTime": 2,
+  "strength": "light",
+  "glassware": "Wine glass",
+  "ice": "Cubes",
+  "garnish": [
+    "Fresh cranberries",
+    "Rosemary sprig"
+  ],
+  "illustrationKey": "cranberry-aperol-spritz",
+  "featuredBottleImages": [],
+  "ingredients": [
+    {
+      "ingredientId": "aperol",
+      "amount": 1.5,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cranberry_juice",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "prosecco",
+      "amount": 3,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "club_soda",
+      "amount": 1,
+      "unit": "oz",
+      "scaleMode": "linear"
+    },
+    {
+      "ingredientId": "cranberries",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Fresh cranberries",
+      "optional": true
+    },
+    {
+      "ingredientId": "rosemary",
+      "amount": 1,
+      "unit": "piece",
+      "scaleMode": "garnish",
+      "label": "Rosemary sprig",
+      "optional": true
+    }
+  ],
+  "steps": [
+    "Fill a wine glass with ice.",
+    "Add prosecco, then Aperol and cranberry, then the soda.",
+    "Drop in a few cranberries and a rosemary sprig."
+  ],
+  "techniqueNotes": [],
+  "recommendedBottles": [
+    {
+      "bottleId": "aperol",
+      "rank": 1,
+      "rationale": "The bitter."
+    }
+  ],
+  "substitutions": [],
+  "variations": [],
+  "relatedCocktailIds": [
+    "aperol-spritz",
+    "cranberry-apple-sparkler"
+  ],
+  "seasonality": [
+    "autumn"
+  ],
+  "tags": [
+    "aperol",
+    "spritz",
+    "sparkling",
+    "cranberry",
+    "thanksgiving"
+  ]
+}

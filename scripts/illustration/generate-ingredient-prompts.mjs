@@ -83,6 +83,11 @@ const JOBS = {
     subject:
       'a small 250 ml glass bottle of Sicilian orange soda syrup, cloudy bright orange liquid, short neck with a cap, blank label panel, one whole fresh orange with a leaf at the base',
   },
+  apple_cider: {
+    reason: 'fetched image is an alcoholic hard cider (Strongbow)',
+    subject:
+      'a clear glass half-gallon jug of fresh unfiltered apple cider with a small finger-loop handle and a plain cap, hazy amber-brown liquid, blank label panel, one whole red apple at the base',
+  },
   jamaican_rum: {
     reason: 'fetched image is a generic dark rum',
     subject:

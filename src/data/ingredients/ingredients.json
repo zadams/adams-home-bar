@@ -1647,5 +1647,62 @@
       "citrus",
       "sweet"
     ]
+  },
+  {
+    "id": "apple_cider",
+    "name": "Apple cider",
+    "category": "juice",
+    "subcategory": "orchard",
+    "aliases": [
+      "fresh cider",
+      "sweet cider",
+      "unfiltered apple juice"
+    ],
+    "tags": [
+      "apple",
+      "juice",
+      "seasonal"
+    ]
+  },
+  {
+    "id": "maple_syrup",
+    "name": "Maple syrup",
+    "category": "syrup",
+    "subcategory": "sweetener",
+    "aliases": [
+      "pure maple syrup"
+    ],
+    "tags": [
+      "sweet",
+      "seasonal"
+    ]
+  },
+  {
+    "id": "cranberries",
+    "name": "Fresh cranberries",
+    "category": "fresh",
+    "subcategory": "fruit",
+    "aliases": [
+      "cranberry"
+    ],
+    "tags": [
+      "garnish",
+      "fresh",
+      "seasonal"
+    ]
+  },
+  {
+    "id": "rosemary",
+    "name": "Fresh rosemary",
+    "category": "fresh",
+    "subcategory": "herb",
+    "aliases": [
+      "rosemary sprig"
+    ],
+    "tags": [
+      "garnish",
+      "fresh",
+      "herb"
+    ]
   }
 ]

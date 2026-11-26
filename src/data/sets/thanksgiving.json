@@ -1,11 +1,23 @@
 {
   "id": "thanksgiving",
   "name": "Thanksgiving",
-  "description": "Cranberry, apple, cinnamon and brown spirits for the fourth Thursday. A punch to have ready when people arrive, sours and stirred drinks for before dinner, and hot drinks for after.",
+  "description": "Apple cider, cranberry, maple, cinnamon and brown spirits for the fourth Thursday. Two big-batch drinks to have ready when people arrive, sours, spritzes and stirred drinks for before dinner, and hot drinks for after.",
   "drinks": [
     {
       "drinkId": "harvest-punch",
       "note": "Party bowl: scale to the guest count and add the bubbles last."
+    },
+    {
+      "drinkId": "apple-cider-sangria",
+      "note": "Pitcher: steep it overnight."
+    },
+    {
+      "drinkId": "apple-cider-old-fashioned",
+      "note": "Fresh, unfiltered cider."
+    },
+    {
+      "drinkId": "maple-bourbon-sour",
+      "note": "Egg white optional."
     },
     {
       "drinkId": "cranberry-bourbon-sour",
@@ -14,6 +26,18 @@
     {
       "drinkId": "apple-pie-sour",
       "note": "Koskenkorva Apple and the cinnamon syrup."
+    },
+    {
+      "drinkId": "mistletoe-mule",
+      "note": "The cranberry Moscow Mule."
+    },
+    {
+      "drinkId": "cranberry-margarita",
+      "note": "Kirkland blanco and Cointreau."
+    },
+    {
+      "drinkId": "cranberry-aperol-spritz",
+      "note": "With the appetizers."
     },
     {
       "drinkId": "ward-eight",
@@ -37,6 +61,10 @@
     {
       "drinkId": "champagne-cocktail",
       "note": "For the toast."
+    },
+    {
+      "drinkId": "apple-cider-mimosa",
+      "note": "For the morning, or the toast."
     },
     {
       "drinkId": "cranberry-ginger-fizz",

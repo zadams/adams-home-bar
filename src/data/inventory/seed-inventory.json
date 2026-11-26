@@ -1434,5 +1434,49 @@
       "sicilian"
     ],
     "notes": "Purchased 2026-10-31."
+  },
+  {
+    "id": "inv-apple_cider",
+    "ingredientId": "apple_cider",
+    "status": "in_stock",
+    "productName": "Fresh apple cider",
+    "tags": [
+      "fresh",
+      "thanksgiving"
+    ],
+    "notes": "Fresh, unfiltered; keep it cold and use within a week."
+  },
+  {
+    "id": "inv-maple_syrup",
+    "ingredientId": "maple_syrup",
+    "status": "in_stock",
+    "productName": "Pure maple syrup",
+    "tags": [
+      "fresh",
+      "thanksgiving"
+    ],
+    "notes": "On hand."
+  },
+  {
+    "id": "inv-cranberries",
+    "ingredientId": "cranberries",
+    "status": "in_stock",
+    "productName": "Fresh cranberries",
+    "tags": [
+      "fresh",
+      "thanksgiving"
+    ],
+    "notes": "For garnish and the sangria; they keep for weeks in the fridge."
+  },
+  {
+    "id": "inv-rosemary",
+    "ingredientId": "rosemary",
+    "status": "in_stock",
+    "productName": "Fresh rosemary",
+    "tags": [
+      "fresh",
+      "thanksgiving"
+    ],
+    "notes": "Sprigs for garnish; clap one between your palms to wake it up."
   }
 ]
